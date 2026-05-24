@@ -2,7 +2,8 @@ name: Daily AI Knowledge Collection
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+  # 定时触发：每天 UTC 时间 00:00 执行（对应北京时间 08:00）
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
