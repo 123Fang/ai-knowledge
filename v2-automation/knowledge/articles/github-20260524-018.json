@@ -1,0 +1,19 @@
+{
+  "id": "github-20260524-018",
+  "title": "patchy631/ai-engineering-hub",
+  "source": "github",
+  "source_url": "https://github.com/patchy631/ai-engineering-hub",
+  "author": "patchy631",
+  "published_at": "2026-05-21T10:45:44Z",
+  "collected_at": "2026-05-24T08:44:03.983750+00:00",
+  "summary": "该GitHub仓库提供了关于大型语言模型、检索增强生成和实际AI代理应用的深入教程，适合有一定基础的开发者学习。内容覆盖了当前AI领域的关键技术，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T08:45:12.543108+00:00"
+}

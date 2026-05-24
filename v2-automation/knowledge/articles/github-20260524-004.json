@@ -1,0 +1,19 @@
+{
+  "id": "github-20260524-004",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": "2026-05-24T07:14:57Z",
+  "collected_at": "2026-05-24T08:44:03.983669+00:00",
+  "summary": "Firecrawl 是一个开源工具，专为 AI 代理设计，提供网络搜索、抓取和内容清洗功能。它帮助 AI 系统高效获取和处理网页数据，以支持下游任务如检索增强生成（RAG）。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T08:45:12.543050+00:00"
+}

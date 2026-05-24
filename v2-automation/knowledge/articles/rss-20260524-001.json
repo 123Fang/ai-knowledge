@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260524-001",
+  "title": "Microsoft reports AI is more expensive than paying human employees",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-24T08:44:04.737348+00:00",
+  "collected_at": "2026-05-24T08:44:04.737348+00:00",
+  "summary": "微软报告显示，在某些场景下，使用AI的成本高于雇佣人类员工，这挑战了AI能降低成本的普遍假设。该发现强调了在部署AI时需仔细评估成本效益，并考虑任务复杂性和人力资源的替代性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T08:45:12.543118+00:00"
+}

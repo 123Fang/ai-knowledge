@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260524-008",
+  "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-24T08:44:11.192259+00:00",
+  "collected_at": "2026-05-24T08:44:11.192259+00:00",
+  "summary": "该文章探讨了在AI采购决策中，专业化（Specialization）比规模（Scale）更具战略价值，指出许多组织忽视了这一关键变量。通过分析，文章强调了针对特定任务定制模型的重要性，而非盲目追求大规模通用模型。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T08:45:12.543140+00:00"
+}

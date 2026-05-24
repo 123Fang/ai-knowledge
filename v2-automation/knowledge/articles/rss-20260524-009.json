@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260524-009",
+  "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-24T08:44:11.192267+00:00",
+  "collected_at": "2026-05-24T08:44:11.192267+00:00",
+  "summary": "OlmoEarth v1.1 发布了一族更高效的地球观测模型，旨在提升遥感数据分析的性能和效率。该版本通过架构优化和训练策略改进，在保持高精度的同时降低了计算成本，适用于环境监测、农业和城市规划等应用。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T08:45:12.543143+00:00"
+}

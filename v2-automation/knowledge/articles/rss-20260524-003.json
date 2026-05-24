@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260524-003",
+  "title": "AI has a multiplying effect on existing technical skills",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-24T08:44:04.737389+00:00",
+  "collected_at": "2026-05-24T08:44:04.737389+00:00",
+  "summary": "本文探讨了AI如何放大现有技术技能的价值，强调AI并非取代人类技能，而是通过增强和加速工作流程来提升效率。核心观点是AI对已有技术能力具有乘数效应，使熟练开发者能更快产出更高质量成果。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T08:45:12.543124+00:00"
+}
