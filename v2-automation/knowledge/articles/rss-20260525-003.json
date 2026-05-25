@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-003",
+  "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-25T03:43:31.124961+00:00",
+  "collected_at": "2026-05-25T03:43:31.124961+00:00",
+  "summary": "DeepSeek 推出了名为 reasonix 的原生编码代理，通过高缓存和低成本策略，显著提升了代码生成效率并降低了使用成本。该技术展示了在编码代理领域通过缓存优化实现高性能与低开销的平衡。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T03:44:44.980292+00:00"
+}
