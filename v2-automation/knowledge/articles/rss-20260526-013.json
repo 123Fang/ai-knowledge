@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-013",
+  "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23930",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017872+00:00",
+  "collected_at": "2026-05-26T07:56:58.017872+00:00",
+  "summary": "该论文提出了一种名为“Quantum Frog”的量化时间合作博弈框架，通过引入量子时间步长来研究智能体间的涌现合作行为与难度缩放特性。核心价值在于为多智能体系统提供了一种新的理论模型，有助于理解在时间离散化条件下合作策略的演化规律。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740487+00:00"
+}

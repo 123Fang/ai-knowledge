@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-012",
+  "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23929",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017867+00:00",
+  "collected_at": "2026-05-26T07:56:58.017867+00:00",
+  "summary": "该论文探讨了如何在大语言模型驱动的智能体工作流中实现可靠设计，重点优化延迟、可靠性和成本之间的权衡。它提出了一个系统性的框架来平衡这些关键指标，为构建高效且稳健的LLM应用提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740484+00:00"
+}

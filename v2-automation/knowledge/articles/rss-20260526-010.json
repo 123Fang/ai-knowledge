@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-010",
+  "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23926",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017854+00:00",
+  "collected_at": "2026-05-26T07:56:58.017854+00:00",
+  "summary": "该论文研究了LLM推理过程中的冗余问题，通过量化分析揭示了模型在生成推理步骤时存在大量不必要的计算。研究提出了评估冗余的方法，并探讨了如何在不影响最终性能的前提下减少推理成本，为优化LLM推理效率提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740475+00:00"
+}

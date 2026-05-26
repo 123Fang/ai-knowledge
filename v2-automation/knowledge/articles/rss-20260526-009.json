@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260526-009",
+  "title": "Confidence Calibration in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23909",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017845+00:00",
+  "collected_at": "2026-05-26T07:56:58.017845+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）中置信度校准的问题，即模型对其预测的置信度与实际准确性之间的匹配程度。核心价值在于提出或分析校准方法，以提升LLM在关键应用中的可靠性和可信度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740472+00:00"
+}

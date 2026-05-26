@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260526-016",
+  "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23934",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017886+00:00",
+  "collected_at": "2026-05-26T07:56:58.017886+00:00",
+  "summary": "该论文提出了一种结合量子相干伊辛机（CIM）与全自研核心智能体大模型的技术框架，旨在通过量子计算与AI的协同优化提升复杂问题求解效率。核心价值在于探索量子硬件与大型语言模型的深度融合路径，为量子AI实用化提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740497+00:00"
+}
