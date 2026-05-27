@@ -55,9 +55,9 @@ def collect_github(limit: int = 10) -> list[dict[str, Any]]:
     if token:
         headers["Authorization"] = f"token {token}"
 
-    # 搜索最近一周更新的 AI 相关仓库，按 star 排序
-    one_week_ago = (datetime.now(timezone.utc) - __import__('datetime').timedelta(days=7)).strftime("%Y-%m-%d")
-    query = f"ai agent 前端 node llm stars:>100 pushed:>{one_week_ago}"
+    # 搜索最近一个月更新的 AI 相关仓库，按 star 排序
+    one_week_ago = (datetime.now(timezone.utc) - __import__('datetime').timedelta(days=30)).strftime("%Y-%m-%d")
+    query = f"ai agent TypeScript js node llm stars:>30 pushed:>{one_week_ago}"
     url = "https://api.github.com/search/repositories"
     params = {
         "q": query,
@@ -146,7 +146,7 @@ ANALYZE_PROMPT_TEMPLATE = """请分析以下 AI 技术内容，返回 JSON 格�
 
 请返回以下格式的 JSON（不要包含 markdown 代码块标记）：
 {{
-  "summary": "2-3 句话的技术摘要，说明核心内容和价值",
+  "summary": "2-5 句话的技术摘要，说明核心内容和价值",
   "score": 7,
   "tags": ["tag1", "tag2"],
   "audience": "intermediate"
