@@ -1,18 +1,17 @@
 {
   "id": "rss-20260527-001",
-  "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+  "title": "I'm Tired of Talking to AI",
   "source": "rss:Hacker News (Best)",
-  "source_url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+  "source_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
   "author": "Hacker News (Best)",
-  "published_at": "2026-05-27T08:09:06.922265+00:00",
-  "collected_at": "2026-05-27T08:09:06.922265+00:00",
-  "summary": "该内容指出，结合外包与本地AI的模式将比依赖前沿实验室（如OpenAI、Google DeepMind）更具经济性。核心价值在于揭示了AI应用成本优化的新趋势，即通过混合策略降低对昂贵尖端模型的依赖。",
-  "score": 7,
+  "published_at": "2026-05-27T12:36:34.078899+00:00",
+  "collected_at": "2026-05-27T12:36:34.078899+00:00",
+  "summary": "该内容表达了对与AI对话的厌倦情绪，可能反映了用户对当前AI交互模式的反思或批评。核心价值在于引发对AI人机交互体验的讨论，但缺乏具体技术细节或解决方案。",
+  "score": 5,
   "tags": [
-    "llm",
-    "deployment"
+    "llm"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-05-27T08:10:27.121936+00:00"
+  "updated_at": "2026-05-27T12:37:10.328729+00:00"
 }
