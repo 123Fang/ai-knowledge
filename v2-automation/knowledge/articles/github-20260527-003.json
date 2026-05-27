@@ -1,0 +1,19 @@
+{
+  "id": "github-20260527-003",
+  "title": "python-telegramBot/ai-auto-trading",
+  "source": "github",
+  "source_url": "https://github.com/python-telegramBot/ai-auto-trading",
+  "author": "python-telegramBot",
+  "published_at": "2026-05-13T15:46:25Z",
+  "collected_at": "2026-05-27T13:25:35.130364+00:00",
+  "summary": "该项目是一个基于AI的加密货币自动交易机器人，集成了LLM代理、量化交易和风险管理策略。它支持Binance和Gate.io等交易所，使用TypeScript和Node.js构建，并实现了多策略交易功能。该工具旨在通过AI技术优化交易决策，适合对自动化交易和加密货币感兴趣的开发者。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T13:26:28.021647+00:00"
+}

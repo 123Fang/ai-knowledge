@@ -1,0 +1,19 @@
+{
+  "id": "github-20260527-001",
+  "title": "Tiledesk/tiledesk-dashboard",
+  "source": "github",
+  "source_url": "https://github.com/Tiledesk/tiledesk-dashboard",
+  "author": "Tiledesk",
+  "published_at": "2026-05-26T15:58:42Z",
+  "collected_at": "2026-05-27T13:25:35.130326+00:00",
+  "summary": "Tiledesk 是一个开源的 AI 代理构建器，基于 Node.js 和 Angular 开发，提供 WebApp 仪表盘用于管理。它是 Voiceflow 的开源替代方案，支持创建基于 LLM 的高级代理，并实现无缝的人机协同（HITL）。该项目旨在降低 AI 代理开发门槛，提供可定制的管理界面。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T13:26:28.021630+00:00"
+}

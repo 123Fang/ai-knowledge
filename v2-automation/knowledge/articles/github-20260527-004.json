@@ -1,0 +1,19 @@
+{
+  "id": "github-20260527-004",
+  "title": "rajudandigam/agent-inspect",
+  "source": "github",
+  "source_url": "https://github.com/rajudandigam/agent-inspect",
+  "author": "rajudandigam",
+  "published_at": "2026-05-10T20:37:43Z",
+  "collected_at": "2026-05-27T13:25:35.130369+00:00",
+  "summary": "agent-inspect 是一个用于 TypeScript AI 代理的本地执行树工具，帮助开发者理解代理运行过程中的内部细节。它通过将手动步骤、工具调用、LLM 调用、结构化日志、失败信息、持续时间和运行元数据转换为可读的执行树，支持从终端进行调试和检查。该工具专为 TypeScript/Node.js 开发者设计，旨在提升 AI 代理的可观测性和调试效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T13:26:28.021650+00:00"
+}

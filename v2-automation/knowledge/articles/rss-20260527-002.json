@@ -1,18 +1,18 @@
 {
   "id": "rss-20260527-002",
-  "title": "Uber president says AI spending is getting 'harder to justify'",
+  "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
   "source": "rss:Hacker News (Best)",
-  "source_url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+  "source_url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
   "author": "Hacker News (Best)",
-  "published_at": "2026-05-27T08:09:06.922294+00:00",
-  "collected_at": "2026-05-27T08:09:06.922294+00:00",
-  "summary": "Uber总裁指出，随着AI投资回报率难以量化，企业越来越难以证明大规模AI支出的合理性。这反映了行业对AI商业化落地的现实挑战，提示技术投入需更注重实际业务价值。",
+  "published_at": "2026-05-27T13:25:37.766034+00:00",
+  "collected_at": "2026-05-27T13:25:37.766034+00:00",
+  "summary": "该内容讨论了外包结合本地AI模型在经济性上可能超越前沿实验室的趋势，强调了成本效益和实用性。核心价值在于为企业提供了一种更经济的AI部署策略，平衡了外部资源与内部能力。",
   "score": 7,
   "tags": [
-    "evaluation",
+    "llm",
     "deployment"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-05-27T08:10:27.121945+00:00"
+  "updated_at": "2026-05-27T13:26:28.021653+00:00"
 }

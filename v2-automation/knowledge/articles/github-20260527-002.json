@@ -1,0 +1,19 @@
+{
+  "id": "github-20260527-002",
+  "title": "weam-ai/weam",
+  "source": "github",
+  "source_url": "https://github.com/weam-ai/weam",
+  "author": "weam-ai",
+  "published_at": "2026-04-29T09:49:11Z",
+  "collected_at": "2026-05-27T13:25:35.130357+00:00",
+  "summary": "Weam 是一个面向 20 人以上团队的开源 Web 应用，通过 API 集成主流大语言模型，支持在团队或私有文件夹中共享聊天、提示词和智能体。它基于 Next.js 和 Node.js 构建，提供现代全响应式堆栈，允许用户部署自定义的 AI 应用、智能体或工作流，也可使用预置解决方案。该项目旨在简化团队协作中的 AI 工具使用与部署。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T13:26:28.021643+00:00"
+}
