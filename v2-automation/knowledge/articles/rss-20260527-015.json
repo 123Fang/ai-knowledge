@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-015",
+  "title": "JobBench: Aligning Agent Work With Human Will",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26329",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T08:09:08.338357+00:00",
+  "collected_at": "2026-05-27T08:09:08.338357+00:00",
+  "summary": "JobBench 是一个用于评估 AI 代理（agent）任务执行能力的基准测试框架，其核心创新在于将代理的行为与人类意图进行对齐。该工作通过设计一系列任务，衡量代理在真实工作场景中理解并执行人类指令的准确性和效率，为提升代理系统的实用性和可靠性提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T08:10:27.121978+00:00"
+}

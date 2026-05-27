@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-014",
+  "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26322",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T08:09:08.338349+00:00",
+  "collected_at": "2026-05-27T08:09:08.338349+00:00",
+  "summary": "该论文提出了OmniToM基准测试，通过显式信念建模评估大型语言模型的心智理论能力。核心贡献是设计了一个系统化的评估框架，用于衡量LLM在理解他人信念、意图和知识方面的表现，揭示了当前模型在复杂社交推理任务中的局限性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T08:10:27.121975+00:00"
+}

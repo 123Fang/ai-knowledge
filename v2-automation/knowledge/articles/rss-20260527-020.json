@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-020",
+  "title": "Advancing Creative Physical Intelligence in Large Multimodal Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26396",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T08:09:08.338381+00:00",
+  "collected_at": "2026-05-27T08:09:08.338381+00:00",
+  "summary": "该论文探讨了如何增强大型多模态模型的物理智能，使其能够理解和生成与物理世界交互的创造性行为。核心价值在于提出了一个框架，将物理常识推理与多模态感知结合，推动AI在机器人、虚拟现实等领域的应用。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T08:10:27.121992+00:00"
+}
