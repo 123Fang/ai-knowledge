@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260526-019",
+  "title": "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017900+00:00",
+  "collected_at": "2026-05-26T07:56:58.017900+00:00",
+  "summary": "BoxLitE 提出了一种基于凸优化的知识图谱嵌入方法，通过将实体和关系表示为轴对齐的盒子（box）而非传统向量，实现了更忠实于原始知识图谱结构的嵌入表示。该方法在保持推理能力的同时，显著提升了嵌入的可解释性和对复杂逻辑关系的建模能力。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740506+00:00"
+}

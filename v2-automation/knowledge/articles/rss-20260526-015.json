@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-015",
+  "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23932",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017881+00:00",
+  "collected_at": "2026-05-26T07:56:58.017881+00:00",
+  "summary": "该论文研究大型语言模型（LLMs）在临床压力下（如对抗性输入或信息冲突）的认知韧性，即其正确信念是否会崩溃。通过设计压力测试，揭示了模型在复杂临床场景中保持准确推理的脆弱性，为提升LLMs在医疗等高风险领域的可靠性提供了重要见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740494+00:00"
+}

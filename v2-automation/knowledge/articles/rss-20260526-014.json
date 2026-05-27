@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260526-014",
+  "title": "BODHI: Precise OS Kernel Specification Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23931",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017877+00:00",
+  "collected_at": "2026-05-26T07:56:58.017877+00:00",
+  "summary": "BODHI 提出了一种精确推断操作系统内核规范的方法，通过自动化分析内核代码来生成形式化规范。该技术有助于提升操作系统安全性和可靠性，为系统验证和漏洞检测提供基础。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740491+00:00"
+}

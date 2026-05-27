@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-017",
+  "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23935",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017890+00:00",
+  "collected_at": "2026-05-26T07:56:58.017890+00:00",
+  "summary": "该论文提出了一种在自主代理系统中实现运行时构建、依赖解析和执行门控的框架，以增强系统的可靠性和可扩展性。核心价值在于通过形式化的方法管理代理的运行时行为，确保复杂任务的高效执行。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740500+00:00"
+}

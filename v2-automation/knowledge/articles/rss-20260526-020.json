@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-020",
+  "title": "Authority Inversion in LLM-Mediated Ubiquitous Systems: When Models Trust Users Over Sensors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23938",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017905+00:00",
+  "collected_at": "2026-05-26T07:56:58.017905+00:00",
+  "summary": "该论文探讨了在LLM驱动的泛在系统中，模型可能过度信任用户输入而忽视传感器数据，导致权威反转的问题。它分析了这种信任失衡带来的安全隐患，并提出了缓解策略，对构建可靠的AI系统具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740508+00:00"
+}

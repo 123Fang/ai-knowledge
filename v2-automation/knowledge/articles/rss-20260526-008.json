@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260526-008",
+  "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23908",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017779+00:00",
+  "collected_at": "2026-05-26T07:56:58.017779+00:00",
+  "summary": "该论文探讨了如何利用大型视觉-语言模型（LVLMs）来复制Picbreeder中的开放式进化过程，旨在识别实现开放性的关键要素。通过实验，作者展示了LVLMs在生成多样化和创新性图像方面的潜力，为开放式AI系统提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740468+00:00"
+}

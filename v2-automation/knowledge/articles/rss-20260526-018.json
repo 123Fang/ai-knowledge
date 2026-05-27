@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260526-018",
+  "title": "Fuzzy, Neutrosophic, and Uncertain Graph Theory: Properties and Applications",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23936",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-26T07:56:58.017895+00:00",
+  "collected_at": "2026-05-26T07:56:58.017895+00:00",
+  "summary": "该论文系统性地探讨了模糊图论、中智图论以及不确定图论的理论框架及其应用场景，为处理不确定性信息提供了数学工具。其核心价值在于整合了多种图论变体，为人工智能中的复杂关系建模和不确定性推理提供了理论基础。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-26T07:58:24.740503+00:00"
+}
