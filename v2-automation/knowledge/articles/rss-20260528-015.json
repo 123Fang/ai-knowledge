@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-015",
+  "title": "Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27628",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308454+00:00",
+  "collected_at": "2026-05-28T08:01:35.308454+00:00",
+  "summary": "该论文探讨了将智能体AI系统视为“受控自主”的框架，重点分析了其失败模式、升级机制以及治理策略。核心价值在于为设计更可靠、可管理的自主AI系统提供了理论指导和实践建议。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045303+00:00"
+}

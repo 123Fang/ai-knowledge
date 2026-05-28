@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-018",
+  "title": "Hierarchical Prompt-Domain Control and Learning for Resource-Constrained Agentic Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27703",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308467+00:00",
+  "collected_at": "2026-05-28T08:01:35.308467+00:00",
+  "summary": "该论文提出了一种分层提示域控制与学习方法，旨在优化资源受限的智能体语言模型。通过将提示域进行层次化划分，并针对每个域进行独立控制与学习，该方法有效降低了模型的计算与存储开销。其核心价值在于使大型语言模型在边缘设备等资源受限环境中仍能高效执行智能体任务。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045315+00:00"
+}

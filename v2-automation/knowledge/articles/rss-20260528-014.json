@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-014",
+  "title": "Reasoning and Planning with Dynamically Changing Norms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308450+00:00",
+  "collected_at": "2026-05-28T08:01:35.308450+00:00",
+  "summary": "该论文探讨了在动态变化的社会规范下，智能体如何进行推理和规划。核心内容涉及如何建模规范的变化，并设计能够适应这些变化的推理与规划算法。其价值在于为构建更灵活、更符合现实社会环境的自主智能体提供了理论基础和方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045301+00:00"
+}

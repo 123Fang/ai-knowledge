@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-004",
+  "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27566",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308393+00:00",
+  "collected_at": "2026-05-28T08:01:35.308393+00:00",
+  "summary": "该论文提出了DynaSchedBench，一个用于评估基于LLM的调度代理的动态调度基准，并揭示了调度任务中的可观测性悖论。核心内容是通过校准的基准测试来系统评估LLM在动态调度场景下的性能，并分析可观测性对代理决策的影响。该研究为LLM在复杂调度任务中的应用提供了重要的评估工具和理论见解。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045265+00:00"
+}

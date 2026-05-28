@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-013",
+  "title": "Laguna M.1/XS.2 Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27605",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308443+00:00",
+  "collected_at": "2026-05-28T08:01:35.308443+00:00",
+  "summary": "该技术报告详细介绍了Laguna M.1/XS.2模型的技术细节，包括其架构设计、训练方法和性能评估。报告展示了该模型在多个基准测试中的优异表现，并讨论了其在实际应用中的潜力。该工作为AI社区提供了有价值的参考，特别是在模型优化和部署方面。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045298+00:00"
+}

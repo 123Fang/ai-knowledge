@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-017",
+  "title": "Cross-Entropy Games and Frost Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27701",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308463+00:00",
+  "collected_at": "2026-05-28T08:01:35.308463+00:00",
+  "summary": "该论文提出了一种基于交叉熵博弈的训练方法，称为Frost Training，旨在通过对抗性博弈提升模型的鲁棒性和泛化能力。核心思想是将交叉熵损失函数与博弈论结合，在训练过程中引入动态对抗样本生成，从而增强模型对分布外数据的适应性。该方法在多个基准测试中表现出色，尤其在对抗性攻击和噪声干扰场景下显著优于传统训练策略。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045312+00:00"
+}

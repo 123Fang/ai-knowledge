@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-020",
+  "title": "Prefix-Safe Bayesian Belief Tracking for LLM Reasoning Reliability:Separating Calibration from Ranking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27712",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308476+00:00",
+  "collected_at": "2026-05-28T08:01:35.308476+00:00",
+  "summary": "该论文提出了一种前缀安全的贝叶斯信念追踪方法，用于提升大语言模型推理的可靠性，通过分离校准与排序过程来优化推理路径。核心价值在于提供了一种新的技术框架，能够在不牺牲模型性能的前提下增强推理的鲁棒性和可信度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045320+00:00"
+}

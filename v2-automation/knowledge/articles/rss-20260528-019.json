@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-019",
+  "title": "DeepSciVerify: Verifying Scientific Claim--Citation Alignment via LLM-Driven Evidence Escalation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27710",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308471+00:00",
+  "collected_at": "2026-05-28T08:01:35.308471+00:00",
+  "summary": "该论文提出DeepSciVerify，一种利用大语言模型（LLM）驱动的证据升级机制，用于验证科学声明与引文之间的对齐性。核心价值在于通过自动化方法提高科学文献中引用准确性的验证效率，减少人工核查负担。该方法可能对学术诚信和文献综述自动化有重要应用。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045318+00:00"
+}

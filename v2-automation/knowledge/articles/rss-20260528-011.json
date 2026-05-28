@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-011",
+  "title": "Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27584",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308433+00:00",
+  "collected_at": "2026-05-28T08:01:35.308433+00:00",
+  "summary": "该论文提出了一个统一的框架，用于从内容识别到干预的社交媒体网络欺凌治理。它整合了自然语言处理和机器学习技术，以自动检测和应对网络欺凌行为。该框架旨在提高治理效率，并为在线安全提供系统性解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045291+00:00"
+}

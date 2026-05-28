@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-006",
+  "title": "RULER: Representation-Level Verification of Machine Unlearning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T08:01:35.308409+00:00",
+  "collected_at": "2026-05-28T08:01:35.308409+00:00",
+  "summary": "该论文提出了一种名为RULER的表示级验证方法，用于评估机器遗忘（machine unlearning）的效果。与传统的输出级验证不同，RULER通过分析模型内部表示来检测被遗忘数据是否仍被模型记忆。该方法为机器遗忘提供了更可靠和细粒度的验证手段，有助于提升AI系统的隐私保护能力。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T08:02:41.045271+00:00"
+}
