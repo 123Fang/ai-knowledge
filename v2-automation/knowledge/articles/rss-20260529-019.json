@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-019",
+  "title": "Practitioner Beliefs and Behaviors in AI-Enhanced Education: DOT Framework Survey Evidence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.29041",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T08:00:00.614030+00:00",
+  "collected_at": "2026-05-29T08:00:00.614030+00:00",
+  "summary": "该论文通过DOT框架调查了AI增强教育中从业者的信念与行为，揭示了技术采纳的实践模式。研究为教育AI应用提供了基于证据的指导，有助于优化教学工具设计与实施策略。核心价值在于连接理论框架与真实教育场景，推动AI教育落地的有效性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T08:00:48.683953+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-001",
+  "title": "Various LLM Smells",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://shvbsle.in/various-llm-smells/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-29T07:59:59.090251+00:00",
+  "collected_at": "2026-05-29T07:59:59.090251+00:00",
+  "summary": "该内容讨论了大型语言模型（LLM）在使用过程中可能出现的各种“气味”（即常见问题或不良实践），例如过度依赖、幻觉、偏见等。它旨在帮助开发者识别和避免这些问题，从而构建更可靠和高效的LLM应用。这是一篇实用的技术分享，对提升LLM应用质量有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T08:00:48.683881+00:00"
+}

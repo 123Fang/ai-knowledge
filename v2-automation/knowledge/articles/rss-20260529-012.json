@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-012",
+  "title": "Orthogonal Concept Erasure for Diffusion Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28902",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T08:00:00.613995+00:00",
+  "collected_at": "2026-05-29T08:00:00.613995+00:00",
+  "summary": "该论文提出了一种针对扩散模型的正交概念擦除方法，旨在移除模型生成特定概念（如敏感内容）的能力，同时保持其他生成性能。核心价值在于提供了一种高效且可泛化的技术，用于提升扩散模型的安全性和可控性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T08:00:48.683930+00:00"
+}

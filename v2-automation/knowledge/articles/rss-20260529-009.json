@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-009",
+  "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28864",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T08:00:00.613979+00:00",
+  "collected_at": "2026-05-29T08:00:00.613979+00:00",
+  "summary": "该论文提出了一种基于范畴论的归纳偏置方法，用于改进语言模型的认知建模能力。通过将范畴论中的结构映射到Transformer架构中，模型能够更好地捕捉语言中的组合性和层次性特征。该方法在多个语言建模基准上展示了性能提升，并为可解释AI提供了新的理论视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-29T08:00:48.683920+00:00"
+}
