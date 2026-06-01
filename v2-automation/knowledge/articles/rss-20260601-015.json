@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-015",
+  "title": "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30803",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T09:28:18.719062+00:00",
+  "collected_at": "2026-06-01T09:28:18.719062+00:00",
+  "summary": "该论文提出PReMISE框架，通过将策略规则转化为测量规范来指导LLM评估者（judges）进行更可靠和一致的评估。核心价值在于提升LLM作为评估工具时的准确性和可解释性，减少主观偏差，适用于需要高质量自动评估的场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T09:29:03.226425+00:00"
+}
