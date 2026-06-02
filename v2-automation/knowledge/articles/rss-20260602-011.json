@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-011",
+  "title": "Universal Quantum Transformer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T08:39:35.860667+00:00",
+  "collected_at": "2026-06-02T08:39:35.860667+00:00",
+  "summary": "该论文提出了一种名为Universal Quantum Transformer的量子-经典混合架构，旨在将Transformer模型扩展到量子计算领域。核心创新在于利用量子纠缠和量子并行性来改进注意力机制，可能实现更高效的长序列处理。该工作为量子机器学习与自然语言处理的交叉研究提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T08:40:16.399165+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260602-014",
+  "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00102",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T08:39:35.860681+00:00",
+  "collected_at": "2026-06-02T08:39:35.860681+00:00",
+  "summary": "本文探讨了概率概念从古典到现代的演变过程，将其视为理性思维发展的镜像。通过历史分析，揭示了概率论如何从数学工具演变为理解不确定性和决策的核心框架。该内容对AI领域中的不确定性推理和概率模型设计具有理论参考价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T08:40:16.399174+00:00"
+}
