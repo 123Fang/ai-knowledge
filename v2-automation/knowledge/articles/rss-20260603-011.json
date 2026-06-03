@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260603-011",
+  "title": "An Exploration of Collision-based Enemy Morphology Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02832",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T08:57:05.278767+00:00",
+  "collected_at": "2026-06-03T08:57:05.278767+00:00",
+  "summary": "该论文提出了一种基于碰撞的敌人形态生成方法，通过模拟物理碰撞来动态生成游戏中的敌人形态，从而增加游戏的多样性和不可预测性。该方法为游戏设计提供了一种新颖的自动化内容生成技术，具有潜在的应用价值。",
+  "score": 7,
+  "tags": [
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T08:57:52.845209+00:00"
+}
