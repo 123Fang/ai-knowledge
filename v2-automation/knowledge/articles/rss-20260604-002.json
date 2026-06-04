@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-002",
+  "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-04T08:22:17.543657+00:00",
+  "collected_at": "2026-06-04T08:22:17.543657+00:00",
+  "summary": "Uber 将 AI 工具的使用限制在每月 1500 美元，这为 AI 工具的定价提供了重要参考信号。该限制反映了企业级 AI 部署的成本控制策略，并可能影响未来 AI 服务的定价模式。文章分析了这一限制对 AI 工具市场和企业采购决策的潜在影响。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T08:23:02.935534+00:00"
+}

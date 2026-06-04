@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-009",
+  "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04223",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T08:22:18.916014+00:00",
+  "collected_at": "2026-06-04T08:22:18.916014+00:00",
+  "summary": "该论文提出，在AI推理过程中，仅依赖最终答案的共识（consensus）是不够的，推理轨迹（reasoning trace）中的分歧本身可作为知识表示的重要信号。通过分析推理步骤的不一致性，可以更有效地识别和利用隐含知识，从而提升模型的可解释性和鲁棒性。该工作为推理增强和知识蒸馏提供了新视角。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-04T08:23:02.935556+00:00"
+}
