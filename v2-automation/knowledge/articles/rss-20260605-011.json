@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-011",
+  "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05334",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T08:09:06.618126+00:00",
+  "collected_at": "2026-06-05T08:09:06.618126+00:00",
+  "summary": "该论文提出了一种在循环工厂场景下，结合不确定性感知的功能行为预测与材料疲劳评估方法。核心价值在于通过量化预测不确定性，提升对材料疲劳寿命评估的可靠性，从而优化循环制造过程中的维护与资源利用决策。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T08:10:00.895858+00:00"
+}

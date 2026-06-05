@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-019",
+  "title": "Agents' Last Exam",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T08:09:06.618166+00:00",
+  "collected_at": "2026-06-05T08:09:06.618166+00:00",
+  "summary": "该论文提出了一个名为“Agents' Last Exam”的基准测试，旨在评估AI代理在复杂、多步骤任务中的表现。核心内容是通过设计一系列需要工具使用、推理和长期规划的任务，来测试当前AI系统的极限。该研究为评估代理能力提供了更严格的测试环境，有助于推动代理系统的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T08:10:00.895883+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-018",
+  "title": "Harnessing Generalist Agents for Contextualized Time Series",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05404",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T08:09:06.618161+00:00",
+  "collected_at": "2026-06-05T08:09:06.618161+00:00",
+  "summary": "该研究探讨如何利用通用智能体（generalist agents）对时间序列数据进行上下文感知分析。核心价值在于提出一种无需针对特定任务重新训练的方法，使智能体能够理解时间序列的上下文信息，从而提升预测和分类的准确性。这项工作为时间序列分析提供了更灵活、高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T08:10:00.895880+00:00"
+}

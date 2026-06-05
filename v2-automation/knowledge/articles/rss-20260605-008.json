@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-008",
+  "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05304",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T08:09:06.618107+00:00",
+  "collected_at": "2026-06-05T08:09:06.618107+00:00",
+  "summary": "该论文提出了一种名为'动作-状态通信'的新范式，旨在提升多智能体系统的通信效率。核心思想是让智能体不仅传递动作指令，还共享状态信息，从而减少冗余通信并增强协作。实验表明，该方法在多个基准任务上显著降低了通信开销，同时保持了任务性能。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "communication"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T08:10:00.895845+00:00"
+}
