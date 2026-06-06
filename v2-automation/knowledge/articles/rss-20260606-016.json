@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260606-016",
+  "title": "Assessing the Carbon Emissions and Energy Consumption of U.S. Hyperscale Data Centers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05420",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-06T06:55:05.530760+00:00",
+  "collected_at": "2026-06-06T06:55:05.530760+00:00",
+  "summary": "该研究评估了美国超大规模数据中心的碳排放和能源消耗，揭示了数据中心运营对环境的影响。通过分析能源使用效率和碳排放强度，提出了优化能源结构和提高能效的策略。研究为数据中心可持续发展提供了数据支持和政策建议。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-06T06:55:50.692765+00:00"
+}

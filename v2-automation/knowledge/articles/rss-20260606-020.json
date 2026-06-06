@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260606-020",
+  "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-06T06:55:05.530778+00:00",
+  "collected_at": "2026-06-06T06:55:05.530778+00:00",
+  "summary": "该论文提出Brick-Composer方法，利用多模态大语言模型（MLLMs）实现多样化积木的自动组装。核心在于通过视觉和语言理解，将用户指令转化为具体的积木搭建序列，提升了组装任务的灵活性和自动化水平。该方法展示了MLLMs在物理世界交互与创意构建中的潜力。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-06T06:55:50.692779+00:00"
+}

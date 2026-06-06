@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260606-019",
+  "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05436",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-06T06:55:05.530774+00:00",
+  "collected_at": "2026-06-06T06:55:05.530774+00:00",
+  "summary": "该研究对比了十位头痛专家与人工智能在临床文献摘要方面的表现，旨在评估AI在医学文献总结中的准确性和效率。通过关键评估和比较，揭示了AI在特定临床领域的潜力和局限性。研究为AI辅助临床决策提供了实证基础，强调了人机协作的重要性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-06T06:55:50.692776+00:00"
+}

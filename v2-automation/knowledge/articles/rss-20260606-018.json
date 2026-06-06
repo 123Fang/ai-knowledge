@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260606-018",
+  "title": "Zero knowledge verification for frontier AI training is possible",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05433",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-06T06:55:05.530769+00:00",
+  "collected_at": "2026-06-06T06:55:05.530769+00:00",
+  "summary": "该论文探讨了在前沿AI训练中实现零知识验证的可能性，提出了一种方法，允许验证者在不暴露训练数据或模型细节的情况下，确认训练过程符合特定标准。这解决了AI安全中的关键信任问题，为监管和审计提供了技术基础。其价值在于增强AI系统的透明度和可问责性。",
+  "score": 8,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-06T06:55:50.692773+00:00"
+}
