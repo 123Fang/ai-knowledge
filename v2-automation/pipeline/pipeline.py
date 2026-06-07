@@ -56,8 +56,8 @@ def collect_github(limit: int = 10) -> list[dict[str, Any]]:
         headers["Authorization"] = f"token {token}"
 
     # 搜索最近一周更新的 AI 相关仓库，按 star 排序
-    one_week_ago = (datetime.now(timezone.utc) - __import__('datetime').timedelta(days=7)).strftime("%Y-%m-%d")
-    query = f"ai agent TypeScript js node llm 前端 stars:>100 pushed:>{one_week_ago}"
+    one_week_ago = (datetime.now(timezone.utc) - __import__('datetime').timedelta(days=15)).strftime("%Y-%m-%d")
+    query = f"ai agent TypeScript js node bun llm frontend stars:>30 pushed:>{one_week_ago}"
     url = "https://api.github.com/search/repositories"
     params = {
         "q": query,
