@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260607-001",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-07T05:22:00.409659+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-07T05:22:00.409659+00:00"
+  },
+  {
+    "id": "rss-20260607-002",
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://news.ycombinator.com/item?id=48420827",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-07T05:22:00.409686+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-07T05:22:00.409686+00:00"
+  },
+  {
+    "id": "rss-20260607-003",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012253+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012253+00:00"
+  },
+  {
+    "id": "rss-20260607-004",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012284+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012284+00:00"
+  },
+  {
+    "id": "rss-20260607-005",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012292+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012292+00:00"
+  },
+  {
+    "id": "rss-20260607-006",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012298+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012298+00:00"
+  },
+  {
+    "id": "rss-20260607-007",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012303+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012303+00:00"
+  },
+  {
+    "id": "rss-20260607-008",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012308+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012308+00:00"
+  },
+  {
+    "id": "rss-20260607-009",
+    "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012312+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012312+00:00"
+  },
+  {
+    "id": "rss-20260607-010",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012317+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012317+00:00"
+  },
+  {
+    "id": "rss-20260607-011",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012321+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012321+00:00"
+  },
+  {
+    "id": "rss-20260607-012",
+    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/torch-profiler",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012326+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012326+00:00"
+  },
+  {
+    "id": "rss-20260607-013",
+    "title": "Reachy Mini goes fully local",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012330+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012330+00:00"
+  },
+  {
+    "id": "rss-20260607-014",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/delta-weight-sync",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012334+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012334+00:00"
+  },
+  {
+    "id": "rss-20260607-015",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/agent-glossary",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012338+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012338+00:00"
+  },
+  {
+    "id": "rss-20260607-016",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012345+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012345+00:00"
+  },
+  {
+    "id": "rss-20260607-017",
+    "title": "Introducing the Ettin Reranker Family",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ettin-reranker",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012349+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012349+00:00"
+  },
+  {
+    "id": "rss-20260607-018",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012354+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012354+00:00"
+  },
+  {
+    "id": "rss-20260607-019",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012358+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012358+00:00"
+  },
+  {
+    "id": "rss-20260607-020",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/continuous_async",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T05:22:03.012363+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T05:22:03.012363+00:00"
+  }
+]

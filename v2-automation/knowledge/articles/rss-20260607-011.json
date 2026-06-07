@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-011",
+  "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T05:22:03.012321+00:00",
+  "collected_at": "2026-06-07T05:22:03.012321+00:00",
+  "summary": "本文探讨了超越大型语言模型（LLMs）的企业级AI应用，强调代理逻辑（Agent Logic）对于可扩展的企业AI采用至关重要。核心内容指出，仅依赖LLMs不足以应对复杂的企业需求，而通过引入代理逻辑，可以实现更智能、更自主的决策和任务执行。该文章的价值在于为企业AI战略提供了新的视角，强调了系统化、可扩展的AI架构的重要性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T05:22:37.587987+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-004",
+  "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T05:22:03.012284+00:00",
+  "collected_at": "2026-06-07T05:22:03.012284+00:00",
+  "summary": "Nemotron 3.5 Content Safety 是一个可定制的多模态安全模型，旨在为企业级AI应用提供内容安全检测。它支持文本、图像等多种输入模态，并允许企业根据自身需求调整安全策略。该模型通过灵活配置，帮助全球企业应对不同地区的合规要求，确保AI输出的安全性和可靠性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T05:22:37.587961+00:00"
+}
