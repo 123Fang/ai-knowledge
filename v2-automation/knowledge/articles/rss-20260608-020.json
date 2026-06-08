@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-020",
+  "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06976",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T08:56:07.310547+00:00",
+  "collected_at": "2026-06-08T08:56:07.310547+00:00",
+  "summary": "该论文提出了一种基于不确定性对齐的强化学习方法，用于优化AI代理的工具调用决策。通过将模型的不确定性估计与强化学习信号相结合，该方法能够更智能地决定何时以及如何调用外部工具，从而提升代理在复杂任务中的表现和可靠性。这项工作为增强大型语言模型的工具使用能力提供了新的训练范式。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reinforcement-learning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-08T08:56:53.530730+00:00"
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260608-001",
+    "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06514",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310410+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310410+00:00"
+  },
+  {
+    "id": "rss-20260608-002",
+    "title": "DiBS: Diffusion-Informed Branch Selection",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06518",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310449+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310449+00:00"
+  },
+  {
+    "id": "rss-20260608-003",
+    "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06519",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310458+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310458+00:00"
+  },
+  {
+    "id": "rss-20260608-004",
+    "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06523",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310463+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310463+00:00"
+  },
+  {
+    "id": "rss-20260608-005",
+    "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06526",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310472+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310472+00:00"
+  },
+  {
+    "id": "rss-20260608-006",
+    "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06529",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310479+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310479+00:00"
+  },
+  {
+    "id": "rss-20260608-007",
+    "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06531",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310484+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310484+00:00"
+  },
+  {
+    "id": "rss-20260608-008",
+    "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06533",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310489+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310489+00:00"
+  },
+  {
+    "id": "rss-20260608-009",
+    "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06641",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310493+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310493+00:00"
+  },
+  {
+    "id": "rss-20260608-010",
+    "title": "A Study of Parallel Continuous Local Search",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06656",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310498+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310498+00:00"
+  },
+  {
+    "id": "rss-20260608-011",
+    "title": "AEGIS: A Backup Reflex for Physical AI",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06660",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310503+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310503+00:00"
+  },
+  {
+    "id": "rss-20260608-012",
+    "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06735",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310507+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310507+00:00"
+  },
+  {
+    "id": "rss-20260608-013",
+    "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06741",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310514+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310514+00:00"
+  },
+  {
+    "id": "rss-20260608-014",
+    "title": "AdMem: Advanced Memory for Task-solving Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06787",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310518+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310518+00:00"
+  },
+  {
+    "id": "rss-20260608-015",
+    "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06869",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310523+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310523+00:00"
+  },
+  {
+    "id": "rss-20260608-016",
+    "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06893",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310527+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310527+00:00"
+  },
+  {
+    "id": "rss-20260608-017",
+    "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06923",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310531+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310531+00:00"
+  },
+  {
+    "id": "rss-20260608-018",
+    "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06941",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310538+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310538+00:00"
+  },
+  {
+    "id": "rss-20260608-019",
+    "title": "Accounting for Context: Shaping Moral Credences for Value Alignment",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06972",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310542+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310542+00:00"
+  },
+  {
+    "id": "rss-20260608-020",
+    "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.06976",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-08T08:56:07.310547+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-08T08:56:07.310547+00:00"
+  }
+]
