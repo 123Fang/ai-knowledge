@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260609-011",
+  "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07721",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T07:51:54.845003+00:00",
+  "collected_at": "2026-06-09T07:51:54.845003+00:00",
+  "summary": "该研究利用开源大语言模型从脑部MRI报告中自动提取结构化信息，展示了LLM在医学文本处理中的应用潜力。通过实验验证，模型能够高效准确地识别和提取关键临床数据，为医疗信息自动化处理提供了可行方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T07:52:39.336263+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-003",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-09T07:51:52.979641+00:00",
+  "collected_at": "2026-06-09T07:51:52.979641+00:00",
+  "summary": "该内容是一个Hacker News上的讨论帖，询问社区成员在AI时代为自己构建了哪些工具。它旨在收集和分享个人利用AI技术（如LLM、agent等）开发的实用工具案例，展示AI在个人生产力、自动化等方面的应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T07:52:39.336238+00:00"
+}
