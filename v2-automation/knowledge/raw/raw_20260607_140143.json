@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260607-001",
+    "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505196+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505196+00:00"
+  },
+  {
+    "id": "rss-20260607-002",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505225+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505225+00:00"
+  },
+  {
+    "id": "rss-20260607-003",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505232+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505232+00:00"
+  },
+  {
+    "id": "rss-20260607-004",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505236+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505236+00:00"
+  },
+  {
+    "id": "rss-20260607-005",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505239+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505239+00:00"
+  },
+  {
+    "id": "rss-20260607-006",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505243+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505243+00:00"
+  },
+  {
+    "id": "rss-20260607-007",
+    "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505246+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505246+00:00"
+  },
+  {
+    "id": "rss-20260607-008",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505250+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505250+00:00"
+  },
+  {
+    "id": "rss-20260607-009",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505253+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505253+00:00"
+  },
+  {
+    "id": "rss-20260607-010",
+    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/torch-profiler",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505257+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505257+00:00"
+  },
+  {
+    "id": "rss-20260607-011",
+    "title": "Reachy Mini goes fully local",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505260+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505260+00:00"
+  },
+  {
+    "id": "rss-20260607-012",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/delta-weight-sync",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505263+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505263+00:00"
+  },
+  {
+    "id": "rss-20260607-013",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/agent-glossary",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505267+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505267+00:00"
+  },
+  {
+    "id": "rss-20260607-014",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505270+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505270+00:00"
+  },
+  {
+    "id": "rss-20260607-015",
+    "title": "Introducing the Ettin Reranker Family",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ettin-reranker",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505274+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505274+00:00"
+  },
+  {
+    "id": "rss-20260607-016",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505277+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505277+00:00"
+  },
+  {
+    "id": "rss-20260607-017",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505281+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505281+00:00"
+  },
+  {
+    "id": "rss-20260607-018",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/continuous_async",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505286+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505286+00:00"
+  },
+  {
+    "id": "rss-20260607-019",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505289+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505289+00:00"
+  },
+  {
+    "id": "rss-20260607-020",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-07T14:01:43.505292+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-07T14:01:43.505292+00:00"
+  }
+]

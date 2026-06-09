@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-011",
+  "title": "AEGIS: A Backup Reflex for Physical AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06660",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T08:56:07.310503+00:00",
+  "collected_at": "2026-06-08T08:56:07.310503+00:00",
+  "summary": "AEGIS 提出了一种针对物理 AI 系统的备份反射机制，旨在增强其在动态环境中的安全性和鲁棒性。该技术通过实时监测和快速响应，防止 AI 在物理交互中发生不可逆的错误。核心价值在于为物理 AI 提供了一层额外的安全保障，类似于生物体的反射弧。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T08:56:53.530695+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-008",
+  "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06533",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T08:56:07.310489+00:00",
+  "collected_at": "2026-06-08T08:56:07.310489+00:00",
+  "summary": "该论文主张AI研究不应仅关注模型训练后的修复（fix it in post），而应系统性地研究训练动态（training dynamics）。核心价值在于呼吁建立一门关于AI训练过程的科学，以深入理解模型行为如何随训练演化，从而提升模型的可解释性和可控性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T08:56:53.530685+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-012",
+  "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06735",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T08:56:07.310507+00:00",
+  "collected_at": "2026-06-08T08:56:07.310507+00:00",
+  "summary": "本文提出了一种通过角度-范数分解来理解激活导向（activation steering）的几何解释方法。该方法将激活向量分解为角度和范数两个独立分量，从而更精确地分析模型内部表示的变化。该工作为解释和优化语言模型的行为提供了新的理论视角，具有较高的技术价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T08:56:53.530698+00:00"
+}
