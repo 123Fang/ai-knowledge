@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-015",
+  "title": "Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10334",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T08:10:42.559609+00:00",
+  "collected_at": "2026-06-10T08:10:42.559609+00:00",
+  "summary": "该论文提出了一种通过视觉反馈进行自蒸馏策略优化的方法，旨在弥合代码与视觉产物之间的鸿沟。核心价值在于利用视觉反馈信号来改进策略学习，从而提升模型在视觉相关任务中的表现。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T08:11:31.704627+00:00"
+}

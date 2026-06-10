@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-013",
+  "title": "What Spatial Memory Must Store: Occlusion as the Test for Language-Agent Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10299",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T08:10:42.559600+00:00",
+  "collected_at": "2026-06-10T08:10:42.559600+00:00",
+  "summary": "该论文探讨了语言智能体在空间记忆中的核心挑战：遮挡问题。通过分析智能体在部分可见环境中的表现，提出了评估空间记忆能力的关键测试。研究强调了记忆系统必须能够处理动态遮挡，以支持有效的导航和任务执行。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T08:11:31.704618+00:00"
+}

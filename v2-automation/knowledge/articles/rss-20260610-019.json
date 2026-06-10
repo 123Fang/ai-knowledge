@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-019",
+  "title": "Beyond Static Evaluation: Co-Evolutionary Mechanisms for LLM-Driven Strategy Evolution in Adversarial Games",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10389",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T08:10:42.559632+00:00",
+  "collected_at": "2026-06-10T08:10:42.559632+00:00",
+  "summary": "该论文提出了一种基于共同进化机制的LLM驱动策略进化方法，用于对抗性游戏中的策略优化。通过模拟多个智能体之间的竞争与协作，该方法超越了传统的静态评估，实现了策略的动态进化。核心价值在于为LLM在复杂对抗环境中的自适应决策提供了新范式。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-10T08:11:31.704638+00:00"
+}

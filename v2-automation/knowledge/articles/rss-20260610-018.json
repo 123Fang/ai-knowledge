@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260610-018",
+  "title": "Belief-Space Control for Personalized Cancer Treatment via Active Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10376",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T08:10:42.559627+00:00",
+  "collected_at": "2026-06-10T08:10:42.559627+00:00",
+  "summary": "该论文提出了一种基于主动推理的信念空间控制方法，用于个性化癌症治疗。通过将治疗决策建模为部分可观测马尔可夫决策过程，该方法能够动态调整治疗策略以最大化患者长期生存率。核心价值在于将认知科学中的主动推理框架应用于医疗决策，为精准医疗提供了新的理论工具。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T08:11:31.704635+00:00"
+}

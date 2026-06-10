@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-012",
+  "title": "From Context-Aware to Conflict-Aware: Generalizing Contrastive Decoding for Knowledge Conflict in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10298",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T08:10:42.559596+00:00",
+  "collected_at": "2026-06-10T08:10:42.559596+00:00",
+  "summary": "该论文提出了一种从上下文感知到冲突感知的对比解码方法，旨在解决大型语言模型（LLMs）中的知识冲突问题。通过泛化对比解码框架，该方法能够有效区分和利用模型内部知识与外部上下文信息之间的冲突，从而提升模型在知识冲突场景下的生成准确性和鲁棒性。其核心价值在于为LLMs处理矛盾信息提供了一种新的技术路径，有助于增强模型在复杂推理任务中的可靠性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-10T08:11:31.704614+00:00"
+}
