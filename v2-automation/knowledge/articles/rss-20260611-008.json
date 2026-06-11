@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-008",
+  "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11349",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T08:48:21.639393+00:00",
+  "collected_at": "2026-06-11T08:48:21.639393+00:00",
+  "summary": "该论文提出了一种自门控澄清机制，用于分层语言代理在不确定时主动请求澄清，从而提升任务完成准确率。核心价值在于通过层级结构优化代理的决策过程，减少错误执行。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T08:49:03.061107+00:00"
+}

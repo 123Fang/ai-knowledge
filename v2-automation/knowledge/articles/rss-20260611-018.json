@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-018",
+  "title": "TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11662",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T08:48:21.639431+00:00",
+  "collected_at": "2026-06-11T08:48:21.639431+00:00",
+  "summary": "TreeSeeker提出了一种基于树结构的深度搜索方法，通过模拟试错与回溯机制来提升搜索效率。该方法在复杂推理任务中表现出色，能够有效平衡探索与利用，适用于需要多步推理的AI系统。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T08:49:03.061133+00:00"
+}

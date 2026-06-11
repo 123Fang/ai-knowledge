@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260611-001",
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-11T08:48:19.921872+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-11T08:48:19.921872+00:00"
+  },
+  {
+    "id": "rss-20260611-002",
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-11T08:48:19.921899+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-11T08:48:19.921899+00:00"
+  },
+  {
+    "id": "rss-20260611-003",
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-11T08:48:19.921906+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-11T08:48:19.921906+00:00"
+  },
+  {
+    "id": "rss-20260611-004",
+    "title": "Cleaning up after AI rockstar developers",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-11T08:48:19.921910+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-11T08:48:19.921910+00:00"
+  },
+  {
+    "id": "rss-20260611-005",
+    "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11207",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639333+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639333+00:00"
+  },
+  {
+    "id": "rss-20260611-006",
+    "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11245",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639380+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639380+00:00"
+  },
+  {
+    "id": "rss-20260611-007",
+    "title": "Can AI Agents Synthesize Scientific Conclusions?",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11337",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639387+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639387+00:00"
+  },
+  {
+    "id": "rss-20260611-008",
+    "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11349",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639393+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639393+00:00"
+  },
+  {
+    "id": "rss-20260611-009",
+    "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11379",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639397+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639397+00:00"
+  },
+  {
+    "id": "rss-20260611-010",
+    "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11440",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639401+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639401+00:00"
+  },
+  {
+    "id": "rss-20260611-011",
+    "title": "Forecasting Future Behavior as a Learning Task",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11445",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639404+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639404+00:00"
+  },
+  {
+    "id": "rss-20260611-012",
+    "title": "Search Discipline for Long-Horizon Research Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11522",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639408+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639408+00:00"
+  },
+  {
+    "id": "rss-20260611-013",
+    "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11537",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639411+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639411+00:00"
+  },
+  {
+    "id": "rss-20260611-014",
+    "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11543",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639415+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639415+00:00"
+  },
+  {
+    "id": "rss-20260611-015",
+    "title": "HERO: Hindsight-Enhanced Reflection from Environment Observations for Agentic Self-Distillation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11559",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639420+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639420+00:00"
+  },
+  {
+    "id": "rss-20260611-016",
+    "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11634",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639424+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639424+00:00"
+  },
+  {
+    "id": "rss-20260611-017",
+    "title": "TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World with Large-scale Data and Action-aware Representation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11637",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639428+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639428+00:00"
+  },
+  {
+    "id": "rss-20260611-018",
+    "title": "TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11662",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639431+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639431+00:00"
+  },
+  {
+    "id": "rss-20260611-019",
+    "title": "Lung-R1: A Knowledge Graph-Guided LLM for Pulmonary Diagnostic Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11675",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639435+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639435+00:00"
+  },
+  {
+    "id": "rss-20260611-020",
+    "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.11680",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-11T08:48:21.639439+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-11T08:48:21.639439+00:00"
+  }
+]
