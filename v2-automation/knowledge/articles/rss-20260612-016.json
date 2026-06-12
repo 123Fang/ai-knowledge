@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-016",
+  "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12730",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T08:26:57.221340+00:00",
+  "collected_at": "2026-06-12T08:26:57.221340+00:00",
+  "summary": "该研究重新审视了心理测量学在大语言模型（LLM）评估中的应用，探讨了自我报告（如性格测试）在何种条件下能有效预测模型行为。核心价值在于揭示了自我报告与行为之间的一致性条件，为LLM的可靠评估提供了方法论指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T08:27:41.396819+00:00"
+}

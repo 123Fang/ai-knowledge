@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-008",
+  "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12616",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T08:26:57.221302+00:00",
+  "collected_at": "2026-06-12T08:26:57.221302+00:00",
+  "summary": "PersonaDrive 提出了一种基于检索增强生成（RAG）的 VLA（视觉-语言-动作）智能体，用于闭环驾驶仿真。该方法通过检索人类驾驶风格数据来增强智能体的决策能力，使其在仿真中表现出更接近人类的驾驶行为。该工作展示了将 RAG 与多模态智能体结合以提升仿真真实性的潜力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T08:27:41.396794+00:00"
+}

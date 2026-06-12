@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260612-001",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-12T08:26:56.528079+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-12T08:26:56.528079+00:00"
+  },
+  {
+    "id": "rss-20260612-002",
+    "title": "Why AI hasn't replaced software engineers, and won't",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-12T08:26:56.528110+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-12T08:26:56.528110+00:00"
+  },
+  {
+    "id": "rss-20260612-003",
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-12T08:26:56.528118+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-12T08:26:56.528118+00:00"
+  },
+  {
+    "id": "rss-20260612-004",
+    "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12451",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221224+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221224+00:00"
+  },
+  {
+    "id": "rss-20260612-005",
+    "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12563",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221282+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221282+00:00"
+  },
+  {
+    "id": "rss-20260612-006",
+    "title": "Strategic Decision Support for AI Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12587",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221291+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221291+00:00"
+  },
+  {
+    "id": "rss-20260612-007",
+    "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12594",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221297+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221297+00:00"
+  },
+  {
+    "id": "rss-20260612-008",
+    "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12616",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221302+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221302+00:00"
+  },
+  {
+    "id": "rss-20260612-009",
+    "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12618",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221307+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221307+00:00"
+  },
+  {
+    "id": "rss-20260612-010",
+    "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12657",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221312+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221312+00:00"
+  },
+  {
+    "id": "rss-20260612-011",
+    "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12674",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221316+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221316+00:00"
+  },
+  {
+    "id": "rss-20260612-012",
+    "title": "From AGI to ASI",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12683",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221321+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221321+00:00"
+  },
+  {
+    "id": "rss-20260612-013",
+    "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12702",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221327+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221327+00:00"
+  },
+  {
+    "id": "rss-20260612-014",
+    "title": "Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12713",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221332+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221332+00:00"
+  },
+  {
+    "id": "rss-20260612-015",
+    "title": "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12721",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221336+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221336+00:00"
+  },
+  {
+    "id": "rss-20260612-016",
+    "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12730",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221340+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221340+00:00"
+  },
+  {
+    "id": "rss-20260612-017",
+    "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12736",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221347+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221347+00:00"
+  },
+  {
+    "id": "rss-20260612-018",
+    "title": "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12742",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221352+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221352+00:00"
+  },
+  {
+    "id": "rss-20260612-019",
+    "title": "Prefill Awareness in Large Language Models",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12747",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221356+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221356+00:00"
+  },
+  {
+    "id": "rss-20260612-020",
+    "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.12767",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-12T08:26:57.221361+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-12T08:26:57.221361+00:00"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-007",
+  "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12594",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T08:26:57.221297+00:00",
+  "collected_at": "2026-06-12T08:26:57.221297+00:00",
+  "summary": "Pythagoras-Prover 通过增强的 Lean 形式化方法，提升了自动定理证明的效率。该工作核心在于利用数据增强和策略优化，使证明过程更简洁、可验证。其价值在于推动形式化验证在 AI 安全与数学推理中的应用。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T08:27:41.396788+00:00"
+}
