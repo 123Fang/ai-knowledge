@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260613-006",
+  "title": "olmo-eval: An evaluation workbench for the model development loop",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-13T07:50:35.875105+00:00",
+  "collected_at": "2026-06-13T07:50:35.875105+00:00",
+  "summary": "该文章介绍了olmo-eval，一个专为模型开发循环设计的评估工作台。它旨在帮助研究人员在模型开发过程中进行系统化的评估和迭代。核心价值在于提供了一个标准化的评估框架，以加速和改进语言模型的开发流程。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T07:51:13.456206+00:00"
+}
