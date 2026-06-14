@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260614-001",
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-14T08:16:58.101220+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-14T08:16:58.101220+00:00"
+  },
+  {
+    "id": "rss-20260614-002",
+    "title": "AI coding at home without going broke",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-14T08:16:58.101256+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-14T08:16:58.101256+00:00"
+  },
+  {
+    "id": "rss-20260614-003",
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://github.com/tensorzero/tensorzero",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-14T08:16:58.101271+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-14T08:16:58.101271+00:00"
+  },
+  {
+    "id": "rss-20260614-004",
+    "title": "Open source AI must win",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://opensourceaimustwin.com/?share=v2",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-14T08:16:58.101279+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-14T08:16:58.101279+00:00"
+  },
+  {
+    "id": "rss-20260614-005",
+    "title": "How to setup a local coding agent on macOS",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-14T08:16:58.101286+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-14T08:16:58.101286+00:00"
+  },
+  {
+    "id": "rss-20260614-006",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258398+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258398+00:00"
+  },
+  {
+    "id": "rss-20260614-007",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258439+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258439+00:00"
+  },
+  {
+    "id": "rss-20260614-008",
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258448+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258448+00:00"
+  },
+  {
+    "id": "rss-20260614-009",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258454+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258454+00:00"
+  },
+  {
+    "id": "rss-20260614-010",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258459+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258459+00:00"
+  },
+  {
+    "id": "rss-20260614-011",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258464+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258464+00:00"
+  },
+  {
+    "id": "rss-20260614-012",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258469+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258469+00:00"
+  },
+  {
+    "id": "rss-20260614-013",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258473+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258473+00:00"
+  },
+  {
+    "id": "rss-20260614-014",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258477+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258477+00:00"
+  },
+  {
+    "id": "rss-20260614-015",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258481+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258481+00:00"
+  },
+  {
+    "id": "rss-20260614-016",
+    "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258488+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258488+00:00"
+  },
+  {
+    "id": "rss-20260614-017",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258493+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258493+00:00"
+  },
+  {
+    "id": "rss-20260614-018",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258500+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258500+00:00"
+  },
+  {
+    "id": "rss-20260614-019",
+    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/torch-profiler",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258505+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258505+00:00"
+  },
+  {
+    "id": "rss-20260614-020",
+    "title": "Reachy Mini goes fully local",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-14T08:17:02.258509+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-14T08:17:02.258509+00:00"
+  }
+]
