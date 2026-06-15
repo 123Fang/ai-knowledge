@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260615-010",
+  "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13710",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:25:57.545828+00:00",
+  "collected_at": "2026-06-15T10:25:57.545828+00:00",
+  "summary": "该论文提出了一种混合开放式三进化（Hybrid Open-Ended Tri-Evolution）方法，用于构建更强大的深度研究者。该方法通过结合三种进化机制（如环境、个体和知识进化），实现了在复杂研究任务中的自适应和持续改进。核心价值在于提升了AI在科学研究中的自主探索和创新能力，为自动化研究提供了新范式。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-15T10:26:42.753669+00:00"
+}
