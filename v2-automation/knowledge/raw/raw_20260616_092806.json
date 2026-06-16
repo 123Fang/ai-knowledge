@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260616-001",
+    "title": "My Homelab AI Dev Platform",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-16T09:28:05.596224+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-16T09:28:05.596224+00:00"
+  },
+  {
+    "id": "rss-20260616-002",
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-16T09:28:05.596255+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-16T09:28:05.596255+00:00"
+  },
+  {
+    "id": "rss-20260616-003",
+    "title": "Not everyone is using AI for everything",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-16T09:28:05.596263+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-16T09:28:05.596263+00:00"
+  },
+  {
+    "id": "rss-20260616-004",
+    "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14838",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185373+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185373+00:00"
+  },
+  {
+    "id": "rss-20260616-005",
+    "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14885",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185416+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185416+00:00"
+  },
+  {
+    "id": "rss-20260616-006",
+    "title": "Relational Structural Causal Models",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14892",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185426+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185426+00:00"
+  },
+  {
+    "id": "rss-20260616-007",
+    "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14923",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185434+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185434+00:00"
+  },
+  {
+    "id": "rss-20260616-008",
+    "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14935",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185440+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185440+00:00"
+  },
+  {
+    "id": "rss-20260616-009",
+    "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14941",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185444+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185444+00:00"
+  },
+  {
+    "id": "rss-20260616-010",
+    "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.14997",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185449+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185449+00:00"
+  },
+  {
+    "id": "rss-20260616-011",
+    "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15029",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185453+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185453+00:00"
+  },
+  {
+    "id": "rss-20260616-012",
+    "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15034",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185457+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185457+00:00"
+  },
+  {
+    "id": "rss-20260616-013",
+    "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15038",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185462+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185462+00:00"
+  },
+  {
+    "id": "rss-20260616-014",
+    "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15077",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185468+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185468+00:00"
+  },
+  {
+    "id": "rss-20260616-015",
+    "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15078",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185475+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185475+00:00"
+  },
+  {
+    "id": "rss-20260616-016",
+    "title": "VGPT-RSI for RH-Adjacent Formal Progress: Boundary Certificates, Verified Finite Lagarias Inequalities, and Explicit Failure Localization",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15096",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185479+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185479+00:00"
+  },
+  {
+    "id": "rss-20260616-017",
+    "title": "Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15107",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185484+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185484+00:00"
+  },
+  {
+    "id": "rss-20260616-018",
+    "title": "CONCORD: Asynchronous Sparse Aggregation for Device-Cloud RAG under Document Isolation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15179",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185488+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185488+00:00"
+  },
+  {
+    "id": "rss-20260616-019",
+    "title": "CogGuard: Cognitive and Operational Profiling for Proactive Warning in Edge Intelligent Services",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15199",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185493+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185493+00:00"
+  },
+  {
+    "id": "rss-20260616-020",
+    "title": "Attribute Inference from Interactive Targeted Ads",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.15209",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-16T09:28:06.185497+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-16T09:28:06.185497+00:00"
+  }
+]

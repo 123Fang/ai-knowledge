@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-016",
+  "title": "VGPT-RSI for RH-Adjacent Formal Progress: Boundary Certificates, Verified Finite Lagarias Inequalities, and Explicit Failure Localization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15096",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:28:06.185479+00:00",
+  "collected_at": "2026-06-16T09:28:06.185479+00:00",
+  "summary": "该论文提出了一种名为VGPT-RSI的框架，用于在强化学习（RL）与形式化验证（RH）的邻域中实现形式化进展。核心内容包括边界证书的生成、验证有限Lagarias不等式，以及显式故障定位，旨在提升AI系统的可靠性和可解释性。该工作为AI安全与形式化方法的交叉领域提供了有价值的技术贡献。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:28:50.476602+00:00"
+}
