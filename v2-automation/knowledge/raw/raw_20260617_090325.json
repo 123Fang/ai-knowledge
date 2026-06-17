@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260617-001",
+    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17209",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759708+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759708+00:00"
+  },
+  {
+    "id": "rss-20260617-002",
+    "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17220",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759768+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759768+00:00"
+  },
+  {
+    "id": "rss-20260617-003",
+    "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17266",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759781+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759781+00:00"
+  },
+  {
+    "id": "rss-20260617-004",
+    "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17269",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759791+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759791+00:00"
+  },
+  {
+    "id": "rss-20260617-005",
+    "title": "Nothing from Something: Can a Language Model Discover 0?",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17289",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759810+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759810+00:00"
+  },
+  {
+    "id": "rss-20260617-006",
+    "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17312",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759821+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759821+00:00"
+  },
+  {
+    "id": "rss-20260617-007",
+    "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17328",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759830+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759830+00:00"
+  },
+  {
+    "id": "rss-20260617-008",
+    "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17339",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759839+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759839+00:00"
+  },
+  {
+    "id": "rss-20260617-009",
+    "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17368",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759846+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759846+00:00"
+  },
+  {
+    "id": "rss-20260617-010",
+    "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17405",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759855+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759855+00:00"
+  },
+  {
+    "id": "rss-20260617-011",
+    "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17443",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759864+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759864+00:00"
+  },
+  {
+    "id": "rss-20260617-012",
+    "title": "A Machine-Learned Comorbidity Index",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17450",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759877+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759877+00:00"
+  },
+  {
+    "id": "rss-20260617-013",
+    "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17453",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759885+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759885+00:00"
+  },
+  {
+    "id": "rss-20260617-014",
+    "title": "Dissecting model behavior through agent trajectories",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17454",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759894+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759894+00:00"
+  },
+  {
+    "id": "rss-20260617-015",
+    "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17459",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759903+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759903+00:00"
+  },
+  {
+    "id": "rss-20260617-016",
+    "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17507",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759912+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759912+00:00"
+  },
+  {
+    "id": "rss-20260617-017",
+    "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17546",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759920+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759920+00:00"
+  },
+  {
+    "id": "rss-20260617-018",
+    "title": "DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17574",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759928+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759928+00:00"
+  },
+  {
+    "id": "rss-20260617-019",
+    "title": "Surrogate Assisted Pedestrian Protection Design via a Foundation Model Orchestrated Workflow",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17577",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759941+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759941+00:00"
+  },
+  {
+    "id": "rss-20260617-020",
+    "title": "Closing the Feedback Loop: From Experience Extraction to Insight Governance in Verbal Reinforcement Learning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17591",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-17T09:03:25.759950+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-17T09:03:25.759950+00:00"
+  }
+]

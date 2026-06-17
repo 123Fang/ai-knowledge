@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-019",
+  "title": "Surrogate Assisted Pedestrian Protection Design via a Foundation Model Orchestrated Workflow",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759941+00:00",
+  "collected_at": "2026-06-17T09:03:25.759941+00:00",
+  "summary": "该论文提出了一种基于基础模型编排的工作流，用于行人保护设计的代理辅助优化。核心内容是利用大型语言模型作为协调器，整合多个专业代理（如仿真、优化、数据管理）来自动化设计流程。其价值在于展示了如何将基础模型应用于工程优化领域，提高设计效率并降低对专家经验的依赖。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114546+00:00"
+}

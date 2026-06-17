@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-017",
+  "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17546",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759920+00:00",
+  "collected_at": "2026-06-17T09:03:25.759920+00:00",
+  "summary": "SEAGym是一个用于评估自进化LLM智能体的环境框架。它通过模拟动态交互场景，测试智能体在持续学习和适应新任务方面的能力。该工具为研究自我改进型AI系统提供了标准化的基准测试平台。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114540+00:00"
+}

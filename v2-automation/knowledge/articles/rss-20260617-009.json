@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-009",
+  "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17368",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759846+00:00",
+  "collected_at": "2026-06-17T09:03:25.759846+00:00",
+  "summary": "该论文提出了一种分布式通用代理网络架构，详细阐述了其核心机制和原型实现。该研究旨在解决现有代理系统在可扩展性和通用性方面的局限性，通过分布式设计实现更高效的协作与任务处理。其价值在于为构建大规模、多功能的代理系统提供了新的理论框架和实践参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114513+00:00"
+}

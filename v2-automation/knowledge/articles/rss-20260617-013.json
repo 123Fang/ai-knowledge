@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-013",
+  "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17453",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759885+00:00",
+  "collected_at": "2026-06-17T09:03:25.759885+00:00",
+  "summary": "该论文提出了MapSatisfyBench，一个用于评估地图智能体满意度的基准测试，通过行为隐含的决策因素来度量智能体的表现。核心价值在于提供了一种新的评估方法，能够更细致地理解智能体在复杂地图任务中的决策过程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114529+00:00"
+}
