@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260619-001",
+    "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-19T09:06:16.029447+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-19T09:06:16.029447+00:00"
+  },
+  {
+    "id": "rss-20260619-002",
+    "title": "AI demands more engineering discipline. Not less",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-19T09:06:16.029491+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-19T09:06:16.029491+00:00"
+  },
+  {
+    "id": "rss-20260619-003",
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://wpvip.com/future-of-the-web-2026/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-19T09:06:16.029503+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-19T09:06:16.029503+00:00"
+  },
+  {
+    "id": "rss-20260619-004",
+    "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19464",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095042+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095042+00:00"
+  },
+  {
+    "id": "rss-20260619-005",
+    "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19469",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095078+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095078+00:00"
+  },
+  {
+    "id": "rss-20260619-006",
+    "title": "Diffusion Language Models: An Experimental Analysis",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19475",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095087+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095087+00:00"
+  },
+  {
+    "id": "rss-20260619-007",
+    "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19494",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095094+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095094+00:00"
+  },
+  {
+    "id": "rss-20260619-008",
+    "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19501",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095102+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095102+00:00"
+  },
+  {
+    "id": "rss-20260619-009",
+    "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19509",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095107+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095107+00:00"
+  },
+  {
+    "id": "rss-20260619-010",
+    "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19522",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095112+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095112+00:00"
+  },
+  {
+    "id": "rss-20260619-011",
+    "title": "Emergent Alignment",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19527",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095116+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095116+00:00"
+  },
+  {
+    "id": "rss-20260619-012",
+    "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19538",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095121+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095121+00:00"
+  },
+  {
+    "id": "rss-20260619-013",
+    "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19559",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095125+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095125+00:00"
+  },
+  {
+    "id": "rss-20260619-014",
+    "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19588",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095129+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095129+00:00"
+  },
+  {
+    "id": "rss-20260619-015",
+    "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19602",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095133+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095133+00:00"
+  },
+  {
+    "id": "rss-20260619-016",
+    "title": "Which Pairs to Compare for LLM Post-Training?",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19607",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095137+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095137+00:00"
+  },
+  {
+    "id": "rss-20260619-017",
+    "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19626",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095142+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095142+00:00"
+  },
+  {
+    "id": "rss-20260619-018",
+    "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19630",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095146+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095146+00:00"
+  },
+  {
+    "id": "rss-20260619-019",
+    "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19651",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095150+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095150+00:00"
+  },
+  {
+    "id": "rss-20260619-020",
+    "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.19658",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-19T09:06:17.095154+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-19T09:06:17.095154+00:00"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-006",
+  "title": "Diffusion Language Models: An Experimental Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:06:17.095087+00:00",
+  "collected_at": "2026-06-19T09:06:17.095087+00:00",
+  "summary": "该论文对扩散语言模型进行了实验性分析，探讨了其在文本生成中的性能与特性。核心价值在于系统性地评估了扩散模型在语言任务上的表现，并与自回归模型进行了对比。研究为理解扩散模型在自然语言处理中的潜力提供了实证基础。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:06:58.958509+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-015",
+  "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19602",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:06:17.095133+00:00",
+  "collected_at": "2026-06-19T09:06:17.095133+00:00",
+  "summary": "本文探讨了在临床信息提取中应用可配置的代理式RAG（Agentic RAG）方法，分析了哪些策略有效、哪些会失败及其原因。通过实验评估不同配置对提取准确性和鲁棒性的影响，为医疗领域的信息提取提供了实用指导。该研究对于构建可靠、可解释的临床NLP系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:06:58.958539+00:00"
+}

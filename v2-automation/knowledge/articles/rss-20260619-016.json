@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-016",
+  "title": "Which Pairs to Compare for LLM Post-Training?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:06:17.095137+00:00",
+  "collected_at": "2026-06-19T09:06:17.095137+00:00",
+  "summary": "该论文探讨了在LLM后训练阶段中，如何选择最有效的对比样本对（pairs）以提升模型性能。核心内容是比较不同对比策略（如随机对比、困难负样本对比等）对模型对齐和泛化能力的影响。研究提供了实用的选择指南，有助于优化后训练流程，提升LLM在特定任务上的表现。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:06:58.958542+00:00"
+}

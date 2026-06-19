@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-011",
+  "title": "Emergent Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19527",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:06:17.095116+00:00",
+  "collected_at": "2026-06-19T09:06:17.095116+00:00",
+  "summary": "该内容探讨了AI模型在训练过程中自然涌现的对齐特性，即模型无需显式对齐训练就能表现出与人类价值观一致的行为。这种涌现对齐现象对AI安全研究具有重要意义，可能改变我们对模型对齐机制的理解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:06:58.958524+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-009",
+  "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19509",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:06:17.095107+00:00",
+  "collected_at": "2026-06-19T09:06:17.095107+00:00",
+  "summary": "该论文提出了一种通过跨模型归因差异来检测大语言模型在临床表格数据上的认知盲点的方法。核心价值在于识别模型不知道自身知识局限的场景，从而提高模型在医疗等高风险领域的可靠性。该方法利用多个模型之间的归因差异作为信号，无需外部知识库即可发现模型的知识边界。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:06:58.958518+00:00"
+}
