@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260623-020",
+  "title": "Bridging Multi-Valued Heuristics and Dimensionality Reduction in Multi-Objective Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20644",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T07:51:31.282927+00:00",
+  "collected_at": "2026-06-23T07:51:31.282927+00:00",
+  "summary": "该论文提出了一种在多目标搜索中桥接多值启发式与降维技术的方法，旨在提高搜索效率。核心价值在于通过结合两种技术，解决了多目标优化问题中的计算复杂性和性能平衡难题。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-23T07:52:11.226991+00:00"
+}
