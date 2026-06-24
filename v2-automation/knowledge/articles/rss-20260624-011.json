@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-011",
+  "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24099",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411574+00:00",
+  "collected_at": "2026-06-24T07:42:31.411574+00:00",
+  "summary": "该论文提出了一种基于学术论文全文的共现网络方法，用于分析算法的学术影响力。通过构建算法术语在全文中的共现关系，该方法能够更全面地评估算法在学术领域的影响力和传播路径。其核心价值在于提供了一种超越传统引用分析的视角，有助于理解算法在学术社区中的实际应用和关联。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.385013+00:00"
+}

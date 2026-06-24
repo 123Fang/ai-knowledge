@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260624-016",
+  "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24157",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411595+00:00",
+  "collected_at": "2026-06-24T07:42:31.411595+00:00",
+  "summary": "本文探讨了扩散模型和流匹配背后的几何原理，重点分析了Wasserstein空间中的梯度流和测地线。通过将生成过程视为概率空间中的最优传输路径，文章为理解扩散模型和流匹配的数学基础提供了统一视角。该内容对于深入理解生成模型的几何结构具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.385028+00:00"
+}

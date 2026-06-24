@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-004",
+  "title": "Critique of Agent Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.23991",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411532+00:00",
+  "collected_at": "2026-06-24T07:42:31.411532+00:00",
+  "summary": "该内容对智能体模型进行了批判性分析，探讨了其局限性、设计缺陷或潜在风险。它可能提供了改进方向或替代方案，对理解当前智能体技术的边界和未来研究具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.384986+00:00"
+}

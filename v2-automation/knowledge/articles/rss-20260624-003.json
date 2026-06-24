@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-003",
+  "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.23938",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411521+00:00",
+  "collected_at": "2026-06-24T07:42:31.411521+00:00",
+  "summary": "该论文提出了一种神经符号驱动方法，用于在驾驶视觉语言智能体（VLAs）中实现基于规则的可信推理。通过将神经网络与符号规则相结合，该方法增强了驾驶决策的透明度和可靠性，同时保持了端到端学习的灵活性。核心价值在于解决了纯神经方法在安全关键场景中推理不透明的问题。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.384983+00:00"
+}

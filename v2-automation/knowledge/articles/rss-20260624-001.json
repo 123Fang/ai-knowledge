@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-001",
+  "title": "AI's Affordability Crisis",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-24T07:42:30.509187+00:00",
+  "collected_at": "2026-06-24T07:42:30.509187+00:00",
+  "summary": "该文章探讨了人工智能领域面临的成本危机，指出随着模型规模扩大和计算需求增加，AI技术的可负担性正在下降。文章分析了成本上升的原因及其对行业发展的潜在影响，并可能提出应对策略。核心价值在于揭示AI普及化进程中的经济障碍。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.384965+00:00"
+}

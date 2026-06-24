@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-017",
+  "title": "An Introduction to Causal Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24160",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411600+00:00",
+  "collected_at": "2026-06-24T07:42:31.411600+00:00",
+  "summary": "本文介绍了因果强化学习（Causal Reinforcement Learning）的基本概念、核心方法及其在决策问题中的价值。通过将因果推断与强化学习相结合，该方法能够更好地处理环境中的因果结构，提升样本效率和泛化能力。文章适合作为该交叉领域的入门参考。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.385032+00:00"
+}
