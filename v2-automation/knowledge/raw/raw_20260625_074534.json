@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260625-001",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-25T07:45:33.689120+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-25T07:45:33.689120+00:00"
+  },
+  {
+    "id": "rss-20260625-002",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://rubyllm.com/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-25T07:45:33.689151+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-25T07:45:33.689151+00:00"
+  },
+  {
+    "id": "rss-20260625-003",
+    "title": "AI's Affordability Crisis",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-25T07:45:33.689160+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-25T07:45:33.689160+00:00"
+  },
+  {
+    "id": "rss-20260625-004",
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24937",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601300+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601300+00:00"
+  },
+  {
+    "id": "rss-20260625-005",
+    "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24965",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601335+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601335+00:00"
+  },
+  {
+    "id": "rss-20260625-006",
+    "title": "Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24976",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601345+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601345+00:00"
+  },
+  {
+    "id": "rss-20260625-007",
+    "title": "Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25066",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601351+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601351+00:00"
+  },
+  {
+    "id": "rss-20260625-008",
+    "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25103",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601356+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601356+00:00"
+  },
+  {
+    "id": "rss-20260625-009",
+    "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25108",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601359+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601359+00:00"
+  },
+  {
+    "id": "rss-20260625-010",
+    "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25161",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601363+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601363+00:00"
+  },
+  {
+    "id": "rss-20260625-011",
+    "title": "Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25176",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601367+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601367+00:00"
+  },
+  {
+    "id": "rss-20260625-012",
+    "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25178",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601370+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601370+00:00"
+  },
+  {
+    "id": "rss-20260625-013",
+    "title": "To Isolate or to Score? Model-Adaptive Assessment for Cost-Efficient Multi-Agent RAG",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25191",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601374+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601374+00:00"
+  },
+  {
+    "id": "rss-20260625-014",
+    "title": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25198",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601377+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601377+00:00"
+  },
+  {
+    "id": "rss-20260625-015",
+    "title": "Omni-Perception Policy Optimization for Multimodal Emotion Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25325",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601381+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601381+00:00"
+  },
+  {
+    "id": "rss-20260625-016",
+    "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25358",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601384+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601384+00:00"
+  },
+  {
+    "id": "rss-20260625-017",
+    "title": "What Actually Works for Spacecraft Fault-Tolerant Control: An Honest Settled-Gate Benchmark of Learned and Classical Methods",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25374",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601388+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601388+00:00"
+  },
+  {
+    "id": "rss-20260625-018",
+    "title": "Offline Multi-agent Continual Cooperation via Skill Partition and Reuse",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25389",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601392+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601392+00:00"
+  },
+  {
+    "id": "rss-20260625-019",
+    "title": "Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25396",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601395+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601395+00:00"
+  },
+  {
+    "id": "rss-20260625-020",
+    "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.25400",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-25T07:45:34.601399+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-25T07:45:34.601399+00:00"
+  }
+]

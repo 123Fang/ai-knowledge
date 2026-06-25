@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260625-017",
+  "title": "What Actually Works for Spacecraft Fault-Tolerant Control: An Honest Settled-Gate Benchmark of Learned and Classical Methods",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25374",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T07:45:34.601388+00:00",
+  "collected_at": "2026-06-25T07:45:34.601388+00:00",
+  "summary": "该论文对航天器容错控制中的学习方法和经典方法进行了公正的基准测试，评估了各种方法在实际故障场景下的性能。研究揭示了学习方法的局限性，并强调了经典方法在可靠性和鲁棒性方面的优势。该工作为航天器容错控制领域提供了重要的技术参考和实用指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T07:46:14.461261+00:00"
+}

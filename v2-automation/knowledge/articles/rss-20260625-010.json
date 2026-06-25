@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-010",
+  "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25161",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T07:45:34.601363+00:00",
+  "collected_at": "2026-06-25T07:45:34.601363+00:00",
+  "summary": "TRUSTMEM 提出了一种用于 LLM 智能体的长期记忆可信巩固方法，通过引入记忆可信度评估机制，确保智能体在长期交互中能够可靠地存储和检索关键信息。该方法解决了现有记忆系统在信息一致性、抗干扰性和长期可靠性方面的不足，提升了智能体在复杂任务中的表现。核心价值在于为 LLM 智能体提供了更稳定和可信的长期记忆能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T07:46:14.461241+00:00"
+}
