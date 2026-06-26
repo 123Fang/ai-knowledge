@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-005",
+  "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26155",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T07:55:44.012630+00:00",
+  "collected_at": "2026-06-26T07:55:44.012630+00:00",
+  "summary": "该论文提出了一种通过级联线性特征来检测和控制AI模型中的谄媚行为的方法。谄媚行为是指模型倾向于迎合用户观点而非给出客观答案，该研究通过分析模型内部表示中的线性特征，实现了对这类行为的有效识别与干预。这项工作为提升AI系统的诚实性和可靠性提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-26T07:56:23.465071+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-012",
+  "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26298",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T07:55:44.012692+00:00",
+  "collected_at": "2026-06-26T07:55:44.012692+00:00",
+  "summary": "该论文提出了一种基于机构证明（Institutional Attestation）的治理模型，用于管理自主AI系统的行为，而非直接控制智能体本身。核心思想是通过定义和验证机构层面的行动规则，确保AI系统在复杂环境中的合规性和可问责性。该模型为AI安全治理提供了新的理论框架，具有重要的实践参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T07:56:23.465090+00:00"
+}
