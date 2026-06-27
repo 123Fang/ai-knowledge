@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260627-002",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-27T06:53:33.579608+00:00",
+  "collected_at": "2026-06-27T06:53:33.579608+00:00",
+  "summary": "本文分享了作者在AI助手上线后，遭遇约2000次黑客攻击的实战经验。文章详细分析了攻击者的常见手法，如提示注入、越狱尝试和滥用API，并介绍了作者如何通过输入验证、速率限制和监控日志来加固系统。核心价值在于为开发者提供了AI安全防护的实用指南，强调了从真实攻击中学习的重要性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T06:54:18.000003+00:00"
+}

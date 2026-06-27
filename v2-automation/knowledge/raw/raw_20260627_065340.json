@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260627-001",
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-27T06:53:33.579577+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-27T06:53:33.579577+00:00"
+  },
+  {
+    "id": "rss-20260627-002",
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-27T06:53:33.579608+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-27T06:53:33.579608+00:00"
+  },
+  {
+    "id": "rss-20260627-003",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-27T06:53:33.579618+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-27T06:53:33.579618+00:00"
+  },
+  {
+    "id": "rss-20260627-004",
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://github.com/inkeep/open-knowledge",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-27T06:53:33.579627+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-27T06:53:33.579627+00:00"
+  },
+  {
+    "id": "rss-20260627-005",
+    "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-27T06:53:33.579635+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-27T06:53:33.579635+00:00"
+  },
+  {
+    "id": "rss-20260627-006",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/vllm-jobs",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207827+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207827+00:00"
+  },
+  {
+    "id": "rss-20260627-007",
+    "title": "Which tokens does a hybrid model predict better?",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207863+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207863+00:00"
+  },
+  {
+    "id": "rss-20260627-008",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207871+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207871+00:00"
+  },
+  {
+    "id": "rss-20260627-009",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207877+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207877+00:00"
+  },
+  {
+    "id": "rss-20260627-010",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207882+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207882+00:00"
+  },
+  {
+    "id": "rss-20260627-011",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207887+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207887+00:00"
+  },
+  {
+    "id": "rss-20260627-012",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/cross-origin-storage",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207892+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207892+00:00"
+  },
+  {
+    "id": "rss-20260627-013",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207896+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207896+00:00"
+  },
+  {
+    "id": "rss-20260627-014",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207901+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207901+00:00"
+  },
+  {
+    "id": "rss-20260627-015",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207905+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207905+00:00"
+  },
+  {
+    "id": "rss-20260627-016",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207909+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207909+00:00"
+  },
+  {
+    "id": "rss-20260627-017",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207914+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207914+00:00"
+  },
+  {
+    "id": "rss-20260627-018",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207918+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207918+00:00"
+  },
+  {
+    "id": "rss-20260627-019",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207923+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207923+00:00"
+  },
+  {
+    "id": "rss-20260627-020",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "source": "rss:Hugging Face Blog",
+    "source_url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "author": "Hugging Face Blog",
+    "published_at": "2026-06-27T06:53:40.207927+00:00",
+    "raw_description": "",
+    "category": "open-source",
+    "collected_at": "2026-06-27T06:53:40.207927+00:00"
+  }
+]
