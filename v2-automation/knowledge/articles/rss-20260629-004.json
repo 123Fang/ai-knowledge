@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-004",
+  "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27593",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.371006+00:00",
+  "collected_at": "2026-06-29T09:00:40.371006+00:00",
+  "summary": "该论文提出Odyssey框架，旨在构建可验证的、保持局部真实性的基础模型。核心在于通过形式化验证机制确保模型输出在局部上下文中的真实性，同时保持模型的泛化能力。该工作为提升大语言模型的可信度和可靠性提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845314+00:00"
+}

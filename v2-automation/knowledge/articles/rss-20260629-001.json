@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-001",
+  "title": "AI-Model Network: Concept, Current State and Future",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27382",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.370950+00:00",
+  "collected_at": "2026-06-29T09:00:40.370950+00:00",
+  "summary": "该内容探讨了AI模型网络的概念、当前发展状态及未来展望，核心是构建一个互联互通的AI模型生态系统，以提升模型协作与资源利用效率。当前状态可能涉及模型间的通信协议与标准化挑战，未来则指向更智能、自适应的网络架构。该分析为AI系统集成与分布式智能提供了有价值的视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845286+00:00"
+}

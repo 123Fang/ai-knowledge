@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260629-001",
+    "title": "AI-Model Network: Concept, Current State and Future",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27382",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.370950+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.370950+00:00"
+  },
+  {
+    "id": "rss-20260629-002",
+    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27443",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.370990+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.370990+00:00"
+  },
+  {
+    "id": "rss-20260629-003",
+    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27483",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371001+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371001+00:00"
+  },
+  {
+    "id": "rss-20260629-004",
+    "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27593",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371006+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371006+00:00"
+  },
+  {
+    "id": "rss-20260629-005",
+    "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27619",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371015+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371015+00:00"
+  },
+  {
+    "id": "rss-20260629-006",
+    "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27652",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371026+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371026+00:00"
+  },
+  {
+    "id": "rss-20260629-007",
+    "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27736",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371032+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371032+00:00"
+  },
+  {
+    "id": "rss-20260629-008",
+    "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27757",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371036+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371036+00:00"
+  },
+  {
+    "id": "rss-20260629-009",
+    "title": "Understanding Rollout Error in Graph World Models",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27780",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371041+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371041+00:00"
+  },
+  {
+    "id": "rss-20260629-010",
+    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27806",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371046+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371046+00:00"
+  },
+  {
+    "id": "rss-20260629-011",
+    "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27814",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371050+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371050+00:00"
+  },
+  {
+    "id": "rss-20260629-012",
+    "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27826",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371055+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371055+00:00"
+  },
+  {
+    "id": "rss-20260629-013",
+    "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27926",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371059+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371059+00:00"
+  },
+  {
+    "id": "rss-20260629-014",
+    "title": "RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.27967",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371063+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371063+00:00"
+  },
+  {
+    "id": "rss-20260629-015",
+    "title": "Lifted Causal Inference",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.28024",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371068+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371068+00:00"
+  },
+  {
+    "id": "rss-20260629-016",
+    "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.28070",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371072+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371072+00:00"
+  },
+  {
+    "id": "rss-20260629-017",
+    "title": "Ontology-Guided Evidence Path Inference for Multi-hop Knowledge Graph Question Answering",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.28076",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371077+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371077+00:00"
+  },
+  {
+    "id": "rss-20260629-018",
+    "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.28126",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371081+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371081+00:00"
+  },
+  {
+    "id": "rss-20260629-019",
+    "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.28166",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371086+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371086+00:00"
+  },
+  {
+    "id": "rss-20260629-020",
+    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.28270",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-29T09:00:40.371090+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-29T09:00:40.371090+00:00"
+  }
+]

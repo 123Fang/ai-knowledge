@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-002",
+  "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27443",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.370990+00:00",
+  "collected_at": "2026-06-29T09:00:40.370990+00:00",
+  "summary": "该论文探讨了在多智能体LLM团队中，团队成员个性特征（如开放性、尽责性等）的构成如何影响团队协作效率和任务表现。通过实验发现，个性多样性在特定任务类型下能显著提升团队性能，而个性同质性则可能在某些场景中更优。研究为设计更高效的多智能体协作系统提供了理论依据和实践指导。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845306+00:00"
+}
