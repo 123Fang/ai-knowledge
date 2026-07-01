@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-012",
+  "title": "Neuro-Bayesian-Symbolic Residual Attention Shallow Network: Explainable Deep Learning for Cybersecurity Risk Assessment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30953",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T08:15:36.129576+00:00",
+  "collected_at": "2026-07-01T08:15:36.129576+00:00",
+  "summary": "该论文提出了一种名为Neuro-Bayesian-Symbolic Residual Attention Shallow Network的新型深度学习架构，用于网络安全风险评估。它结合了神经网络、贝叶斯推理、符号推理和残差注意力机制，旨在提高模型的可解释性。通过浅层网络设计，该模型在保持高性能的同时降低了计算复杂度，为网络安全领域提供了更透明、可信的AI解决方案。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T08:16:14.998284+00:00"
+}

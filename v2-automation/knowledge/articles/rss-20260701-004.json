@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-004",
+  "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30846",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T08:15:36.129530+00:00",
+  "collected_at": "2026-07-01T08:15:36.129530+00:00",
+  "summary": "该论文通过实验研究探讨了如何利用AI技术根据数据格式、嵌入和检索策略来找到合适的模型。它系统性地比较了不同数据表示和检索方法对模型发现效果的影响，为模型选择自动化提供了有价值的实证依据。这项研究有助于提升AI系统的模型检索效率和准确性。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T08:16:14.998259+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-011",
+  "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30949",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T08:15:36.129572+00:00",
+  "collected_at": "2026-07-01T08:15:36.129572+00:00",
+  "summary": "AgRefactor 提出了一种自进化智能体工作流，用于提升高层次综合（HLS）的兼容性和性能。该方法通过智能体自动重构代码，以解决 HLS 工具链中的兼容性问题并优化性能。其核心价值在于自动化 HLS 代码优化，减少人工调试成本，提高设计效率。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T08:16:14.998281+00:00"
+}
