@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-007",
+  "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17328",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759830+00:00",
+  "collected_at": "2026-06-17T09:03:25.759830+00:00",
+  "summary": "本文提出MemTrace方法，用于探测长期记忆系统中最终准确率所遗漏的关键信息。通过分析记忆系统的内部状态，MemTrace能够揭示影响长期记忆性能的隐藏因素，从而为改进记忆系统设计提供指导。该研究对于理解AI系统长期记忆的局限性具有重要意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114507+00:00"
+}

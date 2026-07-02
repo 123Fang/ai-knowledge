@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-011",
+  "title": "Forecasting Future Behavior as a Learning Task",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T08:48:21.639404+00:00",
+  "collected_at": "2026-06-11T08:48:21.639404+00:00",
+  "summary": "该论文将未来行为预测视为一种学习任务，探讨如何利用机器学习模型从历史数据中推断和预测个体或系统的未来行为。核心价值在于提供了一种系统化的框架，将行为预测问题转化为可优化的学习目标，可能应用于推荐系统、用户建模或决策支持等领域。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T08:49:03.061113+00:00"
+}

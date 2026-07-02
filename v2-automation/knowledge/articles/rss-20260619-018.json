@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-018",
+  "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19630",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:06:17.095146+00:00",
+  "collected_at": "2026-06-19T09:06:17.095146+00:00",
+  "summary": "该论文回顾了过去十年AI4SE（AI for Software Engineering）和SE4AI（Software Engineering for AI）领域的研究进展，并展望了未来方向。它系统总结了AI技术在软件工程中的应用，以及软件工程方法如何支持AI系统的开发与维护。核心价值在于为相关领域的研究者和从业者提供了全面的综述和未来研究路线图。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:06:58.958547+00:00"
+}

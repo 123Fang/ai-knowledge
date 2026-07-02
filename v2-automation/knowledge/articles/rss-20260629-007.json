@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-007",
+  "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27736",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.371032+00:00",
+  "collected_at": "2026-06-29T09:00:40.371032+00:00",
+  "summary": "该论文提出了一种名为ToE的分层可解释声明验证框架，通过动态多源证据检索与聚合来提升事实核查的准确性和可解释性。核心价值在于结合层次化推理与证据融合机制，为复杂声明验证提供结构化解决方案。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845325+00:00"
+}

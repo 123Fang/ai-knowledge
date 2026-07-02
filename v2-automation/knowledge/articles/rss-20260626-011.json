@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-011",
+  "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26267",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T07:55:44.012687+00:00",
+  "collected_at": "2026-06-26T07:55:44.012687+00:00",
+  "summary": "该论文提出了一种结合漂移扩散模型（DDM）的Elo评分系统，用于加速国际象棋技能评估。通过将决策时间与准确性纳入评分更新，系统能更快收敛到真实技能水平。该方法在模拟和真实数据上均优于传统Elo系统，尤其适用于样本量有限的情况。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T07:56:23.465087+00:00"
+}

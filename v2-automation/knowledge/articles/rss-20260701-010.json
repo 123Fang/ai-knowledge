@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-010",
+  "title": "RoPoLL: Robust Panel of LLM Judges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30931",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T08:15:36.129567+00:00",
+  "collected_at": "2026-07-01T08:15:36.129567+00:00",
+  "summary": "RoPoLL 提出了一种鲁棒的 LLM 评估方法，通过构建多个 LLM 评审员组成的评审团来提升评估的稳定性和准确性。该方法旨在解决单一 LLM 作为评审员时可能存在的偏见和不一致问题，从而提供更可靠的模型性能评估。核心价值在于为 LLM 评估提供了一种更稳健、更可信的自动化方案。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T08:16:14.998278+00:00"
+}

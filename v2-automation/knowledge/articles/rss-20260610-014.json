@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-014",
+  "title": "Mobility Anomaly Generation using LLM-Driven Behavior with Kinematic Constraints",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10314",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T08:10:42.559605+00:00",
+  "collected_at": "2026-06-10T08:10:42.559605+00:00",
+  "summary": "该研究提出了一种利用大语言模型（LLM）驱动行为并施加运动学约束来生成移动异常的方法。核心在于结合LLM的语义理解能力与物理运动约束，以生成更真实、多样化的异常轨迹。其价值在于为自动驾驶、智能监控等领域提供更有效的异常数据生成手段，有助于提升相关模型的鲁棒性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T08:11:31.704620+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-002",
+  "title": "What Drives Interactive Improvement from Feedback?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30774",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T08:15:36.129483+00:00",
+  "collected_at": "2026-07-01T08:15:36.129483+00:00",
+  "summary": "该论文探讨了交互式反馈如何驱动AI系统的性能提升，分析了反馈机制在模型迭代中的关键作用。通过实验验证了不同反馈类型对模型改进的影响，为设计更有效的交互式学习系统提供了理论依据。研究价值在于揭示了反馈驱动改进的内在机制，有助于优化人机协作中的学习效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T08:16:14.998243+00:00"
+}

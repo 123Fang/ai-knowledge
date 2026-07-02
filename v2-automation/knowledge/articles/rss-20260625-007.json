@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-007",
+  "title": "Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25066",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T07:45:34.601351+00:00",
+  "collected_at": "2026-06-25T07:45:34.601351+00:00",
+  "summary": "该研究探讨了视觉-语言模型（VLMs）在经典视觉搜索任务中的表现，并将其与人类行为进行对比。通过分析模型生成的推理令牌（reasoning tokens）作为反应时间的模拟，揭示了模型在搜索过程中与人类相似的认知模式。这项工作为理解VLMs的视觉搜索机制提供了新视角，并可能推动更类人的人工智能系统设计。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T07:46:14.461232+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260627-014",
+  "title": "We got local models to triage the OpenClaw repo for FREE!*",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T06:53:40.207901+00:00",
+  "collected_at": "2026-06-27T06:53:40.207901+00:00",
+  "summary": "该文章介绍了如何利用本地模型对OpenClaw代码仓库进行自动分类和优先级排序，实现了零成本的技术债务管理。通过结合本地LLM和代码分析工具，团队能够高效地识别关键问题并分配修复任务。这种方法展示了本地模型在代码维护中的实用价值，降低了对外部API的依赖。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T06:54:18.000039+00:00"
+}

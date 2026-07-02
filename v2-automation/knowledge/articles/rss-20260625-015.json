@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-015",
+  "title": "Omni-Perception Policy Optimization for Multimodal Emotion Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25325",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T07:45:34.601381+00:00",
+  "collected_at": "2026-06-25T07:45:34.601381+00:00",
+  "summary": "本文提出了一种名为全感知策略优化的多模态情感推理方法，旨在通过整合视觉、音频和文本等多种模态信息来提升情感理解能力。该方法利用策略优化技术对多模态模型进行微调，从而在情感推理任务中取得更优性能。该研究为情感计算领域提供了新的技术路径，具有重要的应用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "audio",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T07:46:14.461256+00:00"
+}

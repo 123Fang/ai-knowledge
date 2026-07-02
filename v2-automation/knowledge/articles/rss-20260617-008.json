@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-008",
+  "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17339",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759839+00:00",
+  "collected_at": "2026-06-17T09:03:25.759839+00:00",
+  "summary": "SpeechDx是一个多任务基准测试，旨在评估临床语音AI的性能。它涵盖了多种语音相关的临床任务，如疾病诊断和语音障碍检测，为临床语音AI提供了一个标准化的评估框架。该基准测试有助于推动语音AI在医疗领域的应用和发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114510+00:00"
+}

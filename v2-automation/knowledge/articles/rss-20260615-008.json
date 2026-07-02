@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-008",
+  "title": "History of the Muddy Children Puzzle",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13703",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:25:57.545818+00:00",
+  "collected_at": "2026-06-15T10:25:57.545818+00:00",
+  "summary": "该内容回顾了泥巴孩子谜题的历史背景和演变过程，这是一个经典的逻辑谜题，用于展示共同知识和推理在智能体中的应用。文章可能探讨了该谜题在人工智能领域中的价值，特别是在多智能体系统和知识推理方面的启示。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:26:42.753653+00:00"
+}

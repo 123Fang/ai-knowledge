@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260615-014",
+  "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13731",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:25:57.545846+00:00",
+  "collected_at": "2026-06-15T10:25:57.545846+00:00",
+  "summary": "TwinBI 提出了一种基于智能体数字孪生的方法，用于增强与商业智能仪表盘的交互效率。该方法通过构建数字孪生体来模拟用户与仪表盘的交互过程，从而实现更高效、更直观的数据探索和分析。核心价值在于通过智能体技术优化了传统 BI 工具的用户体验，降低了数据分析的门槛。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:26:42.753681+00:00"
+}

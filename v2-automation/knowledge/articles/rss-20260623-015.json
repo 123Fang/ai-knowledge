@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260623-015",
+  "title": "Constituency Optimisation Through Hamiltonian Representation Of Mandates (COTHROM): Algorithmic Redistricting of Irish Election Boundaries",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20637",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T07:51:31.282901+00:00",
+  "collected_at": "2026-06-23T07:51:31.282901+00:00",
+  "summary": "该论文提出了一种基于哈密顿量表示选区授权的新算法COTHROM，用于优化爱尔兰选举边界划分。通过将选区划分问题转化为哈密顿系统的优化问题，该方法能够有效平衡人口均等性和地理连续性等约束条件。实验结果表明，COTHROM在保持选区边界合理性的同时，显著提高了划分的公平性和计算效率。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T07:52:11.226978+00:00"
+}

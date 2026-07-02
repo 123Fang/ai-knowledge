@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-010",
+  "title": "Latent Goal Prediction from Language for Model-Based Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20627",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T07:51:31.282880+00:00",
+  "collected_at": "2026-06-23T07:51:31.282880+00:00",
+  "summary": "该论文提出了一种从语言中预测潜在目标的方法，用于基于模型的规划。核心价值在于通过语言理解来推断智能体的目标，从而提升规划效率和准确性。该方法可能有助于在复杂环境中实现更智能的决策。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T07:52:11.226963+00:00"
+}

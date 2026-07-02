@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-006",
+  "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24014",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411548+00:00",
+  "collected_at": "2026-06-24T07:42:31.411548+00:00",
+  "summary": "该论文探讨了如何通过强化学习使AI模型产生广泛且持久的正面影响。核心内容涉及设计奖励函数和训练策略，以确保模型在长期交互中保持有益行为。其价值在于为构建更安全、更可靠的AI系统提供了理论框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.384993+00:00"
+}

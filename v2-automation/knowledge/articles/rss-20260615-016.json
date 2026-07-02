@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-016",
+  "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13734",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:25:57.545857+00:00",
+  "collected_at": "2026-06-15T10:25:57.545857+00:00",
+  "summary": "该研究重新分析了AI工具采纳与用户素养之间的关系，发现低素养用户更倾向于使用AI工具，但这一现象并非由于对AI的普遍接受度，而是特定工具的使用广度。研究通过工具特定的分析，挑战了先前关于AI接受度的普遍结论，强调了工具设计在AI采纳中的关键作用。其价值在于为AI工具推广和用户教育提供了更精细的视角。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:26:42.753687+00:00"
+}

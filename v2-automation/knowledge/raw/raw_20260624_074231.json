@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260624-001",
+    "title": "AI's Affordability Crisis",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-24T07:42:30.509187+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-24T07:42:30.509187+00:00"
+  },
+  {
+    "id": "rss-20260624-002",
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.23927",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411490+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411490+00:00"
+  },
+  {
+    "id": "rss-20260624-003",
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.23938",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411521+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411521+00:00"
+  },
+  {
+    "id": "rss-20260624-004",
+    "title": "Critique of Agent Model",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.23991",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411532+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411532+00:00"
+  },
+  {
+    "id": "rss-20260624-005",
+    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24010",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411542+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411542+00:00"
+  },
+  {
+    "id": "rss-20260624-006",
+    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24014",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411548+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411548+00:00"
+  },
+  {
+    "id": "rss-20260624-007",
+    "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24026",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411556+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411556+00:00"
+  },
+  {
+    "id": "rss-20260624-008",
+    "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24042",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411561+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411561+00:00"
+  },
+  {
+    "id": "rss-20260624-009",
+    "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24047",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411565+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411565+00:00"
+  },
+  {
+    "id": "rss-20260624-010",
+    "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24064",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411570+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411570+00:00"
+  },
+  {
+    "id": "rss-20260624-011",
+    "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24099",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411574+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411574+00:00"
+  },
+  {
+    "id": "rss-20260624-012",
+    "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24112",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411579+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411579+00:00"
+  },
+  {
+    "id": "rss-20260624-013",
+    "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24124",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411583+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411583+00:00"
+  },
+  {
+    "id": "rss-20260624-014",
+    "title": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24129",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411587+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411587+00:00"
+  },
+  {
+    "id": "rss-20260624-015",
+    "title": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24145",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411591+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411591+00:00"
+  },
+  {
+    "id": "rss-20260624-016",
+    "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24157",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411595+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411595+00:00"
+  },
+  {
+    "id": "rss-20260624-017",
+    "title": "An Introduction to Causal Reinforcement Learning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24160",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411600+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411600+00:00"
+  },
+  {
+    "id": "rss-20260624-018",
+    "title": "Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24169",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411604+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411604+00:00"
+  },
+  {
+    "id": "rss-20260624-019",
+    "title": "Navigating User Behavior toward Personalized Multimodal Generation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24196",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411611+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411611+00:00"
+  },
+  {
+    "id": "rss-20260624-020",
+    "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.24224",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-24T07:42:31.411615+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-24T07:42:31.411615+00:00"
+  }
+]

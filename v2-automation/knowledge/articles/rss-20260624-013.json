@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-013",
+  "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24124",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T07:42:31.411583+00:00",
+  "collected_at": "2026-06-24T07:42:31.411583+00:00",
+  "summary": "VeryTrace提出了一种通过可编译形式化方法和结构化验证来验证推理轨迹的新框架。该方法将推理过程转化为可编译的形式化表示，并利用结构化验证确保推理的正确性和可靠性，从而提升AI系统的可解释性和可信度。该技术对于需要严格推理验证的应用场景具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T07:43:09.385020+00:00"
+}

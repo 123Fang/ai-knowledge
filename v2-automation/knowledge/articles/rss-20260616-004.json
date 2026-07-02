@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-004",
+  "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14838",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:28:06.185373+00:00",
+  "collected_at": "2026-06-16T09:28:06.185373+00:00",
+  "summary": "本文探讨了什么是好的解释，并分析了在解释大型语言模型（LLM）输出时面临的挑战。核心内容在于定义解释的质量标准，并指出LLM的黑箱特性使得提供清晰、可验证的解释变得困难。该研究对于提升AI系统的透明度和可信度具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:28:50.476562+00:00"
+}

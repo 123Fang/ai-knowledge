@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260618-001",
+    "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-18T08:48:41.414455+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-18T08:48:41.414455+00:00"
+  },
+  {
+    "id": "rss-20260618-002",
+    "title": "AI demands more engineering discipline. Not less",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-18T08:48:41.414505+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-18T08:48:41.414505+00:00"
+  },
+  {
+    "id": "rss-20260618-003",
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://wpvip.com/future-of-the-web-2026/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-18T08:48:41.414522+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-18T08:48:41.414522+00:00"
+  },
+  {
+    "id": "rss-20260618-004",
+    "title": "Has AI already killed self-help nonfiction books?",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-18T08:48:41.414535+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-18T08:48:41.414535+00:00"
+  },
+  {
+    "id": "rss-20260618-005",
+    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17209",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280551+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280551+00:00"
+  },
+  {
+    "id": "rss-20260618-006",
+    "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17220",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280583+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280583+00:00"
+  },
+  {
+    "id": "rss-20260618-007",
+    "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17266",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280591+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280591+00:00"
+  },
+  {
+    "id": "rss-20260618-008",
+    "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17269",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280597+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280597+00:00"
+  },
+  {
+    "id": "rss-20260618-009",
+    "title": "Nothing from Something: Can a Language Model Discover 0?",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17289",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280602+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280602+00:00"
+  },
+  {
+    "id": "rss-20260618-010",
+    "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17312",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280606+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280606+00:00"
+  },
+  {
+    "id": "rss-20260618-011",
+    "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17328",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280615+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280615+00:00"
+  },
+  {
+    "id": "rss-20260618-012",
+    "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17339",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280620+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280620+00:00"
+  },
+  {
+    "id": "rss-20260618-013",
+    "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17368",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280625+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280625+00:00"
+  },
+  {
+    "id": "rss-20260618-014",
+    "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17405",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280630+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280630+00:00"
+  },
+  {
+    "id": "rss-20260618-015",
+    "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17443",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280636+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280636+00:00"
+  },
+  {
+    "id": "rss-20260618-016",
+    "title": "A Machine-Learned Comorbidity Index",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17450",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280640+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280640+00:00"
+  },
+  {
+    "id": "rss-20260618-017",
+    "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17453",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280645+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280645+00:00"
+  },
+  {
+    "id": "rss-20260618-018",
+    "title": "Dissecting model behavior through agent trajectories",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17454",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280649+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280649+00:00"
+  },
+  {
+    "id": "rss-20260618-019",
+    "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17459",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280654+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280654+00:00"
+  },
+  {
+    "id": "rss-20260618-020",
+    "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.17507",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-18T08:48:42.280658+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-18T08:48:42.280658+00:00"
+  }
+]

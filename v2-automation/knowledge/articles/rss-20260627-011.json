@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-011",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T06:53:40.207887+00:00",
+  "collected_at": "2026-06-27T06:53:40.207887+00:00",
+  "summary": "本文介绍了Hugging Face团队如何将AI工具和人工审核相结合，实现每周自动化发布huggingface_hub库。核心价值在于展示了在开源工具链中融入人类监督的持续集成/持续部署（CI/CD）实践，提升了发布效率与可靠性。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T06:54:18.000026+00:00"
+}

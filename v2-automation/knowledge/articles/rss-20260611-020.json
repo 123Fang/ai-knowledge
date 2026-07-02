@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-020",
+  "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11680",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T08:48:21.639439+00:00",
+  "collected_at": "2026-06-11T08:48:21.639439+00:00",
+  "summary": "该论文提出了一种名为“Hierarchical Memory Navigation”的新型记忆导航机制，用于提升AI代理在复杂任务中的效率。通过先组织记忆再检索的策略，代理能够更快速、准确地访问相关信息，从而减少计算开销并提高任务完成质量。该方法在多个基准测试中表现出色，为构建更高效的智能代理系统提供了重要思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T08:49:03.061137+00:00"
+}

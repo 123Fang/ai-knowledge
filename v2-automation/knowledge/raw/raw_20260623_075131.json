@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260623-001",
+    "title": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20569",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282772+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282772+00:00"
+  },
+  {
+    "id": "rss-20260623-002",
+    "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20599",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282813+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282813+00:00"
+  },
+  {
+    "id": "rss-20260623-003",
+    "title": "The New Associationism: Lessons from Deep Learning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20600",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282821+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282821+00:00"
+  },
+  {
+    "id": "rss-20260623-004",
+    "title": "Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20615",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282827+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282827+00:00"
+  },
+  {
+    "id": "rss-20260623-005",
+    "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20621",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282838+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282838+00:00"
+  },
+  {
+    "id": "rss-20260623-006",
+    "title": "Darwin Mobile Agent: A Roadmap for Self-Evolution",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20622",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282859+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282859+00:00"
+  },
+  {
+    "id": "rss-20260623-007",
+    "title": "Path-dependent program induction under resource constraints explains human sequence learning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20623",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282866+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282866+00:00"
+  },
+  {
+    "id": "rss-20260623-008",
+    "title": "In LLM Reasoning, there is Irrationality on top of Value Misalignment",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20624",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282870+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282870+00:00"
+  },
+  {
+    "id": "rss-20260623-009",
+    "title": "AlphaMemo: Structured Search-Process Memory for Self-Evolving Alpha Mining Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20625",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282875+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282875+00:00"
+  },
+  {
+    "id": "rss-20260623-010",
+    "title": "Latent Goal Prediction from Language for Model-Based Planning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20627",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282880+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282880+00:00"
+  },
+  {
+    "id": "rss-20260623-011",
+    "title": "Human Decision-Making with AI Assistance under Correlated Features",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20628",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282884+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282884+00:00"
+  },
+  {
+    "id": "rss-20260623-012",
+    "title": "Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20631",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282889+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282889+00:00"
+  },
+  {
+    "id": "rss-20260623-013",
+    "title": "DEMM-Bench: A Cross-Regime Benchmark for Agent-Runtime Governance-Evidence Sufficiency",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20634",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282893+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282893+00:00"
+  },
+  {
+    "id": "rss-20260623-014",
+    "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20636",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282897+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282897+00:00"
+  },
+  {
+    "id": "rss-20260623-015",
+    "title": "Constituency Optimisation Through Hamiltonian Representation Of Mandates (COTHROM): Algorithmic Redistricting of Irish Election Boundaries",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20637",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282901+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282901+00:00"
+  },
+  {
+    "id": "rss-20260623-016",
+    "title": "RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20638",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282906+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282906+00:00"
+  },
+  {
+    "id": "rss-20260623-017",
+    "title": "An LLM-Explainable DRL Framework for Passenger-Directed Autonomous Driving",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20640",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282910+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282910+00:00"
+  },
+  {
+    "id": "rss-20260623-018",
+    "title": "Hypothesis-Disciplined Multi-Agent Automated Formalization of Asymptotic Statistical Theory",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20642",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282915+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282915+00:00"
+  },
+  {
+    "id": "rss-20260623-019",
+    "title": "SPARC: A Multi-Agent System for Electrical Circuit Question Answering",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20643",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282922+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282922+00:00"
+  },
+  {
+    "id": "rss-20260623-020",
+    "title": "Bridging Multi-Valued Heuristics and Dimensionality Reduction in Multi-Objective Search",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.20644",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-23T07:51:31.282927+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-23T07:51:31.282927+00:00"
+  }
+]

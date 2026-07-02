@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-019",
+  "title": "Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25396",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T07:45:34.601395+00:00",
+  "collected_at": "2026-06-25T07:45:34.601395+00:00",
+  "summary": "该研究通过长期模拟实验，揭示了AI伴侣在认知发展方面可能存在的风险。核心内容强调了AI伴侣在持续交互中可能对用户认知发展产生负面影响，为AI伦理和安全设计提供了重要警示。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T07:46:14.461266+00:00"
+}

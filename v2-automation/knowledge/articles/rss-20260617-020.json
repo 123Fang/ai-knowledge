@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-020",
+  "title": "Closing the Feedback Loop: From Experience Extraction to Insight Governance in Verbal Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17591",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T09:03:25.759950+00:00",
+  "collected_at": "2026-06-17T09:03:25.759950+00:00",
+  "summary": "该论文提出了一种在语言强化学习中通过经验提取和洞察治理来闭环反馈循环的方法。核心内容涉及如何从交互经验中提取有用信息，并将其转化为可治理的洞察，以持续改进语言模型的表现。该工作对于提升强化学习在自然语言处理中的效率和可解释性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T09:04:12.114548+00:00"
+}

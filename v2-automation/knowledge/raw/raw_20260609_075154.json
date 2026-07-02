@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rss-20260609-001",
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-09T07:51:52.979612+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-09T07:51:52.979612+00:00"
+  },
+  {
+    "id": "rss-20260609-002",
+    "title": "Apple Core AI Framework",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://developer.apple.com/documentation/coreai/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-09T07:51:52.979635+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-09T07:51:52.979635+00:00"
+  },
+  {
+    "id": "rss-20260609-003",
+    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://news.ycombinator.com/item?id=48449187",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-09T07:51:52.979641+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-09T07:51:52.979641+00:00"
+  },
+  {
+    "id": "rss-20260609-004",
+    "title": "Siri AI",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.apple.com/apple-intelligence/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-09T07:51:52.979650+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-09T07:51:52.979650+00:00"
+  },
+  {
+    "id": "rss-20260609-005",
+    "title": "AI is slowing down",
+    "source": "rss:Hacker News (Best)",
+    "source_url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "author": "Hacker News (Best)",
+    "published_at": "2026-06-09T07:51:52.979656+00:00",
+    "raw_description": "",
+    "category": "general",
+    "collected_at": "2026-06-09T07:51:52.979656+00:00"
+  },
+  {
+    "id": "rss-20260609-006",
+    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07549",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.844923+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.844923+00:00"
+  },
+  {
+    "id": "rss-20260609-007",
+    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07577",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.844976+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.844976+00:00"
+  },
+  {
+    "id": "rss-20260609-008",
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07594",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.844986+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.844986+00:00"
+  },
+  {
+    "id": "rss-20260609-009",
+    "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07718",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.844991+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.844991+00:00"
+  },
+  {
+    "id": "rss-20260609-010",
+    "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07720",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.844996+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.844996+00:00"
+  },
+  {
+    "id": "rss-20260609-011",
+    "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07721",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845003+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845003+00:00"
+  },
+  {
+    "id": "rss-20260609-012",
+    "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07722",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845007+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845007+00:00"
+  },
+  {
+    "id": "rss-20260609-013",
+    "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07780",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845013+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845013+00:00"
+  },
+  {
+    "id": "rss-20260609-014",
+    "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07798",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845018+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845018+00:00"
+  },
+  {
+    "id": "rss-20260609-015",
+    "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07801",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845022+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845022+00:00"
+  },
+  {
+    "id": "rss-20260609-016",
+    "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07805",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845027+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845027+00:00"
+  },
+  {
+    "id": "rss-20260609-017",
+    "title": "Where Instruction Hierarchy Breaks: Diagnosing and Repairing Failures in Reasoning Language Models",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07808",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845031+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845031+00:00"
+  },
+  {
+    "id": "rss-20260609-018",
+    "title": "Scaling Participation in Modular AI Systems",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07812",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845036+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845036+00:00"
+  },
+  {
+    "id": "rss-20260609-019",
+    "title": "Joint Structural Pruning and Mixed-Precision Quantization for LLM Compression",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07819",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845040+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845040+00:00"
+  },
+  {
+    "id": "rss-20260609-020",
+    "title": "Overcoming the Regulatory Bottleneck via Agent-to-Agent Protocols: A Nuclear Case Study",
+    "source": "rss:arXiv cs.AI",
+    "source_url": "https://arxiv.org/abs/2606.07866",
+    "author": "arXiv cs.AI",
+    "published_at": "2026-06-09T07:51:54.845045+00:00",
+    "raw_description": "",
+    "category": "research",
+    "collected_at": "2026-06-09T07:51:54.845045+00:00"
+  }
+]

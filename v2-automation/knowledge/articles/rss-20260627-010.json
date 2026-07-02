@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260627-010",
+  "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T06:53:40.207882+00:00",
+  "collected_at": "2026-06-27T06:53:40.207882+00:00",
+  "summary": "该文章介绍了CUGA（一种轻量级框架），并提供了24个实际示例，展示了如何构建真正的代理型应用。核心价值在于通过具体案例演示了代理应用的实现方法，降低了开发门槛。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T06:54:18.000023+00:00"
+}

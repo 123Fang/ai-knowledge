@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-005",
+  "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27619",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.371015+00:00",
+  "collected_at": "2026-06-29T09:00:40.371015+00:00",
+  "summary": "该论文提出了DysLexLens，一个低资源的大型语言模型框架，用于分析在线论坛中阅读障碍学习者的见解。它利用LLM从论坛帖子中提取与阅读障碍相关的模式，为教育干预提供数据支持。核心价值在于为低资源场景下的特殊教育需求分析提供了一种高效、可扩展的技术方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845318+00:00"
+}

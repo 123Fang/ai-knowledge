@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-001",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-16T09:28:05.596224+00:00",
+  "collected_at": "2026-06-16T09:28:05.596224+00:00",
+  "summary": "该内容介绍了一个个人实验室环境下的AI开发平台搭建，涵盖了硬件配置、软件栈选择以及工作流集成。核心价值在于为开发者提供可复现的本地AI实验环境，降低云端依赖。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:28:50.476550+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-010",
+  "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11440",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T08:48:21.639401+00:00",
+  "collected_at": "2026-06-11T08:48:21.639401+00:00",
+  "summary": "该论文提出了一种基础设施感知的多智能体编排框架，旨在优化多智能体系统在异构计算环境中的部署与协作效率。通过动态感知底层基础设施状态（如网络延迟、计算负载），系统能够智能分配任务并调整智能体交互策略，从而提升整体性能与资源利用率。该工作为多智能体系统的实际落地提供了关键的技术支撑。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T08:49:03.061111+00:00"
+}

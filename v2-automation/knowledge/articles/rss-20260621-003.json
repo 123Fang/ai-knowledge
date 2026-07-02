@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260621-003",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-21T08:36:08.021543+00:00",
+  "collected_at": "2026-06-21T08:36:08.021543+00:00",
+  "summary": "本文介绍了如何利用自己的工具对开源AI模型进行基准测试，以评估其代理能力。核心内容聚焦于构建自定义评估流程，使开发者能够根据具体场景测试模型的工具使用和自主决策能力。该分享为选择适合特定任务的模型提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-21T08:36:53.173855+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-020",
+  "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26366",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T07:55:44.012726+00:00",
+  "collected_at": "2026-06-26T07:55:44.012726+00:00",
+  "summary": "该论文提出了一种名为“Narration-of-Thought”的推理时脚手架方法，旨在增强大型语言模型在可废止伦理推理中的能力。通过引导模型在推理过程中生成结构化的叙述，该方法提升了模型处理复杂伦理困境时的逻辑一致性和可解释性。其核心价值在于为LLM的伦理决策提供了一种新的、可扩展的推理框架。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-26T07:56:23.465113+00:00"
+}

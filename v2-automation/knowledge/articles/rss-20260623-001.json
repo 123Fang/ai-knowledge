@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260623-001",
+  "title": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T07:51:31.282772+00:00",
+  "collected_at": "2026-06-23T07:51:31.282772+00:00",
+  "summary": "该论文研究了共适应神经接口中用户适应性的可识别性问题，提出了一种方法以区分用户适应与系统学习。核心价值在于提升神经接口的鲁棒性和个性化性能，对脑机接口领域有重要指导意义。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T07:52:11.226927+00:00"
+}

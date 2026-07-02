@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-014",
+  "title": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25198",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T07:45:34.601377+00:00",
+  "collected_at": "2026-06-25T07:45:34.601377+00:00",
+  "summary": "该论文提出了一种名为Heuresis的搜索策略，旨在提升自主AI研究代理在生成内容时的质量、多样性和新颖性。通过平衡这些指标，该方法能够更有效地探索解决方案空间，从而推动AI在科研自动化领域的应用。核心价值在于为AI研究代理提供了一种系统化的搜索框架，以生成更具创新性的成果。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-25T07:46:14.461254+00:00"
+}

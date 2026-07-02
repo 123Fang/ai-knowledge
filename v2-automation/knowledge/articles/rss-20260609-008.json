@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-008",
+  "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07594",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T07:51:54.844986+00:00",
+  "collected_at": "2026-06-09T07:51:54.844986+00:00",
+  "summary": "该论文介绍了Syll，一个开源的个人自动化框架，支持跨表面执行，即在不同设备和平台上自动化任务。其核心价值在于提供灵活、可扩展的自动化解决方案，允许用户通过自然语言或编程方式定义工作流，并集成多种AI模型和工具。Syll旨在降低个人自动化门槛，提升跨设备任务执行的效率与一致性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T07:52:39.336254+00:00"
+}

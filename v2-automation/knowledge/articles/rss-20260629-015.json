@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260629-015",
+  "title": "Lifted Causal Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.371068+00:00",
+  "collected_at": "2026-06-29T09:00:40.371068+00:00",
+  "summary": "该论文提出了一种名为“提升因果推断”的方法，旨在通过利用数据中的层次结构或分组信息来提高因果效应估计的效率和准确性。其核心价值在于为处理具有嵌套或分组结构的观测数据提供了一种新的因果推断框架，从而在社会科学、流行病学等领域具有潜在应用。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845357+00:00"
+}

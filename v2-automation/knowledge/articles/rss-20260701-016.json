@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-016",
+  "title": "A Three-Phase Foundation Model for Tax-Aware Personalized Portfolio Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30997",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T08:15:36.129593+00:00",
+  "collected_at": "2026-07-01T08:15:36.129593+00:00",
+  "summary": "该论文提出了一种三阶段基础模型，用于税务感知的个性化投资组合管理。第一阶段利用预训练模型学习市场动态，第二阶段通过微调整合税务优化策略，第三阶段实现个性化投资组合调整。该模型在模拟和真实数据上均表现出优于传统方法的税务效率和收益表现。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T08:16:14.998299+00:00"
+}

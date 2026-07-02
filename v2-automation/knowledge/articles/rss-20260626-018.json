@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-018",
+  "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26356",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T07:55:44.012717+00:00",
+  "collected_at": "2026-06-26T07:55:44.012717+00:00",
+  "summary": "该研究揭示了在基于提示组合的智能体系统中，不同模块之间的指令泄露问题，即一个模块的提示指令可能会无意中影响其他模块的行为。这种跨模块干扰可能导致系统行为偏离预期，降低可靠性和安全性。论文分析了干扰的成因，并提出了缓解策略，对构建更健壮的智能体系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T07:56:23.465108+00:00"
+}

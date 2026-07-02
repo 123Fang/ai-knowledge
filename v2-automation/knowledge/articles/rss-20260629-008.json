@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-008",
+  "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27757",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:00:40.371036+00:00",
+  "collected_at": "2026-06-29T09:00:40.371036+00:00",
+  "summary": "该论文提出了一种符号反馈驱动的迭代自优化框架，旨在提升大语言模型（LLM）在规划任务中的可靠性和鲁棒性。通过利用符号规划器提供的结构化反馈，LLM能够迭代地自我修正和改进其生成的规划方案，从而减少幻觉和错误。该方法在多个规划基准上展示了显著的性能提升，为增强LLM在复杂推理任务中的实用性提供了有效途径。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-29T09:01:23.845329+00:00"
+}
