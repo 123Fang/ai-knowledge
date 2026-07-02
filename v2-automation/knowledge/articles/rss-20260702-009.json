@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-009",
+  "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706428+00:00",
+  "collected_at": "2026-07-02T07:34:00.706428+00:00",
+  "summary": "该论文探讨了LLM代理中记忆架构如何驱动语言涌现，从信号到结构的转变过程。核心价值在于揭示了记忆机制在代理语言生成中的关键作用，为理解LLM的认知能力提供了新视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035913+00:00"
+}

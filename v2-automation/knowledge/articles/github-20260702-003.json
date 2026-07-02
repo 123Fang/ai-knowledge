@@ -1,0 +1,19 @@
+{
+  "id": "github-20260702-003",
+  "title": "Signet-AI/signetai",
+  "source": "github",
+  "source_url": "https://github.com/Signet-AI/signetai",
+  "author": "Signet-AI",
+  "published_at": "2026-07-01T03:25:21Z",
+  "collected_at": "2026-07-02T07:33:59.703647+00:00",
+  "summary": "Signet-AI/signetai 是一个面向 AI 代理的本地优先身份、记忆和秘密管理工具。它支持跨模型和框架的便携状态，使代理能够在不同环境中保持一致的上下文和安全性。该项目的核心价值在于为 AI 代理提供去中心化的持久化层，增强其自主性和可移植性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035872+00:00"
+}

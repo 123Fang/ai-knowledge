@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260702-003",
+  "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00032",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706387+00:00",
+  "collected_at": "2026-07-02T07:34:00.706387+00:00",
+  "summary": "该论文提出了MMM数据模型，旨在为去中心化知识共享系统提供规范化的知识互操作性标准。通过定义统一的数据结构和交互协议，该模型支持不同AI系统间的知识交换与协作。其核心价值在于为构建可扩展、去中心化的知识网络提供基础框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035894+00:00"
+}

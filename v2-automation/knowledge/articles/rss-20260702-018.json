@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-018",
+  "title": "HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00572",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706468+00:00",
+  "collected_at": "2026-07-02T07:34:00.706468+00:00",
+  "summary": "该论文提出了一种名为HARC的方法，通过耦合有害性和拒绝方向来增强大语言模型的安全对齐。核心思想是识别并利用模型内部表示中的有害方向与拒绝方向，通过解耦和重新耦合这些方向来提升模型对有害输入的鲁棒性。该方法旨在解决现有安全对齐技术在面对对抗性攻击时容易失效的问题，具有重要的实用价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035940+00:00"
+}

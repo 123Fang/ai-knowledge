@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-013",
+  "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00407",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706447+00:00",
+  "collected_at": "2026-07-02T07:34:00.706447+00:00",
+  "summary": "该论文提出了一种将个性化视为逆规划问题的方法，通过学习潜在的设计意图来生成智能体幻灯片。它采用结构去噪技术，从用户行为中推断出设计意图，从而生成符合用户偏好的幻灯片。核心价值在于将用户个性化需求与AI生成过程相结合，提升了生成内容的针对性和质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035926+00:00"
+}

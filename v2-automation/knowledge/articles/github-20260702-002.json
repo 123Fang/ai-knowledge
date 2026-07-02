@@ -1,0 +1,19 @@
+{
+  "id": "github-20260702-002",
+  "title": "ZaxbyHub/opencode-swarm",
+  "source": "github",
+  "source_url": "https://github.com/ZaxbyHub/opencode-swarm",
+  "author": "ZaxbyHub",
+  "published_at": "2026-07-02T04:13:24Z",
+  "collected_at": "2026-07-02T07:33:59.703630+00:00",
+  "summary": "该项目是一个面向OpenCode的架构师中心化智能体集群插件，采用中心辐射式编排模式，集成了专家咨询、代码生成和质量审查功能。它通过一个核心架构师智能体协调多个专业智能体（如SME、代码生成器、QA审查员）协同工作，旨在提升复杂软件开发任务的效率和质量。该工具为开发者提供了一种结构化的多智能体协作框架，特别适合需要严格流程控制的代码生成场景。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035867+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "github-20260702-004",
+  "title": "serac-labs/serac",
+  "source": "github",
+  "source_url": "https://github.com/serac-labs/serac",
+  "author": "serac-labs",
+  "published_at": "2026-07-02T03:33:46Z",
+  "collected_at": "2026-07-02T07:33:59.703660+00:00",
+  "summary": "Serac 是一个开源的 AI 构建代理，专门针对 ServiceNow 平台，提供超过 400 个 MCP 工具，并支持用户自带 LLM 密钥（如 Claude、GPT、Gemini、Ollama）。它通过读取故事并自动生成更新集，简化了 ServiceNow 的开发和部署流程，显著提升了自动化效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "llm",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035875+00:00"
+}

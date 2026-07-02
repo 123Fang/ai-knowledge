@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-020",
+  "title": "Coachable agents for interactive gameplay",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706479+00:00",
+  "collected_at": "2026-07-02T07:34:00.706479+00:00",
+  "summary": "该论文提出了一种可被人类玩家实时指导的交互式游戏智能体，通过自然语言反馈和示范学习来动态调整行为。核心价值在于将人类教学融入强化学习循环，使智能体在复杂游戏环境中快速适应新策略，提升了人机协作的灵活性和可解释性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035945+00:00"
+}

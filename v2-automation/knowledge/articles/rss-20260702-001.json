@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-001",
+  "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00001",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706348+00:00",
+  "collected_at": "2026-07-02T07:34:00.706348+00:00",
+  "summary": "该论文探讨了在人类与AI交互过程中，如何通过建设性对齐（Constructive Alignment）来管理偏好动态。核心价值在于提出一种框架，使AI系统能够适应并引导用户偏好的演变，从而提升交互的长期一致性和用户满意度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035885+00:00"
+}

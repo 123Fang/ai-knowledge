@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-010",
+  "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00248",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T07:34:00.706433+00:00",
+  "collected_at": "2026-07-02T07:34:00.706433+00:00",
+  "summary": "Seed2.0 Model Card 介绍了面向真实世界复杂性的新一代AI模型，旨在提升模型在复杂场景下的推理和适应能力。该模型通过创新的架构和训练方法，在多个基准测试中展现出优异性能，为实际应用提供了更可靠的解决方案。核心价值在于推动AI技术从实验室环境向真实世界复杂问题的迁移。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035916+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "github-20260702-005",
+  "title": "dylanneve1/talon",
+  "source": "github",
+  "source_url": "https://github.com/dylanneve1/talon",
+  "author": "dylanneve1",
+  "published_at": "2026-07-02T00:07:19Z",
+  "collected_at": "2026-07-02T07:33:59.703671+00:00",
+  "summary": "dylanneve1/talon 是一个多平台代理型 AI 框架，支持在 Telegram、Discord、Teams 和终端上运行，并配备可插拔的后端（如 Claude、Kilo、OpenCode、Codex、OpenAI Agents）。它提供完整的 MCP 工具访问能力，以及持久化的后台代理（如 Goals、Heartbeat、Dream），适用于构建跨平台、可扩展的 AI 助手系统。该项目通过统一接口整合多种 AI 模型和工具，降低了多平台部署的复杂性，提升了代理的灵活性和持续性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "mcp",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035878+00:00"
+}

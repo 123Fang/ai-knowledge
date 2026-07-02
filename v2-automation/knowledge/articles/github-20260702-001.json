@@ -1,0 +1,19 @@
+{
+  "id": "github-20260702-001",
+  "title": "777genius/agent-teams-ai",
+  "source": "github",
+  "source_url": "https://github.com/777genius/agent-teams-ai",
+  "author": "777genius",
+  "published_at": "2026-07-02T06:27:23Z",
+  "collected_at": "2026-07-02T07:33:59.703582+00:00",
+  "summary": "该项目提出了一种多智能体协作框架，用户作为管理者通过看板下达高级指令，智能体自主执行任务、相互通信并审查工作。它支持Codex、Claude、OpenCode等200多种模型和75+LLM提供商，无需认证即可使用免费模型。核心价值在于通过多团队协作构建AI公司，实现任务自动化与高效管理。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T07:34:54.035857+00:00"
+}
