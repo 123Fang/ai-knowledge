@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-013",
+  "title": "The Agentic Garden of Forking Paths",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01507",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T07:21:54.325856+00:00",
+  "collected_at": "2026-07-03T07:21:54.325856+00:00",
+  "summary": "该论文探讨了在自主代理系统中，由于决策路径的分叉和组合爆炸导致的复杂性问题，提出了一个基于图论的分析框架来建模和优化代理的决策过程。核心价值在于为设计更稳健和可解释的自主代理系统提供了理论基础，并可能启发新的训练或推理策略。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-03T07:22:44.841605+00:00"
+}

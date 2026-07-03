@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-011",
+  "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01470",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T07:21:54.325847+00:00",
+  "collected_at": "2026-07-03T07:21:54.325847+00:00",
+  "summary": "该论文提出了一种在FHIR（快速医疗互操作性资源）环境中，通过世界反馈机制来诊断和优化临床智能体强化学习（RL）的方法。核心价值在于解决了医疗AI中环境反馈稀疏、延迟且高成本的问题，通过模拟世界模型提供密集反馈，从而加速RL训练并提升临床决策的可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-03T07:22:44.841599+00:00"
+}

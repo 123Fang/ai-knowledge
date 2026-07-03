@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-019",
+  "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01590",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T07:21:54.325891+00:00",
+  "collected_at": "2026-07-03T07:21:54.325891+00:00",
+  "summary": "Hawk 提出了一种硬件感知的知识驱动方法，用于生成高性能 NPU（神经网络处理单元）内核。该方法通过利用硬件特性优化内核生成，显著提升了 NPU 上的计算效率。核心价值在于为 AI 硬件加速提供了一种自动化、高效的内核生成方案。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T07:22:44.841624+00:00"
+}

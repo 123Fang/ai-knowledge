@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-017",
+  "title": "Scaling Trends for Lie Detector Oversight in Preference Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01567",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T07:21:54.325873+00:00",
+  "collected_at": "2026-07-03T07:21:54.325873+00:00",
+  "summary": "该论文探讨了在偏好学习中，使用测谎器（lie detector）进行监督的扩展趋势。核心内容可能涉及如何通过扩展测谎器规模来提升对AI模型（如LLM）输出真实性的监控能力，从而优化偏好学习过程。其价值在于为AI对齐和安全提供了一种可扩展的监督方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T07:22:44.841617+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-006",
+  "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01425",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T07:21:54.325823+00:00",
+  "collected_at": "2026-07-03T07:21:54.325823+00:00",
+  "summary": "该论文提出Agent4cs，一个用于大型层次化代码库摘要的多智能体系统。它通过多个智能体协作，分别处理代码结构分析、信息提取和摘要生成，以应对复杂代码库的挑战。该系统旨在提高代码理解和文档生成的效率与准确性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T07:22:44.841583+00:00"
+}
