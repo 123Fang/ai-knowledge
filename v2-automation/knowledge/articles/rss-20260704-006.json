@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260704-006",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/eee-community-evals",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-04T06:48:06.590363+00:00",
+  "collected_at": "2026-07-04T06:48:06.590363+00:00",
+  "summary": "Hugging Face 模型页面现在可以展示所有评估结果，包括各种基准测试的得分。这一功能让用户更直观地比较不同模型的性能，提升模型选择的效率。它为社区提供了标准化的评估展示方式，有助于推动模型评估的透明化和可复现性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T06:49:01.245936+00:00"
+}
