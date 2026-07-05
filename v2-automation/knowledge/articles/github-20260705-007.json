@@ -1,0 +1,19 @@
+{
+  "id": "github-20260705-007",
+  "title": "SDSLeon/lightcode",
+  "source": "github",
+  "source_url": "https://github.com/SDSLeon/lightcode",
+  "author": "SDSLeon",
+  "published_at": "2026-07-05T04:18:36Z",
+  "collected_at": "2026-07-05T07:27:43.626264+00:00",
+  "summary": "该项目提供了一个统一的界面窗口，允许用户同时运行多个AI编程代理，包括Claude、Codex、OpenCode、Gemini、Antigravity、Cursor和Copilot。它支持终端和聊天功能，并允许用户自定义布局，旨在提升AI辅助编程的效率和灵活性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-05T07:28:39.824704+00:00"
+}
