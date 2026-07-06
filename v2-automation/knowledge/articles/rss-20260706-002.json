@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260706-002",
+  "title": "🤗 Kernels: Major Updates",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-06T08:22:25.371727+00:00",
+  "collected_at": "2026-07-06T08:22:25.371727+00:00",
+  "summary": "Hugging Face 博客发布了关于 Kernels 的重大更新，主要涉及机器学习模型推理和训练的性能优化。该更新可能包括新的内核实现、加速库或对现有框架的改进，旨在提升计算效率。这些更新对于需要高效运行大规模模型的开发者和研究人员具有重要价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-06T08:23:16.018561+00:00"
+}
