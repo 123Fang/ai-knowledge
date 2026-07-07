@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-019",
+  "title": "Organizational Memory for Agentic Business Process Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03228",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T07:40:38.930959+00:00",
+  "collected_at": "2026-07-07T07:40:38.930959+00:00",
+  "summary": "该论文提出了一种组织记忆机制，用于增强智能体在业务流程执行中的长期记忆和上下文感知能力。通过将历史经验、业务规则和决策记录结构化存储，智能体能够更高效地复用知识并适应动态流程。该方法旨在解决现有智能体在复杂业务场景中缺乏持久记忆和协作一致性的问题。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T07:41:35.150308+00:00"
+}
