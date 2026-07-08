@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-014",
+  "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05773",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T06:29:16.701482+00:00",
+  "collected_at": "2026-07-08T06:29:16.701482+00:00",
+  "summary": "该论文提出了一种超越静态评估的方法，通过构建仿真环境来支持可扩展的智能体强化学习。核心价值在于解决了传统静态评估无法有效衡量智能体在动态环境中学习能力的问题，为强化学习研究提供了更真实的训练和测试平台。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T06:30:14.414577+00:00"
+}

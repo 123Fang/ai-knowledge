@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-001",
+  "title": "Small AI Models Gain Traction In places with unreliable networks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-08T06:29:15.882915+00:00",
+  "collected_at": "2026-07-08T06:29:15.882915+00:00",
+  "summary": "本文讨论了小型AI模型在网络不稳定的环境中逐渐受到关注。这些模型能够在离线或低带宽条件下运行，提供基本的AI功能，如文本生成和数据分析。它们通过降低计算需求和依赖网络连接，为偏远地区或网络基础设施薄弱的用户提供了实用的解决方案。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T06:30:14.414539+00:00"
+}

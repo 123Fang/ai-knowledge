@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260708-015",
+  "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05775",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T06:29:16.701487+00:00",
+  "collected_at": "2026-07-08T06:29:16.701487+00:00",
+  "summary": "该论文系统性地分析了大型语言模型智能体在工具使用、规划和推理方面的失败模式，超越了传统排行榜的简单性能比较。通过合成多种失败案例，揭示了当前LLM智能体在复杂任务中的根本性局限，为未来研究提供了重要的改进方向。该工作对理解LLM智能体的能力边界和提升其鲁棒性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T06:30:14.414580+00:00"
+}

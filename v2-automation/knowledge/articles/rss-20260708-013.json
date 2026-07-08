@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-013",
+  "title": "Synthetic Consumer Insight Generation with Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05761",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T06:29:16.701477+00:00",
+  "collected_at": "2026-07-08T06:29:16.701477+00:00",
+  "summary": "本文探讨了利用大型语言模型（LLM）生成合成消费者洞察的方法，旨在模拟消费者行为以支持市场研究和产品开发。通过LLM的生成能力，该方法能够高效、低成本地产生多样化的消费者反馈，从而替代或补充传统调研。核心价值在于为缺乏真实数据或需要快速迭代的场景提供可扩展的洞察生成方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T06:30:14.414574+00:00"
+}

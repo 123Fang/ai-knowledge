@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-010",
+  "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05690",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T06:29:16.701459+00:00",
+  "collected_at": "2026-07-08T06:29:16.701459+00:00",
+  "summary": "该论文提出了一种名为“Memory in the Loop”的方法，将检索增强生成（RAG）作为语言代理的扩展工作记忆，实现在处理过程中动态检索和整合信息。核心价值在于通过循环检索机制，使代理能够持续利用外部知识库，提升复杂推理和任务执行的准确性。该方法在多个基准测试中展示了优于传统RAG和固定记忆方法的性能。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T06:30:14.414565+00:00"
+}

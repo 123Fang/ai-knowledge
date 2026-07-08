@@ -1,0 +1,19 @@
+{
+  "id": "github-20260708-003",
+  "title": "0xranx/golembot",
+  "source": "github",
+  "source_url": "https://github.com/0xranx/golembot",
+  "author": "0xranx",
+  "published_at": "2026-07-07T10:15:17Z",
+  "collected_at": "2026-07-08T06:29:11.293191+00:00",
+  "summary": "该项目提供了一个通用代理框架，支持将多种AI代理（如Cursor、Claude Code）连接到各种消息平台（如Slack、Telegram）和LLM提供商。其核心价值在于实现了代理、平台和模型提供者的解耦，允许用户灵活组合和部署。这简化了在不同环境中集成和运行AI代理的流程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T06:30:14.414506+00:00"
+}
