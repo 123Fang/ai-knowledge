@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-019",
+  "title": "MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07391",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T07:38:02.559921+00:00",
+  "collected_at": "2026-07-09T07:38:02.559921+00:00",
+  "summary": "MIRA-Math 是一个用于评估大语言模型在最小信息请求和数学推理能力上的新基准。它通过设计需要模型主动请求缺失信息才能解决的数学问题，来测试模型的推理和交互能力。该基准有助于推动更智能、更接近人类推理的 AI 系统发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T07:38:59.084246+00:00"
+}

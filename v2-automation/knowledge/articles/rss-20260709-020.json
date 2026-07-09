@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260709-020",
+  "title": "Agentic Data Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T07:38:02.559925+00:00",
+  "collected_at": "2026-07-09T07:38:02.559925+00:00",
+  "summary": "该内容探讨了Agentic Data Environments的概念，即通过智能代理（Agent）来管理和操作数据环境，实现自动化数据处理和分析。其核心价值在于提升数据处理的效率和灵活性，为复杂数据任务提供新的解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T07:38:59.084249+00:00"
+}
