@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260710-002",
+  "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://microsoft.github.io/flint-chart/#/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-10T07:37:24.152328+00:00",
+  "collected_at": "2026-07-10T07:37:24.152328+00:00",
+  "summary": "微软发布了Flint，一种专为AI智能体设计的可视化语言。该语言旨在帮助开发者更直观地构建和调试AI智能体的行为逻辑，通过可视化方式简化复杂流程的表示。Flint的发布为AI智能体开发提供了新的工具，有望提升开发效率和可理解性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T07:38:19.085448+00:00"
+}
