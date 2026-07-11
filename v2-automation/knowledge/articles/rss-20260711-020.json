@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-020",
+  "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08066",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974495+00:00",
+  "collected_at": "2026-07-11T06:14:22.974495+00:00",
+  "summary": "该论文探讨了说服攻击（Persuasion Attacks）如何降低思维链（Chain-of-Thought, CoT）监控的有效性。研究发现，通过精心设计的提示，攻击者可以操纵模型生成看似合理的推理过程，从而绕过安全监控。这项工作揭示了当前CoT监控方法的脆弱性，并强调了在部署前需要更鲁棒的防御机制。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080239+00:00"
+}

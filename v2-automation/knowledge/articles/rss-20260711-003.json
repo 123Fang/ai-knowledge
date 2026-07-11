@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-003",
+  "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07760",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974412+00:00",
+  "collected_at": "2026-07-11T06:14:22.974412+00:00",
+  "summary": "该论文探讨了由人类和大型语言模型（LLM）组成的混合群体中的对抗性社会认识论。它分析了在信息共享和决策过程中，LLM 如何可能被用于传播错误信息或进行社会操纵，以及如何设计机制来增强此类混合群体的认知韧性。核心价值在于为构建更可靠的人机协作系统提供了理论框架和设计原则。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080183+00:00"
+}

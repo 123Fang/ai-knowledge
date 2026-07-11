@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-015",
+  "title": "Agentic Neural Architecture Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07984",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974474+00:00",
+  "collected_at": "2026-07-11T06:14:22.974474+00:00",
+  "summary": "Agentic Neural Architecture Search (Agentic NAS) 是一种利用智能体（agent）自动化搜索最优神经网络架构的方法。它通过强化学习或进化算法，让智能体自主探索和评估不同的网络结构，从而在无需人工干预的情况下发现高性能模型。该技术能显著降低神经网络设计的人力成本，并可能发现超越人类直觉的创新架构。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080221+00:00"
+}

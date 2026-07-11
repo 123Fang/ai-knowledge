@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-001",
+  "title": "Context Graphs for Proactive Enterprise Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07721",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974376+00:00",
+  "collected_at": "2026-07-11T06:14:22.974376+00:00",
+  "summary": "该技术内容探讨了通过构建上下文图（Context Graphs）来增强企业级AI代理的主动能力。核心价值在于使代理能够动态理解并利用复杂的业务上下文，从而更智能地预测需求并执行任务。这种方法有望提升企业自动化系统的效率和适应性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080168+00:00"
+}

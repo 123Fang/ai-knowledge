@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-019",
+  "title": "When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08065",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974491+00:00",
+  "collected_at": "2026-07-11T06:14:22.974491+00:00",
+  "summary": "该论文探讨了将LLM的自一致性和跨模型一致性作为置信度信号的有效性。通过审计实验，分析了当多个LLM输出一致时，其正确性是否更高。研究为评估LLM输出的可靠性提供了新视角，对提升模型可信度有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080237+00:00"
+}

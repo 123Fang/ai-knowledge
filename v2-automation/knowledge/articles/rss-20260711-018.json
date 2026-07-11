@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-018",
+  "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08038",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974487+00:00",
+  "collected_at": "2026-07-11T06:14:22.974487+00:00",
+  "summary": "该论文提出了一种面向安全的假设-演绎框架，用于AI辅助的鉴别诊断。核心价值在于通过结构化推理过程提高诊断的安全性和可靠性，减少AI辅助诊断中的错误。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080234+00:00"
+}

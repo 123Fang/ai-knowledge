@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-007",
+  "title": "Infinity-Parser2 Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07836",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974439+00:00",
+  "collected_at": "2026-07-11T06:14:22.974439+00:00",
+  "summary": "Infinity-Parser2 技术报告介绍了一种新型的文档解析器，旨在高效处理复杂文档结构，如表格、图表和数学公式。该解析器利用先进的视觉和语言模型，提升了从非结构化文档中提取结构化信息的准确性和速度。其核心价值在于为 RAG 系统、知识库构建和自动化文档处理提供更可靠的预处理工具。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080197+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-005",
+  "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07766",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T06:14:22.974428+00:00",
+  "collected_at": "2026-07-11T06:14:22.974428+00:00",
+  "summary": "该论文提出了“对齐合理性”作为评估医疗AI系统的新标准，旨在确保AI模型在临床环境中的行为与人类价值观和医疗目标一致。它超越了传统性能指标，关注模型决策的可解释性和可靠性，为医疗AI的安全部署提供了更全面的保障框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T06:15:13.080190+00:00"
+}
