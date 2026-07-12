@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-009",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-12T06:34:24.191758+00:00",
+  "collected_at": "2026-07-12T06:34:24.191758+00:00",
+  "summary": "该文章介绍了如何在Foundry Managed Compute平台上部署和使用Hugging Face模型，强调了简化模型部署流程和提升计算效率的核心价值。通过整合Hugging Face的模型库与Foundry的计算资源，用户能够更便捷地运行和扩展AI模型。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T06:35:13.175993+00:00"
+}
