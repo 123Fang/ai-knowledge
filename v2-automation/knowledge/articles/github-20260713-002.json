@@ -1,0 +1,19 @@
+{
+  "id": "github-20260713-002",
+  "title": "Devin-AXIS/iPolloWork",
+  "source": "github",
+  "source_url": "https://github.com/Devin-AXIS/iPolloWork",
+  "author": "Devin-AXIS",
+  "published_at": "2026-07-13T05:05:52Z",
+  "collected_at": "2026-07-13T06:54:23.013816+00:00",
+  "summary": "Devin-AXIS/iPolloWork 是一个下一代、源码可用的AI代理工作空间，旨在替代Codex和Claude Code。它支持本地优先和自托管，能够处理代码、办公工作、可编辑设计、演示文稿、网站和视频等多种任务。用户可以通过AI构建内容，然后像使用PowerPoint一样轻松编辑文本、图像、颜色、布局和场景。该工具强调灵活性和易用性，将AI生成与手动编辑无缝结合。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T06:55:20.010008+00:00"
+}

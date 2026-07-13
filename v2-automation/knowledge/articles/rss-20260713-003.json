@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-003",
+  "title": "Mesh LLM: distributed AI computing on iroh",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.iroh.computer/blog/mesh-llm",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-13T06:54:24.652269+00:00",
+  "collected_at": "2026-07-13T06:54:24.652269+00:00",
+  "summary": "Mesh LLM 提出了一种基于 iroh 的分布式 AI 计算架构，旨在通过去中心化方式实现大语言模型的协同推理与训练。该技术利用 iroh 的点对点网络与数据同步能力，降低对中心化服务器的依赖，提升计算效率与隐私保护。其核心价值在于为边缘设备或异构节点提供可扩展的分布式 LLM 部署方案，推动 AI 计算的去中心化进程。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T06:55:20.010032+00:00"
+}

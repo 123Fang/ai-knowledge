@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-009",
+  "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08894",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T06:54:25.998576+00:00",
+  "collected_at": "2026-07-13T06:54:25.998576+00:00",
+  "summary": "GATS 提出了一种结合图增强树搜索与分层世界模型的方法，用于提升 AI 智能体的规划效率。该方法通过构建分层世界模型来抽象环境状态，并利用图结构引导树搜索，从而在复杂任务中减少搜索空间并提高规划成功率。其核心价值在于为智能体规划提供了一种更高效、可扩展的解决方案，尤其适用于需要长期推理的场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T06:55:20.010045+00:00"
+}
