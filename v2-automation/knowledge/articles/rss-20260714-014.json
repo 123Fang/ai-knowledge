@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260714-014",
+  "title": "AGM-like Paraconsistent Partial Meet Abductive Expansion Operation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09729",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T06:12:07.408813+00:00",
+  "collected_at": "2026-07-14T06:12:07.408813+00:00",
+  "summary": "该论文提出了一种基于AGM信念修正理论的次协调部分合取溯因扩展操作，旨在处理不一致信息下的推理问题。通过引入次协调逻辑，该方法允许在矛盾存在的情况下进行合理的溯因推理，扩展了经典AGM框架的适用范围。该研究为人工智能中的非单调推理和知识更新提供了新的理论基础，特别适用于处理现实世界中的不一致数据。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-14T06:12:59.712794+00:00"
+}

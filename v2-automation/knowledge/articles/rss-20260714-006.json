@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-006",
+  "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09678",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T06:12:07.408783+00:00",
+  "collected_at": "2026-07-14T06:12:07.408783+00:00",
+  "summary": "该论文研究了在多跳智能体中继中，消息格式对信息传递的影响，发现智能体倾向于忠实传递而非纠正错误，且这种影响依赖于层级。研究揭示了多智能体协作中的关键通信问题，为设计更可靠的多智能体系统提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T06:12:59.712772+00:00"
+}
