@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260716-009",
+  "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13219",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T06:20:10.915765+00:00",
+  "collected_at": "2026-07-16T06:20:10.915765+00:00",
+  "summary": "该论文提出了一种名为CayleyR的算法，通过循环交集方法解决TopSpin谜题。核心创新在于利用群论中的Cayley图来建模谜题状态空间，并设计高效的循环检测与交集策略，从而显著减少搜索空间。该方法在标准TopSpin实例上取得了优于传统搜索算法的性能，展示了代数方法在组合优化问题中的潜力。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T06:21:05.266637+00:00"
+}
