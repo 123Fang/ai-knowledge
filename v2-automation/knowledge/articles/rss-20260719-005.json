@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260719-005",
+  "title": "The state of open source AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stateofopensource.ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-19T06:31:10.817413+00:00",
+  "collected_at": "2026-07-19T06:31:10.817413+00:00",
+  "summary": "该文章探讨了开源AI的当前状态，包括主要模型、工具和社区的进展。它分析了开源AI与闭源AI的竞争格局，并强调了开源在推动创新和可访问性方面的价值。内容适合对AI技术趋势感兴趣的读者。",
+  "score": 7,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T06:32:05.627457+00:00"
+}

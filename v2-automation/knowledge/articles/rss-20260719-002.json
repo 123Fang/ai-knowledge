@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260719-002",
+  "title": "What AI did to stackoverflow in a graph",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-19T06:31:10.817399+00:00",
+  "collected_at": "2026-07-19T06:31:10.817399+00:00",
+  "summary": "该内容通过图表形式展示了AI对Stack Overflow社区的影响，可能涉及问答量变化、用户行为迁移或内容质量演变。核心价值在于直观呈现AI技术如何重塑开发者知识获取模式，为社区运营和AI工具设计提供数据洞察。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T06:32:05.627445+00:00"
+}
