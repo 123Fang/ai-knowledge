@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-008",
+  "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15442",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609614+00:00",
+  "collected_at": "2026-07-20T06:48:20.609614+00:00",
+  "summary": "该论文提出了一种多角度推理方法，用于检测和解释模因中的有害幽默。通过结合视觉和文本信息，模型能够从多个视角分析模因，识别潜在的有害内容并生成解释。这项工作有助于提升社交媒体内容审核的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019492+00:00"
+}

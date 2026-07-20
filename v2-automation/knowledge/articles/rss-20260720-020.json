@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-020",
+  "title": "Knowledge-Centric Agents for Workflow Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15845",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609672+00:00",
+  "collected_at": "2026-07-20T06:48:20.609672+00:00",
+  "summary": "该论文提出了一种以知识为中心的智能体方法，用于自动化工作流生成。通过将领域知识显式编码到智能体中，该方法能够更准确地理解和执行复杂的工作流任务。核心价值在于提升了工作流生成的效率和可靠性，为自动化流程设计提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019530+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-019",
+  "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15781",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609668+00:00",
+  "collected_at": "2026-07-20T06:48:20.609668+00:00",
+  "summary": "该论文提出了一个名为AgentFAIR的多智能体协作框架，用于评估地理空间数据集的FAIR（可查找、可访问、可互操作、可重用）原则符合性。通过多个AI智能体协同工作，该框架能够自动化评估过程，提高评估的效率和一致性。其核心价值在于为地理空间数据管理提供了一种可扩展的、基于AI的标准化评估方法。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019527+00:00"
+}

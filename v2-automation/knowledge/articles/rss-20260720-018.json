@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-018",
+  "title": "NeurOWL: An LLM-Based Neural-symbolic Framework for Incomplete OWL Ontology Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15776",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609663+00:00",
+  "collected_at": "2026-07-20T06:48:20.609663+00:00",
+  "summary": "NeurOWL 提出了一种基于大语言模型的神经符号框架，用于处理不完整的 OWL 本体推理任务。该框架结合了神经网络的灵活性和符号推理的严谨性，能够在不完整知识下进行有效推理。其核心价值在于提升了本体推理的鲁棒性和准确性，为知识图谱和语义网领域提供了新的解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019524+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-015",
+  "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15660",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609649+00:00",
+  "collected_at": "2026-07-20T06:48:20.609649+00:00",
+  "summary": "ToolVerse 提出了一种用于智能体强化学习的新框架，旨在解锁大规模环境和长时域任务。该框架通过工具使用机制增强智能体的能力，使其能够在复杂环境中进行长期规划和决策。核心价值在于推动强化学习在真实世界大规模应用中的可行性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reinforcement-learning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019515+00:00"
+}

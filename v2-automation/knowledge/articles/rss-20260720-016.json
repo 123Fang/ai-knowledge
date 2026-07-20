@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-016",
+  "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15686",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609654+00:00",
+  "collected_at": "2026-07-20T06:48:20.609654+00:00",
+  "summary": "S1-Omni 提出了一种统一的多模态推理模型，旨在整合科学理解、预测和生成任务。该模型通过联合处理文本、图像和科学数据，提升了跨模态的科学推理能力。其核心价值在于为科学研究提供端到端的解决方案，减少了对特定任务单独建模的需求。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019518+00:00"
+}

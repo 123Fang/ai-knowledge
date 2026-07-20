@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-017",
+  "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15715",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T06:48:20.609658+00:00",
+  "collected_at": "2026-07-20T06:48:20.609658+00:00",
+  "summary": "该论文探讨了代理模型在信息抽取中的行为可控性，从固定工作流演进到反思型代理。核心价值在于提出一种框架，使代理系统能够根据任务需求动态调整行为，提升信息抽取的准确性和适应性。通过引入反思机制，代理可以自我评估并优化抽取策略，从而在复杂场景下实现更可靠的结果。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T06:49:09.019521+00:00"
+}
