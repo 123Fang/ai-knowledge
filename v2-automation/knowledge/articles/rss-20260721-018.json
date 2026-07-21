@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-018",
+  "title": "A Survey on the Verification of Reinforcement Learning Policies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16210",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T06:29:06.277678+00:00",
+  "collected_at": "2026-07-21T06:29:06.277678+00:00",
+  "summary": "该论文综述了强化学习策略验证领域的研究进展，系统总结了形式化验证、运行时监控和统计验证等方法在确保RL策略安全性与可靠性方面的应用。其核心价值在于为RL系统部署提供理论支撑，帮助识别和缓解策略执行中的潜在风险。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T06:29:56.109853+00:00"
+}

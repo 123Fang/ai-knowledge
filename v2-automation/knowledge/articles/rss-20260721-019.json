@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-019",
+  "title": "Accurate and Efficient Long-Term Memory for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16211",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T06:29:06.277685+00:00",
+  "collected_at": "2026-07-21T06:29:06.277685+00:00",
+  "summary": "该论文提出了一种针对LLM代理的准确且高效的长时记忆机制，旨在解决现有记忆系统在信息检索和存储上的效率与准确性瓶颈。通过优化记忆的编码、索引和检索流程，该方法显著提升了代理在长对话或持续任务中的表现。其核心价值在于使LLM代理能够更可靠地利用历史信息，从而增强其自主性和实用性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T06:29:56.109855+00:00"
+}

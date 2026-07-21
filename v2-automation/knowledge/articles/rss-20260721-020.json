@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-020",
+  "title": "Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16212",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T06:29:06.277689+00:00",
+  "collected_at": "2026-07-21T06:29:06.277689+00:00",
+  "summary": "该论文提出了一种符号增强方法，用于解决神经事实核查模型在规范等价性方面的盲点。通过引入符号知识，该方法提升了模型对语义等价变体的识别能力。这项研究展示了符号与神经方法结合在提升事实核查准确性方面的价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T06:29:56.109858+00:00"
+}

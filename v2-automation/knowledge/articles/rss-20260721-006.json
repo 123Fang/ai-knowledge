@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-006",
+  "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16197",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T06:29:06.277617+00:00",
+  "collected_at": "2026-07-21T06:29:06.277617+00:00",
+  "summary": "该研究探讨了大型语言模型在决策任务中是否表现出一致的风险态度。通过设计一系列涉及风险选择的实验，发现某些LLM确实展现出类似人类的风险偏好，且这种态度在不同情境下保持相对稳定。这一发现对于理解LLM的决策机制及其在金融、博弈等领域的应用具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T06:29:56.109815+00:00"
+}
