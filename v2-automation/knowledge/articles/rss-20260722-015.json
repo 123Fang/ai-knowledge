@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-015",
+  "title": "Probabilistic Concept-Aware Steering for Trustworthy LLM Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18259",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T06:29:48.775899+00:00",
+  "collected_at": "2026-07-22T06:29:48.775899+00:00",
+  "summary": "本文提出了一种概率概念感知的引导方法，用于增强大语言模型推理的可信度。通过将概念层面的概率信息融入推理过程，该方法能够有效减少模型输出中的不确定性，提升决策的可靠性和透明度。该技术对于构建更安全、更可解释的AI系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T06:30:42.481048+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260722-018",
+  "title": "ProbSPARQL: Querying Knowledge Graphs with Multi-dimensional, Uncertain Numeric Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18262",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T06:29:48.775912+00:00",
+  "collected_at": "2026-07-22T06:29:48.775912+00:00",
+  "summary": "ProbSPARQL 是一种扩展 SPARQL 查询语言的方法，用于处理知识图谱中多维、不确定的数值数据。它通过概率模型和统计方法，支持对带有不确定性的数值属性进行查询和推理，从而增强知识图谱在科学和工程领域的实用性。该技术为处理现实世界中的模糊和噪声数据提供了更灵活的查询能力。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T06:30:42.481057+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-005",
+  "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18243",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T06:29:48.775850+00:00",
+  "collected_at": "2026-07-22T06:29:48.775850+00:00",
+  "summary": "该论文提出了一种用于构建弹性自主AI系统的组合框架，通过将智能体失败路径转化为量化剩余风险，实现了对系统鲁棒性的系统化评估。核心价值在于为复杂AI代理系统提供了一种可量化的风险管理和故障恢复方法论，有助于提升AI系统在实际部署中的可靠性和安全性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T06:30:42.481017+00:00"
+}

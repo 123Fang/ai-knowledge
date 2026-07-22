@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260722-011",
+  "title": "Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18254",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T06:29:48.775880+00:00",
+  "collected_at": "2026-07-22T06:29:48.775880+00:00",
+  "summary": "该论文提出了一种基于模式推导的约束解码方法，用于MLIR（多级中间表示）的跨方言泛化，无需重新训练模型。通过构建基准测试和评估框架，验证了该方法在不同MLIR方言间迁移的有效性，显著提升了代码生成任务的泛化能力。核心价值在于降低了多方言支持的成本，为编译器基础设施的自动化扩展提供了新思路。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T06:30:42.481036+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260722-020",
+  "title": "MUX: Continuous Reasoning via Multiplexed Tokens",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18264",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T06:29:48.775921+00:00",
+  "collected_at": "2026-07-22T06:29:48.775921+00:00",
+  "summary": "该论文提出了一种名为MUX的新型推理方法，通过多路复用令牌（Multiplexed Tokens）实现连续推理。核心思想是在单个推理步骤中并行探索多个推理路径，从而提高推理效率和准确性。该方法在多个推理基准测试上取得了显著性能提升，展示了其在复杂推理任务中的潜力。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T06:30:42.481062+00:00"
+}

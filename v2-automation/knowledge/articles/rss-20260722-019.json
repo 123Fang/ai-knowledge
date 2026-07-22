@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-019",
+  "title": "Position: AI/ML Deepfake Research is Misaligned with AI-Generated Non-Consensual Intimate Imagery (AIG-NCII)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18263",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T06:29:48.775917+00:00",
+  "collected_at": "2026-07-22T06:29:48.775917+00:00",
+  "summary": "该论文指出当前AI/ML深度伪造研究与非自愿亲密图像（AIG-NCII）的生成存在错位，即研究重点与实际问题不匹配。核心价值在于揭示技术发展与伦理风险之间的鸿沟，并呼吁调整研究方向以应对真实世界的危害。",
+  "score": 7,
+  "tags": [
+    "security",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T06:30:42.481060+00:00"
+}
