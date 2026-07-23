@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-003",
+  "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-23T06:31:02.260142+00:00",
+  "collected_at": "2026-07-23T06:31:02.260142+00:00",
+  "summary": "Jack Dorsey 推出了 Buzz，一个将团队聊天、AI 代理和 Git 托管功能整合在一起的平台。该产品旨在通过集成 AI 代理来提升团队协作效率，同时提供代码托管能力。这代表了将多种开发工具与 AI 能力融合的尝试。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-23T06:31:51.285618+00:00"
+}
