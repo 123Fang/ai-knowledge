@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-020",
+  "title": "Trajectory-Aware Retrieval Agents for Temporal Decision- Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21625",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.972016+00:00",
+  "collected_at": "2026-07-27T07:33:51.972016+00:00",
+  "summary": "该论文提出了一种轨迹感知的检索代理，用于时序决策场景。通过结合检索增强生成（RAG）和代理技术，系统能够根据历史轨迹信息动态调整检索策略，从而在时间敏感的任务中做出更优决策。其核心价值在于提升了代理在动态环境中的适应性和决策准确性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470352+00:00"
+}

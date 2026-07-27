@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-012",
+  "title": "The Hard Decision Layer: Evidence for Committed Inference in Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21613",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.971979+00:00",
+  "collected_at": "2026-07-27T07:33:51.971979+00:00",
+  "summary": "该论文研究了Transformer模型中的“硬决策层”现象，即模型在推理过程中会早期做出不可逆的承诺，从而影响后续的推理路径。通过实验证据，作者展示了这种承诺机制如何影响模型的准确性和鲁棒性。这项工作为理解Transformer的内部推理过程提供了新的视角，并可能对模型设计和训练策略产生影响。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470330+00:00"
+}

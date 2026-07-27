@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-019",
+  "title": "FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21624",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.972009+00:00",
+  "collected_at": "2026-07-27T07:33:51.972009+00:00",
+  "summary": "本文提出FBLayout方法，旨在优化移动GPU上大语言模型微调的内存布局。通过重新设计内存分配与数据排布，该方法显著降低了显存占用并提升了计算效率。该工作为在资源受限的移动设备上高效微调LLM提供了实用方案。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470349+00:00"
+}

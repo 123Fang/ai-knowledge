@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-011",
+  "title": "Procedural Knowledge Is Not Low-Rank: Why LoRA Fails to Internalize Multi-Step Procedures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21612",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.971975+00:00",
+  "collected_at": "2026-07-27T07:33:51.971975+00:00",
+  "summary": "该论文探讨了低秩适应（LoRA）方法在程序性知识学习中的局限性，指出LoRA无法有效内化多步骤程序，因为程序性知识并非低秩结构。通过理论分析和实验验证，作者揭示了LoRA在复杂任务微调中的根本缺陷，为理解模型微调方法的适用边界提供了重要见解。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470327+00:00"
+}

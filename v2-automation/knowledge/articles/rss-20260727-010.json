@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-010",
+  "title": "SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21610",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.971970+00:00",
+  "collected_at": "2026-07-27T07:33:51.971970+00:00",
+  "summary": "该论文提出了SCOPE和SCION，分别是一个用于模式归纳与融合的基准测试和一个可审计的参考流水线。核心价值在于为从文本中自动提取和融合结构化模式提供了标准化的评估方法和可复现的流程。这项工作有助于推动自然语言处理中结构化知识抽取的透明度和可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470324+00:00"
+}

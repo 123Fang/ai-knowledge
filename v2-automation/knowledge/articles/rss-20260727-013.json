@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-013",
+  "title": "Household Movement Detection in Mixed-Format Occupancy Data Using LLM-Based Entity Resolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21614",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.971983+00:00",
+  "collected_at": "2026-07-27T07:33:51.971983+00:00",
+  "summary": "该论文提出了一种利用基于大语言模型（LLM）的实体解析方法，从混合格式的占用数据中检测家庭移动。核心价值在于解决了不同数据源（如传感器、日志）中实体不一致的问题，提高了家庭移动检测的准确性。该方法展示了LLM在数据清洗和实体匹配中的新应用，为智能家居和人口动态研究提供了有效工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470333+00:00"
+}

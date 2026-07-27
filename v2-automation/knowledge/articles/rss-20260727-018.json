@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-018",
+  "title": "From Profiles to Steering Vectors: Global Sparse Priors and Local Semantic Calibration for Personalized Text Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21620",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T07:33:51.972004+00:00",
+  "collected_at": "2026-07-27T07:33:51.972004+00:00",
+  "summary": "该论文提出了一种结合全局稀疏先验与局部语义校准的方法，用于个性化文本生成。通过从用户画像中提取稀疏先验，并利用转向向量进行局部语义校准，实现了高效且可解释的个性化控制。该方法在保持生成质量的同时，显著提升了生成文本与用户偏好的对齐度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T07:34:39.470347+00:00"
+}
