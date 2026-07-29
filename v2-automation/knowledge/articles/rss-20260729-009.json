@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-009",
+  "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24770",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310493+00:00",
+  "collected_at": "2026-07-29T06:31:53.310493+00:00",
+  "summary": "该论文提出了ProcAgent，一个用于边缘设备上程序性任务指导的智能体框架，结合了人类在环的交互机制。核心价值在于将AI代理部署到资源受限的边缘设备，同时通过人类反馈提升任务指导的准确性和适应性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "human-in-the-loop"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457280+00:00"
+}

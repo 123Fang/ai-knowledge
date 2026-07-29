@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-002",
+  "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24759",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310452+00:00",
+  "collected_at": "2026-07-29T06:31:53.310452+00:00",
+  "summary": "该论文提出了一种基于模板的协作知识工作框架，通过LLM代理实现异构协作，超越了传统记忆机制。核心价值在于为多代理系统提供结构化协作基础，提升知识工作的效率和灵活性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457256+00:00"
+}

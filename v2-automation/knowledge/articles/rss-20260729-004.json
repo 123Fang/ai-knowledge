@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-004",
+  "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24763",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310463+00:00",
+  "collected_at": "2026-07-29T06:31:53.310463+00:00",
+  "summary": "该论文提出了一种名为CaRE（Compute-aware Remasking Evaluation）的评估协议，用于改进掩码扩散语言模型的性能评估。核心内容是通过计算感知的重掩码策略，更准确地衡量模型在文本生成任务中的表现。该工作为扩散语言模型的评估提供了新的方法论，有助于推动该领域的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457264+00:00"
+}

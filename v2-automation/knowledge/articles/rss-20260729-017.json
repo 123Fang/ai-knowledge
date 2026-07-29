@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-017",
+  "title": "Personalization, Personas, and Forecasting in Value Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24782",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310523+00:00",
+  "collected_at": "2026-07-29T06:31:53.310523+00:00",
+  "summary": "该论文探讨了在AI价值对齐中引入个性化、用户画像和预测机制的方法，旨在使AI系统更好地适应个体用户的价值观和偏好。通过构建用户画像和预测用户未来需求，该方法提升了AI决策的灵活性和长期一致性。核心价值在于为价值对齐问题提供了一种动态、自适应的解决方案，超越了静态对齐的局限。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457306+00:00"
+}

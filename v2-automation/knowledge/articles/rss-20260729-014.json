@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260729-014",
+  "title": "Steering topology distributions for unified generative design of architected metamaterials",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24777",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310512+00:00",
+  "collected_at": "2026-07-29T06:31:53.310512+00:00",
+  "summary": "该论文提出了一种通过调控拓扑分布来实现架构型超材料统一生成设计的方法。核心价值在于能够生成具有多样化拓扑结构且性能可控的超材料，为材料设计领域提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457297+00:00"
+}

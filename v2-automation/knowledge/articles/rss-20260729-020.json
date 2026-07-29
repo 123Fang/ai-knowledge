@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-020",
+  "title": "SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24787",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310536+00:00",
+  "collected_at": "2026-07-29T06:31:53.310536+00:00",
+  "summary": "该论文提出SpecPrefetch，一种针对稀疏MoE基础模型的参数高效专家预取技术。通过预测模型推理过程中即将被激活的专家，并提前加载其参数，显著减少推理延迟。该方法在保持模型性能的同时，降低了内存带宽需求，提升了稀疏MoE模型的部署效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457314+00:00"
+}

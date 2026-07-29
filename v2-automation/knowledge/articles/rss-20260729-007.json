@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-007",
+  "title": "PATHFinder Agent for Tailored Prenatal Care",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24768",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T06:31:53.310484+00:00",
+  "collected_at": "2026-07-29T06:31:53.310484+00:00",
+  "summary": "该论文提出PATHFinder Agent，一个基于大型语言模型的智能体系统，用于个性化产前护理。它通过整合患者数据、医学知识和临床指南，提供定制化的风险评估和护理建议。该系统旨在提高产前护理的准确性和效率，减少医疗错误。PATHFinder Agent展示了AI在医疗领域，特别是产科护理中的潜力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T06:32:48.457274+00:00"
+}
