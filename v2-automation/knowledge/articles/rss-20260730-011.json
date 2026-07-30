@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-011",
+  "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26452",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T06:29:34.043203+00:00",
+  "collected_at": "2026-07-30T06:29:34.043203+00:00",
+  "summary": "该论文提出了CG-World，一个大规模世界状态数据集和协议，用于训练和评估世界模型。它通过提供丰富的环境状态数据，支持模型学习物理规律和因果推理，从而提升AI在复杂环境中的预测和规划能力。这项工作为世界模型研究提供了标准化基准，有助于推动通用人工智能的发展。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T06:30:17.239984+00:00"
+}

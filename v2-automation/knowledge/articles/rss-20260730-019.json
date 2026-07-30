@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-019",
+  "title": "AgenticCANN: Automated Ascend C Operator Generation via Knowledge-Augmented Agentic Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26661",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T06:29:34.043241+00:00",
+  "collected_at": "2026-07-30T06:29:34.043241+00:00",
+  "summary": "AgenticCANN 提出了一种基于知识增强的智能体进化方法，用于自动生成 Ascend C 算子。该方法通过结合知识图谱和进化算法，实现了高效、自动化的算子生成，显著提升了开发效率。核心价值在于降低了 AI 芯片算子开发的门槛，加速了模型部署。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T06:30:17.240021+00:00"
+}

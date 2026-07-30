@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-007",
+  "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26191",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T06:29:34.043184+00:00",
+  "collected_at": "2026-07-30T06:29:34.043184+00:00",
+  "summary": "该论文提出评估分数是易逝的知识主张，强调评估结果会随时间推移而失效。核心价值在于提醒研究者关注评估的时效性，避免依赖过时的基准测试结果。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T06:30:17.239971+00:00"
+}

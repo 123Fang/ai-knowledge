@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-020",
+  "title": "UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26724",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T06:29:34.043246+00:00",
+  "collected_at": "2026-07-30T06:29:34.043246+00:00",
+  "summary": "该论文提出了UrbanDS，一个基于图引导的大语言模型多智能体系统，专门用于处理数据密集型城市任务。通过图结构来协调多个LLM智能体的协作，该系统能够高效地处理和分析复杂的城市数据。其核心价值在于为城市计算领域提供了一种新颖的、可扩展的AI解决方案，有望提升城市规划、交通管理等方面的决策效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T06:30:17.240024+00:00"
+}

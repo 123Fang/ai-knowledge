@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-003",
+  "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26155",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T06:29:34.043150+00:00",
+  "collected_at": "2026-07-30T06:29:34.043150+00:00",
+  "summary": "ClinLens 提出了一种用于纵向多模态临床数据科学的长时程编码智能体，旨在通过自动化处理复杂临床数据来提升数据科学效率。该智能体能够整合多种数据模态并执行长期任务，为临床研究提供可扩展的解决方案。其核心价值在于减少人工干预，加速从数据到洞察的转化。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T06:30:17.239957+00:00"
+}

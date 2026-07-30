@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-018",
+  "title": "Rethinking Self-Evolution: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26643",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T06:29:34.043237+00:00",
+  "collected_at": "2026-07-30T06:29:34.043237+00:00",
+  "summary": "该论文提出了一种约束探索-利用过程来缓解自我进化中的技能过拟合问题。通过限制探索范围并平衡利用与探索，该方法能有效提升模型泛化能力。核心价值在于为AI自我进化提供了一种防止技能退化的新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T06:30:17.240018+00:00"
+}
