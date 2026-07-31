@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-004",
+  "title": "LLM Honeypot",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://llm2human.pages.dev/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-31T06:44:47.568021+00:00",
+  "collected_at": "2026-07-31T06:44:47.568021+00:00",
+  "summary": "LLM Honeypot 是一个利用大型语言模型构建的蜜罐系统，旨在通过模拟易受攻击的服务来吸引和捕获恶意攻击者。该系统利用 LLM 的生成能力创建逼真的交互环境，从而收集攻击者的行为数据，为安全分析提供宝贵信息。该项目的核心价值在于将 LLM 应用于网络安全防御领域，展示了 AI 技术在威胁检测和攻击分析中的创新潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T06:45:46.429340+00:00"
+}
