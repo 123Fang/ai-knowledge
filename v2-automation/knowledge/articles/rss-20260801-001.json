@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260801-001",
+  "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-01T06:30:34.037462+00:00",
+  "collected_at": "2026-08-01T06:30:34.037462+00:00",
+  "summary": "本文探讨了GPU管理中的关键问题——空闲GPU资源的浪费，将其比喻为停在地面的飞机，强调了高效资源调度的重要性。文章提供了关于如何优化GPU利用率、减少闲置成本的实用见解，并可能涉及动态分配和监控策略。对于AI基础设施团队而言，这是一篇具有实践指导意义的文章。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T06:31:30.496486+00:00"
+}

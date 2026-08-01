@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260801-006",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-01T06:30:34.037513+00:00",
+  "collected_at": "2026-08-01T06:30:34.037513+00:00",
+  "summary": "本文介绍了将 Nunchaku 4-bit 量化推理集成到 Hugging Face Diffusers 库中的方法，旨在显著降低扩散模型的内存占用和推理延迟，同时保持生成质量。该集成支持多种主流扩散模型，并提供了简单的 API 接口，使开发者能够轻松部署高效的 4-bit 扩散模型。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T06:31:30.496508+00:00"
+}
