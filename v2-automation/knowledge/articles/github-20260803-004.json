@@ -1,0 +1,20 @@
+{
+  "id": "github-20260803-004",
+  "title": "minipuft/claude-prompts",
+  "source": "github",
+  "source_url": "https://github.com/minipuft/claude-prompts",
+  "author": "minipuft",
+  "published_at": "2026-08-03T02:05:37Z",
+  "collected_at": "2026-08-03T07:27:46.267003+00:00",
+  "summary": "minipuft/claude-prompts 是一个 MCP 服务器，用于管理可复用的提示词模板、多步骤工作流链和质量门控，通过操作符语法组合代理工作流，并可将工作流导出为原生技能，兼容 Claude Code、Cursor、OpenCode 和 Gemini CLI。该项目为代理工作流提供了结构化和可复用的解决方案，提升了开发效率和可维护性。",
+  "score": 8,
+  "tags": [
+    "mcp",
+    "prompt-engineering",
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T07:28:57.835776+00:00"
+}

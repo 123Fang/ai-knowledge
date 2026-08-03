@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-003",
+  "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28629",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T07:27:50.581054+00:00",
+  "collected_at": "2026-08-03T07:27:50.581054+00:00",
+  "summary": "该论文探讨了OpenClaw与Ollama在智能体AI中的集成，旨在构建完全自主且可扩展的AI代理系统。通过结合OpenClaw的代理框架与Ollama的本地模型部署能力，实现了高效的任务执行与资源管理。文章提供了系统架构设计及性能评估，展示了在复杂环境中提升自主性和可扩展性的潜力。该研究为代理AI的实用化部署提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T07:28:57.835795+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-015",
+  "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28685",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T07:27:50.581147+00:00",
+  "collected_at": "2026-08-03T07:27:50.581147+00:00",
+  "summary": "该论文对现有的智能体安全基准进行了有效性审计，探讨了这些基准是否真正衡量了智能体的安全性，还是仅仅反映了其能力水平。通过系统性的分析，论文揭示了当前安全基准在评估智能体安全属性时可能存在的偏差和不足，为未来设计更可靠的安全评估方法提供了重要参考。这项工作对于AI安全领域具有重要的方法论贡献，有助于推动更严谨的智能体安全评估实践。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T07:28:57.835857+00:00"
+}

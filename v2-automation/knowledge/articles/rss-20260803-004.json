@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-004",
+  "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28631",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T07:27:50.581086+00:00",
+  "collected_at": "2026-08-03T07:27:50.581086+00:00",
+  "summary": "该研究提出了一种利用自动化多模型评审机制来评估自主科研生成系统（AI科学家）性能的基准测试方法。通过构建一个标准化的评估框架，该方法能够客观比较不同AI系统在科研任务上的表现，为AI科研能力的量化评估提供了新工具。该研究对于推动AI在科学发现领域的应用具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "multi-agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T07:28:57.835799+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260803-009",
+  "title": "oomol-lab/wanta",
+  "source": "github",
+  "source_url": "https://github.com/oomol-lab/wanta",
+  "author": "oomol-lab",
+  "published_at": "2026-08-03T07:16:09Z",
+  "collected_at": "2026-08-03T07:27:46.267032+00:00",
+  "summary": "wanta 是一个开源的桌面 AI 代理基础框架，基于 OpenCode 构建，并通过 OpenConnector 实现连接。它提供了本地工具、权限控制和工件管理功能，旨在为用户提供一个安全且可扩展的 AI 代理运行环境。该项目对于希望构建或定制桌面 AI 代理的开发者具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T07:28:57.835789+00:00"
+}
