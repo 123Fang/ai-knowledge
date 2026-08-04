@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-018",
+  "title": "AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00155",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T06:28:56.404521+00:00",
+  "collected_at": "2026-08-04T06:28:56.404521+00:00",
+  "summary": "该论文研究了自进化LLM智能体在流式任务中的表现，提出了一种新的评估框架。核心发现是自进化机制在动态环境下能显著提升智能体的适应性和任务完成率，但面临稳定性挑战。该工作为流式场景下的智能体设计提供了重要见解，填补了现有评估方法的空白。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T06:29:58.020516+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-008",
+  "title": "Request-Level Energy Attribution for Batched LLM Serving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00026",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T06:28:56.404496+00:00",
+  "collected_at": "2026-08-04T06:28:56.404496+00:00",
+  "summary": "该论文提出了一种针对批量LLM服务的请求级能量归因方法，旨在精确追踪每个请求在共享推理过程中的能耗。通过细粒度的能量分配机制，该方法能显著提升数据中心能效管理的透明度，并为优化LLM部署成本提供数据支持。其核心价值在于将系统级能耗分解到单个请求，为绿色AI和资源调度提供了新工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T06:29:58.020497+00:00"
+}

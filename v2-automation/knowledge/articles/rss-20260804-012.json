@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-012",
+  "title": "Linguistic Context Recodes Visual Representations in Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00035",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T06:28:56.404507+00:00",
+  "collected_at": "2026-08-04T06:28:56.404507+00:00",
+  "summary": "该研究探讨了语言上下文如何重新编码视觉-语言模型中的视觉表示，揭示了语言信息在视觉编码过程中的动态调节作用。通过实验分析，作者展示了语言上下文能够显著改变视觉特征的语义解释，为理解多模态模型的内部机制提供了新视角。这项工作对改进视觉-语言模型的跨模态对齐和提示设计具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T06:29:58.020505+00:00"
+}

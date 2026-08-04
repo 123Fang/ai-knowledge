@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-002",
+  "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00003",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T06:28:56.404463+00:00",
+  "collected_at": "2026-08-04T06:28:56.404463+00:00",
+  "summary": "AutoFOAM 提出了一种自优化的自主代理框架，专门针对 OpenFOAM 计算流体力学仿真场景。该代理通过迭代自我反思与自动调整，能够自动配置和优化仿真参数，显著减少人工干预并提升仿真效率。其核心价值在于将大型语言模型与领域特定工具链深度集成，展示了 AI 在科学计算自动化中的潜力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T06:29:58.020485+00:00"
+}

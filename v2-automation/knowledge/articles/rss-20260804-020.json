@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-020",
+  "title": "Personalizing Large Language Model Agents with Small Policy Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00215",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T06:28:56.404527+00:00",
+  "collected_at": "2026-08-04T06:28:56.404527+00:00",
+  "summary": "该论文提出了一种通过小型策略模型个性化大型语言模型代理的方法，旨在提升代理在特定任务中的表现。核心思路是利用轻量级策略模型引导LLM的决策过程，实现高效且可定制的代理行为。该方法在多个基准测试中展示了性能提升，为LLM代理的个性化部署提供了新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T06:29:58.020521+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-019",
+  "title": "TRACE-TS: Attribution-Grounded and Traceable Sensor-Language Reasoning for Human Activity Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00200",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T06:28:56.404524+00:00",
+  "collected_at": "2026-08-04T06:28:56.404524+00:00",
+  "summary": "TRACE-TS 提出了一种基于归因的可追溯传感器-语言推理框架，用于人类活动理解。它通过将传感器数据与语言模型结合，并引入归因机制来增强推理的可解释性和可追溯性。该方法在活动识别任务中展示了优于现有技术的性能，并提供了更清晰的决策依据。其核心价值在于提升多模态推理的透明度和可靠性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T06:29:58.020519+00:00"
+}
