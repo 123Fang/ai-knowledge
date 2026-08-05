@@ -1,0 +1,20 @@
+{
+  "id": "github-20260805-004",
+  "title": "minipuft/claude-prompts-mcp",
+  "source": "github",
+  "source_url": "https://github.com/minipuft/claude-prompts-mcp",
+  "author": "minipuft",
+  "published_at": "2026-08-03T02:05:37Z",
+  "collected_at": "2026-08-05T06:29:05.470177+00:00",
+  "summary": "该项目提供了一个基于 Model Context Protocol (MCP) 的服务器，用于管理可复用的提示词模板、多步骤工作流链和质量门控。它通过操作符语法组合代理工作流，并支持导出为 Claude Code、Cursor、OpenCode 和 Gemini CLI 的原生技能，从而提升跨平台 AI 工作流的可复用性和可维护性。",
+  "score": 8,
+  "tags": [
+    "mcp",
+    "prompt-engineering",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-05T06:30:07.003472+00:00"
+}

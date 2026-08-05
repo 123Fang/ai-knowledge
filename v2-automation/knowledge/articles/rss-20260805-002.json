@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260805-002",
+  "title": "SQLite Critical CVEs or LLM Slop?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-05T06:29:06.463681+00:00",
+  "collected_at": "2026-08-05T06:29:06.463681+00:00",
+  "summary": "该文章讨论了SQLite中的关键CVE漏洞，并质疑这些漏洞是否被过度炒作或与LLM（大语言模型）生成的内容有关。文章可能分析了SQLite的安全问题，并探讨了AI生成内容在安全领域的影响，为开发者提供了关于数据库安全与AI技术交叉的见解。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-05T06:30:07.003497+00:00"
+}
