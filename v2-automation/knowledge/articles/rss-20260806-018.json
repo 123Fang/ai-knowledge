@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-018",
+  "title": "Joint UAV Flight and Opportunistic Routing under Reinforcement Learning for Delay-Tolerant Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04590",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T06:31:45.451981+00:00",
+  "collected_at": "2026-08-06T06:31:45.451981+00:00",
+  "summary": "该论文提出了一种基于强化学习的联合无人机飞行路径规划与机会路由方法，旨在优化延迟容忍网络中的数据传输效率。通过将飞行控制与路由决策协同优化，该方法能够适应动态网络环境，减少端到端延迟并提高投递率。其核心价值在于为无人机辅助的延迟容忍网络提供了一种智能、自适应的资源管理方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T06:32:44.383575+00:00"
+}

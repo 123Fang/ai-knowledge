@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-019",
+  "title": "Agreement Before Diversity: Verification-First Complementarity for Heterogeneous Language-Model Coordination",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04618",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T06:31:45.451984+00:00",
+  "collected_at": "2026-08-06T06:31:45.451984+00:00",
+  "summary": "该论文提出了一种面向异构语言模型协作的'验证优先互补性'框架，强调在模型间达成协议之前先进行输出验证，以提升多模型协调的可靠性和性能。该方法通过验证机制筛选互补性强的模型输出，减少冲突并增强整体表现，为多智能体系统设计提供了新思路。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T06:32:44.383578+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-010",
+  "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04285",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T06:31:45.451956+00:00",
+  "collected_at": "2026-08-06T06:31:45.451956+00:00",
+  "summary": "本文提出了神经符号AI的RAIL原则，涵盖推理、保证、接口和学习四个核心方面，旨在指导神经符号系统的设计与评估。该原则强调将神经网络的感知能力与符号推理的透明性相结合，以提高系统的可靠性、可解释性和交互性。文章为神经符号AI的研究和实践提供了系统性框架，具有重要的指导价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T06:32:44.383555+00:00"
+}

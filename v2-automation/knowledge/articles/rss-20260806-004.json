@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-004",
+  "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04077",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T06:31:45.451927+00:00",
+  "collected_at": "2026-08-06T06:31:45.451927+00:00",
+  "summary": "FinProBench 是一个用于评估金融 AI 代理的基准测试，它基于专业交付物（如财务报告和分析）构建了角色锚定的评分标准。该基准通过模拟真实金融任务，衡量代理在信息检索、推理和报告生成等方面的能力。其核心价值在于提供更贴近实际业务场景的评估方法，推动金融领域 AI 代理的实用化发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T06:32:44.383538+00:00"
+}

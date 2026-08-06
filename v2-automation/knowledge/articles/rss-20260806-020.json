@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-020",
+  "title": "A/B Agent: A Self-Evolving Agent for Strategy Iteration in Industrial A/B Testing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04625",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T06:31:45.451987+00:00",
+  "collected_at": "2026-08-06T06:31:45.451987+00:00",
+  "summary": "本文提出了一种名为A/B Agent的自进化智能体，用于工业A/B测试中的策略迭代。该智能体通过自动化分析实验数据、生成假设并优化测试策略，显著提升了A/B测试的效率和效果。其核心价值在于将智能体技术与实验设计相结合，实现了策略的持续优化和自适应调整。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T06:32:44.383579+00:00"
+}

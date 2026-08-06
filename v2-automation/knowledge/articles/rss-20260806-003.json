@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-003",
+  "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04071",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T06:31:45.451923+00:00",
+  "collected_at": "2026-08-06T06:31:45.451923+00:00",
+  "summary": "该论文提出了一种基于蒙特卡洛树搜索（MCTS）的方法，用于表格到多模态报告生成任务，旨在提高生成报告的结构完整性和信息准确性。通过将MCTS与多模态生成模型结合，该方法在表格数据理解和报告生成方面展现出显著优势，为复杂数据到文本生成提供了新的解决思路。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T06:32:44.383536+00:00"
+}
