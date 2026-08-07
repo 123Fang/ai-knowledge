@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-016",
+  "title": "LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05246",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623307+00:00",
+  "collected_at": "2026-08-07T05:40:52.623307+00:00",
+  "summary": "LUNAR 是一个用于评估个性化大语言模型（LLMs）的基准测试框架，它基于通用的用户行为日志来测试模型理解和预测用户偏好的能力。该框架旨在推动个性化 LLM 的发展，通过标准化的评估方法衡量模型在模拟真实用户行为场景中的表现。LUNAR 的提出填补了当前 LLM 个性化评估缺乏统一基准的空白，为研究社区提供了重要的参考工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850629+00:00"
+}

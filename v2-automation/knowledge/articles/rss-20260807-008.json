@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-008",
+  "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05212",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623259+00:00",
+  "collected_at": "2026-08-07T05:40:52.623259+00:00",
+  "summary": "SearchAuditor 是一个用于审计和归因长时程搜索代理失败的框架。它通过分析代理的决策轨迹，识别失败发生的具体步骤和原因，并提供可操作的改进建议。该工具旨在提升搜索代理的可靠性和透明度，对开发复杂AI代理系统的研究人员和工程师具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850605+00:00"
+}

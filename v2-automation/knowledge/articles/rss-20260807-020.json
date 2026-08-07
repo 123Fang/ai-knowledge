@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-020",
+  "title": "Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05266",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623333+00:00",
+  "collected_at": "2026-08-07T05:40:52.623333+00:00",
+  "summary": "该研究探讨了自主自驱动显微镜基准测试在验证系统能力方面的作用，指出这些基准虽然能有效评估系统在特定任务上的表现，但未必能推广到未见过的任务。研究强调了基准测试在资格认证中的价值，同时警示其泛化能力的局限性，为AI系统评估提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850653+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-018",
+  "title": "Posture and Sustainment Optimization Under Adversarial Uncertainty",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05256",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623319+00:00",
+  "collected_at": "2026-08-07T05:40:52.623319+00:00",
+  "summary": "该论文提出了一种在对抗性不确定性条件下优化态势与维持能力的框架，通过数学建模和算法设计来应对动态威胁环境。其核心价值在于为军事或应急场景中的资源分配与决策提供鲁棒性优化方法，具有实际应用潜力。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850648+00:00"
+}

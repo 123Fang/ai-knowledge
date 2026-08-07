@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-002",
+  "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05160",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623199+00:00",
+  "collected_at": "2026-08-07T05:40:52.623199+00:00",
+  "summary": "该论文提出了一种名为“点火指数”的度量方法，用于量化语言模型中的全局工作空间动态。通过分析模型内部状态，该方法能够评估信息在模型各层间的整合与传播效率，为理解大型语言模型的推理机制提供了新视角。该研究有助于改进模型架构和解释模型行为，具有较高的理论价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850583+00:00"
+}

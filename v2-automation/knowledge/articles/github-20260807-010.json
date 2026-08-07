@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-010",
+  "title": "iflytek/memflywheel",
+  "source": "github",
+  "source_url": "https://github.com/iflytek/memflywheel",
+  "author": "iflytek",
+  "published_at": "2026-08-07T02:47:14Z",
+  "collected_at": "2026-08-07T05:40:49.222804+00:00",
+  "summary": "memflywheel 是一个面向 AI 代理的原生长效记忆系统，能够在每次运行后自动学习并积累知识。它采用文件原生存储，保证可审计性，并与 Pi、Hermes、OpenCode 和 OpenClaw 等代理框架集成，为代理提供持续记忆能力，提升其长期任务执行效果。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "memory"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850563+00:00"
+}

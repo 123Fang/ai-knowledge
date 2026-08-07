@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260807-015",
+  "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05245",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623301+00:00",
+  "collected_at": "2026-08-07T05:40:52.623301+00:00",
+  "summary": "Search2Skill 提出了一种基于规则（rubric）的强化学习框架，用于将搜索过程提炼为可复用的技能，从而突破模型原有的知识边界。该方法通过结构化评估标准指导技能学习，使模型能够从外部搜索中获取并内化新知识，提升其在开放域任务上的表现。该工作为技能蒸馏和知识获取提供了新思路，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "reinforcement-learning",
+    "knowledge-distillation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850626+00:00"
+}

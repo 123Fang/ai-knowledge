@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-017",
+  "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05248",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623313+00:00",
+  "collected_at": "2026-08-07T05:40:52.623313+00:00",
+  "summary": "WorldClaw 提出了一种用于大规模开放世界生成的智能体框架，通过将3D场景生成任务分解为多个子任务并利用智能体协作，实现了高保真度和可扩展性的场景构建。该方法在多个基准测试上显著优于现有技术，为游戏、仿真和虚拟现实等领域提供了高效的自动化解决方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "vision",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850634+00:00"
+}

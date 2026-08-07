@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-004",
+  "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05203",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623219+00:00",
+  "collected_at": "2026-08-07T05:40:52.623219+00:00",
+  "summary": "该研究探讨了将连续预测变量转化为临床阈值（即基于指南的分类）对缺血性卒中结局预测性能的影响，揭示了这种分类方法在临床应用中可能带来的性能权衡。通过实证分析，论文展示了阈值化处理在简化临床决策的同时，可能牺牲预测模型的准确性和区分度。该工作为临床预测模型的部署提供了重要见解，强调了在实用性与预测性能之间寻求平衡的必要性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850590+00:00"
+}

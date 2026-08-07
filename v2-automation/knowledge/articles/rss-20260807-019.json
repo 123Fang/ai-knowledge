@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-019",
+  "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05263",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T05:40:52.623327+00:00",
+  "collected_at": "2026-08-07T05:40:52.623327+00:00",
+  "summary": "OrchestraBench 是一个用于评估多智能体系统编排失败模式、恢复机制及任务分解质量的基准测试框架。该研究系统性地分析了多智能体协作中常见的编排问题，并提出了量化恢复能力和分解质量的方法，为多智能体系统的可靠性和性能优化提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T05:41:55.850651+00:00"
+}
