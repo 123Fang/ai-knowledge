@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-003",
+  "title": "Software development with AI is starting to feel like cooking steak",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-08T04:57:42.134464+00:00",
+  "collected_at": "2026-08-08T04:57:42.134464+00:00",
+  "summary": "这篇文章将AI辅助软件开发比作烹饪牛排，探讨了AI在代码生成中的角色演变，强调开发者需要像掌握火候一样掌握AI工具的运用。内容可能涉及AI生成代码的质量控制、人工审查的重要性，以及AI与开发者协作的新模式。文章提供了对AI开发实践的深刻见解，适合开发者反思如何更有效地利用AI工具。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T04:58:42.387313+00:00"
+}
