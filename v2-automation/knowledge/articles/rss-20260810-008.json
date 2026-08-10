@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-008",
+  "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06501",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T05:27:30.983652+00:00",
+  "collected_at": "2026-08-10T05:27:30.983652+00:00",
+  "summary": "该论文提出了C4基准，用于评估多模态大语言模型（MLLMs）在跨概念理解任务中的表现，即模型能否从已知概念组合中推断出新颖的创意概念。通过设计一系列需要创造性跳跃的任务，C4揭示了当前MLLMs在抽象推理和创意生成方面的局限性，为未来模型改进提供了方向。该研究为多模态AI的创造性能力评估提供了新工具，具有重要的学术价值。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T05:28:21.872378+00:00"
+}

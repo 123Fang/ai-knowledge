@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-003",
+  "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06400",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T05:27:30.983622+00:00",
+  "collected_at": "2026-08-10T05:27:30.983622+00:00",
+  "summary": "该论文提出了一种新的解释方法，用于对混合专家（MoE）奖励模型进行响应级别的忠实解释，超越了传统的路由权重分析。通过贡献对比（Contribution Contrast）机制，该方法能够更准确地揭示模型决策背后的关键因素，从而提升模型的可解释性和可信度。这项工作为理解和优化MoE奖励模型提供了新的视角，对AI安全与评估领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T05:28:21.872358+00:00"
+}
