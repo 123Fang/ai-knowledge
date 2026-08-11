@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-018",
+  "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07637",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563782+00:00",
+  "collected_at": "2026-08-11T05:09:50.563782+00:00",
+  "summary": "本文提出Agent-MD框架，通过选择性大语言模型干预和事件驱动的升级机制，优化状态化GCMC-MD模拟流程。该框架在保持模拟准确性的同时，显著降低计算开销，并提升复杂分子系统的模拟效率。其核心价值在于将LLM智能决策与高性能计算结合，为材料科学和化学模拟提供新的自动化解决方案。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403100+00:00"
+}

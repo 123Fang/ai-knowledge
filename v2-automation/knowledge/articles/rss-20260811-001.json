@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-001",
+  "title": "Towards an Argumentative Foundation for Evaluative AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07473",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563665+00:00",
+  "collected_at": "2026-08-11T05:09:50.563665+00:00",
+  "summary": "该论文提出了一种基于论证理论（argumentation）的评估性AI（Evaluative AI）基础框架，旨在为AI系统的评估提供可解释、可辩护的逻辑依据。通过将评估过程形式化为论证结构，该方法增强了AI评估的透明度和可靠性，为构建可信赖的AI系统提供了新的理论支撑。其核心价值在于将哲学论证理论引入AI评估领域，弥补了现有评估方法在可解释性和鲁棒性上的不足。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403039+00:00"
+}

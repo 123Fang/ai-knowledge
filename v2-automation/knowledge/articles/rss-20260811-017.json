@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260811-017",
+  "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07627",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563778+00:00",
+  "collected_at": "2026-08-11T05:09:50.563778+00:00",
+  "summary": "本文提出了一种针对关键任务医院信息管理系统的代理型AI模式目录和编排框架，旨在将单一聊天机器人转变为受治理的代理生态系统。该框架通过模式目录和编排机制，支持多代理系统的设计、部署和管理，确保在医疗等高风险环境中的可靠性、安全性和合规性。其核心价值在于为复杂代理系统的工程化提供了结构化方法，填补了从原型到生产部署之间的空白。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403097+00:00"
+}

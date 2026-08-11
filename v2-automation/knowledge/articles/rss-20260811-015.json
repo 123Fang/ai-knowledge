@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-015",
+  "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563769+00:00",
+  "collected_at": "2026-08-11T05:09:50.563769+00:00",
+  "summary": "该论文提出了CMU-Drive和V2V-VLA两个模型，分别用于多智能体协同驾驶的推理基准测试和车对车视觉-语言-动作模型。CMU-Drive通过推理基准评估多智能体协同驾驶的决策能力，而V2V-VLA利用车对车通信和视觉语言模型实现协同驾驶动作预测。这项工作为自动驾驶领域提供了新的协同推理框架和基准，具有重要的研究价值。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403092+00:00"
+}

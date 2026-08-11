@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-019",
+  "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563787+00:00",
+  "collected_at": "2026-08-11T05:09:50.563787+00:00",
+  "summary": "该论文提出了一种通过多层组合融合实现上下文价值对齐的新方法，旨在解决AI系统在复杂环境中价值一致性问题。该方法利用多层结构整合不同层面的价值信号，并通过组合融合策略提升对齐的鲁棒性和适应性。其核心价值在于为AI安全与伦理对齐提供了一种创新的技术路径，适用于需要动态价值调整的应用场景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403103+00:00"
+}

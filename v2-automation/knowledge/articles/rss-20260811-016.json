@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-016",
+  "title": "Controlled Memory Interference in Continual LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563774+00:00",
+  "collected_at": "2026-08-11T05:09:50.563774+00:00",
+  "summary": "本文提出了一种在持续学习型LLM智能体中控制记忆干扰的方法，旨在解决智能体在长期运行中因新知识覆盖旧知识而导致的性能退化问题。通过引入记忆干扰控制机制，该方法能够平衡新知识的获取与旧知识的保留，从而提升智能体的稳定性和适应性。该研究为构建更可靠的持续学习AI系统提供了重要技术路径。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403095+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-006",
+  "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07528",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563727+00:00",
+  "collected_at": "2026-08-11T05:09:50.563727+00:00",
+  "summary": "该研究探讨了模型在内部表征中“知道”正确答案，但其置信度分数却未能反映这一知识的现象，即“知道-说出差距”。通过使用探针（probes）检测模型的内部状态，研究发现探针能够识别出模型实际正确的错误答案，而置信度分数却无法捕捉到这一点。这一发现对模型评估和错误检测具有重要意义，提示我们仅依赖置信度可能低估模型的实际能力。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403065+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-012",
+  "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T05:09:50.563755+00:00",
+  "collected_at": "2026-08-11T05:09:50.563755+00:00",
+  "summary": "该论文提出了一种防止AI科学家在四足机器人导航研究循环中发生漂移的方法，通过引入品味（taste）、结构（structure）和可证伪发现（falsifiable findings）来增强研究的可靠性和可重复性。核心价值在于为自主科研系统提供了稳定性和可验证性的框架，有助于推动AI在机器人领域的实际应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T05:10:51.403083+00:00"
+}
