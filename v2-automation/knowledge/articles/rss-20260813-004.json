@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-004",
+  "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-13T05:40:23.338370+00:00",
+  "collected_at": "2026-08-13T05:40:23.338370+00:00",
+  "summary": "本文探讨了在Apple Silicon Mac上通过macOS虚拟机运行llama.cpp以实现更快的LLM推理。文章可能涉及虚拟化环境下的性能优化、硬件加速利用以及llama.cpp的配置技巧，为开发者在Mac平台上部署和优化LLM提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T05:41:33.039772+00:00"
+}

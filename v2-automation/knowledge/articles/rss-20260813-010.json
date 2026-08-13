@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-010",
+  "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11215",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T05:40:24.183056+00:00",
+  "collected_at": "2026-08-13T05:40:24.183056+00:00",
+  "summary": "该论文提出了一种在笔记本电脑上模拟大规模LLM智能体社会的方法，通过优化资源利用和智能体交互机制，实现了低成本、高效的智能体社会模拟。其核心价值在于降低了多智能体系统研究的门槛，使得个人研究者也能进行复杂社会行为实验。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T05:41:33.039793+00:00"
+}

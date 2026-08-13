@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-016",
+  "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T05:40:24.183085+00:00",
+  "collected_at": "2026-08-13T05:40:24.183085+00:00",
+  "summary": "该论文提出了一种利用智能体记忆机制构建终身AI伙伴的方法，旨在为材料科学家提供持续学习和适应的辅助工具。通过记忆增强，AI能够积累领域知识并随时间优化交互，从而提升在材料科学任务中的实用性和个性化支持。该研究展示了智能体记忆在专业领域应用中的潜力，为开发长期协作的AI系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "memory",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T05:41:33.039812+00:00"
+}

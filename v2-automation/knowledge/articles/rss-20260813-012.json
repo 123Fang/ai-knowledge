@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-012",
+  "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11218",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T05:40:24.183068+00:00",
+  "collected_at": "2026-08-13T05:40:24.183068+00:00",
+  "summary": "MaSRead 提出了一种针对复制潜在存储的内容寻址读取机制，旨在提升分布式 AI 系统中数据检索的效率和一致性。该技术通过内容寻址而非位置寻址，优化了潜在表示的存储与访问，减少了网络开销并增强了系统可扩展性。其核心价值在于为大规模 AI 应用提供更可靠、高效的数据层支持，尤其适用于需要高可用性和低延迟的推理场景。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "rag"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-13T05:41:33.039799+00:00"
+}
