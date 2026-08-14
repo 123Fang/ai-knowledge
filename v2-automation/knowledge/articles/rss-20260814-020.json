@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260814-020",
+  "title": "Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11237",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-14T05:38:15.620643+00:00",
+  "collected_at": "2026-08-14T05:38:15.620643+00:00",
+  "summary": "该论文提出了一种几何感知的增量神经算子方法，用于长时间序列偏微分方程预测。通过结合几何信息与增量学习策略，该方法有效提升了预测的长期稳定性和准确性，为科学计算中的复杂动态系统建模提供了新思路。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-14T05:39:26.171719+00:00"
+}

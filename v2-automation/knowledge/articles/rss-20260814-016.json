@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260814-016",
+  "title": "The Edge-based Contiguous p-median Problem with Connections to Logistics Districting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11230",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-14T05:38:15.620621+00:00",
+  "collected_at": "2026-08-14T05:38:15.620621+00:00",
+  "summary": "该研究提出了一种基于边的连续p-中位问题（Edge-based Contiguous p-median Problem），并将其应用于物流分区（logistics districting）场景。核心贡献在于将传统p-中位问题扩展到边连续约束，以优化物流网络中的区域划分和设施选址。通过模型与算法设计，该方法能够有效平衡服务覆盖与成本效率，为物流网络规划提供了新的理论工具和实践指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "optimization"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-14T05:39:26.171693+00:00"
+}

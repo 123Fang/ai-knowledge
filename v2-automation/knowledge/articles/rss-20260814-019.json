@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260814-019",
+  "title": "CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11235",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-14T05:38:15.620634+00:00",
+  "collected_at": "2026-08-14T05:38:15.620634+00:00",
+  "summary": "CORA-Diff 提出了一种面向扩散语言模型推理的置信度导向残差接受方法，通过动态调整接受阈值来加速生成过程，同时保持输出质量。该方法在多个基准测试中显著降低了推理延迟，为扩散模型的高效部署提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-14T05:39:26.171716+00:00"
+}
