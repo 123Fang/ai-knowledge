@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-020",
+  "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12599",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773883+00:00",
+  "collected_at": "2026-08-15T04:32:20.773883+00:00",
+  "summary": "该论文研究了黑盒大语言模型对话中约束条件（如系统提示中的指令）对模型行为的影响，发现许多约束在对话中逐渐失效（即'死文本'），并提出了一种无需访问模型内部即可测量和恢复约束影响力的方法。该方法通过分析对话历史与约束的关联性，动态调整提示策略以增强约束的持久性，从而提升对话系统的可控性和可靠性。该研究为黑盒LLM的提示工程提供了新的诊断工具和改进方向。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400062+00:00"
+}

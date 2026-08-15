@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-003",
+  "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12346",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773802+00:00",
+  "collected_at": "2026-08-15T04:32:20.773802+00:00",
+  "summary": "该论文指出，AI对齐社区在开发用于确保AI系统安全性的技术时，无意中构建了一套可用于审查和控制的工具包。作者认为，这些技术，如红队测试、可解释性和行为监控，可能被滥用为审查工具，从而威胁到言论自由和民主价值观。论文呼吁对齐社区反思其工作的潜在社会影响，并采取措施防止技术被用于不道德的目的。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400010+00:00"
+}

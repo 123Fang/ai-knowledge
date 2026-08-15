@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-017",
+  "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12585",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773870+00:00",
+  "collected_at": "2026-08-15T04:32:20.773870+00:00",
+  "summary": "本文提出了一种名为“Reasoning Jury”的多模型共识机制，用于评估推理轨迹的质量。该方法通过多个不同模型的投票或共识来综合判断推理过程的正确性和合理性，旨在提高评估的鲁棒性和准确性。该研究为推理评估领域提供了一种新的思路，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400055+00:00"
+}

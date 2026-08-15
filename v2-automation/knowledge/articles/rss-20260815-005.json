@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-005",
+  "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12371",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773816+00:00",
+  "collected_at": "2026-08-15T04:32:20.773816+00:00",
+  "summary": "本文提出了一种结合大语言模型（LLM）辅助的合同网协议（Contract Net Protocol）的多智能体调度方法，用于移动边缘计算中的流处理任务。该方法利用LLM增强智能体在任务分配和协商过程中的决策能力，以提高调度效率和资源利用率。通过模拟实验，验证了该框架在动态边缘环境下的有效性和优越性，为边缘计算中的实时流处理提供了一种创新的解决方案。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400016+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-007",
+  "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12373",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773827+00:00",
+  "collected_at": "2026-08-15T04:32:20.773827+00:00",
+  "summary": "该研究探讨了大型语言模型（LLM）在多语言环境下的安全对齐问题，发现使用日语提问可能绕过模型的安全限制，导致其生成危险建议（如核打击）。研究揭示了当前安全训练在不同语言间的不一致性，并强调了多语言安全对齐的重要性。该工作为提升LLM的跨语言安全性和鲁棒性提供了关键见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400022+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-019",
+  "title": "DiG-bench: Discovery in Games",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12593",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773879+00:00",
+  "collected_at": "2026-08-15T04:32:20.773879+00:00",
+  "summary": "DiG-bench 是一个用于游戏环境中的发现任务基准测试，旨在评估 AI 代理在探索、推理和决策方面的能力。该基准通过游戏化场景模拟复杂问题解决过程，为强化学习和智能体研究提供了标准化的评估平台。其核心价值在于推动 AI 在未知环境中的自主发现和适应能力研究。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400060+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-010",
+  "title": "Research Assistant: AstraZeneca's Agentic System for R&amp;D",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12395",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T04:32:20.773840+00:00",
+  "collected_at": "2026-08-15T04:32:20.773840+00:00",
+  "summary": "AstraZeneca 发布了一篇关于其用于研发（R&D）的智能体系统（Agentic System）的技术报告。该系统利用大语言模型（LLM）和智能体技术，自动化科研流程中的多个环节，如文献综述、实验设计和数据分析，旨在加速药物研发进程。报告详细介绍了系统的架构、工作流程以及在实际研发场景中的应用效果，展示了企业级AI智能体在科学领域的落地价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T04:33:31.400031+00:00"
+}
