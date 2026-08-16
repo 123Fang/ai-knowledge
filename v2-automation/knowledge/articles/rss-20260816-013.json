@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-013",
+  "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/muse-glimmer",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T04:36:43.068028+00:00",
+  "collected_at": "2026-08-16T04:36:43.068028+00:00",
+  "summary": "Meta 发布了 Muse Glimmer，一个本地化、智能体化、多模态且开源的 AI 模型。该模型支持在本地运行，具备多模态处理能力，并集成了智能体功能，旨在推动开源 AI 的发展。这一发布展示了 Meta 在 AI 技术上的持续创新，为开发者和研究者提供了强大的工具。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multimodal",
+    "open-source"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T04:37:32.165555+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-010",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T04:36:43.068015+00:00",
+  "collected_at": "2026-08-16T04:36:43.068015+00:00",
+  "summary": "该文章探讨了如何通过减少token使用量来提升AI模型的效率，可能涉及模型压缩或推理优化技术。它提供了实用的方法，帮助开发者在保持性能的同时降低成本，对于资源受限的应用场景具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T04:37:32.165543+00:00"
+}

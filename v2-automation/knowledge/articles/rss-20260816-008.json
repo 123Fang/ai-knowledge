@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-008",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T04:36:43.068005+00:00",
+  "collected_at": "2026-08-16T04:36:43.068005+00:00",
+  "summary": "OlmoEarth 是 AI2 推出的地理空间基础模型，该博客介绍了其新功能：允许用户从 OlmoEarth Studio 导出自定义嵌入，用于下游分析。这一功能使得用户能够针对特定地理空间任务生成定制化的嵌入表示，从而提升模型在遥感图像分析等场景中的适用性和性能。该发布为地理空间 AI 应用提供了更灵活的工具链，降低了定制化分析的门槛。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T04:37:32.165537+00:00"
+}
