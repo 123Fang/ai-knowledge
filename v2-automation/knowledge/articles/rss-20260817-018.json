@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-018",
+  "title": "MobileMem: Learning from a Year of Mobile Experiences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13606",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T04:42:34.708924+00:00",
+  "collected_at": "2026-08-17T04:42:34.708924+00:00",
+  "summary": "MobileMem 论文基于一年的移动设备使用经验，提出了一种针对移动环境优化的记忆管理机制，旨在提升AI代理在移动场景下的上下文感知与个性化服务能力。该研究通过实证分析移动交互模式，设计了高效记忆存储与检索策略，为移动AI应用提供了实用解决方案。其核心价值在于弥合通用大模型与移动设备资源约束之间的差距，推动AI代理在真实移动环境中的落地。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T04:43:23.644660+00:00"
+}

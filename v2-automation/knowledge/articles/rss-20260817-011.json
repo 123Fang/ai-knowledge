@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-011",
+  "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13573",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T04:42:34.708886+00:00",
+  "collected_at": "2026-08-17T04:42:34.708886+00:00",
+  "summary": "该论文深入探讨了LLM服务系统在一年内的工作负载演变，重点分析了缓存策略和负载均衡机制如何适应动态变化的需求。通过实际数据，揭示了工作负载模式对系统性能的影响，并提出了优化缓存和负载均衡的实用方法。该研究为提升LLM服务效率提供了宝贵的实证见解和工程指导。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-17T04:43:23.644633+00:00"
+}

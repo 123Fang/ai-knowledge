@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-005",
+  "title": "AI in drug discovery – what it is, where we stand and the path forward",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-17T04:42:33.307545+00:00",
+  "collected_at": "2026-08-17T04:42:33.307545+00:00",
+  "summary": "本文探讨了AI在药物发现领域的应用现状与未来路径，涵盖AI技术如何加速靶点识别、化合物筛选及临床试验设计。文章分析了当前AI药物发现的主要挑战，如数据质量、模型可解释性及监管障碍，并提出了多学科融合与数据共享的解决方案。内容为行业从业者提供了战略视角，强调AI在降低研发成本与缩短周期方面的潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T04:43:23.644620+00:00"
+}

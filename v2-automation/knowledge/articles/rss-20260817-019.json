@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-019",
+  "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T04:42:34.708930+00:00",
+  "collected_at": "2026-08-17T04:42:34.708930+00:00",
+  "summary": "该研究探讨了大型语言模型在版本更新后，样本级别性能回归的预测问题。研究发现，没有任何单一的通用信号能够可靠地预测模型在特定样本上的性能下降，这对模型评估和部署具有重要启示。研究通过系统性实验验证了多种潜在信号（如困惑度、置信度等）的局限性，并强调了开发更精细评估方法的必要性。该工作为理解LLM动态行为提供了实证基础，对模型迭代和实际应用中的风险控制具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T04:43:23.644663+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-016",
+  "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13604",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T04:42:34.708915+00:00",
+  "collected_at": "2026-08-17T04:42:34.708915+00:00",
+  "summary": "该论文提出了一种跨学科的误解生成、放大与检测的分类法，从语用学延伸到AI智能体，旨在系统化理解AI交互中的误解现象。其核心价值在于为AI系统设计提供理论框架，帮助开发者识别和缓解误解，提升AI的可靠性和交互质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T04:43:23.644655+00:00"
+}
