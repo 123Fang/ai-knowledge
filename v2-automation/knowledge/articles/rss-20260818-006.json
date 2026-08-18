@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-006",
+  "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14565",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T04:36:06.031453+00:00",
+  "collected_at": "2026-08-18T04:36:06.031453+00:00",
+  "summary": "该论文指出AI技术锁定效应正在发生，强调需要提前准备以应对其带来的挑战。文章分析了AI锁定效应的成因、影响及应对策略，为政策制定者和技术社区提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T04:36:58.512243+00:00"
+}

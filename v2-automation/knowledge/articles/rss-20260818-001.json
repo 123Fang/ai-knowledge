@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-001",
+  "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14550",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T04:36:06.031362+00:00",
+  "collected_at": "2026-08-18T04:36:06.031362+00:00",
+  "summary": "该论文探讨了在AI效率评估中，仅使用FLOPs（浮点运算次数）作为衡量标准的局限性，并强调了复制（replication）在评估中的重要性。文章指出，实际工作负载（Real Work）受硬件、内存带宽和并行效率等因素影响，FLOPs可能无法准确反映真实性能。通过引入复制实验，可以更全面地评估AI系统的效率，为模型优化和部署提供更可靠的指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T04:36:58.512209+00:00"
+}

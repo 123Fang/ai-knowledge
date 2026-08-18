@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-017",
+  "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14588",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T04:36:06.031510+00:00",
+  "collected_at": "2026-08-18T04:36:06.031510+00:00",
+  "summary": "该论文提出了一种名为“幻觉雪球”的模型，用于描述多智能体LLM流水线中错误传播的动态过程。通过将错误传播建模为状态转换，该研究为理解和缓解多智能体系统中的级联幻觉提供了新的理论框架。其核心价值在于揭示了错误如何在多智能体协作中累积和放大，并为设计更鲁棒的AI系统提供了指导。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-18T04:36:58.512279+00:00"
+}

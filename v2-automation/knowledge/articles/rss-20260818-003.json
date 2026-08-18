@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-003",
+  "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14558",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T04:36:06.031429+00:00",
+  "collected_at": "2026-08-18T04:36:06.031429+00:00",
+  "summary": "该论文提出了一种新的基准测试，用于评估多模态机器学习模型在抽象感知推理方面的能力。它填补了现有基准测试的空白，通过设计未明确书写的任务来挑战模型的推理和泛化能力。该工作为多模态AI研究提供了新的评估维度，有助于推动模型在复杂认知任务上的发展。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T04:36:58.512232+00:00"
+}

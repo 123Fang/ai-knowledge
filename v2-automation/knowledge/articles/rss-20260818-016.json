@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-016",
+  "title": "An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14587",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T04:36:06.031505+00:00",
+  "collected_at": "2026-08-18T04:36:06.031505+00:00",
+  "summary": "该论文提出了一种基于规则和大型语言模型（LLMs）的智能体框架，用于嵌入和注释描述性文档布局，并以植物科学领域为应用案例。该框架结合了规则系统的确定性和LLMs的灵活性，实现了对文档结构的自动理解和语义标注，提高了文档处理的效率和准确性。其核心价值在于为特定领域文档的自动化处理提供了一种可扩展的解决方案，展示了LLMs在结构化信息提取中的应用潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T04:36:58.512276+00:00"
+}

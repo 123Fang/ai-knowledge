@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-020",
+  "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14610",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T04:36:06.031527+00:00",
+  "collected_at": "2026-08-18T04:36:06.031527+00:00",
+  "summary": "该研究系统性地诊断了大型语言模型（LLMs）在时间性法律推理中的失败模式，特别是当模型错误应用法律条文时。通过构建专门的测试集和错误分析框架，论文揭示了模型在处理时间顺序、法律生效日期和溯及力等复杂时间逻辑时的常见错误类型。这项工作为提升LLM在法律领域的可靠性和可解释性提供了重要见解，并为后续的模型改进和评估方法设计奠定了基础。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T04:36:58.512290+00:00"
+}
