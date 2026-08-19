@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-013",
+  "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17071",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T04:37:36.743864+00:00",
+  "collected_at": "2026-08-19T04:37:36.743864+00:00",
+  "summary": "KernelArc 提出了一种基于多智能体框架的 GPU 内核优化方法，通过多个智能体协作来自动化内核调优过程。该方法旨在提高 GPU 内核的性能和开发效率，减少人工调优的工作量。该框架展示了多智能体系统在底层系统优化中的应用潜力，为高性能计算领域提供了新的自动化工具。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T04:38:26.600629+00:00"
+}

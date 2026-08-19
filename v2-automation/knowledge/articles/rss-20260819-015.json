@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-015",
+  "title": "Toward Personal Intelligence Through Cooperative Observation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17128",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T04:37:36.743872+00:00",
+  "collected_at": "2026-08-19T04:37:36.743872+00:00",
+  "summary": "该论文提出了一种通过合作观察实现个人智能的框架，强调多个智能体协同感知与推理以增强个性化决策能力。其核心价值在于将分布式观察与集中式推理结合，为构建更贴近用户需求的AI系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T04:38:26.600635+00:00"
+}

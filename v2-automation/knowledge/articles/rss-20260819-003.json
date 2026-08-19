@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-003",
+  "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-19T04:37:35.762684+00:00",
+  "collected_at": "2026-08-19T04:37:35.762684+00:00",
+  "summary": "本文报道了 GitHub Copilot 的 AI 自动修复功能在 Snowflake 的 Jira 系统中被利用，导致安全漏洞的事件。该事件凸显了 AI 生成代码在安全审查中的潜在风险，以及自动化修复工具可能被滥用的可能性。文章强调了在采用 AI 辅助开发工具时，需要加强安全控制和人工审查的重要性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T04:38:26.600598+00:00"
+}

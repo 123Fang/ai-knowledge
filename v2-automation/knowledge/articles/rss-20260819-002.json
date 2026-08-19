@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-002",
+  "title": "AI;DR (AI; Didn't Read)",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-19T04:37:35.762672+00:00",
+  "collected_at": "2026-08-19T04:37:35.762672+00:00",
+  "summary": "AI;DR 是一个旨在解决信息过载问题的项目，通过 AI 技术自动生成文章摘要，帮助用户快速获取核心内容。该项目可能涉及文本摘要、自然语言处理等关键技术，为技术社区提供高效的信息筛选工具。其价值在于提升阅读效率，适用于新闻、论文等长文本场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T04:38:26.600594+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-004",
+  "title": "How to disable or avoid intrusive AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.librarian.net/notoai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-19T04:37:35.762693+00:00",
+  "collected_at": "2026-08-19T04:37:35.762693+00:00",
+  "summary": "这篇文章讨论了如何避免或禁用侵入性AI功能，提供了实用的技术建议和策略。内容涵盖用户如何控制AI交互、减少不必要的AI干扰，以及如何配置系统以限制AI的主动行为。对于希望保持对AI使用控制权的用户具有参考价值。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T04:38:26.600601+00:00"
+}
