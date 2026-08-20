@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-018",
+  "title": "RDFdL: Integrating RDF with Differential Dynamic Logic",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T04:38:10.768484+00:00",
+  "collected_at": "2026-08-20T04:38:10.768484+00:00",
+  "summary": "RDFdL 提出了一种将资源描述框架（RDF）与微分动态逻辑（dL）相结合的新方法，用于对动态系统进行形式化推理。该工作旨在利用 RDF 的语义表示能力增强 dL 对复杂系统状态的建模，从而支持更精确的验证和分析。其核心价值在于为 AI 系统中的动态行为提供了一种集成化的逻辑框架，可能对自主系统和智能体的安全验证有重要贡献。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-20T04:39:02.198157+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-017",
+  "title": "Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18142",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T04:38:10.768475+00:00",
+  "collected_at": "2026-08-20T04:38:10.768475+00:00",
+  "summary": "该研究探讨了在低资源语言（如罗马乌尔都语）中，通过高效适配大型语言模型（LLMs）进行仇恨言论检测的方法，并对比了不同适配策略的性能。研究旨在解决低资源语言数据稀缺的挑战，为多语言内容审核提供实用方案。其核心价值在于验证了轻量级适配技术（如LoRA）在低资源场景下的有效性，并提供了比较性见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T04:39:02.198154+00:00"
+}

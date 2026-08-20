@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-010",
+  "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18110",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T04:38:10.768374+00:00",
+  "collected_at": "2026-08-20T04:38:10.768374+00:00",
+  "summary": "本文全面回顾了智能体AI（Agentic AI）的演进历程、背景、工作原理、应用场景、采用因素及未来研究方向。它系统梳理了从传统AI到智能体AI的转变，强调了自主决策、环境交互和工具使用等核心特性，并探讨了影响其采用的关键因素。该综述为研究人员和实践者提供了该领域的全景式概览，有助于理解智能体AI的现状与未来趋势。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T04:39:02.198130+00:00"
+}

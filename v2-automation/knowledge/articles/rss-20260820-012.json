@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260820-012",
+  "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18117",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T04:38:10.768393+00:00",
+  "collected_at": "2026-08-20T04:38:10.768393+00:00",
+  "summary": "该论文通过印度案例研究，指出当前AI排行榜（如基准测试）未能充分代表全球南方（Global South）的需求和现实，导致模型评估存在偏差。作者提出需要改进评估方法，使其更具包容性和地域多样性，以促进AI技术的公平发展。该研究为AI评估领域提供了重要的批判性视角和改进方向。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T04:39:02.198139+00:00"
+}
