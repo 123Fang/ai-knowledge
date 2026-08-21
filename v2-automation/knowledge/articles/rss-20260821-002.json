@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-002",
+  "title": "Don't paste the AI, please",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-21T04:38:58.092760+00:00",
+  "collected_at": "2026-08-21T04:38:58.092760+00:00",
+  "summary": "这篇文章批评了将AI生硬地粘贴到产品中的做法，强调应更自然地集成AI能力以提升用户体验。核心观点是AI应作为辅助工具而非替代品，需考虑用户的实际需求和交互方式。文章提供了实用的设计原则和案例，对产品设计和技术实现有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T04:39:50.480326+00:00"
+}
