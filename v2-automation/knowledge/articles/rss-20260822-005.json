@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260822-005",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-22T04:33:36.723336+00:00",
+  "collected_at": "2026-08-22T04:33:36.723336+00:00",
+  "summary": "该文章探讨了通过调整处理顺序而非改变集群配置，即可显著提升资源利用率（提升33个百分点）的技术方法。文章深入分析了顺序优化对系统性能的影响，并提供了实用的优化策略，对于提升计算资源效率具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T04:34:24.536064+00:00"
+}

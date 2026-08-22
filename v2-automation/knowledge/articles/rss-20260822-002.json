@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260822-002",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-22T04:33:36.723317+00:00",
+  "collected_at": "2026-08-22T04:33:36.723317+00:00",
+  "summary": "该内容介绍了LFM2.5-DSpark模型，宣称推理速度提升高达3.2倍，可能通过模型优化或硬件适配实现。这为需要高效推理的AI应用提供了性能改进方案，具有实际部署价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T04:34:24.536052+00:00"
+}
