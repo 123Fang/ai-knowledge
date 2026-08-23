@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-001",
+  "title": "Why your local LLM feels dumber than it is",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-23T04:38:02.571491+00:00",
+  "collected_at": "2026-08-23T04:38:02.571491+00:00",
+  "summary": "这篇文章探讨了本地大型语言模型（LLM）在实际使用中表现不如预期的原因，指出用户期望与模型实际能力之间的差距。核心观点是，本地模型的性能受限于硬件资源、模型大小和上下文窗口，而非模型本身的质量。文章提供了优化提示词和调整推理参数的实用建议，以提升本地模型的输出效果。对于使用本地LLM的开发者，这是一份有价值的参考指南。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-23T04:38:53.492762+00:00"
+}

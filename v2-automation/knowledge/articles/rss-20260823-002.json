@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-002",
+  "title": "Munder Difflin – Agent harness to run an office of your clones",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://munderdiffl.in/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-23T04:38:02.571521+00:00",
+  "collected_at": "2026-08-23T04:38:02.571521+00:00",
+  "summary": "Munder Difflin 是一个智能体工具框架，旨在运行一个由用户克隆体组成的“办公室”，即多个AI代理模拟用户行为或执行任务。该工具的核心价值在于通过多代理协作提高自动化效率，可能涉及任务分配、协调和个性化模拟。它适合开发者探索多代理系统在真实场景中的应用。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-23T04:38:53.492780+00:00"
+}
