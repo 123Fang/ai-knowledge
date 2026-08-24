@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-017",
+  "title": "A Temporal Planning Approach for Intelligent Flood Response",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20510",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997667+00:00",
+  "collected_at": "2026-08-24T04:46:01.997667+00:00",
+  "summary": "本文提出了一种基于时间规划的智能洪水响应方法，通过将洪水应急响应建模为时间约束下的规划问题，以优化资源调度和行动顺序。该方法能够有效处理动态环境中的时间依赖性和不确定性，提升应急响应的效率和准确性。该研究为灾害管理领域提供了新的技术视角，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768405+00:00"
+}

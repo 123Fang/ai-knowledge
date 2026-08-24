@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-010",
+  "title": "World models of environment, agent and joint agent-environment systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20401",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997627+00:00",
+  "collected_at": "2026-08-24T04:46:01.997627+00:00",
+  "summary": "该论文提出了一种统一的世界模型框架，将环境模型、智能体模型以及智能体-环境联合系统模型整合在一起，以更全面地理解和预测复杂系统中的动态交互。通过这种联合建模方法，模型能够捕捉智能体行为与环境反馈之间的耦合关系，从而提升在交互式任务中的推理和决策能力。该工作为多智能体系统和具身智能领域提供了新的理论视角和建模工具。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768384+00:00"
+}

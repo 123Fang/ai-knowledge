@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-009",
+  "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20400",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997623+00:00",
+  "collected_at": "2026-08-24T04:46:01.997623+00:00",
+  "summary": "该论文探讨了智能体记忆系统中一种独特的保留失败模式：当检索操作因结构间接的先决条件被驱逐而失败时，即使相关记忆仍存在，也无法被有效访问。研究揭示了记忆管理中的结构性缺陷，并提出改进记忆保留与检索策略的潜在方向。该工作对提升智能体长期记忆的可靠性和效率具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768380+00:00"
+}

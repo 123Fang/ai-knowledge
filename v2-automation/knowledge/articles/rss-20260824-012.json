@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-012",
+  "title": "Categorical AI phenomenology: A first-person approach",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20420",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997639+00:00",
+  "collected_at": "2026-08-24T04:46:01.997639+00:00",
+  "summary": "该论文提出了一种名为“范畴AI现象学”的第一人称方法论，旨在通过范畴论框架系统化地描述和分析AI系统的主观体验或内部状态。该方法为AI研究提供了新的理论工具，有助于深入理解AI的认知过程和潜在局限性，对AI伦理和可解释性研究具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768390+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-019",
+  "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20549",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997676+00:00",
+  "collected_at": "2026-08-24T04:46:01.997676+00:00",
+  "summary": "本文探讨了在多模态大语言模型时代，体积影像AI（如CT、MRI等三维医学影像）的发展与应用。文章重点分析了如何将多模态LLM与体积影像分析相结合，以提升医学影像的自动解读、报告生成和临床决策支持能力。该内容为医学影像AI领域提供了前沿的技术视角和潜在研究方向，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768414+00:00"
+}

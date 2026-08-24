@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-015",
+  "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20485",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997658+00:00",
+  "collected_at": "2026-08-24T04:46:01.997658+00:00",
+  "summary": "本文对命令行环境中的AI代理进行了全面调查，系统梳理了终端代理的设计架构、核心能力、应用场景及面临的挑战。文章重点分析了代理如何通过自然语言交互、工具调用和自主决策来执行命令行任务，并探讨了安全性与可靠性问题。该综述为该领域的研究者提供了宝贵的参考框架，有助于理解终端代理的现状与未来发展方向。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768400+00:00"
+}

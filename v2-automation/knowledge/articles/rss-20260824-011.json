@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-011",
+  "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20414",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997634+00:00",
+  "collected_at": "2026-08-24T04:46:01.997634+00:00",
+  "summary": "StateSight 提出了一个用于评估视觉语言模型（VLMs）在潜在空间状态重建能力的新基准，填补了该领域评估工具的空白。该基准通过设计特定任务，测试模型从视觉输入中推断和重建隐式空间状态的能力，为理解和改进 VLMs 的空间推理提供了重要参考。其核心价值在于系统性地衡量模型在复杂空间场景中的表现，推动视觉语言模型在空间智能方向的发展。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768387+00:00"
+}

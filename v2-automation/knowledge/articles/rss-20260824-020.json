@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-020",
+  "title": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20564",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T04:46:01.997680+00:00",
+  "collected_at": "2026-08-24T04:46:01.997680+00:00",
+  "summary": "该论文提出了一种名为Consilience的框架，通过保形校准的通信控制机制，解决多智能体推理中隐藏配置文件（hidden-profile）导致的信息共享不足问题。该方法旨在提升多智能体系统在复杂推理任务中的协作效率和准确性，具有重要的理论价值和实际应用前景。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T04:46:50.768417+00:00"
+}
