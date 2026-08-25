@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-014",
+  "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21393",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:39:48.535375+00:00",
+  "collected_at": "2026-08-25T04:39:48.535375+00:00",
+  "summary": "本文介绍了在IBM LinuxONE平台上利用Spyre加速检索增强生成（RAG）的云原生架构，旨在为企业AI推理提供安全、高吞吐量的解决方案。该架构结合了Spyre硬件加速与LinuxONE的安全特性，优化了RAG流程中的检索与生成性能，适用于对数据安全和性能要求高的企业场景。其核心价值在于展示了如何在企业级环境中实现高效、安全的AI推理部署。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T04:40:38.766053+00:00"
+}

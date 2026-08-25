@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-019",
+  "title": "Evaluating Multimodal Narrative Understanding of Popular Hollywood Films",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21430",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:39:48.535397+00:00",
+  "collected_at": "2026-08-25T04:39:48.535397+00:00",
+  "summary": "该研究评估了多模态模型对好莱坞电影叙事理解的能力，通过分析电影片段来测试模型对情节、角色和情感的理解。研究发现当前模型在复杂叙事理解上存在显著局限，并提出了改进评估框架的方法。该工作为多模态AI在视频内容理解领域提供了有价值的基准和洞察。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T04:40:38.766067+00:00"
+}

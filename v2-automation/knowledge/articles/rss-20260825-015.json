@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-015",
+  "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21408",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T04:39:48.535380+00:00",
+  "collected_at": "2026-08-25T04:39:48.535380+00:00",
+  "summary": "该研究针对罗马乌尔都语中的仇恨言论分类问题，比较了参数高效微调（PEFT）与提示工程（Prompt Engineering）两种方法的性能。研究发现，在资源受限的情况下，PEFT方法在分类准确率上优于提示工程，为低资源语言的文本分类任务提供了实用的技术参考。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T04:40:38.766056+00:00"
+}

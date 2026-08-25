@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-002",
+  "title": "I built a low-latency AI companion that plays Skyrim with me",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://pantel.is/projects/ai-gaming-companion/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-25T04:39:47.545743+00:00",
+  "collected_at": "2026-08-25T04:39:47.545743+00:00",
+  "summary": "作者构建了一个低延迟AI伴侣，能够实时与《上古卷轴5：天际》游戏进行交互，展示了AI在游戏环境中的实际应用。该项目可能涉及语音识别、自然语言处理和游戏内行动执行等技术，体现了AI与游戏深度集成的潜力。内容对AI游戏应用开发者具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "audio",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T04:40:38.766010+00:00"
+}
