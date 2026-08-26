@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-005",
+  "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23631",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:40:45.725027+00:00",
+  "collected_at": "2026-08-26T04:40:45.725027+00:00",
+  "summary": "TRACE 提出了一种基于转换感知残差控制的方法，用于多目标材料发现，通过动态调整控制信号来平衡多个目标属性。该方法在材料生成模型中引入残差学习机制，显著提升了多目标优化的效率和准确性。该工作为材料科学中的 AI 驱动发现提供了新的技术路径，具有重要的应用价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T04:41:35.714056+00:00"
+}

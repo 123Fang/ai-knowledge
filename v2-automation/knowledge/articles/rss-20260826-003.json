@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-003",
+  "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:40:45.725013+00:00",
+  "collected_at": "2026-08-26T04:40:45.725013+00:00",
+  "summary": "该论文探讨了如何利用大语言模型（LLM）代理通过仿真模型进行受控实验，以验证其在复杂环境中的决策能力。核心贡献在于提出一种框架，使代理能够自主设计实验、调整参数并评估结果，从而提升其推理和适应性。该研究为AI代理在科学研究中的应用提供了新思路，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T04:41:35.714049+00:00"
+}

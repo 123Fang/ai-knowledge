@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-013",
+  "title": "Gated Activation Steering for Reducing Sycophancy &amp; Hallucination in Medical Question Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23666",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:40:45.725068+00:00",
+  "collected_at": "2026-08-26T04:40:45.725068+00:00",
+  "summary": "该论文提出了一种名为“门控激活引导”的技术，用于在医疗问答中减少模型的谄媚行为和幻觉。通过调整模型内部激活，该方法在保持回答准确性的同时，显著提升了回答的可靠性和事实一致性。该研究为提升大语言模型在专业领域的可信度提供了一种新的干预手段。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T04:41:35.714084+00:00"
+}

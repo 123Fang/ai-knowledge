@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-011",
+  "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23644",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:40:45.725057+00:00",
+  "collected_at": "2026-08-26T04:40:45.725057+00:00",
+  "summary": "该论文提出一个伦理框架，用于指导研究人员负责任地使用LLM辅助研究，涵盖任务委派、结果验证和知识价值评估。它强调在保持学术诚信的同时，最大化LLM在科研中的效用，为AI辅助研究提供了实践指南。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T04:41:35.714078+00:00"
+}

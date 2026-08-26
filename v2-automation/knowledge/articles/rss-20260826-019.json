@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-019",
+  "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23811",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T04:40:45.725098+00:00",
+  "collected_at": "2026-08-26T04:40:45.725098+00:00",
+  "summary": "该研究提出了一种结合强化学习（RL）的智能体搜索方法，用于自动生成生物医学领域的事实核查报告。通过RL优化智能体的搜索策略和报告生成过程，该方法能够更准确地检索和整合证据，从而提升事实核查的可靠性和效率。这项技术对于生物医学信息验证和自动化报告生成具有重要价值，展示了强化学习在复杂信息检索任务中的应用潜力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "reinforcement-learning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T04:41:35.714104+00:00"
+}
