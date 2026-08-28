@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-006",
+  "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26116",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566624+00:00",
+  "collected_at": "2026-08-28T15:57:17.566624+00:00",
+  "summary": "本文提出了一种名为“自动实验者”的AI系统，利用自主强化学习（Autotelic RL）来自动发现和控制自组织现象。该系统通过自主设定实验目标、执行实验并学习控制策略，能够探索复杂系统的涌现行为，为科学发现和实验自动化提供了新方法。其核心价值在于将AI从被动分析工具转变为主动实验设计者，有望加速材料科学、生物学等领域的发现进程。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654772+00:00"
+}

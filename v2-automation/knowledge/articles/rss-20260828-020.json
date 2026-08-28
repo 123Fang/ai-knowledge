@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-020",
+  "title": "AI Revealed Preferences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26178",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566734+00:00",
+  "collected_at": "2026-08-28T15:57:17.566734+00:00",
+  "summary": "本文提出了一种通过观察AI系统行为来推断其内在偏好的方法，而非依赖显式声明或训练数据。该方法利用逆强化学习等技术，从决策轨迹中提取偏好模型，有助于理解和评估AI系统的目标对齐性。该研究为AI安全与可解释性提供了新的分析工具，具有重要的理论价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654820+00:00"
+}

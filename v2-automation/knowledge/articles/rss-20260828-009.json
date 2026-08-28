@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-009",
+  "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26149",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566676+00:00",
+  "collected_at": "2026-08-28T15:57:17.566676+00:00",
+  "summary": "该论文提出了一种用于5D多表分析的方法论和概念框架，旨在统一处理复杂数据重用场景。该框架通过引入新的维度来增强传统数据分析，支持更高效的数据整合与复用，为数据科学领域提供了新的理论视角和实践指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654782+00:00"
+}

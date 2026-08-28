@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-015",
+  "title": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26160",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566706+00:00",
+  "collected_at": "2026-08-28T15:57:17.566706+00:00",
+  "summary": "该论文提出了一种基于SAREF本体的分布式AI工作流建模方法，旨在统一描述边缘-雾-云连续体中的AI任务部署与执行。通过本体驱动的方式，它解决了跨层资源调度和AI工作流互操作性问题，为智能物联网场景提供了标准化框架。该工作对边缘AI系统的可扩展性和可维护性具有实用价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654804+00:00"
+}

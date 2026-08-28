@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-016",
+  "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26162",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566711+00:00",
+  "collected_at": "2026-08-28T15:57:17.566711+00:00",
+  "summary": "本文介绍了一个用于心理健康支持的多模态AI后端系统，该系统通过分层状态表示、保守风险融合和受控生成机制，实现了安全门控的交互。核心价值在于通过多层次的安全机制，确保AI在敏感的心理健康场景中提供可靠且风险可控的支持。该系统展示了如何在多模态AI应用中集成严格的安全策略，为类似高风险领域的AI部署提供了参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "safety"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654807+00:00"
+}

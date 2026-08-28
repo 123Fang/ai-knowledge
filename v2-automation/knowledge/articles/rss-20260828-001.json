@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-001",
+  "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26107",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566513+00:00",
+  "collected_at": "2026-08-28T15:57:17.566513+00:00",
+  "summary": "EduRiskX 提出了一种结合神经符号方法和 F-Logic 推理的框架，用于早期学术风险预测。该框架通过融合机器学习与逻辑推理，提高了预测的可解释性和准确性，为教育领域提供了新的分析工具。其核心价值在于利用符号推理增强模型对复杂教育数据的理解，从而实现更可靠的早期干预。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654730+00:00"
+}

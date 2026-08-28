@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-019",
+  "title": "Knowledge Cards: Structured Knowledge for AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26176",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566729+00:00",
+  "collected_at": "2026-08-28T15:57:17.566729+00:00",
+  "summary": "本文介绍了Knowledge Cards，一种为AI系统提供结构化知识的方法，旨在增强AI对知识的理解和利用能力。通过将知识组织成卡片形式，该方法有望提升AI系统的推理和决策性能。该研究为知识表示与AI结合提供了新思路，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "knowledge-representation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654817+00:00"
+}

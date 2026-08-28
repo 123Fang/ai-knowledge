@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-010",
+  "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26150",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566681+00:00",
+  "collected_at": "2026-08-28T15:57:17.566681+00:00",
+  "summary": "该研究利用大型语言模型（LLMs）自动化系统文献综述流程，针对疾病传播模型领域进行高效、准确的文献筛选和分类。通过设计提示工程和评估策略，LLM能够辅助研究者快速识别相关文献并提取关键信息，显著减少人工工作量。该方法展示了LLM在学术文献管理中的实用价值，为跨学科研究提供了可复用的技术框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654786+00:00"
+}

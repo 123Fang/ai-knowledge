@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-003",
+  "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26111",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566597+00:00",
+  "collected_at": "2026-08-28T15:57:17.566597+00:00",
+  "summary": "本文综述了大型模型在电池寿命预测与健康管理（PHM）领域的应用，并提出了未来研究路线图。文章系统梳理了现有方法、挑战与机遇，强调了大型模型在提升预测准确性和管理效率方面的潜力，为该领域的研究者提供了全面的技术参考和方向指引。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654754+00:00"
+}

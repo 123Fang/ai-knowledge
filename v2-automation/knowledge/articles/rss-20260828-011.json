@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-011",
+  "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26151",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T15:57:17.566687+00:00",
+  "collected_at": "2026-08-28T15:57:17.566687+00:00",
+  "summary": "该论文提出了一种可解释人工智能（XAI）框架，用于电信行业的客户流失预测，并集成到客户关系管理（CRM）系统中。通过结合机器学习模型与可解释性技术，该框架旨在提高预测的准确性和透明度，帮助业务人员理解流失原因并采取针对性措施。研究强调了XAI在增强模型可信度和支持决策方面的价值，为电信企业提供了实用的客户保留策略工具。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T15:58:07.654791+00:00"
+}
