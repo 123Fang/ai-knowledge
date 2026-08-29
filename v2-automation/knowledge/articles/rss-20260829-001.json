@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260829-001",
+  "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-29T10:53:05.536370+00:00",
+  "collected_at": "2026-08-29T10:53:05.536370+00:00",
+  "summary": "该新闻报告了开源游戏引擎 Luanti 因收到无根据的 AI 版权投诉而被 Google Play 下架的事件。文章揭示了当前 AI 版权执法机制中存在的漏洞，即自动化的投诉系统可能被滥用，导致合法项目无辜受害。此事件对开源社区和依赖应用商店分发的开发者具有警示意义，并引发对 AI 版权保护流程公正性的讨论。",
+  "score": 6,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-29T10:53:55.499180+00:00"
+}

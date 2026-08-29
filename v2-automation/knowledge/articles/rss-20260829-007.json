@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260829-007",
+  "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/pwc-search",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-29T10:53:07.032004+00:00",
+  "collected_at": "2026-08-29T10:53:07.032004+00:00",
+  "summary": "本文介绍了Hugging Face如何利用Inference Endpoints、Jobs和Buckets三大核心组件来支撑Papers with Code的搜索功能。文章详细阐述了这些组件在模型推理、任务调度和数据存储方面的协同作用，展示了Hugging Face在构建高效AI搜索基础设施上的工程实践。对于希望了解生产级AI系统架构的开发者具有较高的参考价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-29T10:53:55.499210+00:00"
+}

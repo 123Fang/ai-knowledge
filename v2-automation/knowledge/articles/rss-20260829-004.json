@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-004",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-29T10:53:07.031990+00:00",
+  "collected_at": "2026-08-29T10:53:07.031990+00:00",
+  "summary": "本文介绍了IBM Granite 4.2大型语言模型的构建方法，重点阐述了其架构设计、训练流程和优化策略。文章提供了关于如何高效开发和部署企业级LLM的实用见解，适合对模型构建感兴趣的技术人员。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-29T10:53:55.499201+00:00"
+}
