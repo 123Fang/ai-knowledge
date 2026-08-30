@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260830-004",
+  "title": "I accidentally turned LLM memory into program analysis",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-30T09:47:56.781217+00:00",
+  "collected_at": "2026-08-30T09:47:56.781217+00:00",
+  "summary": "该文章探讨了将LLM记忆机制意外转化为程序分析工具的实践经验，展示了如何利用语言模型的记忆能力进行代码理解和分析。内容可能涉及创新的方法或工具，为开发者提供了新的视角和实用技巧。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-30T09:48:47.537543+00:00"
+}
