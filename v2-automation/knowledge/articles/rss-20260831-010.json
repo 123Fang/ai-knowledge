@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-010",
+  "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27482",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609666+00:00",
+  "collected_at": "2026-08-31T10:38:24.609666+00:00",
+  "summary": "本文提出了一种用于知识型系统中基于级别的评估的上下文定位方法，旨在提高评估的泛化能力。通过引入上下文信息，该方法能够更准确地适应不同评估场景，从而提升系统的鲁棒性和实用性。该研究为知识型系统的评估提供了新的技术思路，具有较高的应用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507465+00:00"
+}

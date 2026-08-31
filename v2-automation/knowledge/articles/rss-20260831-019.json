@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-019",
+  "title": "A Framework for Object-Centric Predictive Monitoring of Collaborative Processes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27671",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609707+00:00",
+  "collected_at": "2026-08-31T10:38:24.609707+00:00",
+  "summary": "该论文提出了一种面向对象中心的协作流程预测监控框架，通过将流程事件数据与对象生命周期相结合，利用预测模型实时监控和预测协作流程的未来状态。该框架能够处理复杂协作场景中的多对象交互，提升预测准确性和可解释性，为业务流程管理提供了新的技术方案。其核心价值在于将对象中心视角引入预测监控，弥补了传统流程挖掘方法的不足。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507493+00:00"
+}

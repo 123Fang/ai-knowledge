@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-014",
+  "title": "SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27524",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609683+00:00",
+  "collected_at": "2026-08-31T10:38:24.609683+00:00",
+  "summary": "SETU 是一个基于代理的多语言、个性化沟通辅导生态系统，旨在通过模拟对话和反馈提升用户的沟通技能。该系统利用大型语言模型和代理架构，支持多种语言和个性化角色设定，提供定制化的沟通训练。其核心价值在于将 AI 代理应用于软技能培训，展示了多代理系统在教育领域的潜力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507477+00:00"
+}

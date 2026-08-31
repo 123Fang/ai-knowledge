@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-011",
+  "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27484",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609670+00:00",
+  "collected_at": "2026-08-31T10:38:24.609670+00:00",
+  "summary": "CareGraph 提出了一种可审计的混合 AI 框架，用于基于证据的个性化纵向健康智能。该框架结合了知识图谱和大型语言模型，以提供可解释的健康建议，并确保决策过程的可追溯性。其核心价值在于提升健康管理系统的透明度和可信度，支持长期健康数据的动态分析。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507468+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-009",
+  "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609662+00:00",
+  "collected_at": "2026-08-31T10:38:24.609662+00:00",
+  "summary": "该研究提出了一种结合物联网（IoT）与深度学习的方法，用于检测茶园中Postelectrotermes militaris（一种白蚁）的危害并评估其严重程度。通过部署传感器收集环境数据，并利用深度学习模型进行图像或数据识别，实现了对害虫的自动监测和分级，提高了茶园管理的效率和准确性。该研究展示了AI技术在农业病虫害防治中的实际应用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507462+00:00"
+}

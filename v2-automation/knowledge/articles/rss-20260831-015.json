@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260831-015",
+  "title": "Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27548",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609688+00:00",
+  "collected_at": "2026-08-31T10:38:24.609688+00:00",
+  "summary": "Nemotron 3.5 Content Safety Moderator 是一个紧凑的多模态、多语言内容安全审核模型，具备推理能力，旨在高效检测和过滤有害内容。该模型在保持低延迟和资源消耗的同时，支持多种语言和视觉输入，适用于实际部署场景。其核心价值在于提供了一种轻量级但功能强大的内容安全解决方案，兼顾准确性和可扩展性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507479+00:00"
+}

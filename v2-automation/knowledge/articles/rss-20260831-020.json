@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-020",
+  "title": "Agents for Everyone: A Workshop Framework for Building Agentic AI Capabilities in a Distributed Curation Community",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27675",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609711+00:00",
+  "collected_at": "2026-08-31T10:38:24.609711+00:00",
+  "summary": "本文提出一个面向分布式策展社区的Agentic AI能力建设框架，旨在通过工作坊形式使非专家用户也能构建和使用AI代理。该框架强调社区协作和知识共享，以提升AI技术的可及性和实用性。其核心价值在于提供了一种系统化的方法，帮助社区成员掌握代理式AI的开发技能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507496+00:00"
+}

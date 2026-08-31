@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-003",
+  "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27464",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609622+00:00",
+  "collected_at": "2026-08-31T10:38:24.609622+00:00",
+  "summary": "该论文从信息寻求心理学角度探讨以人为本的可解释人工智能（XAI），指出并非所有用户都会主动寻求解释，并基于心理学理论提出设计XAI系统时应考虑用户的信息寻求行为。其核心价值在于将认知心理学与XAI设计结合，为开发更符合用户需求的解释系统提供理论框架和设计建议。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507440+00:00"
+}

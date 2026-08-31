@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-004",
+  "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27471",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T10:38:24.609627+00:00",
+  "collected_at": "2026-08-31T10:38:24.609627+00:00",
+  "summary": "该论文提出了一种基于检索增强生成（RAG）的方法，用于分析政治辩论中的关系提取和谬误检测。通过结合外部知识检索与语言模型，该方法能够更准确地识别辩论中的逻辑谬误和论证关系，为政治辩论的自动化分析提供了新的技术路径。其价值在于提升了复杂文本分析的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T10:39:14.507444+00:00"
+}
