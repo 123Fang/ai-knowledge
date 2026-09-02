@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-018",
+  "title": "LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00192",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768509+00:00",
+  "collected_at": "2026-09-02T08:30:29.768509+00:00",
+  "summary": "该研究提出了一个新的基准测试，用于评估LLM驱动的自动驾驶系统在行人让行场景中的决策行为。研究发现，这些系统继承了人类驾驶员在行人让行中的偏见，例如对特定人群或情境的倾向性反应。该工作为自动驾驶安全性和公平性提供了重要见解，并强调了在AI系统中缓解人类偏见的重要性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776752+00:00"
+}

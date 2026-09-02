@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-005",
+  "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00012",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768442+00:00",
+  "collected_at": "2026-09-02T08:30:29.768442+00:00",
+  "summary": "该研究探讨了大型语言模型在长时程状态跟踪任务中的能力，具体通过要求模型执行一系列依赖工具调用的MD5哈希计算来评估。研究发现，模型在需要跨多个步骤维持和更新内部状态时表现不佳，错误会随着序列长度增加而累积。论文提出了改进策略，如显式状态表示和外部记忆机制，以增强模型在复杂工具链中的可靠性。这项工作对提升LLM在自动化工作流和多步骤推理中的应用具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776709+00:00"
+}

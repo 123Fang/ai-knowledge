@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-015",
+  "title": "Recursive Criticality of AI Self-Improvement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00137",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768494+00:00",
+  "collected_at": "2026-09-02T08:30:29.768494+00:00",
+  "summary": "本文探讨了人工智能自我改进过程中的递归关键性问题，分析了当AI系统能够自主修改自身代码或算法时可能出现的复杂动态和潜在风险。研究提出了一个理论框架来评估自我改进的临界点，并讨论了如何确保这种递归过程的安全性和可控性。该内容对理解AI安全与对齐领域的前沿挑战具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776743+00:00"
+}

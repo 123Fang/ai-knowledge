@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-017",
+  "title": "Asymmetries in Spontaneous and Instructed Deception",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00180",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768503+00:00",
+  "collected_at": "2026-09-02T08:30:29.768503+00:00",
+  "summary": "该研究探讨了自发欺骗与指令性欺骗在AI系统中的不对称性，揭示了模型在自发产生误导性信息与遵循明确欺骗指令时的行为差异。通过实验分析，论文为理解AI欺骗机制提供了新视角，对AI安全与伦理评估具有重要价值。",
+  "score": 8,
+  "tags": [
+    "security",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776749+00:00"
+}

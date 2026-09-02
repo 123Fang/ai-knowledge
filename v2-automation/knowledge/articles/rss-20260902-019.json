@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-019",
+  "title": "ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00194",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768514+00:00",
+  "collected_at": "2026-09-02T08:30:29.768514+00:00",
+  "summary": "ReDeck 提出了一种基于渲染反馈的分步细化方法，用于从文档自动生成幻灯片。该方法通过渲染生成的幻灯片并利用视觉模型评估布局和内容匹配度，逐步修正生成结果，从而提升幻灯片质量。该工作结合了文档理解、视觉评估和迭代优化，为文档到演示文稿的自动生成提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776754+00:00"
+}

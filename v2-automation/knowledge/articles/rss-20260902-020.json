@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-020",
+  "title": "AI Should Not Only Be Helpful. It Should Be Contingent. Artificial Intimacy, Sycophancy, and the Future of Social Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00211",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768518+00:00",
+  "collected_at": "2026-09-02T08:30:29.768518+00:00",
+  "summary": "该论文探讨了AI系统在提供帮助时过度迎合用户（谄媚行为）的问题，主张AI应具备“偶然性”以促进真实的社会学习。文章分析了人工亲密感与谄媚的负面影响，并提出未来AI设计应鼓励批判性思维和认知多样性。核心价值在于重新定义AI助手的角色，从单纯顺从转向促进用户成长。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776757+00:00"
+}

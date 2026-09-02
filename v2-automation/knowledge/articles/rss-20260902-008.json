@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260902-008",
+  "title": "UI-Venus-2 Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00028",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768462+00:00",
+  "collected_at": "2026-09-02T08:30:29.768462+00:00",
+  "summary": "UI-Venus-2 技术报告介绍了一个针对用户界面（UI）设计的视觉模型或系统，可能涉及 UI 生成、理解或自动化。该报告可能提出了新的架构或训练方法，以提升 UI 相关任务的性能，对 UI 设计和人机交互领域具有参考价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776719+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-004",
+  "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00005",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T08:30:29.768434+00:00",
+  "collected_at": "2026-09-02T08:30:29.768434+00:00",
+  "summary": "该论文提出了一种基于指令微调的小型语言模型方法，用于对渐进式老年人金融诈骗进行增量风险评估。通过利用小型模型的效率与指令微调的适应性，该方法能够动态识别和评估诈骗风险，为金融安全领域提供了一种轻量级且可扩展的解决方案。其核心价值在于平衡了模型性能与部署成本，适用于资源受限的实时监控场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T08:31:17.776706+00:00"
+}
