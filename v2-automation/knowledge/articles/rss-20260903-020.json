@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-020",
+  "title": "MineTRACE: An Evidence-Grounded Interactive Reasoning System for Mineral Prospectivity",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.02060",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000398+00:00",
+  "collected_at": "2026-09-03T08:38:37.000398+00:00",
+  "summary": "MineTRACE 是一个面向矿产前景预测的、基于证据的交互式推理系统。该系统通过整合多源地质证据，并利用交互式推理机制，帮助地质学家更准确、更可解释地圈定找矿靶区。其核心价值在于将先进的AI推理技术与特定领域（矿产勘探）的专家知识相结合，提升了预测的可靠性和实用性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124748+00:00"
+}

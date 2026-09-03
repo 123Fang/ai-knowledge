@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-002",
+  "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01685",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000296+00:00",
+  "collected_at": "2026-09-03T08:38:37.000296+00:00",
+  "summary": "该论文探讨了人工智能时代元伦理学面临的新问题，分析了AI系统在道德决策、责任归属和价值对齐等方面对传统元伦理学框架的挑战。文章提出了AI引发的独特元伦理问题，如算法偏见、自主系统的道德地位以及人类与AI交互中的伦理不确定性，为AI伦理研究提供了新的理论视角。其价值在于推动AI伦理从应用层面深入到基础理论层面，促进跨学科对话。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124687+00:00"
+}

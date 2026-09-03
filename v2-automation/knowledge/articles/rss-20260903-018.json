@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-018",
+  "title": "Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.02057",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000387+00:00",
+  "collected_at": "2026-09-03T08:38:37.000387+00:00",
+  "summary": "该论文提出了一种无需内部信号即可监控Web代理的方法，通过分析可观察的轨迹和关键步骤监督来评估代理性能。该方法利用外部可观测数据，避免了依赖代理内部状态，提高了监控的可行性和鲁棒性。核心价值在于为Web代理的部署和评估提供了一种实用的监控方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124743+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-010",
+  "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01873",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000349+00:00",
+  "collected_at": "2026-09-03T08:38:37.000349+00:00",
+  "summary": "该论文提出了一种名为“认知女巫抵抗”的机制，旨在解决多智能体系统中通过复制智能体而非增加独立证据来夸大系统能力的问题。它通过确保每个智能体的贡献基于独特的证据或推理，从而提升多智能体系统的可靠性和真实性。该工作对多智能体系统的评估和部署具有重要价值，特别是在需要高可信度的应用场景中。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124715+00:00"
+}

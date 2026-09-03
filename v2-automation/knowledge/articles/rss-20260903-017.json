@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-017",
+  "title": "HeadWiseKV: Budgeted Per-Head Cache Residency for Hybrid Long-Context Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.02029",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000380+00:00",
+  "collected_at": "2026-09-03T08:38:37.000380+00:00",
+  "summary": "HeadWiseKV 提出了一种针对混合长上下文语言模型的按头缓存驻留策略，通过动态管理每个注意力头的键值缓存来优化内存使用和推理效率。该方法在保持模型性能的同时，显著降低了长上下文场景下的缓存开销，为高效部署长上下文模型提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124740+00:00"
+}

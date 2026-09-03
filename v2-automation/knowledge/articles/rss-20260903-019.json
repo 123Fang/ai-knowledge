@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-019",
+  "title": "DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.02059",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000394+00:00",
+  "collected_at": "2026-09-03T08:38:37.000394+00:00",
+  "summary": "DocHop 是一个用于评估大型语言模型在信息密集型文档中进行跨文档多跳推理能力的新基准。它专注于领域外场景，要求模型整合分散在长文档中的信息以回答复杂问题，填补了现有基准在评估此类推理能力上的空白。该基准的提出有助于推动模型在真实世界复杂文档理解任务上的发展。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124746+00:00"
+}

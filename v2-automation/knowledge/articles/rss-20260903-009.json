@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-009",
+  "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01861",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000344+00:00",
+  "collected_at": "2026-09-03T08:38:37.000344+00:00",
+  "summary": "该论文提出了一种基于信念校准的优化方法，通过显式世界模型来增强智能体优化过程的决策能力。该方法将智能体的信念状态与真实环境反馈进行校准，从而提升优化策略的准确性和鲁棒性。核心价值在于为智能体优化提供了一种新的理论框架，有望改善复杂任务中的自适应决策性能。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124712+00:00"
+}

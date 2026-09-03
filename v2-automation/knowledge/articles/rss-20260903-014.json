@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-014",
+  "title": "Benchmarking Language Models for Statistical Problem Formulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01982",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T08:38:37.000367+00:00",
+  "collected_at": "2026-09-03T08:38:37.000367+00:00",
+  "summary": "该论文评估了语言模型在统计问题表述方面的能力，即从现实世界情境中构建统计模型和假设的能力。研究通过基准测试揭示了当前模型在此任务中的局限性，并探讨了提升其推理与表述准确性的潜在途径。这项工作为理解和改进语言模型在专业统计应用中的表现提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T08:39:25.124731+00:00"
+}
