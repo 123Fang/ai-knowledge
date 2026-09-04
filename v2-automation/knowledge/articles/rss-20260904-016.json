@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-016",
+  "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03494",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T08:33:33.275128+00:00",
+  "collected_at": "2026-09-04T08:33:33.275128+00:00",
+  "summary": "GrowPage 提出了一种按需分配 KV 缓存预算的方法，用于优化大语言模型推理服务中的显存使用。通过动态调整 KV 缓存大小，该方法在保持推理质量的同时提高了吞吐量并降低了延迟，为高效 LLM 服务提供了新的解决方案。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-04T08:34:15.741950+00:00"
+}

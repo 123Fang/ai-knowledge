@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-014",
+  "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03478",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T08:33:33.275119+00:00",
+  "collected_at": "2026-09-04T08:33:33.275119+00:00",
+  "summary": "AutoGraphForge 提出了一种自动化图论发现的方法，通过算法生成和验证图论猜想，旨在加速数学研究。该工作展示了AI在数学推理和自动发现方面的潜力，可能为图论领域带来新的见解和工具。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T08:34:15.741942+00:00"
+}

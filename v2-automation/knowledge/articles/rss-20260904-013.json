@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-013",
+  "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03460",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T08:33:33.275114+00:00",
+  "collected_at": "2026-09-04T08:33:33.275114+00:00",
+  "summary": "该论文提出了一种可视化内容来源密度的方法，以缓解AI生成内容标注带来的透明度惩罚。通过展示来源密度而非简单的“Made with AI”标签，用户能更准确地判断内容的真实性和可靠性。该方法有助于平衡透明度与用户体验，减少对AI生成内容的偏见。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T08:34:15.741939+00:00"
+}

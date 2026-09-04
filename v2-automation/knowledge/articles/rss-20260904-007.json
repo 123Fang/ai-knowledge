@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-007",
+  "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03340",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T08:33:33.275085+00:00",
+  "collected_at": "2026-09-04T08:33:33.275085+00:00",
+  "summary": "该论文提出了一种针对分布式LLM-Agent记忆的依赖范围验证方法，旨在解决记忆新鲜度与计划过时之间的矛盾。通过引入依赖追踪机制，系统能够在记忆更新时自动识别并验证受影响的计划，确保Agent决策的准确性和一致性。该方法提升了分布式环境下多Agent协作的可靠性，并减少了因记忆不一致导致的错误行为。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-04T08:34:15.741920+00:00"
+}

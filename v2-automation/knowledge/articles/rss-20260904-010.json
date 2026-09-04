@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-010",
+  "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03416",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T08:33:33.275100+00:00",
+  "collected_at": "2026-09-04T08:33:33.275100+00:00",
+  "summary": "该论文提出了一种名为Dude的双检测多智能体系统，用于自动检测研究论文与其代码实现之间的不一致性。该系统通过两个检测模块协同工作，提高了论文-代码差异识别的准确性和效率，为可复现性研究提供了有力工具。其核心价值在于自动化验证科学计算代码与论文描述的一致性，有助于提升研究质量。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T08:34:15.741929+00:00"
+}
