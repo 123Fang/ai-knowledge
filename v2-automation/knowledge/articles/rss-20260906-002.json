@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-002",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T08:25:49.742255+00:00",
+  "collected_at": "2026-09-06T08:25:49.742255+00:00",
+  "summary": "该文章介绍了如何通过仅100步的GRPO（Group Relative Policy Optimization）微调一个350M参数的小型模型，以显著提升其结构化输出能力。核心价值在于展示了在资源有限的情况下，通过强化学习微调小模型也能达到高效、精准的结构化生成效果，为低成本模型优化提供了实用路径。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T08:26:35.575884+00:00"
+}

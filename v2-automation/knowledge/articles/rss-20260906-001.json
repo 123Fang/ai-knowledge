@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-001",
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Hcompany/neomme",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T08:25:49.742225+00:00",
+  "collected_at": "2026-09-06T08:25:49.742225+00:00",
+  "summary": "NeoMME 是一种高效的多模态原生多语言编码器，旨在统一处理文本和视觉信息，同时支持多种语言。该模型通过创新的架构设计，在保持高性能的同时降低了计算成本，为多语言多模态理解任务提供了新的解决方案。其核心价值在于提升了跨语言视觉-语言任务的效率与准确性。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T08:26:35.575873+00:00"
+}

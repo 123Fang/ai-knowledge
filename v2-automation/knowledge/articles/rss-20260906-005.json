@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-005",
+  "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T08:25:49.742269+00:00",
+  "collected_at": "2026-09-06T08:25:49.742269+00:00",
+  "summary": "该文章介绍了如何在Confluent平台上集成IBM的时间序列模型，以实现实时智能分析。它展示了将AI模型与流数据处理结合的方法，使企业能够对实时数据流进行预测和异常检测。内容强调了这种集成在提升决策效率和响应速度方面的价值，适合对实时AI应用感兴趣的技术人员。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T08:26:35.575893+00:00"
+}
