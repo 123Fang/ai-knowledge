@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-018",
+  "title": "Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04541",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T09:02:31.926586+00:00",
+  "collected_at": "2026-09-07T09:02:31.926586+00:00",
+  "summary": "该论文提出了一种数据驱动的方法，用于发现数字材料在超弹性和粘弹性方面的成分相关本构模型。通过结合机器学习与力学原理，该方法能够自动从实验数据中提取材料行为规律，生成准确且可解释的模型。这项研究为材料科学中的模型发现提供了新的自动化途径，具有较高的应用价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T09:03:20.703585+00:00"
+}

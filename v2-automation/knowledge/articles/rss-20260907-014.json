@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-014",
+  "title": "BioSync: Transformer-Based Cross-Modal Fusion for a Multimodal Physiological Digital Biomarker",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04504",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T09:02:31.926569+00:00",
+  "collected_at": "2026-09-07T09:02:31.926569+00:00",
+  "summary": "BioSync 提出了一种基于 Transformer 的跨模态融合方法，用于整合多种生理信号（如心率、皮肤电导等）以构建多模态生理数字生物标志物。该方法通过注意力机制有效捕捉模态间动态关联，提升了对生理状态（如压力或疲劳）的预测准确性。该研究为可穿戴健康监测和个性化医疗提供了新的技术路径，具有较高的应用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T09:03:20.703573+00:00"
+}

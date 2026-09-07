@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-012",
+  "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04493",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T09:02:31.926560+00:00",
+  "collected_at": "2026-09-07T09:02:31.926560+00:00",
+  "summary": "ResLearn-XR 提出了一种基于残差学习的网络流量与体验质量感知模型，用于增强现实（XR）场景下的性能优化。该模型通过捕捉网络流量与QoE之间的复杂关系，实现了对XR应用体验质量的精准预测与自适应调整。其核心价值在于提升XR服务的实时响应能力和用户满意度，为网络资源分配与XR体验优化提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T09:03:20.703567+00:00"
+}

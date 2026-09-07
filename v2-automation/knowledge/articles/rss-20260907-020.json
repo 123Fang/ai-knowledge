@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-020",
+  "title": "IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04559",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T09:02:31.926595+00:00",
+  "collected_at": "2026-09-07T09:02:31.926595+00:00",
+  "summary": "IPGeoAI 提出了一种基于 Transformer 的地理定位方法，结合大语言模型的语义融合技术，旨在提升 IP 地址地理定位的准确性。该方法利用 Transformer 架构捕捉 IP 数据的复杂模式，并通过 LLM 融合语义信息以增强特征表达。该研究为网络地理定位领域提供了新的技术思路，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T09:03:20.703591+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-016",
+  "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04523",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T09:02:31.926578+00:00",
+  "collected_at": "2026-09-07T09:02:31.926578+00:00",
+  "summary": "该论文提出了一种名为MaxKernel的代理系统，用于自动生成针对TPU优化的内核代码。它利用大型语言模型和智能体技术，通过迭代搜索和验证来生成高性能内核，从而减少手动调优工作。该系统展示了在TPU上实现高效代码生成的潜力，对AI基础设施优化具有重要意义。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "agent",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-07T09:03:20.703579+00:00"
+}

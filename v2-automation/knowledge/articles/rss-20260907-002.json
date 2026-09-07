@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-002",
+  "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04286",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T09:02:31.926499+00:00",
+  "collected_at": "2026-09-07T09:02:31.926499+00:00",
+  "summary": "本文系统化综述了AI招聘系统从传统匹配模型到智能招聘代理的演进，涵盖了系统评估方法和治理框架。文章梳理了该领域的技术发展脉络，并探讨了AI在招聘中的公平性、透明度等关键治理问题，为研究人员和从业者提供了全面的参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T09:03:20.703531+00:00"
+}
