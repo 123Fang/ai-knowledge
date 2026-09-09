@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-018",
+  "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05514",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T08:45:07.419169+00:00",
+  "collected_at": "2026-09-09T08:45:07.419169+00:00",
+  "summary": "该论文探讨了LLM代理社会中的价值观漂移问题，提出价值观失败发生在漂移之前，并分析了社会动态如何影响代理的价值观一致性。研究通过模拟实验揭示了代理间交互如何导致价值观偏离，为设计更稳健的多代理系统提供了理论依据。核心价值在于将社会动力学引入AI安全与对齐研究，强调早期干预的重要性。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T08:46:05.633237+00:00"
+}

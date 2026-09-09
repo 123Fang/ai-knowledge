@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-009",
+  "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05448",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T08:45:07.419125+00:00",
+  "collected_at": "2026-09-09T08:45:07.419125+00:00",
+  "summary": "本文提出了一种名为 Damage-Aware Bandit Pruning 的新型剪枝方法，用于视觉和语言 Transformer 模型。该方法利用多臂老虎机算法动态评估各层剪枝对模型性能的潜在损害，并据此智能地选择剪枝策略，以在保持高精度的同时显著降低模型计算复杂度。该技术为 Transformer 模型的高效部署提供了新的思路，尤其在资源受限场景下具有重要价值。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T08:46:05.633203+00:00"
+}

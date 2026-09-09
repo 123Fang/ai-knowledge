@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-011",
+  "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05461",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T08:45:07.419134+00:00",
+  "collected_at": "2026-09-09T08:45:07.419134+00:00",
+  "summary": "该论文提出了ARC-Bench基准，用于评估冻结的JEPA世界模型在闭环重规划中的表现，并揭示了动作排序在重规划场景下的失效问题。通过该基准，研究者能够更准确地衡量世界模型在动态环境中的规划能力，为改进模型提供指导。该工作对机器人规划和强化学习领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T08:46:05.633214+00:00"
+}

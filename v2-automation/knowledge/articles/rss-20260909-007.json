@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260909-007",
+  "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05441",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T08:45:07.419115+00:00",
+  "collected_at": "2026-09-09T08:45:07.419115+00:00",
+  "summary": "该论文提出了一种成本感知的评估框架，用于分析长期记忆在工具使用型LLM代理中的实际效用。研究发现，记忆并非总是有益，其价值高度依赖于任务复杂度和记忆成本，为设计高效记忆系统提供了指导。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T08:46:05.633197+00:00"
+}
