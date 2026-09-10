@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260910-018",
+  "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09647",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T08:43:29.225510+00:00",
+  "collected_at": "2026-09-10T08:43:29.225510+00:00",
+  "summary": "本文提出了一种针对智能体AI的黑盒红队测试框架，通过分类学驱动的方法自动化发现风险。该框架无需访问模型内部，适用于实际部署场景，能够系统性地识别智能体在工具使用、多步推理等环节中的安全漏洞。其价值在于为智能体AI的安全评估提供了可扩展的自动化方案，推动了AI安全测试的标准化。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T08:44:11.651967+00:00"
+}

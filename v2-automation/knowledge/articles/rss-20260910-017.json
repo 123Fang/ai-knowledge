@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-017",
+  "title": "RobustSGPO: Search-Space Control for Agent Harness Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09646",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T08:43:29.225506+00:00",
+  "collected_at": "2026-09-10T08:43:29.225506+00:00",
+  "summary": "RobustSGPO 提出了一种针对智能体（Agent）框架演化的搜索空间控制方法，旨在通过约束搜索空间来提升智能体系统在复杂任务中的鲁棒性和泛化能力。该工作将智能体框架的演化视为一个优化问题，并引入稳健的搜索策略，避免过拟合和脆弱性。其核心价值在于为智能体自动设计和改进提供了一种更可靠、更可控的范式，有助于推动自主智能体在真实场景中的部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T08:44:11.651965+00:00"
+}

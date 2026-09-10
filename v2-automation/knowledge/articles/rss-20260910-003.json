@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-003",
+  "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T08:43:29.225446+00:00",
+  "collected_at": "2026-09-10T08:43:29.225446+00:00",
+  "summary": "该论文探讨了在长周期智能体任务中，如何通过子智能体（Subagents）与智能体技能（Agent Skills）两种机制来执行可复用知识。研究对比了这两种方法在任务分解、知识复用和长期规划中的效果，为构建更高效的智能体系统提供了设计指导。其核心价值在于揭示了不同知识执行策略对智能体性能的影响，有助于推动复杂任务自动化的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T08:44:11.651928+00:00"
+}

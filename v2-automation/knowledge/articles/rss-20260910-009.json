@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-009",
+  "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09428",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T08:43:29.225477+00:00",
+  "collected_at": "2026-09-10T08:43:29.225477+00:00",
+  "summary": "该论文提出XAI-Arena，一个评估LLM能否评估可解释AI（XAI）解释质量的框架。通过构建竞技场式比较，系统分析LLM作为XAI解释质量评判者的能力与局限性。研究为自动化XAI评估提供了新思路，有助于推动可解释AI的标准化评估。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T08:44:11.651944+00:00"
+}

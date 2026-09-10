@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-016",
+  "title": "Seven Sources of Physical AI Capability Formation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09627",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T08:43:29.225502+00:00",
+  "collected_at": "2026-09-10T08:43:29.225502+00:00",
+  "summary": "该论文探讨了物理AI能力形成的七个来源，系统性地分析了物理智能体（如机器人、具身智能系统）如何通过感知、行动、交互等机制逐步构建能力。文章为理解具身AI的能力涌现提供了理论框架，对机器人学习和物理世界中的AI部署具有指导价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T08:44:11.651962+00:00"
+}

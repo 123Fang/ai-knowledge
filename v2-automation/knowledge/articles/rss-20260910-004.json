@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260910-004",
+  "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09306",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T08:43:29.225451+00:00",
+  "collected_at": "2026-09-10T08:43:29.225451+00:00",
+  "summary": "该论文探讨了现象体验（phenomenal experience）的多维度分化问题，可能涉及AI意识或主观体验的建模与评估。其价值在于为AI系统中主观体验的量化分析提供了新的理论框架或方法，但具体技术细节需进一步阅读全文。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T08:44:11.651930+00:00"
+}
