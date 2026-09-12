@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-016",
+  "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T08:27:02.801644+00:00",
+  "collected_at": "2026-09-12T08:27:02.801644+00:00",
+  "summary": "该论文系统性地梳理了AI智能体（AI Agents）的定义标准、评估指标和基准测试，旨在为智能体研究提供统一的评价框架。通过整合现有文献中的多种准则，文章揭示了当前智能体评估的碎片化问题，并提出了标准化方向。这项工作对于推动智能体领域的可复现研究和公平比较具有重要价值，尤其有助于研究人员和开发者理解如何衡量智能体的能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T08:27:48.316944+00:00"
+}

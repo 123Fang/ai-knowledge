@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-003",
+  "title": "The Waymo effect: how AI is quietly making research less collaborative",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-12T08:27:02.056004+00:00",
+  "collected_at": "2026-09-12T08:27:02.056004+00:00",
+  "summary": "文章探讨了Waymo效应——即AI技术（如自动驾驶）在提升效率的同时，可能无意中减少了研究合作。作者认为，AI工具使个体研究者能独立完成更多工作，从而降低了传统协作的需求，这可能对科研生态产生深远影响。核心价值在于引发对AI社会影响的反思，而非技术细节。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T08:27:48.316899+00:00"
+}

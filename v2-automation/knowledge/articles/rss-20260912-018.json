@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-018",
+  "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11060",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T08:27:02.801651+00:00",
+  "collected_at": "2026-09-12T08:27:02.801651+00:00",
+  "summary": "该论文提出了一种名为“环境探测式策展”的方法，用于为企业级AI智能体构建和优化记忆系统。核心思想是让智能体主动探测环境以获取关键信息，并据此策展记忆内容，从而提升记忆的准确性和实用性。该方法有望解决企业场景中智能体记忆管理面临的动态性和复杂性问题，为构建更可靠的智能体应用提供技术支撑。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T08:27:48.316949+00:00"
+}

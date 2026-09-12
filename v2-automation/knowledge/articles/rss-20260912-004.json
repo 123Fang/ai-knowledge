@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-004",
+  "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10584",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T08:27:02.801557+00:00",
+  "collected_at": "2026-09-12T08:27:02.801557+00:00",
+  "summary": "该论文提出概率焦点搜索（Probabilistic Focal Search），通过下界推进（Lower-Bound Advancement）加速有界次优搜索。该方法在保证解质量边界的前提下，利用概率信息动态调整搜索焦点，从而减少扩展节点数，提升搜索效率。其价值在于为资源受限的规划与决策问题提供了一种更高效的近似最优搜索框架。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-12T08:27:48.316903+00:00"
+}

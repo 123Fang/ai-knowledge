@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-007",
+  "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10656",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T08:27:02.801607+00:00",
+  "collected_at": "2026-09-12T08:27:02.801607+00:00",
+  "summary": "该论文研究了在扩散模型微调中，LoRA（低秩适应）的秩（rank）选择对模型性能与参数效率的权衡关系。通过系统实验，分析了不同秩对生成质量、训练成本和过拟合风险的影响，为实践者提供了秩选择的指导原则。其价值在于帮助研究者和工程师在扩散模型微调时更高效地平衡资源与效果。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T08:27:48.316912+00:00"
+}

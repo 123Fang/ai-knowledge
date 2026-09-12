@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-005",
+  "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10629",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T08:27:02.801593+00:00",
+  "collected_at": "2026-09-12T08:27:02.801593+00:00",
+  "summary": "该论文研究如何利用自然语言处理技术自动生成二次无约束二值优化（QUBO）问题的数学形式。通过将自然语言描述的问题自动转化为QUBO公式，该方法降低了量子计算和优化建模的门槛，提升了问题建模的效率。其核心价值在于桥接了自然语言理解与组合优化建模，有望加速量子退火等技术的实际应用。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T08:27:48.316906+00:00"
+}
