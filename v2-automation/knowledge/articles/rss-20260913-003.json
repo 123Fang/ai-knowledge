@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260913-003",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-13T09:13:47.744492+00:00",
+  "collected_at": "2026-09-13T09:13:47.744492+00:00",
+  "summary": "该文章探讨了AI安全对齐中的一个关键问题：模型拒绝回答时，不应拒绝整个话题，而应只拒绝话题中真正有害的子集。作者提出需要更精细的安全机制，以区分话题内的安全与不安全部分，从而在保障安全的同时避免过度拒绝。这一视角对提升LLM的实用性和用户体验具有重要价值，并为安全评估和提示工程提供了新方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T09:14:30.636044+00:00"
+}
