@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-013",
+  "title": "Mined from Scientific Literature: Process Schemas for Atomic Layer Deposition and Etching in Materials Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12139",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460623+00:00",
+  "collected_at": "2026-09-14T09:39:15.460623+00:00",
+  "summary": "该论文从科学文献中自动挖掘原子层沉积（ALD）和刻蚀工艺的过程模式（process schemas），旨在构建材料科学领域的结构化知识库。通过自然语言处理和信息抽取技术，将非结构化的实验描述转化为可计算的工艺流程图，支持工艺优化与知识复用。这项工作为材料科学中的工艺知识管理提供了自动化解决方案，有助于加速新材料和器件的研发。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318219+00:00"
+}

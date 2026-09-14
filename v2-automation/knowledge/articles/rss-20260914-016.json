@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-016",
+  "title": "WinSyn: An Automated Pipeline for Realistic Enterprise Question-Answering Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12171",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460637+00:00",
+  "collected_at": "2026-09-14T09:39:15.460637+00:00",
+  "summary": "WinSyn 提出了一种自动化流水线，用于生成真实的企业级问答评估数据集，以解决现有评估基准缺乏企业场景针对性的问题。该工作通过模拟企业文档和用户查询，自动构建高质量的问答对，从而更准确地衡量 LLM 在企业环境中的表现。其核心价值在于降低了构建企业评估集的成本，并提升了评估的真实性和可重复性，有助于推动面向企业应用的模型优化。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318228+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-008",
+  "title": "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12035",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460599+00:00",
+  "collected_at": "2026-09-14T09:39:15.460599+00:00",
+  "summary": "该论文提出了一种名为潜在注意力掩码自编码器（Latent-Attention Masked Autoencoders）的新方法，用于多模态心脏表征学习。该方法通过结合潜在注意力和掩码自编码器，能够从多模态心脏数据中学习到全面的表征，从而提升心脏疾病诊断和预测的准确性。其核心价值在于有效整合不同模态的心脏信息，为心血管疾病的智能分析提供了新的技术途径。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318197+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-012",
+  "title": "When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12116",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460619+00:00",
+  "collected_at": "2026-09-14T09:39:15.460619+00:00",
+  "summary": "该论文研究了知识图谱编辑（如添加或修改三元组）对语言模型问答性能的意外影响，发现即使编辑在参数层面看似成功，也可能在排序层面导致正确答案被错误答案取代。作者提出“排序级局部性”概念，强调需要超越参数支持来评估编辑的局部性，并可能提出新的评估指标或缓解策略。这项工作对知识编辑的可靠性和评估方法具有重要价值，有助于推动更安全的知识更新技术。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318215+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260914-018",
+  "title": "GTA: Graph Theory Agent and Benchmark for Algorithmic Graph Reasoning with LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12265",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460645+00:00",
+  "collected_at": "2026-09-14T09:39:15.460645+00:00",
+  "summary": "该论文提出了GTA（Graph Theory Agent）和相应的基准测试，旨在评估和提升大语言模型在算法图推理任务上的能力。通过构建智能体框架，结合LLM的推理与工具使用，系统性地测试了模型在图论问题上的表现。这项工作为LLM在结构化推理和算法问题求解方面提供了新的评估方法和改进方向，对推动LLM在复杂推理任务中的应用具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318234+00:00"
+}

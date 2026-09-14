@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-015",
+  "title": "GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460632+00:00",
+  "collected_at": "2026-09-14T09:39:15.460632+00:00",
+  "summary": "该论文提出 GLARE 框架，通过对抗奖励估计进行生成式学习，用于社会动力学预测。核心创新在于将对抗训练与奖励估计结合，提升对复杂社会交互动态的建模能力。该方法有望在舆情分析、行为预测等场景中提供更准确的预测。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318225+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260914-007",
+  "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11987",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460591+00:00",
+  "collected_at": "2026-09-14T09:39:15.460591+00:00",
+  "summary": "本文研究在智能体编码（agentic coding）任务中，性能提升究竟来源于底层大模型本身还是智能体框架（harness）。作者构建了一个污染可控的私有测试套件，以隔离框架效应，从而更公平地评估模型与框架各自的贡献。这项工作为智能体编码系统的评估提供了更严谨的方法论，有助于社区理解框架设计的真实价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318194+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-001",
+  "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-14T09:39:14.358396+00:00",
+  "collected_at": "2026-09-14T09:39:14.358396+00:00",
+  "summary": "Garry Tan（Y Combinator 总裁）主张美国开放权重 AI 实验室也应通过蒸馏前沿模型来提升自身能力，而非仅依赖开源社区贡献。该观点引发关于开放权重 AI 与闭源前沿模型之间竞争与协作的讨论，涉及模型蒸馏的技术可行性与法律伦理边界。核心价值在于探讨开放 AI 生态如何借助蒸馏技术缩小与顶级闭源模型的差距，对 AI 政策与开源策略有参考意义。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318157+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-011",
+  "title": "DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12115",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T09:39:15.460615+00:00",
+  "collected_at": "2026-09-14T09:39:15.460615+00:00",
+  "summary": "该论文提出了一种参数高效的Double U-Shaped Neural Operator（DU-NO），用于相位解析波浪建模。该方法结合了U-Net架构与神经算子，旨在高效求解波浪传播的偏微分方程，同时保持相位精度。其核心价值在于以较少的参数实现高精度的波浪模拟，为海洋工程和气候建模等领域提供了一种有前景的替代方案。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T09:40:00.318212+00:00"
+}
