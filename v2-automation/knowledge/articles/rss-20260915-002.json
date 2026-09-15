@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260915-002",
+  "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13396",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T09:15:41.482380+00:00",
+  "collected_at": "2026-09-15T09:15:41.482380+00:00",
+  "summary": "该论文提出了一种在多目标贝叶斯优化中解耦收敛性与多样性的新方法，通过先收敛后多样化的策略，有效平衡了多目标优化中的两个关键目标。该方法有望提升多目标贝叶斯优化的效率和效果，为复杂优化问题提供新的解决思路。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-15T09:16:29.349344+00:00"
+}

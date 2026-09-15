@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-010",
+  "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13470",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T09:15:41.482433+00:00",
+  "collected_at": "2026-09-15T09:15:41.482433+00:00",
+  "summary": "OrchSLM 研究了小语言模型（SLM）编排的动态特性，探索如何通过组合多个小型模型来协同完成复杂任务。该工作分析了不同编排策略对系统性能、效率和鲁棒性的影响，为在资源受限场景下构建高效的多模型协作系统提供了实证依据。其价值在于揭示了 SLM 编排的潜在优势与挑战，为轻量级 AI 系统的设计与部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T09:16:29.349376+00:00"
+}

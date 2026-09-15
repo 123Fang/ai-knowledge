@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-020",
+  "title": "Planning or Learning: Reliability and Cost in Multi-Asset Maintenance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13566",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T09:15:41.482477+00:00",
+  "collected_at": "2026-09-15T09:15:41.482477+00:00",
+  "summary": "该论文研究多资产维护场景下，基于规划（Planning）与基于学习（Learning）两种决策范式在可靠性与成本之间的权衡。通过对比分析，揭示了不同方法在维护策略优化中的适用条件与性能边界。研究为工业系统维护决策提供了理论指导，有助于在实际部署中选择合适的算法以平衡可靠性和经济性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T09:16:29.349408+00:00"
+}

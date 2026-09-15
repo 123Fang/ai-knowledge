@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-004",
+  "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13422",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T09:15:41.482398+00:00",
+  "collected_at": "2026-09-15T09:15:41.482398+00:00",
+  "summary": "本文提出「Vibe Patenting」框架，系统评估大语言模型作为专利撰写代理的评判者（LLM Judges）的能力。研究聚焦于专业专利起草场景，分析LLM在评估专利文本质量、创新性和合规性方面的表现，为构建可靠的专利撰写AI代理提供评估基准和方法论。该工作对法律科技领域的LLM应用具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T09:16:29.349352+00:00"
+}
