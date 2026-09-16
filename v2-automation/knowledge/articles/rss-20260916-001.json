@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260916-001",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-16T09:08:35.298521+00:00",
+  "collected_at": "2026-09-16T09:08:35.298521+00:00",
+  "summary": "Pion 是一个旨在自主运营任何公司的 AI agent，展示了将 LLM 与工具使用、多步推理和自动化决策相结合的前沿探索。其核心价值在于尝试用单一 agent 系统替代传统企业运营中的多个角色，推动 agent 技术从任务级向组织级应用演进。该内容适合关注 AI agent 落地与自主系统设计的开发者参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-16T09:09:20.175265+00:00"
+}
