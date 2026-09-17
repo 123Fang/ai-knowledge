@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260917-019",
+  "title": "ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17885",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003520+00:00",
+  "collected_at": "2026-09-17T09:16:52.003520+00:00",
+  "summary": "ERPBench 提出了一种面向企业软件中计算机使用代理（Computer-Use Agents）的状态化评估范式。该基准通过将代理操作与真实企业资源规划（ERP）系统的状态变化对齐，解决了传统评估方法无法捕捉动态环境交互的问题。其核心价值在于为代理在复杂企业软件中的工具使用、推理和部署提供了更真实、可复现的评估标准，推动了代理技术从实验室向实际业务场景的迁移。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819649+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-020",
+  "title": "OBC-Prune: Outcome-Based Calibration for Large Reasoning Model Pruning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17890",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003525+00:00",
+  "collected_at": "2026-09-17T09:16:52.003525+00:00",
+  "summary": "OBC-Prune 提出了一种基于结果校准（Outcome-Based Calibration）的大型推理模型剪枝方法，旨在解决推理模型在压缩后性能显著下降的问题。该方法通过利用模型最终输出结果来指导剪枝过程，从而在减少模型参数的同时保持推理能力。这项工作为大型推理模型的高效部署提供了新的技术路径，对资源受限场景下的模型压缩具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819651+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260917-002",
+  "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17632",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003447+00:00",
+  "collected_at": "2026-09-17T09:16:52.003447+00:00",
+  "summary": "EvolveTrade 提出了一种经验驱动的策略精炼方法，用于构建能够自我演化的 LLM 交易智能体。该方法通过让智能体在交易过程中积累经验并迭代优化决策策略，从而提升其在动态市场环境中的适应性和盈利能力。这项工作展示了 LLM 智能体在金融交易领域的应用潜力，并为自我演化智能体的设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819602+00:00"
+}

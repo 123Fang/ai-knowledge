@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-005",
+  "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17637",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003465+00:00",
+  "collected_at": "2026-09-17T09:16:52.003465+00:00",
+  "summary": "该研究通过预注册的六十个社会实验，验证了证据掩蔽（evidence masking）是驱动组合泛化（compositional generalization）的关键因素。核心发现是，即使某些证据在训练中被隐藏，模型仍能学习并利用这些信息，从而提升对未见组合的泛化能力。这一发现为理解AI系统的泛化机制提供了新的实证支持，并对设计更鲁棒的训练策略具有指导意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819612+00:00"
+}

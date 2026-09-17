@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260917-012",
+  "title": "SAGE: Governed Artifact Generation from Enterprise Guidelines",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17775",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003496+00:00",
+  "collected_at": "2026-09-17T09:16:52.003496+00:00",
+  "summary": "SAGE 提出了一种从企业指南自动生成受治理工件（artifact）的方法，旨在确保生成内容符合企业规范与合规要求。该技术结合了 LLM 的生成能力与治理约束，可能涉及检索增强生成（RAG）或代理机制，以在生成过程中动态应用企业规则。其核心价值在于降低人工审核成本，提升企业内容生成的可靠性与一致性，适用于需要严格合规的文档、代码或配置生成场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819633+00:00"
+}

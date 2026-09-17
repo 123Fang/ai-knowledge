@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260917-016",
+  "title": "SNOMED CT Concept Recommendation from Masked Clinical Context",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17855",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003510+00:00",
+  "collected_at": "2026-09-17T09:16:52.003510+00:00",
+  "summary": "该论文提出了一种从掩码临床上下文中推荐 SNOMED CT 概念的方法，旨在解决电子健康记录中临床术语标准化和自动编码的难题。通过利用掩码语言建模技术，模型能够根据不完整的临床文本推断出最合适的 SNOMED CT 概念，从而辅助临床编码和决策支持。这项研究对于提升医疗数据的互操作性和自动化处理具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819642+00:00"
+}

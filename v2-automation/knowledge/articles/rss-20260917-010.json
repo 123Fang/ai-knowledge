@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260917-010",
+  "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17731",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003489+00:00",
+  "collected_at": "2026-09-17T09:16:52.003489+00:00",
+  "summary": "该论文对COTQ省级土地覆盖产品进行了系统性评估，从结构一致性、光谱可分性以及与ESA、ESRI和Google产品的相对定位三个维度展开分析。研究通过多源对比验证了COTQ产品的质量与特点，为土地覆盖产品的选择和应用提供了实证依据。该工作属于遥感与地理信息领域的评估性研究，对产品改进和用户决策具有参考价值。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819625+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-006",
+  "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17688",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003470+00:00",
+  "collected_at": "2026-09-17T09:16:52.003470+00:00",
+  "summary": "CapMem 是一个针对第一人称视频中基于字幕的情景记忆（Episodic Memory）的基准测试。它旨在评估 AI 系统利用视频字幕构建、检索和推理长期记忆的能力，填补了现有基准在情景记忆评估方面的空白。该基准为多模态记忆和视频理解研究提供了标准化的评测工具，有助于推动相关技术的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819614+00:00"
+}

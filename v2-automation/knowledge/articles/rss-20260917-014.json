@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-014",
+  "title": "A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17804",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003503+00:00",
+  "collected_at": "2026-09-17T09:16:52.003503+00:00",
+  "summary": "该论文将数学应用题求解分解为四个阶段，并系统分析了大型语言模型（LLM）在数学推理中的机制脆弱性。研究发现，LLM 在不同阶段表现出不同程度的鲁棒性，且对问题表述的微小扰动极为敏感。这项工作为理解 LLM 数学推理的局限性提供了细粒度视角，并为改进模型训练与评估方法指明了方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819638+00:00"
+}

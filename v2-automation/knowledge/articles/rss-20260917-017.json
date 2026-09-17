@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-017",
+  "title": "The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17863",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T09:16:52.003513+00:00",
+  "collected_at": "2026-09-17T09:16:52.003513+00:00",
+  "summary": "本文提出了推理工程帕累托图集，系统性地分析了LLM推理优化在成本、质量和延迟三个维度上的权衡关系。通过帕累托前沿方法，研究揭示了哪些优化技术能在不同约束下主导性能表现，为实际部署中的优化选择提供了量化指导。该工作对推理工程领域具有重要的实践参考价值，帮助工程师根据具体场景做出更优的优化决策。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T09:17:34.819644+00:00"
+}
