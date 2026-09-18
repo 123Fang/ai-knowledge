@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-010",
+  "title": "The syntax and semantics of goals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19448",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810858+00:00",
+  "collected_at": "2026-09-18T08:52:04.810858+00:00",
+  "summary": "本文探讨了目标（goals）的语法与语义，可能涉及如何形式化地定义和推理目标，为AI系统（尤其是自主智能体）提供目标表示的理论基础。该工作有助于提升智能体在复杂任务中的目标理解与规划能力，对多智能体协作和推理有潜在价值。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453414+00:00"
+}

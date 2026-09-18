@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-020",
+  "title": "Agentic AI Networking for Heterogeneous Unmanned Aerial Systems in Low-Altitude Wireless Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19538",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810886+00:00",
+  "collected_at": "2026-09-18T08:52:04.810886+00:00",
+  "summary": "该论文探讨了在低空无线网络中，如何利用Agentic AI（智能体AI）实现异构无人机系统（UAS）的自主组网与协同。核心价值在于提出了一种面向多智能体、异构无人机的网络架构，以应对动态拓扑、资源受限和任务多样性的挑战，从而提升低空通信与任务执行的效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453436+00:00"
+}

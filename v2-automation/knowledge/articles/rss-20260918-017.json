@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260918-017",
+  "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19524",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810877+00:00",
+  "collected_at": "2026-09-18T08:52:04.810877+00:00",
+  "summary": "该论文提出一个统一的评估框架，用于评估可信大语言模型、智能体AI和多模态系统。框架旨在解决当前评估方法碎片化的问题，提供跨模型类型和任务的一致性评估标准。其价值在于促进对AI系统可信度（如安全性、鲁棒性、公平性）的系统性比较，推动更可靠的AI部署。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent",
+    "vision",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453429+00:00"
+}

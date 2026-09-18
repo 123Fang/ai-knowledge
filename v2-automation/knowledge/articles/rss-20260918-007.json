@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-007",
+  "title": "Do AI Agents Understand Computer Architecture?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19387",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810849+00:00",
+  "collected_at": "2026-09-18T08:52:04.810849+00:00",
+  "summary": "该论文探讨了AI智能体是否真正理解计算机体系结构，通过设计一系列任务来评估LLM智能体在底层硬件概念上的推理能力。研究发现，尽管智能体在高层编程任务上表现良好，但在涉及缓存、流水线、内存层次等体系结构细节时存在显著不足，揭示了当前模型在系统级理解上的局限性。这项工作为评估智能体的领域知识深度提供了新方法，并指出了未来改进方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453405+00:00"
+}

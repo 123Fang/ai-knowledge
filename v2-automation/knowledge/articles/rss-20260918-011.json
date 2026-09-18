@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-011",
+  "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19465",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810861+00:00",
+  "collected_at": "2026-09-18T08:52:04.810861+00:00",
+  "summary": "该论文研究了在强化学习后训练（如RLHF）下，语言模型的组合推理能力。通过系统实验，分析了RL后训练对模型处理组合性任务（如新组合的指令或推理链）的影响，揭示了其提升与局限。这项工作为理解RL微调如何影响LLM的泛化推理提供了实证依据，对改进训练策略具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453416+00:00"
+}

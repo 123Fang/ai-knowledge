@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260918-002",
+  "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19180",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810824+00:00",
+  "collected_at": "2026-09-18T08:52:04.810824+00:00",
+  "summary": "BioPhys-Bridge 是一个用于评估跨学科科学推理能力的基准测试，专注于物理基础生物学研究。它旨在检验 AI 模型在融合物理原理与生物问题时的推理表现，填补了现有基准在跨学科场景下的空白。该基准为开发更强大的科学推理 AI 提供了标准化评估工具，有助于推动 AI 在交叉学科研究中的应用。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453391+00:00"
+}

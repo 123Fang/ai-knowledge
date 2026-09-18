@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260918-003",
+  "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19182",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810831+00:00",
+  "collected_at": "2026-09-18T08:52:04.810831+00:00",
+  "summary": "该论文系统性地分析了现有LLM基准测试的设计，探讨了这些基准隐含的期望与假设，并提出了一个映射框架来理解基准设计空间。研究揭示了基准设计中的偏差与覆盖缺口，为构建更公平、全面的评估体系提供了指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453394+00:00"
+}

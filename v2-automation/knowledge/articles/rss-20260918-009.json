@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-009",
+  "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19425",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810855+00:00",
+  "collected_at": "2026-09-18T08:52:04.810855+00:00",
+  "summary": "该论文针对LLM智能体在工具调用中的幻觉问题，提出了一种封闭世界解析方法。通过将工具选择限制在预定义的合法工具集合内，有效减少了智能体调用不存在或错误工具的情况。该方法提升了智能体工具使用的可靠性和安全性，对构建稳健的LLM智能体系统具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453411+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-018",
+  "title": "Self Improvement via Fast Tree-search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19526",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T08:52:04.810880+00:00",
+  "collected_at": "2026-09-18T08:52:04.810880+00:00",
+  "summary": "该论文提出了一种通过快速树搜索实现自我改进的方法，旨在提升AI模型在复杂任务中的推理和决策能力。核心价值在于利用树搜索高效探索解空间，使模型能够自主优化其输出，无需外部标注数据。该方法在多个基准测试中展示了性能提升，为自监督学习和推理增强提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T08:52:48.453432+00:00"
+}
