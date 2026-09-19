@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260919-004",
+  "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://bend-lang.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-19T08:38:21.660891+00:00",
+  "collected_at": "2026-09-19T08:38:21.660891+00:00",
+  "summary": "Bend 是一种新型编程语言，旨在通过内置的证明机制来防止 AI 生成代码中的错误，同时支持在 GPU 上高效运行。其核心价值在于将形式化验证与高性能计算结合，为 AI 辅助编程提供更安全、更可靠的执行环境。该语言特别适合需要高可信度的 AI 代码生成场景，如自动推理和科学计算。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-19T08:39:03.993478+00:00"
+}
