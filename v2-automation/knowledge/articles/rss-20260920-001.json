@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260920-001",
+  "title": "I think you should almost never use AI to write",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-20T09:08:12.090558+00:00",
+  "collected_at": "2026-09-20T09:08:12.090558+00:00",
+  "summary": "该文章主张几乎不应使用AI进行写作，认为AI生成的文本缺乏个人声音、真实性和深度，可能损害作者信誉和读者信任。文章强调写作是思考过程，AI辅助会削弱这一价值，建议仅在头脑风暴或语法检查等有限场景使用。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-20T09:08:53.862529+00:00"
+}
