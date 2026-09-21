@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-014",
+  "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21157",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T09:43:37.301004+00:00",
+  "collected_at": "2026-09-21T09:43:37.301004+00:00",
+  "summary": "该论文探讨了利用AI智能体在更高抽象层次上进行芯片设计的方法。通过引入高级抽象，智能体能够更有效地探索设计空间并优化芯片架构。研究展示了智能体在芯片设计自动化中的潜力，为未来AI辅助硬件设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T09:44:15.440019+00:00"
+}

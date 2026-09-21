@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-010",
+  "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21096",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T09:43:37.300994+00:00",
+  "collected_at": "2026-09-21T09:43:37.300994+00:00",
+  "summary": "该论文提出通过分析大语言模型内部注意力拓扑结构来检测幻觉，发现幻觉与上下文共享受损相关。方法通过追踪拓扑特征识别模型在生成时未能有效整合上下文信息，为幻觉检测提供了可解释的新视角。实验表明该方法在多个基准上优于现有检测技术，有助于提升LLM可靠性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T09:44:15.440009+00:00"
+}

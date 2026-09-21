@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-002",
+  "title": "AI and the Destruction of the Creative Commons",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-21T09:43:36.183998+00:00",
+  "collected_at": "2026-09-21T09:43:36.183998+00:00",
+  "summary": "该文章探讨了生成式AI对知识共享（Creative Commons）生态的破坏性影响，核心论点是AI模型大规模抓取和训练受版权保护的内容，削弱了创作者选择开放许可的意愿，进而威胁公共知识资源的可持续性。文章从法律、伦理和技术角度分析了这一趋势，并呼吁建立新的补偿与授权机制。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T09:44:15.439995+00:00"
+}

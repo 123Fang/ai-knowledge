@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-019",
+  "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21214",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T09:43:37.301016+00:00",
+  "collected_at": "2026-09-21T09:43:37.301016+00:00",
+  "summary": "本文提出了一种能力-残差解耦建模方法（Ability-Residual Decoupled Modeling），用于情感认知诊断。该方法将学生的能力与情感状态中的残差因素分离，以更准确地建模学习者的认知与情感交互。其价值在于为智能教育中的情感认知诊断提供了新的解耦视角，有望提升诊断的细粒度和可解释性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T09:44:15.440029+00:00"
+}
