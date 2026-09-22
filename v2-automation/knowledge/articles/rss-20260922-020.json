@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260922-020",
+  "title": "GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21293",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-22T09:07:40.499104+00:00",
+  "collected_at": "2026-09-22T09:07:40.499104+00:00",
+  "summary": "该论文提出了 GameASG-Bench，一个用于评估自主软件生成（ASG）系统在游戏开发任务中表现的基准测试。它旨在衡量 AI 代理在真实游戏开发场景下的代码生成与自主决策能力，填补了现有基准在游戏领域覆盖不足的空白。该基准为评估和推动面向复杂交互式软件的 AI 生成技术提供了标准化工具，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-22T09:08:20.491386+00:00"
+}

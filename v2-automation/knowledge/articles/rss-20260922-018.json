@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260922-018",
+  "title": "PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21263",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-22T09:07:40.499096+00:00",
+  "collected_at": "2026-09-22T09:07:40.499096+00:00",
+  "summary": "PlaceReasoner-Beta 提出了一种基于推理驱动的宏单元布局方法，并配套了相应的基准测试。该方法利用推理能力优化芯片物理设计中的宏单元放置，旨在提升布局质量与自动化水平。该工作为 EDA 领域的 AI 应用提供了新的思路和评估标准。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-22T09:08:20.491378+00:00"
+}

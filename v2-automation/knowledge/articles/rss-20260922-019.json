@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260922-019",
+  "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21267",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-22T09:07:40.499100+00:00",
+  "collected_at": "2026-09-22T09:07:40.499100+00:00",
+  "summary": "本文研究在生产环境中对不断演化的LLM智能体进行高效基准测试的方法。通过分析智能体在真实部署中的性能变化，提出了一套轻量级、可持续的评估框架，以降低测试成本并保持可靠性。该工作为LLM智能体的持续评估和部署提供了实用指导，有助于平衡性能监控与资源开销。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-22T09:08:20.491383+00:00"
+}
