@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-001",
+  "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-23T09:08:45.418633+00:00",
+  "collected_at": "2026-09-23T09:08:45.418633+00:00",
+  "summary": "美国国防部承认，在一次导致伊朗学校被误击的导弹袭击中，对AI系统的过度依赖是重要原因。该事件凸显了在军事等高危场景中部署AI时，缺乏充分的人类监督、验证机制和对抗性评估的风险。核心价值在于警示AI系统的可靠性、可解释性及人机协同设计在关键决策中的必要性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931496+00:00"
+}

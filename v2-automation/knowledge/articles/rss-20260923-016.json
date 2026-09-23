@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-016",
+  "title": "Making Agents More Consistent: Skills Should Form Habits for Repeat Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25299",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369958+00:00",
+  "collected_at": "2026-09-23T09:08:46.369958+00:00",
+  "summary": "该论文探讨了如何通过将重复任务转化为技能（skills）并形成习惯（habits）来提升AI智能体（agent）行为的一致性。核心观点是，对于重复性任务，智能体不应每次重新推理，而应像人类一样将技能固化为习惯，从而减少决策波动、提高执行效率和可靠性。这项工作为构建更稳定、可预测的智能体系统提供了新的设计思路，对多智能体协作和长期部署具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931552+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-011",
+  "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25254",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369942+00:00",
+  "collected_at": "2026-09-23T09:08:46.369942+00:00",
+  "summary": "本文提出了一种名为“AI Neuroscientist”的交互式智能体接口，旨在通过自然语言交互简化神经影像分析流程。该接口利用智能体技术自动执行复杂的分析任务，降低了对专业编程和工具操作的依赖。其核心价值在于将AI智能体与神经影像领域结合，提升了分析效率和可及性，为神经科学研究提供了新的交互范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931539+00:00"
+}

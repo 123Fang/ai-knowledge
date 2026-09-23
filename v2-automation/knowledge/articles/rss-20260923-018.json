@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-018",
+  "title": "Clarification Is Not Correction: LLMs Fail to Let Go",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25337",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369965+00:00",
+  "collected_at": "2026-09-23T09:08:46.369965+00:00",
+  "summary": "该论文研究了大型语言模型（LLM）在对话中面对用户澄清（clarification）时的行为，发现模型倾向于将澄清误解为纠正（correction），从而无法放弃先前错误的假设或输出。作者通过实验揭示了这一现象，并指出当前LLM在交互中缺乏灵活调整认知的能力。这项研究对于改进对话系统的鲁棒性和人机协作具有重要意义，尤其是在需要迭代修正的任务中。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931557+00:00"
+}

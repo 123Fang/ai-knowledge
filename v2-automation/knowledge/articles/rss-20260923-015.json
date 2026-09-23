@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-015",
+  "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25286",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369955+00:00",
+  "collected_at": "2026-09-23T09:08:46.369955+00:00",
+  "summary": "该论文提出了一种面向数据代理的企业数据理解方法，通过压缩和路由技术来处理大规模异构企业数据。核心在于学习数据的压缩表示，并动态路由查询到最相关的数据源，从而提升数据代理的效率和准确性。该方法有望降低数据代理的上下文负担，增强其在复杂企业环境中的可扩展性和实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931550+00:00"
+}

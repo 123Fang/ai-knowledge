@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-009",
+  "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25187",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369936+00:00",
+  "collected_at": "2026-09-23T09:08:46.369936+00:00",
+  "summary": "X-Planner 提出了一种事件结构化的任务规划方法，用于具身智能（embodied intelligence）场景。该方法将复杂任务分解为事件序列，使智能体能够更有效地进行长期规划与执行。其核心价值在于提升了具身智能体在动态环境中的任务规划能力和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931532+00:00"
+}

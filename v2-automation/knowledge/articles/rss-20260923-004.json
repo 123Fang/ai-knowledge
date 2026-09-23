@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-004",
+  "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369867+00:00",
+  "collected_at": "2026-09-23T09:08:46.369867+00:00",
+  "summary": "该研究探讨了合成人物角色（synthetic personas）在预测真实受众反应中的有效性，通过模拟到真实的对比实验发现，在文案模拟任务中，不使用人物角色的基线方法反而优于基于人物角色的方法。这一发现挑战了当前利用LLM生成合成用户以模拟受众的常见做法，提示此类模拟可能引入偏差或无效性。研究为评估AI模拟的可靠性提供了重要实证，对营销、用户体验研究和AI评估领域具有参考价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931520+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-003",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-23T09:08:45.418665+00:00",
+  "collected_at": "2026-09-23T09:08:45.418665+00:00",
+  "summary": "文章探讨了AI编码工具（如Copilot、Cursor等）的普及如何导致持续集成（CI）流程成为开发瓶颈，因为AI生成的代码提交频率和数量激增，传统CI难以快速反馈。作者分享了他们重新设计CI流水线的实践，包括并行化、缓存优化、智能测试选择等策略，以保持快速反馈循环。该内容对正在引入AI编码助手的团队具有实用参考价值，帮助避免CI成为开发效率的拖累。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931517+00:00"
+}

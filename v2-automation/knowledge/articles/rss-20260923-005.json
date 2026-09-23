@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260923-005",
+  "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25013",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T09:08:46.369917+00:00",
+  "collected_at": "2026-09-23T09:08:46.369917+00:00",
+  "summary": "本文对TabPFN（一种用于表格数据的基础学习模型）的优化过程进行了实证研究，重点评估了现有预条件子（preconditioners）是否能提升其性能。通过系统实验，作者分析了不同预条件子对TabPFN训练收敛性和预测准确率的影响，揭示了在生物医学表格数据场景下的适用性。该研究为表格基础模型的优化策略提供了实践指导，并指出了未来改进方向。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T09:09:24.931522+00:00"
+}
