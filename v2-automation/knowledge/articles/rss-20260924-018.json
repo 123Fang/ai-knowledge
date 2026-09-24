@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-018",
+  "title": "Efficient Iterative Retrieval with Heterogeneous Batching",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-24T09:04:06.767000+00:00",
+  "collected_at": "2026-09-24T09:04:06.767000+00:00",
+  "summary": "本文提出了一种面向迭代检索的高效异构批处理技术，旨在优化检索增强生成（RAG）中多轮检索的推理效率。通过将不同检索轮次和不同来源的请求动态分组为异构批次，该方法显著减少了计算冗余和延迟，同时保持检索质量。该工作为大规模RAG系统的实际部署提供了重要的效率提升方案，尤其适用于需要多次迭代检索的复杂推理任务。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-24T09:04:46.500036+00:00"
+}

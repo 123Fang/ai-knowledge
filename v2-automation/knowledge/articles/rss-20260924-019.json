@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-019",
+  "title": "From Offline Proxies to Online Decisions: A Layered Engagement Evaluation Framework for Conversational AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25408",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-24T09:04:06.767004+00:00",
+  "collected_at": "2026-09-24T09:04:06.767004+00:00",
+  "summary": "该论文提出了一种分层参与度评估框架，用于对话式AI，旨在将离线代理评估与在线决策相结合。框架通过分层结构评估对话参与度，支持从离线代理到在线决策的过渡。其价值在于提供系统化的评估方法，帮助优化对话AI的参与度策略。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-24T09:04:46.500054+00:00"
+}

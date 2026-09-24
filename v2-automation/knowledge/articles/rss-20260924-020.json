@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-020",
+  "title": "ZeroGate: Trust-Preserving Fast Paths for Governed AI Agent Runtimes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25443",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-24T09:04:06.767009+00:00",
+  "collected_at": "2026-09-24T09:04:06.767009+00:00",
+  "summary": "ZeroGate 提出了一种在受治理的 AI Agent 运行时中实现信任保持快速路径的方法，旨在平衡安全策略执行与低延迟需求。该技术通过零信任门控机制，在确保 Agent 行为符合治理规则的同时，允许可信操作快速通过，减少不必要的检查开销。其核心价值在于为部署多 Agent 系统提供了一种兼顾安全性与性能的运行时架构，适用于对实时性和合规性均有要求的场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-24T09:04:46.500058+00:00"
+}
