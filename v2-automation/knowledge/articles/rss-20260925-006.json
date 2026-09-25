@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-006",
+  "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28570",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533620+00:00",
+  "collected_at": "2026-09-25T09:27:30.533620+00:00",
+  "summary": "该论文提出DEEPO（双熵增强策略优化），针对多模态大语言模型（MLLMs）中的幻觉问题，通过引入双熵机制来改进策略优化过程。该方法旨在提升模型生成内容的忠实度，减少与视觉输入不符的幻觉输出。其核心价值在于为多模态幻觉缓解提供了一种新的优化视角，有望推动更可靠的多模态AI系统发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227722+00:00"
+}

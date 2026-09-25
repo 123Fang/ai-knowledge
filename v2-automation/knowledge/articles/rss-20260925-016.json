@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260925-016",
+  "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28850",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533669+00:00",
+  "collected_at": "2026-09-25T09:27:30.533669+00:00",
+  "summary": "该论文提出 RECLAIM 框架，旨在评估 AI 智能体能否自动复现机器学习论文中的实验声明。通过让智能体阅读论文、理解方法并执行代码，RECLAIM 测试了智能体在真实科研场景下的推理与工具使用能力。这项工作为自动化科学验证提供了新的评估基准，对提升研究可复现性和智能体自主性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227757+00:00"
+}

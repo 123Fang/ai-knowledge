@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-018",
+  "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28876",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533679+00:00",
+  "collected_at": "2026-09-25T09:27:30.533679+00:00",
+  "summary": "Forecast-Dojo 提出了一个可重放的环境，用于对 LLM 预测代理进行基准测试和训练。该环境支持对预测任务进行可重复的评估，并可用于训练代理改进预测能力。其核心价值在于为 LLM 在预测场景下的能力评估与迭代提供了标准化平台，推动了预测代理的研究。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227764+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-019",
+  "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28919",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533684+00:00",
+  "collected_at": "2026-09-25T09:27:30.533684+00:00",
+  "summary": "该论文探讨了在企业环境中部署AI编码代理时，如何通过路由和治理机制来控制成本。核心内容包括对AI编码代理的调用进行智能路由，以及建立治理框架来优化资源使用和成本效益。价值在于为企业提供了一套可操作的方法，以平衡AI编码代理的性能与开销，推动其规模化应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227767+00:00"
+}

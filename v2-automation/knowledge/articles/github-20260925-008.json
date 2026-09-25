@@ -1,0 +1,21 @@
+{
+  "id": "github-20260925-008",
+  "title": "thefalconry/talon",
+  "source": "github",
+  "source_url": "https://github.com/thefalconry/talon",
+  "author": "thefalconry",
+  "published_at": "2026-09-24T21:44:57Z",
+  "collected_at": "2026-09-25T09:27:09.684400+00:00",
+  "summary": "Talon 是一个多平台智能体 AI 运行框架，支持在 Telegram、Discord、Teams 和终端上运行，并允许接入多种可插拔后端（如 Claude、Kilo、OpenCode、Codex、OpenAI Agents）。它提供完整的 MCP 工具访问能力，并支持持久化后台智能体（Goals、Heartbeat、Dream），旨在简化跨平台 AI 智能体的部署与集成。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "multi-agent",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227686+00:00"
+}

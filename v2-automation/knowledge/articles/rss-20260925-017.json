@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-017",
+  "title": "Human-AI-Powered Hypothesis Testing: Cost-Aware Selective AI Scoring and Sequential Human Escalation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28859",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533674+00:00",
+  "collected_at": "2026-09-25T09:27:30.533674+00:00",
+  "summary": "本文提出了一种成本感知的假设检验框架，结合选择性AI评分与顺序人工升级策略，以在保证统计效力的同时降低人工标注成本。该方法利用AI对高置信度样本自动评分，仅对不确定样本进行人工评估，并通过序贯概率比检验等机制动态决定升级时机。该工作为AI辅助科学发现和假设验证提供了可扩展、经济高效的解决方案，平衡了自动化效率与人工可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227761+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-009",
+  "title": "Training Object Permanence in World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28654",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533635+00:00",
+  "collected_at": "2026-09-25T09:27:30.533635+00:00",
+  "summary": "该论文研究如何训练世界模型获得物体永久性（object permanence），即模型在物体被遮挡或移出视野后仍能维持其表征。通过设计特定的训练任务和损失函数，作者展示了世界模型可以学会追踪不可见物体，从而提升对动态环境的理解和预测能力。这项工作对基于模型的强化学习和机器人规划具有重要价值，因为物体永久性是智能体进行长期推理和操作的基础。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227735+00:00"
+}

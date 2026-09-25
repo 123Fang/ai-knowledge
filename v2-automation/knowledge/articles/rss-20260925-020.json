@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260925-020",
+  "title": "PFArena: Benchmarking Language Models for Protein Modification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28921",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533688+00:00",
+  "collected_at": "2026-09-25T09:27:30.533688+00:00",
+  "summary": "PFArena 是一个用于评估语言模型在蛋白质修饰任务上表现的基准测试平台。该工作填补了 LLM 在生物分子工程领域系统性评测的空白，为蛋白质修饰相关的语言模型能力提供了标准化评估方法。其价值在于推动 AI 在蛋白质工程和药物设计等生物技术领域的可靠应用。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227770+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-003",
+  "title": "PAWS: Policy-driven Agentic World Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28547",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533594+00:00",
+  "collected_at": "2026-09-25T09:27:30.533594+00:00",
+  "summary": "PAWS（Policy-driven Agentic World Simulation）提出了一种基于策略驱动的智能体世界模拟框架，旨在通过可配置的策略来驱动多智能体在模拟环境中的行为与交互。该工作可能为智能体行为评估、策略学习和复杂场景下的多智能体协作提供可扩展的仿真平台，对推动 agent 系统从单一任务向开放世界模拟发展具有参考价值。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227712+00:00"
+}

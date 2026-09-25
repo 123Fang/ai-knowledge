@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260925-007",
+  "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28575",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T09:27:30.533625+00:00",
+  "collected_at": "2026-09-25T09:27:30.533625+00:00",
+  "summary": "该论文提出了TWIST，一个用于评估对话记忆系统中干预质量的基准测试，并包含一个经过人工验证的草稿对齐方法。其核心价值在于填补了对话记忆评估中缺乏干预质量标准的空白，为构建更可靠的对话AI系统提供了可量化的评估工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T09:28:10.227725+00:00"
+}
