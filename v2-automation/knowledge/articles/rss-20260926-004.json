@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260926-004",
+  "title": "Transformers now runs llama.cpp quants",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-26T09:12:20.373411+00:00",
+  "collected_at": "2026-09-26T09:12:20.373411+00:00",
+  "summary": "Hugging Face Transformers 现在原生支持运行 llama.cpp 的量化模型（GGUF 格式），用户可以直接通过 Transformers 加载和推理这些量化模型，无需额外转换。这简化了在消费级硬件上部署大语言模型的流程，降低了内存需求，同时保持了与 Hugging Face 生态的兼容性。该更新为开发者提供了更便捷的本地推理和实验途径。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-26T09:13:00.643626+00:00"
+}

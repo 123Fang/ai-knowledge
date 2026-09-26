@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260926-006",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-26T09:12:20.373417+00:00",
+  "collected_at": "2026-09-26T09:12:20.373417+00:00",
+  "summary": "该文章提出将大语言模型（LLM）的块剪枝问题类比为物理学中的伊辛优化问题，通过将模型块移除决策映射为伊辛模型的自旋状态，利用优化方法寻找最优剪枝方案。这种方法有望在保持模型性能的同时显著减少参数量和计算开销，为LLM压缩提供了跨学科的新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-26T09:13:00.643630+00:00"
+}

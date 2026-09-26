@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260926-005",
+  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/omlx",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-26T09:12:20.373414+00:00",
+  "collected_at": "2026-09-26T09:12:20.373414+00:00",
+  "summary": "oMLX 的创建者和维护者 Jun Kim 加入 Hugging Face，以支持 MLX 社区的发展。MLX 是苹果公司推出的机器学习框架，专为 Apple Silicon 芯片优化，此次人事变动旨在加强 MLX 生态系统的建设和社区支持。这有助于推动在 Mac 设备上进行高效模型训练和推理的技术普及，对本地化 AI 部署具有积极意义。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-26T09:13:00.643628+00:00"
+}
