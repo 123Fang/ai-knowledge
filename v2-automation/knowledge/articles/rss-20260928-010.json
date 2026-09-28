@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-010",
+  "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30446",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732430+00:00",
+  "collected_at": "2026-09-28T10:40:12.732430+00:00",
+  "summary": "该论文研究从蛋白质三维结构预测跨膜蛋白拓扑结构的问题，属于计算生物学与AI交叉领域。跨膜蛋白在细胞信号传导和物质运输中至关重要，其拓扑结构预测对理解功能及药物设计有重要价值。工作可能提出基于深度学习的结构到拓扑映射方法，利用3D坐标信息提升预测精度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016218+00:00"
+}

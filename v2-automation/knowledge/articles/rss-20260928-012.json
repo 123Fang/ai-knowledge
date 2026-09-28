@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-012",
+  "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30469",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732439+00:00",
+  "collected_at": "2026-09-28T10:40:12.732439+00:00",
+  "summary": "该论文探讨了在嘈杂的警察音频场景下，利用预训练自动语音识别（ASR）模型生成伪标签以提升识别性能。核心价值在于提出了一种针对低质量、领域特定音频的伪标签方法，有望改善执法记录等实际应用中的语音转写效果。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016224+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-014",
+  "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30489",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732448+00:00",
+  "collected_at": "2026-09-28T10:40:12.732448+00:00",
+  "summary": "BioEVAL 是一个全球多机构合作构建的基准测试，旨在评估大型语言模型和多模态模型在生物工程领域的表现。该基准覆盖了生物工程中的多种任务，为模型在专业科学领域的性能提供了标准化评估。其价值在于填补了生物工程领域缺乏系统性评估工具的空白，有助于推动 AI 在生物工程中的应用。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016230+00:00"
+}

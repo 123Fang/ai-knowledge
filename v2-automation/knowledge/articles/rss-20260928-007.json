@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260928-007",
+  "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30341",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732416+00:00",
+  "collected_at": "2026-09-28T10:40:12.732416+00:00",
+  "summary": "本文提出一种基于模型上下文协议（MCP）的架构中介方法，旨在桥接LLM智能体与数据空间，解决智能体在异构数据源间的互操作与上下文管理问题。通过MCP标准化智能体与数据空间的交互，该方法提升了智能体在复杂数据环境中的工具调用与数据访问能力。其价值在于为LLM智能体集成企业级数据空间提供了可扩展的架构参考，推动了智能体在真实场景中的部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "llm",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016206+00:00"
+}

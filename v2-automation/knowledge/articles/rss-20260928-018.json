@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-018",
+  "title": "Atelier: Learning Local Self-Supervised Features for CryoEM Volumes via Hypernetworks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732469+00:00",
+  "collected_at": "2026-09-28T10:40:12.732469+00:00",
+  "summary": "该论文提出Atelier方法，利用超网络学习冷冻电镜（CryoEM）体积的局部自监督特征。通过超网络动态生成特征提取器的参数，实现针对不同体积的局部特征自适应学习，从而提升下游任务（如颗粒挑选、分类）的性能。该方法为CryoEM数据分析提供了新的自监督学习范式，减少了对大量标注数据的依赖。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016243+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-001",
+  "title": "There are no \"rogue\" AI agents",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-28T10:40:11.856375+00:00",
+  "collected_at": "2026-09-28T10:40:11.856375+00:00",
+  "summary": "本文探讨了当前关于“失控AI代理”的流行叙事，指出这种说法往往源于对AI系统自主性和复杂性的误解。作者认为，所谓的“流氓”行为通常是由于设计缺陷、意外交互或缺乏适当约束导致的，而非AI产生了独立意志。文章强调通过更好的工程实践、可解释性研究和安全机制来预防此类问题，而非陷入科幻式的恐慌。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016174+00:00"
+}

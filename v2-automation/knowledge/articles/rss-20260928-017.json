@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260928-017",
+  "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30563",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732461+00:00",
+  "collected_at": "2026-09-28T10:40:12.732461+00:00",
+  "summary": "该论文探讨了如何通过直观提示（intuitive prompting）提升LLM智能体模拟个体社交媒体反应的能力，尤其是在面对不熟悉的内容时。研究发现，减少复杂的推理步骤（thinking less）反而能改善模拟效果，表明简洁的提示策略可能比冗长的思维链更有效。这项工作为LLM在社交模拟和个性化反应生成方面提供了新的提示工程思路，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016240+00:00"
+}

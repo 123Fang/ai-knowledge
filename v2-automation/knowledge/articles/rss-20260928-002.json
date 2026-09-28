@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-002",
+  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-28T10:40:11.856411+00:00",
+  "collected_at": "2026-09-28T10:40:11.856411+00:00",
+  "summary": "Drawgent 是一个在实时 Excalidraw 画布上运行的编码智能体，允许用户通过自然语言指令在协作白板上生成和修改代码。它结合了 LLM 的代码生成能力与可视化画布交互，降低了非专业开发者构建原型的门槛。该项目展示了智能体在创意编程和实时协作场景中的新应用方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016188+00:00"
+}

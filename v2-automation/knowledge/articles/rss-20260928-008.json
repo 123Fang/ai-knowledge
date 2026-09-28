@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260928-008",
+  "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30383",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T10:40:12.732421+00:00",
+  "collected_at": "2026-09-28T10:40:12.732421+00:00",
+  "summary": "该论文研究了基于技能的智能体系统中的新型安全威胁，提出了一种名为“技能级联攻击”的攻击范式。攻击者通过将恶意技能拆分为多个看似无害的子技能，使其在单独审查时能够绕过安全检测，但在智能体执行时这些子技能会协同触发有害行为。该工作揭示了当前技能组合与执行机制中的关键安全漏洞，对智能体系统的安全部署具有重要警示价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T10:40:51.016209+00:00"
+}
