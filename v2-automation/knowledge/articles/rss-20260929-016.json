@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-016",
+  "title": "Context-dependent agent evaluation with orthogonal equilibrium learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31897",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706136+00:00",
+  "collected_at": "2026-09-29T10:27:41.706136+00:00",
+  "summary": "该论文提出了一种在上下文依赖环境中评估智能体的方法，并引入正交均衡学习（Orthogonal Equilibrium Learning）来提升评估的鲁棒性和公平性。核心价值在于解决传统评估方法在动态、多智能体交互场景下容易受到策略耦合和上下文变化影响的问题，为智能体评估提供了新的理论框架和实用工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491837+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260929-012",
+  "title": "LLM Judge Validation Under Sparse Overlap: From Inference to Design",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31857",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706100+00:00",
+  "collected_at": "2026-09-29T10:27:41.706100+00:00",
+  "summary": "该论文研究在稀疏重叠条件下LLM Judge的验证问题，即当人工标注与LLM评判结果重叠样本很少时，如何从统计推断过渡到实验设计来保证评估可靠性。核心价值在于为LLM自动评估提供方法论指导，帮助研究者在有限标注资源下设计更有效的验证方案，提升评估结果的可信度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491825+00:00"
+}

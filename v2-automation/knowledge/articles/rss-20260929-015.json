@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-015",
+  "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31874",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706129+00:00",
+  "collected_at": "2026-09-29T10:27:41.706129+00:00",
+  "summary": "该论文提出 COUNTERMEM，一种基于世界模型验证的反事实记忆机制，用于提升语言智能体在长程任务中的记忆准确性与决策鲁棒性。通过构建并验证反事实记忆，智能体能够区分真实经验与假设情境，从而避免错误记忆导致的连锁错误。该方法在多个需要复杂推理的智能体任务中展现出优于传统记忆方案的性能，为语言智能体的记忆管理提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491834+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260929-013",
+  "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31868",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706118+00:00",
+  "collected_at": "2026-09-29T10:27:41.706118+00:00",
+  "summary": "Metro-WM 提出了一种基于世界模型的长时域潜在规划方法，通过生成可实现的子目标来分解复杂任务。该方法在潜在空间中学习环境动态，并利用子目标引导规划过程，从而提升长时域任务的成功率和效率。其核心价值在于解决了传统规划方法在长时域任务中容易累积误差和难以扩展的问题，为基于模型的强化学习和机器人规划提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491828+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-014",
+  "title": "IndustryLLM: Failure-Driven LLM Training for Industrial Procurement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31871",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706124+00:00",
+  "collected_at": "2026-09-29T10:27:41.706124+00:00",
+  "summary": "该论文提出IndustryLLM，一种面向工业采购场景的失败驱动LLM训练方法。通过系统性地收集和分析模型在采购任务中的失败案例，针对性地优化训练数据与策略，提升模型在专业领域的可靠性与准确性。该方法为垂直领域LLM落地提供了可复用的训练范式，对工业智能化采购具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491831+00:00"
+}

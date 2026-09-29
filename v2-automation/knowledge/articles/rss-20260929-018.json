@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-018",
+  "title": "EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706146+00:00",
+  "collected_at": "2026-09-29T10:27:41.706146+00:00",
+  "summary": "EmailBench 是一个用于评估 LLM 智能体在企业邮件和生产力任务上表现的新型基准测试。它填补了现有基准在真实企业场景中评估智能体能力的空白，涵盖邮件撰写、回复、日程安排等任务。该基准为研究人员和开发者提供了标准化工具，以衡量和比较不同 LLM 智能体在复杂企业工作流中的性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491843+00:00"
+}

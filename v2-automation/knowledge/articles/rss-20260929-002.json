@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260929-002",
+  "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stateofutopia.com/experiments/microllmlab/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-29T10:27:40.725983+00:00",
+  "collected_at": "2026-09-29T10:27:40.725983+00:00",
+  "summary": "MicroLLM Lab 是一个在浏览器中直接运行 7 个微型大语言模型（LLM）的交互式实验平台。它降低了 LLM 的体验门槛，用户无需安装或配置即可快速测试和对比不同微型模型的行为。该项目适合教学、演示和快速原型验证，展示了轻量级 LLM 在客户端部署的可行性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491788+00:00"
+}

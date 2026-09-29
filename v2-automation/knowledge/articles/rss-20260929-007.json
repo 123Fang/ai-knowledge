@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-007",
+  "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31784",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T10:27:41.706070+00:00",
+  "collected_at": "2026-09-29T10:27:41.706070+00:00",
+  "summary": "该论文提出了一种名为“Witeness Overlap”的方向性溯源方法，用于在开放权重模型家族内部追踪模型间的知识流动与衍生关系。通过分析模型权重或激活模式的重叠特征，该方法能够判断模型间的方向性影响，从而为模型溯源、版权归属和安全性评估提供技术支撑。其价值在于填补了开放权重模型生态中缺乏有效溯源手段的空白，有助于提升模型透明度和合规性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T10:28:21.491802+00:00"
+}
