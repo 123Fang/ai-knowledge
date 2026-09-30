@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-011",
+  "title": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35953",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728414+00:00",
+  "collected_at": "2026-09-30T10:19:34.728414+00:00",
+  "summary": "该研究基于临床医生视角，分析了19,930段年轻人与ChatGPT的对话，识别出其中涉及心理困扰的互动模式。研究发现，ChatGPT虽能生成恰当的措辞，但常在错误时机给出回应，导致支持效果不佳。这项工作为评估和提升LLM在心理健康场景中的安全性与有效性提供了重要实证依据。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960894+00:00"
+}

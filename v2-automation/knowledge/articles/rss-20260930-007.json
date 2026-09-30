@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-007",
+  "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35875",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728399+00:00",
+  "collected_at": "2026-09-30T10:19:34.728399+00:00",
+  "summary": "该论文探讨了小型语言模型（SLMs）中多智能体辩论的认知多样性问题，挑战了传统对称智能体假设。通过引入异构智能体角色和认知风格，研究展示了如何提升小模型在复杂推理任务中的表现。这项工作为资源受限场景下的多智能体协作提供了新思路，并强调了多样性对辩论质量的关键影响。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960884+00:00"
+}

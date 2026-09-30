@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260930-010",
+  "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35924",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728410+00:00",
+  "collected_at": "2026-09-30T10:19:34.728410+00:00",
+  "summary": "该论文提出了一种面向离散扩散模型的未来感知引导方法，通过编译目标（Compiled Objectives）来提升生成质量。核心创新在于将未来信息融入引导过程，解决了离散扩散中引导信号稀疏的问题。该方法在文本生成等任务上展示了优越性能，为离散扩散模型的实际应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960892+00:00"
+}

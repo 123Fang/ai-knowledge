@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-018",
+  "title": "A Polyphonic Conception of AI Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36079",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728440+00:00",
+  "collected_at": "2026-09-30T10:19:34.728440+00:00",
+  "summary": "该论文提出了一种“复调式”的AI理解概念，挑战了传统上对AI理解能力的单一、整体性评估方式。作者可能借鉴了音乐中复调的概念，主张AI的理解应被视为多个独立但相互作用的认知维度的组合，而非一个统一的整体。这一框架有助于更细致地分析大语言模型等系统的理解能力，并为评估和设计更可解释、更鲁棒的AI系统提供了新的理论视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960914+00:00"
+}

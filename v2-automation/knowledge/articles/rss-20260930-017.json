@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260930-017",
+  "title": "LongCat-DeepResearch Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36071",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728436+00:00",
+  "collected_at": "2026-09-30T10:19:34.728436+00:00",
+  "summary": "LongCat-DeepResearch Technical Report 是一份关于深度研究型 AI 系统的技术报告，主要探讨如何利用大语言模型进行多步骤、深度的信息检索与推理。该报告可能涉及多智能体协作、工具调用和长上下文处理等关键技术，旨在提升 AI 在复杂研究任务中的表现。其核心价值在于为构建自动化研究助手提供了系统性的技术方案和评估方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "tool-use",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960912+00:00"
+}

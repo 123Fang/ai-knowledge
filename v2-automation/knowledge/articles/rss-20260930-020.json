@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-020",
+  "title": "An Exact Generate - Transform Decomposition of Small-LLM Team Scaling Across Orchestration Architectures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36104",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728446+00:00",
+  "collected_at": "2026-09-30T10:19:34.728446+00:00",
+  "summary": "该论文针对小型大语言模型（Small-LLM）在多智能体团队协作中的扩展性问题，提出了一种精确的生成-变换分解方法，用于分析不同编排架构（如集中式、去中心化等）下的团队扩展规律。通过将团队输出分解为生成和变换两个部分，该研究揭示了架构选择对协作效率和性能的影响，为设计高效的小模型多智能体系统提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960919+00:00"
+}

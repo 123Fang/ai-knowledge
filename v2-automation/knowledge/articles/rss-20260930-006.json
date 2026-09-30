@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260930-006",
+  "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35874",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728395+00:00",
+  "collected_at": "2026-09-30T10:19:34.728395+00:00",
+  "summary": "该论文研究在线部分可观测马尔可夫决策过程（POMDP）中的风险规避规划问题，提出使用即时成本的CVaR（条件风险价值）作为优化目标，并设计在线规划算法以提供性能保证。其核心价值在于将风险度量引入在线POMDP规划，并给出理论上的性能边界，适用于安全关键的决策场景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960882+00:00"
+}

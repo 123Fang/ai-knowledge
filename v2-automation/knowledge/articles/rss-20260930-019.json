@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-019",
+  "title": "GeoOutageBench: Benchmarking Ambiguity-aware, Ontology-grounded Geospatiotemporal KGQA for Multimodal Power Outage and Resilience Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36082",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T10:19:34.728443+00:00",
+  "collected_at": "2026-09-30T10:19:34.728443+00:00",
+  "summary": "GeoOutageBench 是一个面向多模态电力中断与韧性分析的基准测试，专注于地理时空知识图谱问答（KGQA）。它强调歧义感知与本体论 grounding，旨在评估 AI 系统在复杂地理时空场景下的推理能力。该基准为电力系统韧性分析提供了标准化的评估框架，推动了多模态 KGQA 在关键基础设施领域的应用。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T10:20:12.960916+00:00"
+}
