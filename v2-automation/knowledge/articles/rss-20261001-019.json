@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261001-019",
+  "title": "AIM: Agentic Idea Management for Automated Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T10:46:08.288698+00:00",
+  "collected_at": "2026-10-01T10:46:08.288698+00:00",
+  "summary": "该论文提出AIM（Agentic Idea Management）框架，利用LLM智能体自动化研究中的想法管理过程，包括想法生成、评估、筛选和优化。通过多智能体协作和工具调用，AIM旨在提升研究效率并辅助创新。其价值在于将智能体技术应用于科研流程管理，为自动化研究提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T10:46:47.661873+00:00"
+}

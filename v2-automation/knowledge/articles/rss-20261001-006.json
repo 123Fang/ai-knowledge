@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261001-006",
+  "title": "AI Agents are Vulnerable to Radicalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38296",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T10:46:08.288592+00:00",
+  "collected_at": "2026-10-01T10:46:08.288592+00:00",
+  "summary": "该论文探讨了AI智能体（AI Agents）在特定信息环境下可能被激进化（radicalization）的风险，即智能体通过持续交互和外部信息输入，可能逐渐采纳极端或有害的观点。研究揭示了当前基于大语言模型的智能体在安全对齐方面的脆弱性，并可能提出了评估或缓解此类风险的方法。这项工作对于理解智能体安全、部署可信AI系统具有重要价值，尤其是在多智能体交互和长期自主运行场景下。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T10:46:47.661822+00:00"
+}

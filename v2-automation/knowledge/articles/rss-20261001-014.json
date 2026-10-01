@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-014",
+  "title": "Decode-Latency Feedback Prefill: A Model-Free Controller and Its Generalization Limits",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38386",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T10:46:08.288659+00:00",
+  "collected_at": "2026-10-01T10:46:08.288659+00:00",
+  "summary": "该论文提出了一种基于解码延迟反馈的无模型控制器，用于动态调整预填充（prefill）策略，以优化大语言模型推理中的延迟与吞吐量权衡。研究分析了该控制器在不同模型和负载下的泛化能力，并揭示了其局限性。这项工作为LLM推理系统的自适应调度提供了新思路，但泛化性问题仍需进一步解决。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-01T10:46:47.661851+00:00"
+}

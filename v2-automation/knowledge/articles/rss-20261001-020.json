@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-020",
+  "title": "Reach Into The CHOIR: Free-List Elicitation Uncovers Distinct Model Voices in LLM Ensembles",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38448",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T10:46:08.288707+00:00",
+  "collected_at": "2026-10-01T10:46:08.288707+00:00",
+  "summary": "该论文提出了一种名为 CHOIR 的自由列举方法，用于揭示大型语言模型（LLM）集成中不同模型的声音。通过让模型自由列举概念，该方法能够识别出每个模型独特的输出模式，从而为集成策略提供更细粒度的理解。这项工作有助于提升 LLM 集成的可解释性和性能优化。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T10:46:47.661876+00:00"
+}
