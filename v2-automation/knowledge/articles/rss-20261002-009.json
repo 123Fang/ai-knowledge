@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-009",
+  "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00074",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929100+00:00",
+  "collected_at": "2026-10-02T10:20:51.929100+00:00",
+  "summary": "K-Dense BYOK 是一个开源 AI 研究助手，支持本地运行并维护哈希链式实验记录本，确保研究过程的可追溯性和完整性。该工具通过本地部署保护数据隐私，同时利用哈希链技术防止记录被篡改，为 AI 研究提供可信的审计追踪。其开源特性促进了透明性和社区协作，适合需要安全、可复现研究环境的研究人员。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672381+00:00"
+}

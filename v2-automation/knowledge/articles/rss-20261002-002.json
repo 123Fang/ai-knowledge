@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-002",
+  "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.928995+00:00",
+  "collected_at": "2026-10-02T10:20:51.928995+00:00",
+  "summary": "该论文研究了长时程语言代理（long-horizon language agents）的内存访问模式，发现其内存轨迹呈现重尾分布（heavy-tailed），即少数内存位置被频繁访问而大多数很少被访问。这一发现揭示了代理内存行为的统计规律，为优化内存管理、缓存策略和代理架构设计提供了理论依据，有助于提升长时程任务的效率和可扩展性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672341+00:00"
+}

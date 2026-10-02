@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-007",
+  "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00047",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929090+00:00",
+  "collected_at": "2026-10-02T10:20:51.929090+00:00",
+  "summary": "该论文研究了推理时过程奖励模型（PRM）剪枝片段嫁接在何种配置下会失效（惰性），并通过三个推理语言模型（LMs）的实验提供了证据。核心发现是存在一种特定配置，使得PRM剪枝后的片段嫁接对模型推理无显著影响，这揭示了该方法的应用边界。该工作有助于理解PRM在推理增强中的局限性，为后续方法改进提供了实证基础。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672374+00:00"
+}

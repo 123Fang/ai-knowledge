@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-016",
+  "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00282",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929137+00:00",
+  "collected_at": "2026-10-02T10:20:51.929137+00:00",
+  "summary": "该论文研究文本具身智能体在任务执行中如何仲裁用户纠正，提出一种基于基础（grounded）的仲裁机制，使智能体能够判断何时应接受用户纠正、何时应坚持原有计划。核心价值在于提升人机协作的鲁棒性和效率，避免因过度服从或忽视用户反馈而导致任务失败。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672408+00:00"
+}

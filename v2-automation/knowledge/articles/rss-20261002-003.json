@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-003",
+  "title": "When Do Causal World Models Help Modular LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00012",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929053+00:00",
+  "collected_at": "2026-10-02T10:20:51.929053+00:00",
+  "summary": "该论文研究了因果世界模型在模块化LLM智能体中的适用条件与作用机制。通过分析不同任务结构下因果建模对智能体规划与决策的帮助，揭示了其有效性的边界条件。研究为构建更鲁棒、可解释的模块化智能体提供了理论指导与实证依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672359+00:00"
+}

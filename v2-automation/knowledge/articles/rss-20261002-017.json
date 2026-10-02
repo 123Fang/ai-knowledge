@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-017",
+  "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00313",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929141+00:00",
+  "collected_at": "2026-10-02T10:20:51.929141+00:00",
+  "summary": "本文提出将科学计算中LLM智能体的规则转化为可执行检查，以提升其可靠性和可验证性。通过将自然语言规则编译为可执行代码，该方法使智能体能够自动验证操作是否符合领域约束，从而减少错误并增强可信度。该工作为科学计算场景下LLM智能体的工具使用和评估提供了实用框架，推动了智能体在严谨领域的部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672412+00:00"
+}

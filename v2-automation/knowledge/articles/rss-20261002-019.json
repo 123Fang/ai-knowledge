@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-019",
+  "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00328",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929151+00:00",
+  "collected_at": "2026-10-02T10:20:51.929151+00:00",
+  "summary": "ContractRL 提出了一种名为 Shielded Group-Relative Policy Optimization 的方法，用于可审计的工具调用修复。该方法通过强化学习优化策略，在工具调用失败时生成修复动作，并确保修复过程可审计。其核心价值在于提升 LLM 智能体工具使用的鲁棒性和透明度，适用于需要可靠工具调用的场景。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672419+00:00"
+}

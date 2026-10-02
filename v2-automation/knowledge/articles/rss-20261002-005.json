@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-005",
+  "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929077+00:00",
+  "collected_at": "2026-10-02T10:20:51.929077+00:00",
+  "summary": "该论文研究角色专业化问答系统中，理由（rationales）如何通过消息传递影响多智能体协作。作者采用消息干预方法，分析理由在智能体间通信中的因果作用，揭示其不仅提供解释，还实际改变下游智能体的决策。这项工作为理解多智能体系统中解释性消息的沟通功能提供了新视角，对设计更有效的协作机制具有价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672368+00:00"
+}

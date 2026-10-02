@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-004",
+  "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00015",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T10:20:51.929066+00:00",
+  "collected_at": "2026-10-02T10:20:51.929066+00:00",
+  "summary": "该论文提出 Praxa，一个面向受治理 AI 智能体执行的证据绑定执行框架，旨在解决智能体从提案到验证效果之间的可信执行问题。其核心价值在于通过证据绑定机制确保智能体行为可验证、可审计，为安全合规的智能体部署提供技术支撑。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T10:21:30.672364+00:00"
+}
