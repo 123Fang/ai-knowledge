@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261003-006",
+  "title": "Holo4: powering generalist computer-use agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Hcompany/holo4",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-03T09:43:11.458535+00:00",
+  "collected_at": "2026-10-03T09:43:11.458535+00:00",
+  "summary": "Holo4 是 Hugging Face 博客介绍的一个通用计算机使用智能体（computer-use agent）项目，旨在让 AI 模型能够像人类一样操作计算机界面，完成跨应用的复杂任务。该技术结合了视觉理解与工具调用能力，代表了通用型 GUI 智能体的重要进展。其核心价值在于推动 AI 从单一任务执行向通用计算机操作能力演进，为自动化办公和跨软件工作流提供了新的可能性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T09:43:50.512961+00:00"
+}

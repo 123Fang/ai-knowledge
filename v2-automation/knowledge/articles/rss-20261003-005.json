@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261003-005",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-03T09:43:11.458530+00:00",
+  "collected_at": "2026-10-03T09:43:11.458530+00:00",
+  "summary": "本文探讨了MCP（Model Context Protocol）代理中源感知验证的重要性，指出仅验证事实正确性不足以保证可靠性，还需追溯信息来源的可信度。文章提出了针对MCP代理的源感知验证框架，旨在提升代理在复杂任务中的决策质量与安全性。该工作为构建更鲁棒的AI代理系统提供了新的思路，尤其适用于需要高可信度的应用场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T09:43:50.512958+00:00"
+}

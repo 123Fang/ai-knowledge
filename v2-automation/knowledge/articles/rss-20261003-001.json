@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261003-001",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/astabrief",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-03T09:43:11.458482+00:00",
+  "collected_at": "2026-10-03T09:43:11.458482+00:00",
+  "summary": "Hugging Face 开源了 Asta 中的快速报告生成模型 AstaBrief，旨在高效生成结构化报告。该模型可能基于大语言模型并针对报告生成任务进行了优化，提升了生成速度与质量。开源发布为开发者提供了可直接使用或微调的报告生成工具，降低了构建自动化报告系统的门槛。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T09:43:50.512934+00:00"
+}
