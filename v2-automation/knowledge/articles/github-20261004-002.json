@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-002",
+  "title": "rivet-dev/agents",
+  "source": "github",
+  "source_url": "https://github.com/rivet-dev/agents",
+  "author": "rivet-dev",
+  "published_at": "2026-10-04T02:28:49Z",
+  "collected_at": "2026-10-04T10:26:31.591860+00:00",
+  "summary": "rivet-dev/agents 是一个为每个 AI agent 提供持久化进程的开源项目，其核心特性是 agent 拥有可跨重启存活的内存状态。这解决了传统 agent 在进程重启后丢失上下文和记忆的问题，使 agent 能够长期运行并保持状态连续性。该方案适用于需要持久记忆和可靠运行的生产级 agent 部署场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-04T10:27:15.095364+00:00"
+}
