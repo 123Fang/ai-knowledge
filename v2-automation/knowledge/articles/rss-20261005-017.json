@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-017",
+  "title": "Reinforcement Learning Techniques for the Optimization of Target Polarization in Nuclear Physics Scattering Experiments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02452",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498244+00:00",
+  "collected_at": "2026-10-05T11:15:47.498244+00:00",
+  "summary": "该论文探讨了使用强化学习技术优化核物理散射实验中的目标极化问题。通过将目标极化控制建模为强化学习任务，该方法能够自适应地调整实验参数以最大化极化度，从而提升散射实验的精度和效率。这项工作展示了强化学习在核物理实验控制中的潜力，为跨学科应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696535+00:00"
+}

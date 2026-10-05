@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-012",
+  "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02351",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498191+00:00",
+  "collected_at": "2026-10-05T11:15:47.498191+00:00",
+  "summary": "该论文提出 DeReAct 框架，通过将推理与行动解耦来提升 AI 智能体的可靠性。核心方法是将复杂任务分解为独立的推理步骤和行动步骤，减少两者相互干扰导致的错误累积。该工作为构建更稳定、可解释的智能体系统提供了新思路，对工具调用和多步任务场景有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696519+00:00"
+}

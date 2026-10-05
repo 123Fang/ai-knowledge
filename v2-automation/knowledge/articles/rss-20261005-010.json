@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-010",
+  "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02331",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498167+00:00",
+  "collected_at": "2026-10-05T11:15:47.498167+00:00",
+  "summary": "该论文提出“世界编辑”概念，旨在对可执行世界（如代码、模拟环境）进行干预，并系统性地研究干预深度对世界行为的影响。通过定义不同深度的干预操作，作者展示了如何从表层修改到深层机制调整来改变可执行世界的演化。这项工作为理解复杂系统、程序合成和智能体环境设计提供了新的理论框架和实用工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696508+00:00"
+}

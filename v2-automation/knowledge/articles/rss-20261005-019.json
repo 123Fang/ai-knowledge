@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-019",
+  "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498263+00:00",
+  "collected_at": "2026-10-05T11:15:47.498263+00:00",
+  "summary": "该论文提出MEA（Reward-Driven Multi-Agent System），旨在生成忠实于模型内部决策过程的解释。系统通过多智能体协作与奖励驱动机制，提升解释的准确性和可信度。该工作为可解释AI提供了新的多智能体框架，有助于增强模型透明度与用户信任。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696541+00:00"
+}

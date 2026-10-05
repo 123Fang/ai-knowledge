@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-004",
+  "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tej.as/blog/aleph-alpha-kolibri",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-05T11:15:46.566275+00:00",
+  "collected_at": "2026-10-05T11:15:46.566275+00:00",
+  "summary": "Aleph Alpha 的 Kolibri 是一个专注于主权 AI 的德国大语言模型，旨在提供符合欧洲数据保护和监管要求的高效、可审计的 LLM 解决方案。该模型强调在本地或私有云环境中部署，确保数据主权和合规性，同时通过创新的架构设计在性能与资源消耗之间取得平衡。其核心价值在于为政府、医疗和金融等敏感行业提供可信赖的 AI 基础设施，减少对非欧洲供应商的依赖。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696487+00:00"
+}

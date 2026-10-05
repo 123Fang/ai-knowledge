@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-018",
+  "title": "Tropical Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02478",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498254+00:00",
+  "collected_at": "2026-10-05T11:15:47.498254+00:00",
+  "summary": "该论文将热带代数（tropical algebra）引入强化学习框架，提出了一种新的数学工具来处理值函数和策略优化中的非线性问题。通过用热带半环替代传统算术，作者展示了在特定条件下可以简化Bellman方程并加速收敛。这项工作为强化学习提供了新的理论视角，可能启发更高效的算法设计。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696539+00:00"
+}

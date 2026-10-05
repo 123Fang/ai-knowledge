@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-005",
+  "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02260",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498043+00:00",
+  "collected_at": "2026-10-05T11:15:47.498043+00:00",
+  "summary": "MintFlow 提出了一种针对约束流匹配（Constrained Flow Matching）的最小轨迹干预方法。该方法旨在通过最小的轨迹调整来满足约束条件，同时保持生成质量。其核心价值在于为流匹配模型提供了一种高效、低干预的约束满足机制，有望提升生成模型在复杂约束场景下的适用性。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696491+00:00"
+}

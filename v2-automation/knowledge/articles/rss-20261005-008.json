@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-008",
+  "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02300",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498147+00:00",
+  "collected_at": "2026-10-05T11:15:47.498147+00:00",
+  "summary": "该论文分析了文本到图像生成模型中的全局不安全内容问题，提出了CALM方法以评估和限制此类内容的生成。研究揭示了当前模型在全局安全性方面的局限性，并提供了改进方向，对AI安全领域具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696501+00:00"
+}

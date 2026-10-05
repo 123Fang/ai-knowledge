@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-016",
+  "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498232+00:00",
+  "collected_at": "2026-10-05T11:15:47.498232+00:00",
+  "summary": "本文探讨了终端代理（Terminal-Agent）训练中遇到的瓶颈问题，重点分析了数据生成与验证环节的挑战。文章揭示了当前训练流程中数据质量与验证机制不足导致性能停滞的根本原因，并提出了可能的改进方向。该工作对于提升基于LLM的终端自动化代理的可靠性和训练效率具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696532+00:00"
+}

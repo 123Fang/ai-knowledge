@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-011",
+  "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02342",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T11:15:47.498176+00:00",
+  "collected_at": "2026-10-05T11:15:47.498176+00:00",
+  "summary": "该论文对自然可见图（NVG）用于网络攻击检测的拓扑指标进行了多方法重要性和性能效率分析。研究评估了不同拓扑指标在攻击检测中的贡献和计算效率，为基于NVG的入侵检测系统提供了指标选择和优化的依据。其价值在于帮助安全领域的研究者和工程师更高效地构建和部署基于图论的网络攻击检测方案。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T11:16:27.696516+00:00"
+}
