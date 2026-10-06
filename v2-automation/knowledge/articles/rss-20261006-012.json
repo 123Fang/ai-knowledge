@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-012",
+  "title": "Exploration-Preserving Policy Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04011",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404998+00:00",
+  "collected_at": "2026-10-06T11:04:11.404998+00:00",
+  "summary": "本文提出了一种名为“探索保持策略优化”（Exploration-Preserving Policy Optimization）的新方法，旨在解决强化学习或LLM微调中策略优化过早收敛、探索不足的问题。该方法通过显式保留策略的探索能力，在提升任务性能的同时维持多样性，从而避免陷入局部最优。其核心价值在于为需要持续探索的复杂决策任务（如多轮对话、工具使用）提供更稳健的优化框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626724+00:00"
+}

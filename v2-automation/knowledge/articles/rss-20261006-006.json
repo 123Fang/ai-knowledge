@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-006",
+  "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03948",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404970+00:00",
+  "collected_at": "2026-10-06T11:04:11.404970+00:00",
+  "summary": "该论文提出了一种基于检索增强生成（RAG）的大型语言模型决策框架，用于自动驾驶场景，并创新性地引入中国哲学智慧来指导决策过程。通过检索相关哲学原则和驾驶知识，模型能够生成更符合伦理和情境的驾驶决策。这项工作展示了跨学科融合在提升自动驾驶决策可解释性和安全性方面的潜力。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626705+00:00"
+}

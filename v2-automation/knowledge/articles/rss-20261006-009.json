@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-009",
+  "title": "Teaching Agents to Code Reliably",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03984",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404985+00:00",
+  "collected_at": "2026-10-06T11:04:11.404985+00:00",
+  "summary": "该论文探讨如何训练AI智能体可靠地编写代码，针对代码生成中正确性和鲁棒性不足的问题，提出了新的训练方法或评估框架。其价值在于提升智能体在自动化编程任务中的实用性，为代码生成领域提供了可复现的改进思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626715+00:00"
+}

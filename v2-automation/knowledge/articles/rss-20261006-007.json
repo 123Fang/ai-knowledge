@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-007",
+  "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03959",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404975+00:00",
+  "collected_at": "2026-10-06T11:04:11.404975+00:00",
+  "summary": "该论文针对 NVFP4 量化 VAE 在强化学习策略部署中破坏潜在表示契约的问题，提出 LatentQuant 方法。通过保持策略面向的潜在空间一致性，LatentQuant 在极低精度量化下仍能维持策略性能。这项工作为高效部署基于 VAE 的强化学习系统提供了关键技术支撑。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626708+00:00"
+}

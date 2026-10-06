@@ -1,0 +1,19 @@
+{
+  "id": "github-20261006-003",
+  "title": "chriswritescode-dev/opencode-manager",
+  "source": "github",
+  "source_url": "https://github.com/chriswritescode-dev/opencode-manager",
+  "author": "chriswritescode-dev",
+  "published_at": "2026-10-05T19:32:37Z",
+  "collected_at": "2026-10-06T11:04:08.323760+00:00",
+  "summary": "opencode-manager 是一个自托管的 OpenCode 命令中心，将会话管理、Git 操作、终端访问和定时任务整合到一个 Web 应用中，支持手机和桌面访问。它解决了开发者需要在多个工具间切换的问题，提供统一的远程开发环境管理界面。该项目适合希望集中管理编码会话和自动化任务的开发者，提升了远程协作和运维效率。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626668+00:00"
+}

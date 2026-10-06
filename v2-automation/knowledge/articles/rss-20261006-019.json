@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-019",
+  "title": "Reinforcement Learning with Comparative Evidence for Social Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04072",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.405030+00:00",
+  "collected_at": "2026-10-06T11:04:11.405030+00:00",
+  "summary": "该论文提出了一种基于比较证据的强化学习方法，旨在提升智能体的社会智能。通过让智能体在社交互动中比较不同行为产生的证据，学习更符合社会规范的策略。该方法为强化学习在社会智能领域的应用提供了新思路，有望改善多智能体协作和人际交互场景下的决策质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626745+00:00"
+}

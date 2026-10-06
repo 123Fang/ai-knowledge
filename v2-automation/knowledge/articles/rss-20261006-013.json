@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-013",
+  "title": "Beyond the Parameter Monolith: Reconstructive Memories, Executable Skills, and Residual Assembly for Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04012",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.405003+00:00",
+  "collected_at": "2026-10-06T11:04:11.405003+00:00",
+  "summary": "该论文提出了一种超越传统参数化语言模型的新架构，通过重建记忆、可执行技能和残差组装机制来增强模型能力。核心思想是将知识存储与推理过程解耦，利用外部记忆和可组合的技能模块提升模型的可扩展性和适应性。这一方法有望解决大模型参数膨胀带来的效率与更新难题，为模块化AI系统设计提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626727+00:00"
+}

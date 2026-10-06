@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-010",
+  "title": "Behavioral History Outperforms Descriptions of the Person for LLM Synthetic Personas",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03998",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404989+00:00",
+  "collected_at": "2026-10-06T11:04:11.404989+00:00",
+  "summary": "该研究探讨了为LLM构建合成人物（synthetic personas）时，行为历史（behavioral history）比人物描述（descriptions of the person）更能有效引导模型行为。实验表明，提供具体的行为示例或交互历史可以显著提升LLM模拟人物的一致性和真实性，而仅依赖抽象的人物特征描述效果较差。这一发现对角色扮演、个性化对话系统和用户模拟等应用具有重要价值，提示开发者应优先使用行为数据而非静态描述来定义合成人物。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626718+00:00"
+}

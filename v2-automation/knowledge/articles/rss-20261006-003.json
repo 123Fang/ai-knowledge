@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-003",
+  "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03894",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404948+00:00",
+  "collected_at": "2026-10-06T11:04:11.404948+00:00",
+  "summary": "该论文提出了一种名为 Proxy Confidence 的方法，用于审计黑盒 LLM 智能体。其核心思想是利用一个替代模型（surrogate）的对数概率来估计黑盒智能体输出的置信度，从而在不访问内部参数的情况下检测潜在的错误或异常行为。该方法为黑盒智能体的可靠性和安全性评估提供了一种实用且有效的技术手段，有助于提升部署中的可信度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626692+00:00"
+}

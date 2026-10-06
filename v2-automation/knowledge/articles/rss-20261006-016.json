@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-016",
+  "title": "Agent Policy-Value Audit: Separating Transition Composition from Event Selection in Financial LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04040",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.405016+00:00",
+  "collected_at": "2026-10-06T11:04:11.405016+00:00",
+  "summary": "该论文针对金融领域的LLM智能体，提出了一种策略-价值审计方法，旨在将状态转移组合与事件选择过程分离，以提升智能体决策的可解释性和可靠性。通过这种分离，能够更精确地评估智能体在金融任务中的行为，识别潜在的错误来源。该研究为金融LLM智能体的评估与调试提供了新的技术框架，有助于推动其在风险敏感场景中的安全部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626736+00:00"
+}

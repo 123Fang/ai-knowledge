@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-004",
+  "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03934",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T11:04:11.404955+00:00",
+  "collected_at": "2026-10-06T11:04:11.404955+00:00",
+  "summary": "SGAnalog 是一个端到端的模拟电路基准测试集，基于开源硅流片数据构建，旨在评估 AI 在模拟电路设计中的能力。该工作填补了模拟电路领域缺乏标准化基准的空白，为电路生成、优化和验证等任务提供了真实数据支持。其价值在于推动 AI 在硬件设计自动化中的可复现研究，并连接机器学习与电子设计自动化社区。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T11:04:58.626695+00:00"
+}
