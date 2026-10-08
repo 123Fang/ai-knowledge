@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-003",
+  "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08814",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088964+00:00",
+  "collected_at": "2026-10-08T11:10:53.088964+00:00",
+  "summary": "该论文提出 Route-Verify-Vote 框架，针对混合域推理任务，通过程序条件化的自一致性方法提升大语言模型的推理可靠性。核心在于先路由到合适的推理程序，再验证中间步骤，最后投票聚合结果，从而在跨领域场景下减少错误传播。该工作为复杂推理中的自一致性策略提供了新的条件化视角，具有较高的方法创新性和实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209919+00:00"
+}

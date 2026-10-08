@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-020",
+  "title": "Not Every Call Needs a Frontier Model: Per-Call-Site Evaluation of Small Language Models in a Deployed Agentic Home-Automation System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09021",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.089018+00:00",
+  "collected_at": "2026-10-08T11:10:53.089018+00:00",
+  "summary": "该论文针对已部署的智能家居自动化代理系统，提出了一种按调用点（per-call-site）评估小语言模型（SLM）的方法，以替代对所有调用统一使用前沿大模型的做法。研究表明，不同调用点对模型能力的需求差异显著，通过细粒度评估可以识别出适合小模型的任务，从而在保持系统性能的同时降低成本和延迟。这项工作为代理系统中模型选择与部署提供了实用的评估框架和优化思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209959+00:00"
+}

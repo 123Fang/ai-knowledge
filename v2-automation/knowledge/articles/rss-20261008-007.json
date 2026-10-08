@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-007",
+  "title": "Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08901",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088981+00:00",
+  "collected_at": "2026-10-08T11:10:53.088981+00:00",
+  "summary": "该论文针对并行多智能体推理系统提出了一种顺序概率不确定性估计方法，旨在解决多智能体协作中推理结果的不确定性量化问题。通过概率建模与顺序估计，该方法能够有效评估各智能体输出的可靠性，从而提升整体推理系统的鲁棒性和决策质量。这项研究为多智能体系统的可信部署提供了重要的技术支撑。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209932+00:00"
+}

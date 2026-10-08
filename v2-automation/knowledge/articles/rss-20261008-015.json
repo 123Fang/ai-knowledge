@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-015",
+  "title": "Learning to Report Unsafe Tasks in a Multi-Agent Game",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09002",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.089005+00:00",
+  "collected_at": "2026-10-08T11:10:53.089005+00:00",
+  "summary": "该论文研究多智能体游戏中智能体如何学习报告不安全任务，旨在提升多智能体系统的安全性和可靠性。通过让智能体识别并报告潜在的不安全行为，该方法有助于预防协作任务中的风险。其价值在于为多智能体安全评估和可信协作提供了新的学习框架。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "security",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209949+00:00"
+}

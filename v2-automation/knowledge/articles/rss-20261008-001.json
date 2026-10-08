@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-001",
+  "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08793",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088925+00:00",
+  "collected_at": "2026-10-08T11:10:53.088925+00:00",
+  "summary": "本文提出了一种名为“自适应工作流智能”的认知架构，旨在通过上下文驱动的方式实现企业自动化。该架构结合了认知计算与工作流管理，能够动态适应企业环境中的变化，提升自动化流程的灵活性和效率。其核心价值在于为复杂的企业自动化场景提供了一种可扩展、自适应的解决方案，有望减少人工干预并优化决策过程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209907+00:00"
+}

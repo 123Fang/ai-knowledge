@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-013",
+  "title": "Verify Less, Evolve More: Training Idea-Level Critics for Verification-Efficient ML Evolving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08993",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088999+00:00",
+  "collected_at": "2026-10-08T11:10:53.088999+00:00",
+  "summary": "该论文提出了一种训练「想法级评论家」（Idea-Level Critics）的方法，用于机器学习进化智能体，旨在减少验证开销并提升进化效率。核心思想是让评论家模型在想法层面进行快速评估，从而避免对每个候选方案进行昂贵的完整验证。这种方法有望显著加速基于LLM的进化搜索和智能体优化过程，在自动化机器学习、程序合成等领域具有应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209945+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261008-018",
+  "title": "Enabling Dynamic Computation in Looped LMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09013",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.089013+00:00",
+  "collected_at": "2026-10-08T11:10:53.089013+00:00",
+  "summary": "该论文探讨了循环语言模型（Looped LMs）中的动态计算问题，旨在通过自适应调整计算步骤来提升模型效率与推理能力。核心价值在于为循环架构引入动态计算机制，可能减少冗余计算并增强对复杂任务的适应性，对高效LLM推理和架构设计具有参考意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209956+00:00"
+}

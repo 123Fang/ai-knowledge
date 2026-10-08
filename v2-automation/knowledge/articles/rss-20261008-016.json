@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-016",
+  "title": "Sigma-Hunter: A Domain-Specific Language Model for Threat Hunting and Detection Engineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09007",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.089007+00:00",
+  "collected_at": "2026-10-08T11:10:53.089007+00:00",
+  "summary": "Sigma-Hunter 是一个面向威胁狩猎和检测工程的领域特定语言模型，旨在通过微调大语言模型来生成和优化 Sigma 检测规则。该工作将 LLM 应用于安全运营场景，降低了检测规则编写的门槛，提升了威胁狩猎的自动化水平。其价值在于将通用模型适配到安全领域，为检测工程提供了可落地的 AI 辅助方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209951+00:00"
+}

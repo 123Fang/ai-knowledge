@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-019",
+  "title": "PAIR: Bridging Perception and Action in Vision-Language-Action Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09016",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.089016+00:00",
+  "collected_at": "2026-10-08T11:10:53.089016+00:00",
+  "summary": "PAIR 提出了一种在视觉-语言-动作（VLA）模型中桥接感知与动作的新方法，旨在解决现有模型在感知信息与动作生成之间的脱节问题。该工作通过设计特定的对齐或交互机制，提升了模型在具身智能任务中的决策与执行能力。其核心价值在于为 VLA 模型提供了一种更有效的感知-动作融合范式，有望推动机器人操作、导航等应用的发展。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209957+00:00"
+}

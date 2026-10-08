@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-009",
+  "title": "AdaGuard: Enhancing Safety and Policy Compliance with Reasoning-Enabled LLM-As-A-Judge Guardrails",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08923",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088987+00:00",
+  "collected_at": "2026-10-08T11:10:53.088987+00:00",
+  "summary": "AdaGuard 提出了一种基于推理增强的 LLM-as-a-Judge 护栏框架，用于提升大型语言模型的安全性和政策合规性。该方法通过引入推理能力，使评判模型能够更准确地识别和拦截违反安全策略的内容。其核心价值在于将 LLM 作为动态评判者，结合推理过程实现更细粒度和可解释的安全防护，适用于需要严格合规的 AI 部署场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209937+00:00"
+}

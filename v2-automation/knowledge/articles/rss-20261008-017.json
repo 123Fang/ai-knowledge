@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-017",
+  "title": "Whose Memory Is It? Scope-Aware Commit Rules for Long-Term LLM Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09008",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.089010+00:00",
+  "collected_at": "2026-10-08T11:10:53.089010+00:00",
+  "summary": "该论文针对长期LLM记忆系统提出了一种基于作用域感知的提交规则，旨在解决记忆归属和更新冲突问题。通过定义明确的作用域边界和提交条件，该方法能够有效管理多用户或多会话场景下的记忆一致性。其核心价值在于提升LLM长期记忆的可靠性和可解释性，为构建更稳健的对话代理和个性化助手提供了技术基础。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209953+00:00"
+}

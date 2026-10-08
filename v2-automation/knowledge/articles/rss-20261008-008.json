@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-008",
+  "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08902",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088984+00:00",
+  "collected_at": "2026-10-08T11:10:53.088984+00:00",
+  "summary": "该论文提出了“Agent Plasticity”概念，旨在量化AI智能体通过经验实现自我改进的能力。研究可能设计了一套评估框架或指标，用于衡量智能体在交互过程中适应新任务、优化策略的灵活性。这项工作为理解智能体的持续学习与泛化能力提供了新的视角，对构建更自主的AI系统具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209934+00:00"
+}

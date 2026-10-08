@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-010",
+  "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08927",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088990+00:00",
+  "collected_at": "2026-10-08T11:10:53.088990+00:00",
+  "summary": "该论文探讨了AI智能体是否能够进行开放式的科学发现，并基于Station平台提供了实证证据。研究可能涉及多智能体系统在科学探索任务中的表现评估，为AI驱动的自动化科研提供了新的见解。其价值在于探索AI从工具性任务向创造性科学发现延伸的潜力，对理解智能体的自主推理和探索能力具有重要意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209939+00:00"
+}

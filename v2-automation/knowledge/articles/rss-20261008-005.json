@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-005",
+  "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08878",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088974+00:00",
+  "collected_at": "2026-10-08T11:10:53.088974+00:00",
+  "summary": "本文对AI导致人类文明灭绝的风险进行了失效模式分析，系统梳理了多种可能的灾难性路径，如目标错位、权力寻求、价值锁定等。该分析为AI安全研究提供了结构化的风险分类框架，有助于识别关键威胁并指导防御策略的制定。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209926+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-012",
+  "title": "Socio-Foundation: A Model for Generalizable Individual Behavior Simulation via Hierarchical Capability Distillation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08967",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T11:10:53.088996+00:00",
+  "collected_at": "2026-10-08T11:10:53.088996+00:00",
+  "summary": "该论文提出 Socio-Foundation 模型，通过分层能力蒸馏实现可泛化的个体行为模拟。核心方法是将复杂行为分解为分层能力，并利用蒸馏技术从大规模数据中学习，从而生成逼真且可迁移的个体行为。该工作为行为模拟领域提供了新的通用框架，有望应用于社会计算、游戏AI和用户建模等场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T11:11:35.209943+00:00"
+}
