@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-018",
+  "title": "Distillation for Incrimination and Distillation for Capabilities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.11012",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269055+00:00",
+  "collected_at": "2026-10-09T11:10:14.269055+00:00",
+  "summary": "本文探讨了知识蒸馏在AI安全与能力提升中的双重角色，提出了“蒸馏用于归因”和“蒸馏用于能力”两个概念。前者利用蒸馏技术追溯模型行为来源，增强安全审计与责任归属；后者则通过蒸馏提升模型性能与效率。该研究为AI安全与模型优化提供了新的理论视角和实践方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099392+00:00"
+}

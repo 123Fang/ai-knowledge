@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261009-010",
+  "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10805",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269017+00:00",
+  "collected_at": "2026-10-09T11:10:14.269017+00:00",
+  "summary": "本文探讨了以人为中心的AI中'真实标签'（ground truth）的模糊性问题，指出传统AI评估中假设存在单一客观真实标签的做法在涉及人类主观判断时往往不成立。文章主张拥抱这种模糊性，提出在数据标注、模型评估和系统设计中应纳入多元视角和不确定性，以构建更公平、更符合人类价值观的AI系统。该工作为AI伦理、人机交互和评估方法提供了重要的概念框架和实践方向。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099365+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261009-012",
+  "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10857",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269026+00:00",
+  "collected_at": "2026-10-09T11:10:14.269026+00:00",
+  "summary": "本文提出了一种自监督关键帧发现方法，用于解决行为克隆中的视野不变性问题。该方法通过自动识别关键帧来提升策略在不同时间视野下的泛化能力，减少对人工标注的依赖。这项技术有望增强机器人学习和自动驾驶等领域的模仿学习鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099371+00:00"
+}

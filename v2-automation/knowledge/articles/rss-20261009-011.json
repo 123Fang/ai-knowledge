@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-011",
+  "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10833",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269022+00:00",
+  "collected_at": "2026-10-09T11:10:14.269022+00:00",
+  "summary": "该论文针对AI智能体在时间预算约束下的任务执行问题，提出了实现准时且高效的时间预算感知智能体的方法。核心价值在于让智能体能够在有限时间内合理规划行动，平衡任务完成质量与时间消耗，提升实际部署中的可靠性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099368+00:00"
+}

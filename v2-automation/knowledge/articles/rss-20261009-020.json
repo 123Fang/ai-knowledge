@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-020",
+  "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.11087",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269064+00:00",
+  "collected_at": "2026-10-09T11:10:14.269064+00:00",
+  "summary": "本文提出了一个框架和基准，用于评估LLM辅助同行评审的效果，超越了简单的模仿。该工作系统性地分析了LLM在学术评审中的角色，并提供了可复现的评估方法，有助于推动AI辅助评审的可靠性和实用性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099397+00:00"
+}

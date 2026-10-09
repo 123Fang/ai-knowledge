@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-019",
+  "title": "AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.11050",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269060+00:00",
+  "collected_at": "2026-10-09T11:10:14.269060+00:00",
+  "summary": "本文提出了 AgentHorizon，一个用于评估长时程计算机使用任务中智能体评判者（Agentic Judges）的基准框架。该工作针对现有评估方法在长时间跨度、多步骤交互场景下的不足，设计了系统化的评测方案，以衡量 AI 智能体作为评判者的可靠性与一致性。其核心价值在于为智能体评估领域提供了面向长时程任务的标准化测试工具，有助于推动更鲁棒的自动化评估方法的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099395+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-009",
+  "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10786",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269012+00:00",
+  "collected_at": "2026-10-09T11:10:14.269012+00:00",
+  "summary": "该论文提出 Plan-and-Patch 框架，利用扩散语言模型进行智能体规划，通过迭代去噪生成并修补动作序列，克服自回归模型在长程规划中的误差累积问题。其核心价值在于将扩散生成范式引入智能体决策，提升复杂任务规划的鲁棒性和全局一致性。实验表明该方法在多个规划基准上优于传统自回归基线，为 LLM 智能体规划提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099362+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-008",
+  "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10635",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269007+00:00",
+  "collected_at": "2026-10-09T11:10:14.269007+00:00",
+  "summary": "该论文针对冻结的空中视觉语言导航（VLN）智能体，提出了一种基于轨迹的指令翻译方法，通过将自然语言指令转化为与智能体预训练轨迹对齐的中间表示，从而在不微调模型的情况下提升导航性能。该方法有效解决了指令与智能体行为空间不匹配的问题，为复用现有VLN模型提供了新思路，降低了部署成本。实验表明该方法在多个空中VLN基准上取得了显著提升，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099359+00:00"
+}

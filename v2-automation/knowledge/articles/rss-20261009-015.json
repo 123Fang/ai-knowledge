@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261009-015",
+  "title": "Learning How to Search for Plans with Exponentially Less Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10954",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269041+00:00",
+  "collected_at": "2026-10-09T11:10:14.269041+00:00",
+  "summary": "该论文研究在规划搜索中如何以指数级更少的空间学习搜索策略，可能通过神经网络或启发式方法压缩状态表示，从而降低内存需求。其价值在于使大规模规划问题在有限内存下变得可行，对AI规划与强化学习领域有实际意义。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099380+00:00"
+}

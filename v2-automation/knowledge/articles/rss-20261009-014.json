@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-014",
+  "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10942",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T11:10:14.269037+00:00",
+  "collected_at": "2026-10-09T11:10:14.269037+00:00",
+  "summary": "StoreBench 是一个面向直播电商场景的实时交互环境，用于评估和训练自主运营智能体（Autonomous Operator Agents）。该工作将智能体研究拓展到高动态、多模态的直播电商领域，提供了标准化的任务与评估基准。其价值在于填补了直播电商中智能体训练与评测环境的空白，推动智能体在真实商业场景中的落地。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099377+00:00"
+}

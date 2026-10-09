@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-001",
+  "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-09T11:10:13.224776+00:00",
+  "collected_at": "2026-10-09T11:10:13.224776+00:00",
+  "summary": "Meta 和 Microsoft 正在限制员工使用 Anthropic 的 Claude AI，转而推广内部或自研的 AI 工具。此举反映了大型科技公司对数据安全、模型控制权及供应商依赖的担忧，同时也体现了企业级 AI 部署中自主可控的趋势。该事件对理解企业 AI 战略和工具选型具有参考价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T11:10:52.099316+00:00"
+}
