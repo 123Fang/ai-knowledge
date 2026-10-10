@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261010-001",
+  "title": "Typesafe AI raises $870M at $7.5B",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://typesafe.ai/blog/series-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-10T10:27:11.972906+00:00",
+  "collected_at": "2026-10-10T10:27:11.972906+00:00",
+  "summary": "Typesafe AI 获得 8.7 亿美元融资，估值达 75 亿美元，表明资本市场对 AI 安全与类型安全技术的高度认可。该事件反映了 AI 基础设施领域，尤其是提升 AI 系统可靠性和安全性的工具，正成为投资热点。对于技术从业者而言，这预示着类型安全、形式化验证等方向在 AI 工程化中的重要性日益凸显。",
+  "score": 6,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-10T10:27:53.638569+00:00"
+}
