@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-011",
+  "title": "Welcome RL Environments to the hub",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/rl-environments",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T10:39:12.145856+00:00",
+  "collected_at": "2026-10-11T10:39:12.145856+00:00",
+  "summary": "Hugging Face 在其 Hub 上推出了强化学习环境（RL Environments）的托管与共享功能，旨在标准化和简化 RL 训练环境的发布、发现与复用。该功能允许研究者和开发者上传、版本化并共享环境，从而促进可复现的 RL 研究，并降低构建复杂训练环境的门槛。这一举措有望加速基于 LLM 的智能体（agent）训练与评估，推动社区协作。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T10:39:53.983354+00:00"
+}

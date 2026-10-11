@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-003",
+  "title": "Multimodal open d1 decision models for the edge",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T10:39:12.145819+00:00",
+  "collected_at": "2026-10-11T10:39:12.145819+00:00",
+  "summary": "该内容介绍了面向边缘设备的多模态开放式决策模型（d1 decision models），旨在将多模态感知与决策能力部署到资源受限的边缘端。其核心价值在于降低延迟、保护隐私并减少对云端的依赖，为实时自主决策场景提供可行方案。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T10:39:53.983344+00:00"
+}

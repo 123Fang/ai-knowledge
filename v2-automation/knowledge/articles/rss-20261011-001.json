@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261011-001",
+  "title": "Impactful scheduling for GPU clusters",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T10:39:12.145780+00:00",
+  "collected_at": "2026-10-11T10:39:12.145780+00:00",
+  "summary": "本文探讨了 GPU 集群调度对 AI 训练效率的影响，重点分析了如何通过优化调度策略减少空闲时间、提高资源利用率。文章可能介绍了 Hugging Face 在管理大规模 GPU 集群时的实践经验，包括任务排队、抢占和弹性伸缩等机制。这些优化对于降低训练成本、加速模型迭代具有重要价值，尤其适用于需要高效利用昂贵 GPU 资源的团队。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T10:39:53.983326+00:00"
+}
