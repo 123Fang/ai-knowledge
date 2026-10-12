@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-005",
+  "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380612+00:00",
+  "collected_at": "2026-10-12T11:43:13.380612+00:00",
+  "summary": "本文在等预算条件下对比了蒙特卡洛树搜索（MCTS）与随机重启列表调度（RRLS）在DAG工作流调度中的表现。通过受控计算实验，系统评估了两种方法在不同问题规模下的解质量与计算效率。研究发现，在相同计算预算下，MCTS通常能获得更优的调度方案，但RRLS在特定场景下具有更低的实现复杂度。该研究为DAG工作流调度算法的选择提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092647+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261012-013",
+  "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12789",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380658+00:00",
+  "collected_at": "2026-10-12T11:43:13.380658+00:00",
+  "summary": "EvoBelief 提出了一种可证伪的世界模型，用于自我改进的 LLM 智能体。该方法让智能体通过与环境交互生成可验证的信念，并据此迭代优化自身行为。其核心价值在于提升了 LLM 智能体在复杂任务中的自主学习和适应能力，同时增强了决策的可解释性与可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092679+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-018",
+  "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12855",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380680+00:00",
+  "collected_at": "2026-10-12T11:43:13.380680+00:00",
+  "summary": "该论文针对LLM自我改进过程中出现的性能退化问题，提出了一种基于表示几何正则化的缓解方法。通过约束模型内部表示的几何结构，该方法有效保持了模型在迭代自我改进中的能力稳定性。这项工作为LLM持续学习与自我进化提供了新的正则化视角，具有较高的理论价值和实践意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092697+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261012-007",
+  "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12596",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380626+00:00",
+  "collected_at": "2026-10-12T11:43:13.380626+00:00",
+  "summary": "SpireBench 是一个基于《杀戮尖塔》游戏评估智能体模型长时程战略规划能力的基准测试。它要求模型在复杂、随机且需长期规划的环境中做出决策，弥补了现有基准在长时程战略评估上的不足。该工作为智能体模型的推理与规划能力提供了新的评测维度，对推动自主智能体研究具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092659+00:00"
+}

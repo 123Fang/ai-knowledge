@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-017",
+  "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12845",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380676+00:00",
+  "collected_at": "2026-10-12T11:43:13.380676+00:00",
+  "summary": "本文探讨了AI应用中的创造力定义、测量与利用问题。作者提出了一套框架来界定AI创造力，并设计了相应的评估指标，同时展示了如何在实际应用中激发和利用AI的创造力。该工作为AI创造力的系统化研究和应用提供了理论基础与实践指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092693+00:00"
+}

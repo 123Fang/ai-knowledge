@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261012-006",
+  "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12593",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380620+00:00",
+  "collected_at": "2026-10-12T11:43:13.380620+00:00",
+  "summary": "该论文提出了一种基于智能体的数据合成方法，通过演化生成空间实现闭环学习，使模型能够识别自身知识盲区并针对性生成训练数据。核心价值在于利用智能体自主探索未知领域，提升数据合成效率与模型泛化能力，为闭环学习提供了新范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092656+00:00"
+}

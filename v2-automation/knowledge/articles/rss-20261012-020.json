@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-020",
+  "title": "One-Step Text Generation by Seq-Drifting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12879",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380689+00:00",
+  "collected_at": "2026-10-12T11:43:13.380689+00:00",
+  "summary": "该论文提出了一种名为 Seq-Drifting 的新方法，用于实现文本生成的一步生成（One-Step Text Generation），旨在克服传统自回归模型逐词生成的效率瓶颈。通过序列漂移技术，模型能够直接生成完整文本序列，显著减少推理时间。这一方法在保持生成质量的同时提升了速度，对实时文本生成应用具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092703+00:00"
+}

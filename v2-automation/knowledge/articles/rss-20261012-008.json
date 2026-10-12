@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261012-008",
+  "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12598",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T11:43:13.380633+00:00",
+  "collected_at": "2026-10-12T11:43:13.380633+00:00",
+  "summary": "本文提出了一种超越二元可验证奖励的行为自奖励方法，用于软件工程（SWE）智能体。该方法通过让智能体根据自身行为生成奖励信号，克服了传统二元奖励的稀疏性和局限性，从而提升智能体在复杂代码生成与修复任务中的学习效率和性能。该工作为SWE智能体的训练提供了新的自监督范式，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T11:44:02.092663+00:00"
+}
