@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261014-014",
+  "title": "ConicFlow: constrained Inference-time optimal control for flow matching models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14307",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024377+00:00",
+  "collected_at": "2026-10-14T09:20:40.024377+00:00",
+  "summary": "ConicFlow 提出了一种在推理阶段对 flow matching 模型进行约束最优控制的方法，通过将生成过程建模为受约束的优化问题，在采样时施加物理或几何约束。该方法无需重新训练模型，即可实现可控生成，提升了 flow matching 在机器人、动画等需要精确约束场景下的实用性。其核心价值在于将推理时最优控制与流匹配生成模型结合，为可控生成提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957935+00:00"
+}

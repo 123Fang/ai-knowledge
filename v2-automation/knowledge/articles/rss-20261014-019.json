@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-019",
+  "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14382",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024399+00:00",
+  "collected_at": "2026-10-14T09:20:40.024399+00:00",
+  "summary": "ANASSA 提出了一种从高层框架到低层架构的完整方案，用于构建空间智能体 AI（Spatial Agentic AI）。该工作旨在弥合抽象智能体设计与底层空间感知、推理和行动之间的鸿沟，为在物理或虚拟空间中自主运行的智能体提供系统化架构。其核心价值在于将智能体能力与空间计算需求相结合，推动具身智能和空间智能领域的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957947+00:00"
+}

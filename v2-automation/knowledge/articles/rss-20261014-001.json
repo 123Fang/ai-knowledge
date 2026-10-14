@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-001",
+  "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14005",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024267+00:00",
+  "collected_at": "2026-10-14T09:20:40.024267+00:00",
+  "summary": "本文提出了一种基于LLM参考的C-test方法，用于评估超智能（supraintelligence）的初步表现。该方法通过让LLM生成或验证填空测试，为衡量超越人类智能的AI系统提供了一种新的评估范式。核心价值在于探索传统评估方法在超智能场景下的局限性，并尝试构建更合适的测试框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957892+00:00"
+}

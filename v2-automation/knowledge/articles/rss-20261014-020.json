@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-020",
+  "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14389",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024402+00:00",
+  "collected_at": "2026-10-14T09:20:40.024402+00:00",
+  "summary": "该论文系统测量了开放权重LLM在不同基准、推理模式和硬件上的推理能耗效率，揭示了模型规模、推理模式与硬件平台对能效的显著影响，为绿色AI部署和模型选择提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957949+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-009",
+  "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14190",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024358+00:00",
+  "collected_at": "2026-10-14T09:20:40.024358+00:00",
+  "summary": "该论文提出了一种针对视觉-语言模型（VLM）的补丁级训练样本归因方法，通过跨模态潜在影响分析来识别训练数据中每个图像补丁对模型预测的贡献。该方法有助于理解VLM的决策机制，提升模型的可解释性和数据效率，对模型调试和数据集优化具有重要价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957923+00:00"
+}

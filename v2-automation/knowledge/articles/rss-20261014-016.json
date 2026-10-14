@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-016",
+  "title": "Actionable Meta-Requirements for AI Robustness Auditing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14356",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024386+00:00",
+  "collected_at": "2026-10-14T09:20:40.024386+00:00",
+  "summary": "本文提出了一套可操作的元需求（actionable meta-requirements），用于指导AI鲁棒性审计的实践。通过系统化地定义审计目标、范围和方法，该工作为评估AI系统在对抗性环境下的可靠性提供了结构化框架。其核心价值在于将抽象的鲁棒性概念转化为可执行的审计步骤，有助于提升AI部署的安全性和可信度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957940+00:00"
+}

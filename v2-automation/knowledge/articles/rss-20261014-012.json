@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261014-012",
+  "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14277",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T09:20:40.024369+00:00",
+  "collected_at": "2026-10-14T09:20:40.024369+00:00",
+  "summary": "该论文提出Echo，一种用于LLM训练和推理的误差补偿4比特张量并行通信方法。通过量化通信数据并补偿量化误差，Echo显著降低了分布式训练和推理中的通信开销，同时保持模型精度。该方法在张量并行场景下实现了高效的4比特通信，为大规模LLM的高效部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-14T09:21:25.957931+00:00"
+}
