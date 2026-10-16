@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261016-014",
+  "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20809",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333346+00:00",
+  "collected_at": "2026-10-16T08:48:33.333346+00:00",
+  "summary": "该论文提出了一种无需外部预言机（oracle-free）的算子归纳方法，使智能体能够自我改进并生长出领域特定语言（DSL），用于精确问答。核心价值在于通过自动归纳算子来提升问答的准确性和可解释性，同时减少对人工标注或外部知识的依赖。该方法结合了智能体、程序合成和推理技术，为构建自适应问答系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287870+00:00"
+}

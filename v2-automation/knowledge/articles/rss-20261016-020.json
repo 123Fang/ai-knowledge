@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261016-020",
+  "title": "Defining and Generating Compositional Structure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20922",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333363+00:00",
+  "collected_at": "2026-10-16T08:48:33.333363+00:00",
+  "summary": "该论文探讨了组合结构（compositional structure）的定义与生成问题，这是人工智能和认知科学中的核心挑战之一。作者可能提出了形式化框架或生成模型，用于表示和合成具有组合性的结构，从而支持更系统的推理与泛化。该工作对理解智能系统的组合泛化能力、程序合成及结构化生成具有理论价值。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287884+00:00"
+}

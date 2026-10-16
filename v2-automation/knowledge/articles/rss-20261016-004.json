@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-004",
+  "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20675",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333308+00:00",
+  "collected_at": "2026-10-16T08:48:33.333308+00:00",
+  "summary": "AlphaDiana 是一个针对可验证推理任务中智能体（agent）的测量系统，旨在系统性地评估智能体在需要可验证推理的任务中的表现。该系统提供了标准化的评估框架和指标，有助于推动智能体推理能力的可复现研究。其价值在于填补了智能体在可验证推理任务上缺乏统一测量工具的空白，为后续研究提供了基准。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287842+00:00"
+}

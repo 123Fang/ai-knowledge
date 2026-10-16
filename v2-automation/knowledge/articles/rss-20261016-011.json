@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-011",
+  "title": "Open-world AI: a Tale of Three Requirements",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20782",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333337+00:00",
+  "collected_at": "2026-10-16T08:48:33.333337+00:00",
+  "summary": "本文探讨了开放世界AI（Open-world AI）的三个核心需求，旨在解决AI系统在动态、未知环境中泛化能力不足的问题。文章可能从理论或框架层面分析了实现开放世界智能所需的关键条件，如持续学习、环境适应性和鲁棒性。该工作为构建更通用的AI系统提供了方向性指导，对推动AI从封闭任务向开放场景迁移具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287863+00:00"
+}

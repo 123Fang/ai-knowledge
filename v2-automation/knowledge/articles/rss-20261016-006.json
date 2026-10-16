@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261016-006",
+  "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20679",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333320+00:00",
+  "collected_at": "2026-10-16T08:48:33.333320+00:00",
+  "summary": "该论文提出反事实邻域风险场（Counterfactual Neighborhood Risk Fields），一种用于视觉语言模型（VLM）的选择性安全机制。通过构建反事实邻域来估计模型在输入扰动下的风险，实现基于证据的、可解释的安全决策。该方法有望提升VLM在开放环境中的可靠性和安全性，为部署提供更精细的风险控制。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287848+00:00"
+}

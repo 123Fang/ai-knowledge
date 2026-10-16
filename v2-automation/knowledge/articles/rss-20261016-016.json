@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-016",
+  "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20836",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333351+00:00",
+  "collected_at": "2026-10-16T08:48:33.333351+00:00",
+  "summary": "该论文提出了一种置信度校准的推理扩展方法，用于评估器引导的测试时推理。通过动态调整推理扩展程度，在提升推理准确性的同时控制计算成本。该方法在多个推理任务上验证了有效性，为测试时计算优化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287875+00:00"
+}

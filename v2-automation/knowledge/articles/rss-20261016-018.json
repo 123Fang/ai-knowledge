@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261016-018",
+  "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20867",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333357+00:00",
+  "collected_at": "2026-10-16T08:48:33.333357+00:00",
+  "summary": "该论文提出了一种基于回答集编程（ASP）的框架，用于预测移动物体在交互轨迹中的常识性未来行为。通过将物体运动轨迹与常识知识结合，该框架能够进行前瞻性推理，预测物体间的交互结果。其价值在于为动态环境下的预测性推理提供了形式化方法，可应用于自动驾驶、机器人导航等需要理解物体交互的场景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287880+00:00"
+}

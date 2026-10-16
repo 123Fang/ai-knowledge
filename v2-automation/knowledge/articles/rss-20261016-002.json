@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-002",
+  "title": "Evaluating Model Capabilities After Benchmark Saturation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20667",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333299+00:00",
+  "collected_at": "2026-10-16T08:48:33.333299+00:00",
+  "summary": "本文探讨了在基准测试饱和后如何评估AI模型的能力。随着模型在现有基准上接近或达到人类水平，这些基准逐渐失去区分度，需要新的评估方法。文章可能提出了替代性评估框架，如动态基准、对抗性测试或真实世界任务评估，以更准确地衡量模型在饱和后的能力。这项工作对AI评估领域具有重要价值，有助于推动更鲁棒的模型比较和进步衡量。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287836+00:00"
+}

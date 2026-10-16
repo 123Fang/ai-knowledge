@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-003",
+  "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20669",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333305+00:00",
+  "collected_at": "2026-10-16T08:48:33.333305+00:00",
+  "summary": "该论文提出了一种价值信息引导的调度修剪方法，用于加速离散扩散模型中的序列蒙特卡洛（SMC）引导。通过利用价值函数评估中间步骤的重要性，动态修剪不必要的采样步骤，从而在保持生成质量的同时显著降低计算成本。该方法为离散扩散模型的高效推理提供了新思路，尤其适用于需要实时或资源受限的生成任务。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287839+00:00"
+}

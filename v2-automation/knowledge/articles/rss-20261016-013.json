@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-013",
+  "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20805",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333343+00:00",
+  "collected_at": "2026-10-16T08:48:33.333343+00:00",
+  "summary": "该论文研究了推理轨迹与证据冲突时，答案配置如何影响模型对证据的遵循。通过实验揭示了不同答案格式（如是否包含推理步骤）对模型最终答案与证据一致性的影响，为提升LLM在复杂推理中的可靠性提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287868+00:00"
+}

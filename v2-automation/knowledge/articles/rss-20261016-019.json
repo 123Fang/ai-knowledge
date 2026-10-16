@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-019",
+  "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20921",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T08:48:33.333360+00:00",
+  "collected_at": "2026-10-16T08:48:33.333360+00:00",
+  "summary": "该论文提出了一种多层级AI可访问性模型（MAIAM），旨在通过按比例分配访问权限和能力限制来确保前沿AI的安全性。模型将AI系统划分为不同层级，根据用户或应用场景的风险等级授予相应的访问权限，从而在保障安全的同时促进AI的广泛应用。该研究为前沿AI的安全部署提供了新的框架，平衡了创新与风险控制。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T08:49:26.287882+00:00"
+}
