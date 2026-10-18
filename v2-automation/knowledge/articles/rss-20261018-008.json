@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-008",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/flux-3",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-18T08:38:41.015126+00:00",
+  "collected_at": "2026-10-18T08:38:41.015126+00:00",
+  "summary": "该内容宣布 FLUX.3 Image Klein 模型已集成到 Diffusers 库中，使开发者能够通过统一的 Diffusers API 便捷地加载、推理和微调这一图像生成模型。这降低了使用先进视觉生成模型的门槛，提升了工作流的一致性和可复现性，对图像生成应用开发具有实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T08:39:33.138768+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-007",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-18T08:38:41.015122+00:00",
+  "collected_at": "2026-10-18T08:38:41.015122+00:00",
+  "summary": "Meta 发布了名为 Muse Spark Open 的开源权重前沿多模态混合专家（MoE）模型，该模型在 Hugging Face 博客上公布。其核心价值在于将前沿的多模态能力与 MoE 架构结合，并以开放权重形式提供，降低了研究和应用门槛。这有助于推动多模态 AI 在视觉-语言任务上的创新与部署。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T08:39:33.138764+00:00"
+}

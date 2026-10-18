@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261018-009",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-18T08:38:41.015131+00:00",
+  "collected_at": "2026-10-18T08:38:41.015131+00:00",
+  "summary": "HiRO-ACEv2 提出了一种低成本模拟极端天气的方法，能够在 3 公里分辨率下生成高精度气象数据。该技术通过高效计算框架显著降低了传统高分辨率模拟的计算开销，为气候研究和灾害预警提供了实用工具。其价值在于平衡了模拟精度与计算成本，使极端天气的精细化模拟更易普及。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T08:39:33.138771+00:00"
+}

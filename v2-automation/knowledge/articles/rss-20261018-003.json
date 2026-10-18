@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261018-003",
+  "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-18T08:38:39.315543+00:00",
+  "collected_at": "2026-10-18T08:38:39.315543+00:00",
+  "summary": "该内容报道了 PostgreSQL 19 版本因 AI 审查工具发现大量人类难以修复的缺陷而推迟发布。这反映了 AI 在代码审查和缺陷检测中的实际应用价值，同时也揭示了 AI 发现问题的速度可能超出人类修复能力的现实挑战。该事件对数据库社区和 AI 辅助软件开发领域具有重要参考意义。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T08:39:33.138750+00:00"
+}

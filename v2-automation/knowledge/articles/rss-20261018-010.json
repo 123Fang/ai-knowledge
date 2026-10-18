@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261018-010",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-18T08:38:41.015136+00:00",
+  "collected_at": "2026-10-18T08:38:41.015136+00:00",
+  "summary": "该内容介绍 LFM2.5-24B-A2B 模型，支持在设备端运行快速、私密的 AI 代理。核心价值在于将代理能力本地化，兼顾低延迟与数据隐私，适合边缘部署场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T08:39:33.138774+00:00"
+}
