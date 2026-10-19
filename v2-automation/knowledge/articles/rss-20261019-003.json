@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261019-003",
+  "title": "Amazon uses AI to monitor union risk in UK warehouses",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-19T09:40:40.793441+00:00",
+  "collected_at": "2026-10-19T09:40:40.793441+00:00",
+  "summary": "该报道揭示亚马逊利用AI技术监控英国仓库员工的工会活动风险，属于AI在人力资源与劳资关系管理中的争议性应用。核心价值在于引发对AI监控伦理、员工隐私及算法治理的讨论，而非技术突破。",
+  "score": 5,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-19T09:41:23.982216+00:00"
+}

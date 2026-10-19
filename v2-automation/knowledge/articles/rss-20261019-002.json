@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261019-002",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://sphinx-six-theta.vercel.app/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-19T09:40:40.793433+00:00",
+  "collected_at": "2026-10-19T09:40:40.793433+00:00",
+  "summary": "Sphinx 是一个开发工具钩子，在部署 AI 生成的代码前通过测验形式强制开发者理解代码逻辑，从而减少盲目依赖 AI 带来的风险。它结合了代码生成与人工审查环节，提升了 AI 辅助开发的安全性和可维护性。该工具适用于使用 LLM 进行代码生成的团队，强调部署前的主动学习与验证。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-19T09:41:23.982212+00:00"
+}
