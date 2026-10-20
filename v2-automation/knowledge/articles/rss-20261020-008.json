@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-008",
+  "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.23962",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209662+00:00",
+  "collected_at": "2026-10-20T09:14:28.209662+00:00",
+  "summary": "该论文提出了一种受控的LLM工作流，用于对风险评分差异进行基于证据的诊断。通过结构化流程引导LLM生成可追溯的证据链，提升诊断的可靠性和可解释性。该方法在金融风控等场景中具有应用价值，有助于识别和解释评分差异的根源。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391222+00:00"
+}

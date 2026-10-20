@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-015",
+  "title": "Cache2LoRA: Understanding and Improving Context Internalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24107",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209698+00:00",
+  "collected_at": "2026-10-20T09:14:28.209698+00:00",
+  "summary": "该论文研究上下文内部化（Context Internalization）问题，即如何将长上下文信息压缩到模型参数中，并提出了Cache2LoRA方法。通过分析缓存机制与LoRA微调的关系，该方法旨在提升模型对长上下文的记忆和利用效率。这项工作为长上下文处理提供了新的微调思路，具有潜在的应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391244+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261020-010",
+  "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209673+00:00",
+  "collected_at": "2026-10-20T09:14:28.209673+00:00",
+  "summary": "该论文探讨了在人类-AI协同创作中，如何超越显式意图，发现并塑造艺术意图。研究提出了一个框架，通过交互式过程让AI理解并辅助形成用户的隐含艺术意图，从而提升协同创作的深度与质量。这项工作为创意AI领域提供了新的视角和方法，强调了意图的动态性和协作性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391229+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261020-016",
+  "title": "Joint, Decoupled, or Agent: When Each Multimodal Alignment Paradigm Wins",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24108",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209702+00:00",
+  "collected_at": "2026-10-20T09:14:28.209702+00:00",
+  "summary": "该论文系统性地比较了多模态对齐的三种范式：联合对齐、解耦对齐和基于智能体的对齐，并分析了每种范式在不同任务和条件下的优势与适用场景。核心价值在于为多模态模型的设计选择提供了理论指导和实证依据，帮助研究者和工程师根据具体需求选择最合适的对齐策略。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391246+00:00"
+}

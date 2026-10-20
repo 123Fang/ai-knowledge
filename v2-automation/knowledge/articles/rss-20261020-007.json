@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261020-007",
+  "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.23921",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209650+00:00",
+  "collected_at": "2026-10-20T09:14:28.209650+00:00",
+  "summary": "该论文从第一性原理出发，探讨了代理计算（Agentic Computing）相较于其他架构选择（如传统计算范式）的适用性，提出“以更少资源做更多事”的理念。核心价值在于为AI系统架构设计提供理论依据，帮助判断何时采用代理计算更优，避免盲目跟风。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391218+00:00"
+}

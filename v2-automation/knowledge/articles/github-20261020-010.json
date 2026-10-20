@@ -1,0 +1,20 @@
+{
+  "id": "github-20261020-010",
+  "title": "ayagmar/llm-usage-metrics",
+  "source": "github",
+  "source_url": "https://github.com/ayagmar/llm-usage-metrics",
+  "author": "ayagmar",
+  "published_at": "2026-10-20T04:27:29Z",
+  "collected_at": "2026-10-20T09:14:19.265550+00:00",
+  "summary": "该项目是一个开源工具，用于从本地会话日志中读取并汇总 17 种 AI 编码代理（如 Claude Code、Codex、Gemini CLI 等）的 token 使用量和成本报告，支持跨多台机器。它解决了多代理、多设备场景下使用情况分散难以追踪的问题，帮助开发者量化 AI 编码成本并优化使用策略。价值在于提供统一、本地化的成本监控方案，无需依赖云端服务。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391183+00:00"
+}

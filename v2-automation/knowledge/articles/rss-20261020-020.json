@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261020-020",
+  "title": "Agents' Last Doubt: Knowing When to Act and When to Step Back in Tool-Using Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24194",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209725+00:00",
+  "collected_at": "2026-10-20T09:14:28.209725+00:00",
+  "summary": "该论文关注工具使用型智能体（tool-using agents）在决策时的关键问题：何时应当调用工具采取行动，何时应当停止或退后。核心贡献在于提出让智能体具备自我怀疑与边界判断能力，避免过度调用工具或错误行动。这一能力对提升智能体在复杂任务中的可靠性和安全性具有重要价值，属于智能体决策与工具使用方向的前沿探索。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391257+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-009",
+  "title": "What Social Media Teaches Us About Accumulative AI Risks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24006",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T09:14:28.209668+00:00",
+  "collected_at": "2026-10-20T09:14:28.209668+00:00",
+  "summary": "该论文借鉴社交媒体风险累积的教训，探讨AI系统在长期部署中可能出现的累积性风险，而非单次事件风险。文章分析了风险如何随模型迭代、用户交互和生态扩展逐步叠加，并提出识别与缓解这类风险的框架。其价值在于为AI安全评估提供了从静态单点检查转向动态长期监测的新视角。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T09:15:16.391225+00:00"
+}
