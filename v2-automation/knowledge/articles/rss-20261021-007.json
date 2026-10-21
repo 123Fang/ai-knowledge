@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-007",
+  "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26942",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T09:11:04.050186+00:00",
+  "collected_at": "2026-10-21T09:11:04.050186+00:00",
+  "summary": "该论文提出了一种有界编译器引导的修复方法，用于Lean 4中的程序修复，强调修复而非简单重采样。方法利用编译器反馈进行有界搜索，以生成符合语法和语义的修复方案。其价值在于提升自动程序修复的可靠性和效率，减少对随机重采样的依赖。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-21T09:11:51.133888+00:00"
+}

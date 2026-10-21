@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-012",
+  "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27027",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T09:11:04.050212+00:00",
+  "collected_at": "2026-10-21T09:11:04.050212+00:00",
+  "summary": "该论文探讨多智能体协作是否能在临床任务中减少大语言模型的幻觉问题。研究通过对比单智能体与多智能体协作在临床问答、诊断推理等任务上的表现，系统评估多智能体架构对幻觉率的影响。结果表明多智能体协作在部分任务中能显著降低幻觉，但效果依赖于智能体角色设计和协作机制。该工作为医疗AI中多智能体系统的可靠部署提供了实证依据和设计启示。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T09:11:51.133904+00:00"
+}

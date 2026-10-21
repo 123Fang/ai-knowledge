@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-015",
+  "title": "Physical AI: Concepts, Techniques, and Challenges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T09:11:04.050225+00:00",
+  "collected_at": "2026-10-21T09:11:04.050225+00:00",
+  "summary": "该论文系统性地综述了Physical AI（物理人工智能）的概念、关键技术与挑战，涵盖感知、推理、规划与物理交互等核心环节。内容整合了机器人学、具身智能与多模态学习的前沿进展，为理解AI在真实物理世界中的落地提供了框架性参考。其价值在于梳理了从仿真到现实迁移、安全控制等关键问题，并指出了未来研究方向。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T09:11:51.133913+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-008",
+  "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26943",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T09:11:04.050193+00:00",
+  "collected_at": "2026-10-21T09:11:04.050193+00:00",
+  "summary": "该论文提出了MAMath-Bench，一个针对多模态多智能体数学推理的过程感知且鲁棒的评估基准。它解决了现有评估方法仅关注最终答案而忽略推理过程的问题，通过引入过程级指标和鲁棒性测试，能够更全面地衡量多智能体系统在复杂数学任务中的表现。该工作为多智能体协作与多模态推理的评估提供了新标准，有助于推动更可靠、可解释的AI数学推理系统的发展。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T09:11:51.133892+00:00"
+}

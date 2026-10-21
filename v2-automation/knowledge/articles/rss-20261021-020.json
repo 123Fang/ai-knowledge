@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-020",
+  "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27119",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T09:11:04.050249+00:00",
+  "collected_at": "2026-10-21T09:11:04.050249+00:00",
+  "summary": "该论文提出 PORA 方法，旨在让 LLM 智能体学会判断何时增加推理步骤能带来收益，从而在推理深度与效率之间取得平衡。核心价值在于避免过度推理造成的资源浪费，同时确保复杂任务获得足够推理，提升智能体决策的自适应性和实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T09:11:51.133929+00:00"
+}

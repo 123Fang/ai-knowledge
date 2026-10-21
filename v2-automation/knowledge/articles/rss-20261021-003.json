@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-003",
+  "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26904",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T09:11:04.050156+00:00",
+  "collected_at": "2026-10-21T09:11:04.050156+00:00",
+  "summary": "该论文提出一种基于多目标强化学习与大语言模型的方法，用于生成帕累托最优的RTL代码。通过将RTL代码生成建模为多目标优化问题，同时优化面积、延迟、功耗等硬件指标，利用强化学习引导LLM生成满足不同设计权衡的代码。该方法有望提升硬件设计自动化的效率与质量，为LLM在EDA领域的应用提供新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-21T09:11:51.133870+00:00"
+}
