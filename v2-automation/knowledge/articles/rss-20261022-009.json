@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-009",
+  "title": "Speedrunning Relational Foundation Model Pretraining",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28855",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931064+00:00",
+  "collected_at": "2026-10-22T09:13:20.931064+00:00",
+  "summary": "该论文探讨了关系型基础模型（Relational Foundation Model）预训练的效率优化问题，提出了一种加速预训练过程的方法。核心价值在于降低关系数据上基础模型预训练的计算成本和时间，为关系型数据的深度学习应用提供更实用的训练范式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031790+00:00"
+}

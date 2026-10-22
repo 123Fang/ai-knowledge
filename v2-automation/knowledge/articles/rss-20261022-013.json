@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-013",
+  "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28909",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931085+00:00",
+  "collected_at": "2026-10-22T09:13:20.931085+00:00",
+  "summary": "DiffResearch 提出利用扩散语言模型来加速深度研究任务，通过扩散过程生成和优化研究查询与答案，相比传统自回归模型可能提升效率。该工作展示了扩散模型在复杂推理和信息检索场景中的潜力，为深度研究自动化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031802+00:00"
+}

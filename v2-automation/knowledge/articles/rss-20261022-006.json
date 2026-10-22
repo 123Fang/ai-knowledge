@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-006",
+  "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28815",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931045+00:00",
+  "collected_at": "2026-10-22T09:13:20.931045+00:00",
+  "summary": "该论文提出了一种名为“连续规模竞赛”的方法，用于演化智能体测试框架（harness），以更有效地将多个任务整合到更优的框架中。该方法通过迭代的规模竞赛机制，自动发现和优化智能体框架的结构与参数，从而提升多任务场景下的整体性能。这项工作为智能体系统的自动化设计与评估提供了新思路，有助于降低人工设计成本并提高框架的泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031781+00:00"
+}

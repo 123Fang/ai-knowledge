@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-007",
+  "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28826",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931050+00:00",
+  "collected_at": "2026-10-22T09:13:20.931050+00:00",
+  "summary": "该论文提出使用决策语言模型（Decision Language Models）作为临床生成式AI的评估器，以替代成本高昂且速度较慢的大型语言模型（LLM）评判者。该方法旨在降低评估成本并提高评估速度，同时保持对临床AI生成内容的有效判断。研究展示了决策语言模型在临床场景中作为经济高效替代方案的潜力，为医疗AI的评估部署提供了实用路径。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031784+00:00"
+}

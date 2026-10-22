@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-003",
+  "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28698",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931020+00:00",
+  "collected_at": "2026-10-22T09:13:20.931020+00:00",
+  "summary": "该论文研究在多样化虚拟世界中对具身智能体进行持续预训练（continued pre-training）的扩展性问题，探索如何利用大规模虚拟环境数据提升智能体的泛化能力。核心价值在于提出了一种通过跨世界预训练来增强具身智能体适应性的方法，为具身AI的规模化训练提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031771+00:00"
+}

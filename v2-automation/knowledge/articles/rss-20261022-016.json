@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261022-016",
+  "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28934",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931098+00:00",
+  "collected_at": "2026-10-22T09:13:20.931098+00:00",
+  "summary": "该论文关注编码智能体（coding agents）在自动化修改代码时缺乏备份意识的问题，提出对备份意识进行量化测量，并设计在智能体中自动执行备份的机制。核心价值在于降低智能体自主操作带来的数据丢失与不可逆修改风险，提升编码智能体部署的安全性与可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "security",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031815+00:00"
+}

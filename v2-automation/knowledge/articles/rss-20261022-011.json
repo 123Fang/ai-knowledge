@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-011",
+  "title": "Fig: Automated Multiagent Behavior Elicitor",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28891",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931076+00:00",
+  "collected_at": "2026-10-22T09:13:20.931076+00:00",
+  "summary": "Fig 是一种自动化的多智能体行为诱导器，旨在通过自动生成交互场景和任务来激发和评估多智能体系统的行为。该工作解决了多智能体系统测试中手动设计场景成本高、覆盖有限的问题，提升了行为评估的自动化程度和可扩展性。其核心价值在于为多智能体系统的开发与调试提供高效、可重复的评估工具，有助于发现潜在的行为缺陷和协作模式。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031796+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261022-015",
+  "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28914",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T09:13:20.931094+00:00",
+  "collected_at": "2026-10-22T09:13:20.931094+00:00",
+  "summary": "该论文提出 D-Skill 框架，通过智能体技能（Agent Skills）将教师模型的知识蒸馏到学生模型，使学生在推理时能够调用结构化技能模块完成复杂任务。核心价值在于将知识蒸馏与智能体工具使用相结合，提升小模型在推理和工具调用场景下的表现，为高效部署智能体系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T09:14:11.031813+00:00"
+}
