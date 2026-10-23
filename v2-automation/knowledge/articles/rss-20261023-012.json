@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-012",
+  "title": "Soft Ontology Priors over Latent Concept Posteriors for Weakly Supervised Neuro-Symbolic Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30391",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780780+00:00",
+  "collected_at": "2026-10-23T09:09:55.780780+00:00",
+  "summary": "该论文提出一种弱监督神经符号学习方法，通过软本体先验对潜在概念后验进行正则化，以缓解标注数据稀缺问题。方法将本体知识编码为概率先验，与神经网络输出的概念后验分布进行软约束融合，从而提升符号推理的鲁棒性和可解释性。该工作为结合领域知识与数据驱动模型提供了新思路，在低资源场景下具有应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969326+00:00"
+}

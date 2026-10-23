@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-002",
+  "title": "Every AI model has the same \"controversial\" take on humans",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-23T09:09:54.714872+00:00",
+  "collected_at": "2026-10-23T09:09:54.714872+00:00",
+  "summary": "该内容来自 Hacker News 最佳榜单，标题指出所有 AI 模型对人类持有相同的“争议性”看法，暗示不同模型在涉及人类相关话题时可能表现出高度一致的立场或偏见。这为研究模型对齐、训练数据偏差和评估一致性提供了有价值的观察视角，值得关注模型行为共性的开发者与研究者参考。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969304+00:00"
+}

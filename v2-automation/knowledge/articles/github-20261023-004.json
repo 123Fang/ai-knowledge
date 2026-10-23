@@ -1,0 +1,20 @@
+{
+  "id": "github-20261023-004",
+  "title": "Entelligence-AI/agentplay",
+  "source": "github",
+  "source_url": "https://github.com/Entelligence-AI/agentplay",
+  "author": "Entelligence-AI",
+  "published_at": "2026-10-23T06:52:14Z",
+  "collected_at": "2026-10-23T09:09:52.406171+00:00",
+  "summary": "Entelligence-AI/agentplay 是一个开源工具，能够将编码智能体（coding agent）的会话记录以地图和时间线的形式进行回放。它帮助开发者直观地理解智能体的决策过程、工具调用顺序和代码生成逻辑，从而提升调试与评估效率。该项目聚焦于智能体会话的可视化分析，对于研究多步推理和工具使用模式具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969287+00:00"
+}

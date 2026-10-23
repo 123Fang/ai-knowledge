@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-008",
+  "title": "When Stable and Preferred Semantics Agree: A Path-Based Approach",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30176",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780763+00:00",
+  "collected_at": "2026-10-23T09:09:55.780763+00:00",
+  "summary": "该论文研究了逻辑编程中稳定模型语义与优先语义的一致性条件，提出了一种基于路径的方法来刻画两者何时一致。核心价值在于为两种重要语义的关系提供了理论刻画，有助于理解非单调推理系统的语义基础，并可能指导实际系统中语义选择与实现。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969316+00:00"
+}

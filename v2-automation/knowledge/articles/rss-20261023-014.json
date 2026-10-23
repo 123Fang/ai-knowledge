@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261023-014",
+  "title": "Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30436",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780786+00:00",
+  "collected_at": "2026-10-23T09:09:55.780786+00:00",
+  "summary": "该论文探讨了在6G通信系统中安全部署智能体AI（Agentic AI）与多模态智能的关键问题，重点分析了智能体自主决策与多模态数据融合带来的安全挑战，并提出了相应的安全架构与防护策略。其价值在于为6G时代AI原生网络的安全可信运行提供了理论框架与技术方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "vision",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969331+00:00"
+}

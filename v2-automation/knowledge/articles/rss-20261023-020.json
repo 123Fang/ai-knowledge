@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-020",
+  "title": "What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30491",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780808+00:00",
+  "collected_at": "2026-10-23T09:09:55.780808+00:00",
+  "summary": "该论文针对智能体评估中的行为检测器进行审计，比较检测器基于执行轨迹（trace）的判断与基于标签（label）的结论之间的差异。核心价值在于揭示行为检测器可能存在的偏差或误判，为智能体评估的可靠性提供审计方法，有助于提升评估流程的严谨性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969345+00:00"
+}

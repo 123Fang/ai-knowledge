@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-004",
+  "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30151",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780712+00:00",
+  "collected_at": "2026-10-23T09:09:55.780712+00:00",
+  "summary": "本文对AI智能体通信协议中的握手开销进行了实证研究，量化了建立连接时的额外成本。研究揭示了不同协议下握手过程的性能影响，为优化多智能体系统通信效率提供了数据支持。该工作有助于设计更高效的智能体交互机制，降低通信延迟。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969306+00:00"
+}

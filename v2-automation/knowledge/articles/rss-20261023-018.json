@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-018",
+  "title": "Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30485",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780801+00:00",
+  "collected_at": "2026-10-23T09:09:55.780801+00:00",
+  "summary": "该论文针对个人智能体在交互中记忆用户偏好的能力，提出了一个基准测试框架，用于评估智能体是否能在多轮交互中有效记住并应用个性化偏好。核心价值在于填补了个人智能体记忆评估的空白，为提升智能体的长期交互体验和个性化服务提供了标准化衡量工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969341+00:00"
+}

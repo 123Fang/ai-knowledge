@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261023-009",
+  "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30205",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780767+00:00",
+  "collected_at": "2026-10-23T09:09:55.780767+00:00",
+  "summary": "该论文研究LLM玩家在游戏中是否会重复刚观察到的失败动作，即反馈导致的错误行为模式。通过实验分析LLM在游戏环境中的决策过程，揭示了反馈机制可能引发的负面效应。该研究对理解LLM的推理与学习行为具有价值，并为设计更有效的游戏AI反馈策略提供参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969318+00:00"
+}

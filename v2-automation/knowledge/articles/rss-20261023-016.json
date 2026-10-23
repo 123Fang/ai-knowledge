@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-016",
+  "title": "A Three-Pillar Governance Framework for Safe and Trustworthy AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T09:09:55.780794+00:00",
+  "collected_at": "2026-10-23T09:09:55.780794+00:00",
+  "summary": "该论文提出一个三支柱治理框架，用于保障AI智能体的安全性与可信性。框架从治理维度系统化地组织安全与信任要求，为AI智能体的设计、部署与监管提供结构化指导。其价值在于将分散的安全实践整合为可操作的治理体系，有助于降低智能体在真实场景中的风险。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T09:10:48.969336+00:00"
+}
