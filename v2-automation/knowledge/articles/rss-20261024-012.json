@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-012",
+  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T08:42:43.933193+00:00",
+  "collected_at": "2026-10-24T08:42:43.933193+00:00",
+  "summary": "AnyLanguageModel 1.0 是 Hugging Face 博客发布的一篇回顾性技术文章，总结了该项目在 Apple 平台上运行本地语言模型一年的经验与进展。文章介绍了框架的设计理念、关键更新以及在实际应用中的表现，强调了在 Apple 设备上实现高效本地推理的价值。该内容为开发者提供了在 Apple 生态中部署和优化本地模型的实用参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T08:43:35.740406+00:00"
+}

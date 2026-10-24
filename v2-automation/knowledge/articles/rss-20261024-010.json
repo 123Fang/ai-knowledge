@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261024-010",
+  "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T08:42:43.933184+00:00",
+  "collected_at": "2026-10-24T08:42:43.933184+00:00",
+  "summary": "Granite Speech 5.0 是 IBM 推出的新一代语音模型，在转录、翻译和说话人属性标注方面实现了更高的准确性和更快的处理速度。该模型通过改进架构和训练方法，提升了多语言语音识别的鲁棒性，并支持对说话人特征的细粒度标注。这一进展有助于推动语音交互、内容分析和无障碍技术等应用的发展。",
+  "score": 8,
+  "tags": [
+    "audio",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T08:43:35.740400+00:00"
+}
