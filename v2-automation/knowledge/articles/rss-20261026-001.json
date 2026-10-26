@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261026-001",
+  "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31701",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064404+00:00",
+  "collected_at": "2026-10-26T09:50:36.064404+00:00",
+  "summary": "该论文提出了一种权衡感知的区域设计方法，构建了面向企业客户到销售商分配的多目标决策系统。系统通过权衡不同目标（如客户覆盖、销售负载均衡、地理效率等）实现优化分配，并支持决策者根据偏好调整方案。其价值在于将多目标优化与区域设计结合，为企业销售资源分配提供可解释、可调节的决策支持。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152110+00:00"
+}

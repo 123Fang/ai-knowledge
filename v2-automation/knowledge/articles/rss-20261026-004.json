@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-004",
+  "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31810",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064449+00:00",
+  "collected_at": "2026-10-26T09:50:36.064449+00:00",
+  "summary": "该论文提出 PaperFormalizer，一种以作者为中心、人在回路的自动形式化方法，用于将研究论文中的数学定义和定理转换为 Lean 形式化代码。该方法通过迭代交互让作者参与修正和验证，提升形式化的准确性和可用性，为形式化数学和可信 AI 辅助证明提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152135+00:00"
+}

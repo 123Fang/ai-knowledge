@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261026-009",
+  "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064472+00:00",
+  "collected_at": "2026-10-26T09:50:36.064472+00:00",
+  "summary": "该论文提出M³系统，将多轮越狱攻击建模为马尔可夫决策过程，利用多个LLM协同生成攻击序列以绕过安全对齐。其核心价值在于系统化地揭示了多LLM协作下的越狱风险，并为防御策略设计提供了理论框架。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152146+00:00"
+}

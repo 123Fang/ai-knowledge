@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-020",
+  "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32060",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064505+00:00",
+  "collected_at": "2026-10-26T09:50:36.064505+00:00",
+  "summary": "该论文研究多智能体LLM系统中的通信失败问题，分析智能体间信息传递的常见故障模式及其成因。通过系统性的实验与分类，揭示了通信失败对协作任务性能的影响，并提出了潜在的改进方向。这项工作为构建更可靠的多智能体系统提供了重要的诊断框架和设计启示。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152174+00:00"
+}

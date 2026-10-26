@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-018",
+  "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32046",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064499+00:00",
+  "collected_at": "2026-10-26T09:50:36.064499+00:00",
+  "summary": "该论文探讨了测试时记忆演化（Test-Time Memory Evolution）能否在科学发现任务中超越测试时训练（Test-Time Training）。研究聚焦于模型在推理阶段如何通过记忆机制持续适应新信息，并与传统的测试时参数更新方法进行对比。其价值在于为科学发现场景下的模型自适应策略提供了新的思路和实证依据，有助于推动更高效的推理时学习范式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152169+00:00"
+}

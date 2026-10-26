@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-007",
+  "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31916",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064466+00:00",
+  "collected_at": "2026-10-26T09:50:36.064466+00:00",
+  "summary": "该论文研究了AI代理工作流中的授权与恢复机制，提出了“重试许可”的概念，探讨代理在执行任务时如何安全地请求重试权限并从失败中恢复。核心价值在于为代理工作流的安全性和鲁棒性提供了系统性的分析框架，有助于设计更可靠的AI代理系统。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152141+00:00"
+}

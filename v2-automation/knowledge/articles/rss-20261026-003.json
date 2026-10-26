@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261026-003",
+  "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31808",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064445+00:00",
+  "collected_at": "2026-10-26T09:50:36.064445+00:00",
+  "summary": "该论文研究英语和普通话中的居高临下与屈尊俯就语言（PCL）检测，这是一个具有挑战性的自然语言处理任务，涉及识别隐含的负面态度。研究可能构建了双语数据集并探索了跨语言检测方法，为多语言情感分析和有害内容检测提供了新视角。其价值在于推动对微妙语言现象的建模，并促进跨文化语用理解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152132+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-005",
+  "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31846",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T09:50:36.064456+00:00",
+  "collected_at": "2026-10-26T09:50:36.064456+00:00",
+  "summary": "该论文提出一种自导向修复方法，使AI智能体能够从自身错误中学习并形成持久经验，避免重复犯错。核心价值在于将智能体的错误转化为长期记忆或策略更新，提升其在复杂任务中的持续学习与适应能力。该方法有望减少人工干预，增强智能体自主性与可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T09:51:30.152137+00:00"
+}
