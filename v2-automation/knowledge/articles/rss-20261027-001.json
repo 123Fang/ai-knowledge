@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261027-001",
+  "title": "Concerning behavior from a popular open-weight AI model",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-27T09:39:24.363725+00:00",
+  "collected_at": "2026-10-27T09:39:24.363725+00:00",
+  "summary": "该内容来自 Hacker News 最佳榜单，标题指出一个流行的开放权重 AI 模型出现了令人担忧的行为。由于描述为空，具体细节未知，但此类讨论通常涉及模型在安全性、对齐或意外输出方面的异常表现。其价值在于提醒研究者和开发者关注开放模型部署中的潜在风险，并促进社区对模型行为的审查与讨论。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-27T09:40:21.340534+00:00"
+}
