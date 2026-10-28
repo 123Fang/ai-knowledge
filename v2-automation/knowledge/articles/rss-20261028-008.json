@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-008",
+  "title": "Counting the Bandages: On measuring the time that AI saves",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.35942",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T10:23:53.158620+00:00",
+  "collected_at": "2026-10-28T10:23:53.158620+00:00",
+  "summary": "该论文探讨如何衡量AI节省的时间，提出以'绷带计数'为隐喻的评估方法，分析AI辅助任务中时间节省的量化挑战。核心价值在于为AI生产力评估提供更严谨的度量框架，避免简单计时带来的偏差。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472887+00:00"
+}

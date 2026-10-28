@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-014",
+  "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36169",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T10:23:53.158695+00:00",
+  "collected_at": "2026-10-28T10:23:53.158695+00:00",
+  "summary": "该论文探讨了大型语言模型在知识冲突场景下的处理策略，指出不应依赖固定规则来选择可信来源，而应引入先验知识进行动态权衡。作者提出了一种基于先验的框架，以更灵活地解决模型内部知识与外部上下文之间的冲突。这项工作为提升LLM在复杂信息环境下的鲁棒性和可靠性提供了新思路，对知识密集型应用具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472906+00:00"
+}

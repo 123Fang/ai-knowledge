@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-011",
+  "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36100",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T10:23:53.158680+00:00",
+  "collected_at": "2026-10-28T10:23:53.158680+00:00",
+  "summary": "该论文提出CohortFlow，一个可操控的临床队列构建智能体，通过局部语义校正技术实现精准的队列筛选。其核心价值在于利用LLM智能体自动化临床队列构建流程，同时通过局部语义校正机制提升对复杂临床标准的理解与执行准确性，减少人工干预。该工作有望显著提高临床研究的效率和数据质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472897+00:00"
+}

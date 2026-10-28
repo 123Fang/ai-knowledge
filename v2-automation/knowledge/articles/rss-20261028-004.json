@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-004",
+  "title": "Wikipedia's Cleanup of AI-Generated Content",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-28T10:23:52.160349+00:00",
+  "collected_at": "2026-10-28T10:23:52.160349+00:00",
+  "summary": "该内容讨论维基百科对AI生成内容的清理工作，涉及识别、标记和移除低质量或误导性AI文本的流程。核心价值在于揭示大规模协作平台如何应对AI内容泛滥带来的质量与信任挑战，为其他社区提供治理参考。技术层面涉及AI文本检测、内容审核策略和社区规则设计。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472877+00:00"
+}

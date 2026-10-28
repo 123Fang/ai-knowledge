@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-002",
+  "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-28T10:23:52.160334+00:00",
+  "collected_at": "2026-10-28T10:23:52.160334+00:00",
+  "summary": "该内容报道警方利用 AI 技术识别驾驶员“可疑”行为并据此实施拦停，涉及计算机视觉与行为分析在执法场景中的部署。核心价值在于揭示 AI 监控与执法结合带来的隐私、误判和问责等伦理与安全议题。",
+  "score": 6,
+  "tags": [
+    "vision",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472868+00:00"
+}

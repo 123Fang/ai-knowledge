@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-009",
+  "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.35984",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T10:23:53.158664+00:00",
+  "collected_at": "2026-10-28T10:23:53.158664+00:00",
+  "summary": "该论文探讨了通过数据生成策略（如数据增强和合成数据生成）来提升深度学习模型在橄榄树病害分类任务中的性能。研究展示了如何利用生成技术缓解农业领域数据稀缺和类别不平衡问题，从而提高分类准确率和模型鲁棒性。其价值在于为农业病害智能诊断提供了一种可复用的数据增强框架，并验证了数据生成策略对实际分类任务的有效性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472890+00:00"
+}

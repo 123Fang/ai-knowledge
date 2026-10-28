@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-006",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-28T10:23:52.160359+00:00",
+  "collected_at": "2026-10-28T10:23:52.160359+00:00",
+  "summary": "该文章将经典软件工程著作《人月神话》中的核心概念（如布鲁克斯定律、概念完整性、沟通开销）映射到 AI 辅助开发的新语境下，探讨了在 LLM 和 AI 代理参与软件开发时，这些经典原则是否依然适用以及如何演变。文章分析了 AI 工具如何改变团队协作、任务分解和进度估算的假设，并讨论了 AI 生成代码带来的新挑战，如审查负担和知识传递问题。其价值在于为技术管理者提供了在 AI 时代重新审视软件工程方法论的批判性视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472883+00:00"
+}

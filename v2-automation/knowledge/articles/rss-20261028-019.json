@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-019",
+  "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36287",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T10:23:53.158719+00:00",
+  "collected_at": "2026-10-28T10:23:53.158719+00:00",
+  "summary": "该论文提出了一种基于双目标优化的智能即时书籍过滤模型，旨在解决信息过载环境下书籍推荐或过滤的准确性与效率问题。模型通过同时优化两个目标（如相关性与多样性或准确率与覆盖率）来平衡过滤效果，可能采用了多目标进化算法或加权优化方法。该工作为个性化推荐和智能信息过滤提供了新的优化视角，具有实际应用价值。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T10:24:51.472922+00:00"
+}
