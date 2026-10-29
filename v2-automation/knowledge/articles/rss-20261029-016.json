@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261029-016",
+  "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36328",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T10:44:38.090133+00:00",
+  "collected_at": "2026-10-29T10:44:38.090133+00:00",
+  "summary": "该论文研究了大语言模型（LLM）生成的程序证明在代码重构下的稳定性，提出了一种压力测试方法，用于评估可验证代码生成中证明的鲁棒性。核心价值在于揭示了LLM生成证明对程序结构变化的敏感程度，为可验证代码生成的实际部署提供了可靠性评估依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-29T10:45:31.478681+00:00"
+}

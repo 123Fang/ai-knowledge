@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261029-020",
+  "title": "WAKMan: Workload Aware KVCache Manager",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36355",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T10:44:38.090151+00:00",
+  "collected_at": "2026-10-29T10:44:38.090151+00:00",
+  "summary": "WAKMan 是一种针对大语言模型推理中 KV Cache 管理的工作负载感知管理器，旨在通过动态感知请求负载特征来优化缓存分配与回收策略，从而提升推理吞吐和降低延迟。该工作聚焦于 KV Cache 这一 LLM 部署中的关键瓶颈，提出了负载自适应的管理机制，对提升推理系统效率具有实际价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T10:45:31.478693+00:00"
+}

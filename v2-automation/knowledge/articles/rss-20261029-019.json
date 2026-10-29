@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261029-019",
+  "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36341",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T10:44:38.090147+00:00",
+  "collected_at": "2026-10-29T10:44:38.090147+00:00",
+  "summary": "该论文提出了一种“可执行考古学”方法，通过重新实现和运行1961年的启发式编译器与1984年的KBEmacs这两个历史程序，来研究它们如何对编程过程进行建模。这项工作展示了早期AI编程辅助系统的设计理念与运行机制，为理解现代代码生成与程序合成技术的历史根源提供了实证基础。其价值在于连接了AI编程研究的过去与现在，并可能启发对当前LLM代码生成系统的反思与改进。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-29T10:45:31.478691+00:00"
+}

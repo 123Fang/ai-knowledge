@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261029-015",
+  "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36325",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T10:44:38.090129+00:00",
+  "collected_at": "2026-10-29T10:44:38.090129+00:00",
+  "summary": "该论文提出一种本体引导的多智能体推理方法，用于可解释的鉴别诊断。通过将医学本体知识融入多智能体协作推理过程，系统能够生成具有明确推理路径的诊断解释，提升临床决策的透明度和可信度。该方法在鉴别诊断任务中兼顾了推理准确性与可解释性，为医疗AI的可信部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T10:45:31.478677+00:00"
+}

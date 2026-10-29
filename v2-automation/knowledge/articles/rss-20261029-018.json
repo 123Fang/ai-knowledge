@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261029-018",
+  "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36335",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T10:44:38.090142+00:00",
+  "collected_at": "2026-10-29T10:44:38.090142+00:00",
+  "summary": "该论文提出OA-RAG（基于本体的代理式RAG），旨在提升大语言模型推理的忠实性。它结合本体知识表示与代理式检索增强生成，通过结构化知识引导检索和推理过程，减少幻觉并增强可解释性。该方法有望在需要高可信度的领域（如医疗、金融）中提升LLM的可靠性。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T10:45:31.478687+00:00"
+}
