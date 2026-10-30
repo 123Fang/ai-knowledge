@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261030-013",
+  "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37851",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T10:44:26.882918+00:00",
+  "collected_at": "2026-10-30T10:44:26.882918+00:00",
+  "summary": "该论文关注AI智能体对测序协议的理解能力，提出评估方法并改进智能体性能。测序协议是生物信息学实验的关键步骤，准确理解协议对自动化实验至关重要。研究可能涉及构建基准测试、分析智能体失败模式，并引入针对性改进策略。这项工作有助于推动AI在生命科学实验自动化中的应用，提升协议执行的可靠性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100657+00:00"
+}

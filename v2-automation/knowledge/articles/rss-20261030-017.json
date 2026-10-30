@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-017",
+  "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37896",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T10:44:26.882936+00:00",
+  "collected_at": "2026-10-30T10:44:26.882936+00:00",
+  "summary": "该论文研究了在多元冒犯性建模中，社会人口统计信息（socio-demographics）何时以及如何帮助提升模型性能，并探讨了推理（reasoning）的作用。通过分析不同场景下的效果，论文揭示了社会人口统计特征的有效性条件，并强调了推理机制在其中的角色。这项工作为构建更公平、准确的冒犯性检测模型提供了理论指导和实践启示。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100670+00:00"
+}

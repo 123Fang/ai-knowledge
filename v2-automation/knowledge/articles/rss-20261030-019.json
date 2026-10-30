@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-019",
+  "title": "Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T10:44:26.882945+00:00",
+  "collected_at": "2026-10-30T10:44:26.882945+00:00",
+  "summary": "该论文提出超越传统低通动力学的频率选择性脉冲储备池（spiking reservoirs），通过引入谐振神经元（resonant neurons）实现对不同频率输入的选择性响应。核心价值在于扩展了脉冲神经网络在时序信号处理中的频率分辨能力，为神经形态计算和动态感知提供了新的设计思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "audio"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100675+00:00"
+}

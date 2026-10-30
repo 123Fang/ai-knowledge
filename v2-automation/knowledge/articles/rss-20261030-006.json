@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-006",
+  "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37731",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T10:44:26.882878+00:00",
+  "collected_at": "2026-10-30T10:44:26.882878+00:00",
+  "summary": "本文提出一种摊销局部后验推断方法，用于模型校准，并应用于海洋湍流闭合问题。该方法通过摊销推断降低计算成本，实现高效的局部后验估计，提升模型校准的准确性和实用性。该工作为科学计算中的模型校准提供了新的技术途径，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100635+00:00"
+}

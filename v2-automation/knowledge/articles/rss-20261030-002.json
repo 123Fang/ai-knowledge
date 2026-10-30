@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-002",
+  "title": "LLM Voice",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-30T10:44:25.888390+00:00",
+  "collected_at": "2026-10-30T10:44:25.888390+00:00",
+  "summary": "LLM Voice 是一个在 Hacker News 上分享的项目，探索将大型语言模型与语音功能结合，可能涉及语音识别、语音合成或语音交互。其核心价值在于降低语音 AI 应用的开发门槛，为开发者提供可参考的实现方案。内容属于技术分享性质，适合对 LLM 和语音技术感兴趣的开发者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100588+00:00"
+}

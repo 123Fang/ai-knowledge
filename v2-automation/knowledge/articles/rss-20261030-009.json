@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-009",
+  "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37786",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T10:44:26.882896+00:00",
+  "collected_at": "2026-10-30T10:44:26.882896+00:00",
+  "summary": "该论文提出WebAnything框架，旨在将开放网络转化为可扩展的智能体环境，解决现有智能体在真实网络环境中面临的动态性、异构性和可扩展性挑战。其核心方法可能涉及自动构建网络接口、任务生成与评估机制，以支持大规模智能体训练与测试。该工作为基于网络的智能体研究提供了标准化、可扩展的基础设施，推动了智能体在真实场景中的部署与评估。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100645+00:00"
+}

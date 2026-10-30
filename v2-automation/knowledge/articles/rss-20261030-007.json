@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261030-007",
+  "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37732",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T10:44:26.882886+00:00",
+  "collected_at": "2026-10-30T10:44:26.882886+00:00",
+  "summary": "ThinkJev 提出了一种面向 AI 智能体的预算感知推理框架，通过单一思维过程适配不同计算预算，实现校准的类型化决策。该方法在推理过程中动态调整计算资源，在保证决策质量的同时提升效率，适用于需要灵活权衡成本与精度的场景。其核心价值在于为 LLM 推理提供可校准的预算控制机制，增强智能体在资源受限环境下的实用性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T10:45:17.100639+00:00"
+}
