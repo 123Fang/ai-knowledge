@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261031-020",
+  "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37923",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-31T10:13:11.226478+00:00",
+  "collected_at": "2026-10-31T10:13:11.226478+00:00",
+  "summary": "VerifiedLab 提出了一种利用已知信息（knowns）来验证和提升未知场景下 AI 系统可靠性的框架，核心在于通过已知的验证案例或约束来增强模型在未知任务上的可信度。该工作可能涉及评估方法、安全部署或推理验证，为 LLM 等系统的可靠性保障提供了新思路。其价值在于将验证从已知领域迁移到未知领域，有助于提升 AI 在实际应用中的鲁棒性和安全性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-31T10:14:02.049956+00:00"
+}
