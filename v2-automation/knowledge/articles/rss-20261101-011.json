@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261101-011",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-01T11:04:54.591790+00:00",
+  "collected_at": "2026-11-01T11:04:54.591790+00:00",
+  "summary": "该博客探讨了使用大型语言模型（LLM）作为评判研究想法新颖性的工具的可靠性问题。文章分析了LLM在评估新颖性时可能存在的偏差、知识截止和幻觉等局限，并讨论了现有评估方法的不足。其价值在于提醒研究者和实践者谨慎依赖LLM进行创新性判断，并提出了改进评估流程的建议。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T11:05:46.200333+00:00"
+}

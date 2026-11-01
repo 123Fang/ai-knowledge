@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261101-009",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/anydecisionmodel",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-01T11:04:54.591784+00:00",
+  "collected_at": "2026-11-01T11:04:54.591784+00:00",
+  "summary": "该博客介绍了 AnySpeechRecognizer 和 AnyDecisionModel 两个开源模型，分别用于 Apple 平台上的语音识别和决策任务。AnySpeechRecognizer 提供高效的语音转文本能力，而 AnyDecisionModel 支持基于规则的决策逻辑。这些模型旨在简化 Apple 生态中的 AI 集成，提升开发效率。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T11:05:46.200329+00:00"
+}

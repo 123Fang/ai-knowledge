@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261101-006",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-01T11:04:54.591774+00:00",
+  "collected_at": "2026-11-01T11:04:54.591774+00:00",
+  "summary": "Granite Switch 4.1.1 是 Hugging Face 博客介绍的一种模型更新方法，借鉴软件更新的理念，实现模型版本的无缝切换与升级。其核心价值在于简化模型部署后的维护流程，提升模型迭代的效率和可靠性，适用于需要持续更新模型的生产环境。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T11:05:46.200323+00:00"
+}
