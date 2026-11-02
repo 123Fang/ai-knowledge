@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-010",
+  "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40939",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610554+00:00",
+  "collected_at": "2026-11-02T12:03:50.610554+00:00",
+  "summary": "该论文研究了思维链（Chain-of-Thought）的可控性问题，发现生成序列的前几个token对最终推理路径和结果具有决定性影响。通过分析这一现象，作者提出了一种基于早期token干预的轻量级控制方法，能够有效引导LLM的推理方向并提升可控性。这项工作为理解CoT的内部机制和开发更可靠的推理控制策略提供了新视角，对提示工程和LLM推理优化具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239845+00:00"
+}

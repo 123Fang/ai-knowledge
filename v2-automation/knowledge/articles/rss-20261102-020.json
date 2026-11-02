@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261102-020",
+  "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.41044",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610591+00:00",
+  "collected_at": "2026-11-02T12:03:50.610591+00:00",
+  "summary": "该论文提出了一种去中心化LLM团队架构，用于周界防御场景。团队内部通过共识机制协调多个LLM代理的决策，而团队之间则保持竞争关系以提升整体防御鲁棒性。这种设计结合了多智能体协作与对抗性进化，为安全领域的LLM部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "security",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239870+00:00"
+}

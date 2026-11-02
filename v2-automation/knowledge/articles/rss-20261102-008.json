@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261102-008",
+  "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40927",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610546+00:00",
+  "collected_at": "2026-11-02T12:03:50.610546+00:00",
+  "summary": "该论文提出了一种面向智能体的世界模型方法，用于在无法复制真实环境的情况下实现智能体的测试时扩展（test-time scaling）。核心思路是通过学习环境动态的代理模型（agentic world modeling），让智能体在推理阶段能够模拟和预测环境反馈，从而进行更充分的规划与决策。这一方法降低了智能体训练和评估对真实环境副本的依赖，提升了在受限场景下的可扩展性与实用性，对智能体推理和部署具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239840+00:00"
+}

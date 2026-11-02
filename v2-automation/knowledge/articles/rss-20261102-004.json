@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-004",
+  "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40883",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610526+00:00",
+  "collected_at": "2026-11-02T12:03:50.610526+00:00",
+  "summary": "该论文针对音频大语言模型（Audio LLMs）中的多模态语音情感识别（SER）任务，提出了一种考虑模态间不一致性（incongruence）的评估方法。传统评估往往忽略音频与文本模态之间的冲突或矛盾，而本文通过系统性地引入不一致场景，揭示了现有模型在真实复杂情境下的性能缺陷。该工作为多模态情感识别提供了更严谨的评测框架，有助于推动更鲁棒、更可信的音频大语言模型发展。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239829+00:00"
+}

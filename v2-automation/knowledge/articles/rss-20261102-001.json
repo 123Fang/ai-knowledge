@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-001",
+  "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40758",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610483+00:00",
+  "collected_at": "2026-11-02T12:03:50.610483+00:00",
+  "summary": "该论文针对自进化智能体（Self-Evolving Agents）在隐藏规则课程下的表现进行基准测试，提出一个评估框架，考察智能体如何通过交互发现并适应未明确给出的规则。核心价值在于揭示自进化智能体在规则发现与泛化方面的能力边界，为智能体评估提供新维度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239810+00:00"
+}

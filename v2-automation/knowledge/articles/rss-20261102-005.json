@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-005",
+  "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40890",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610534+00:00",
+  "collected_at": "2026-11-02T12:03:50.610534+00:00",
+  "summary": "该论文通过探索性案例研究，分析了ChatGPT等AI助手被滥用于监控辅助的风险。研究揭示了LLM在协助信息收集、目标分析等监控任务中的潜在能力，并讨论了相应的安全与伦理挑战。这项工作为理解AI辅助监控的威胁模型和制定缓解策略提供了初步实证依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239832+00:00"
+}

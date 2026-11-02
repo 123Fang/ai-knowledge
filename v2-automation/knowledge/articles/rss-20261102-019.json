@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261102-019",
+  "title": "Capability-Grounded Agentic Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.41040",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T12:03:50.610587+00:00",
+  "collected_at": "2026-11-02T12:03:50.610587+00:00",
+  "summary": "该论文提出了一种基于能力约束的智能体规划方法，旨在解决LLM智能体在复杂任务规划中因高估自身能力而导致的执行失败问题。通过显式建模智能体的能力边界，并在规划过程中进行能力感知的可行性检查，该方法提升了任务规划的成功率和鲁棒性。核心价值在于为智能体规划提供了可解释的能力 grounding 机制，增强了在真实环境中的可靠部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T12:04:44.239868+00:00"
+}
