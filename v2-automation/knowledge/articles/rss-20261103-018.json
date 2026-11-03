@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261103-018",
+  "title": "Decentralized Multi-Agent Coordination and Communication in Shared Codebases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00314",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858455+00:00",
+  "collected_at": "2026-11-03T11:41:05.858455+00:00",
+  "summary": "该论文探讨了在共享代码库中实现去中心化多智能体协调与通信的方法，旨在解决多个AI智能体并行修改同一代码库时的冲突与协作问题。其核心价值在于提出无需中心化协调器的分布式机制，提升多智能体软件工程任务的效率和鲁棒性，对自动化编程和协作式AI系统具有参考意义。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959594+00:00"
+}

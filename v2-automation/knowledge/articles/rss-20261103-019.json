@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-019",
+  "title": "Beyond Semantic IDs: Atomic Creator Tokens for Large-Scale Generative Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00323",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858459+00:00",
+  "collected_at": "2026-11-03T11:41:05.858459+00:00",
+  "summary": "该论文提出了一种超越语义ID的原子创作者令牌方法，用于大规模生成式推荐。通过为每个创作者分配独立的原子令牌，模型能够更精确地捕捉创作者级别的特征，从而提升推荐系统的生成质量和可扩展性。该方法在保持高效性的同时，解决了传统语义ID在细粒度表示上的不足，为生成式推荐提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959597+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-016",
+  "title": "Automated Theorem Generation in First-Order Logic by Construction from Triangular Standard Contradictions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00269",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858444+00:00",
+  "collected_at": "2026-11-03T11:41:05.858444+00:00",
+  "summary": "该论文提出了一种基于三角标准矛盾构造的一阶逻辑自动定理生成方法，通过从已知矛盾模式系统化地构造新定理，实现了定理的自动化生成。该方法为自动定理证明和逻辑推理研究提供了新的生成式思路，有助于扩充定理库并测试证明系统的能力。其价值在于将构造性方法与矛盾分析结合，推动了一阶逻辑领域自动化推理工具的发展。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959588+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-009",
+  "title": "Neurons Are All You Need",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00186",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858410+00:00",
+  "collected_at": "2026-11-03T11:41:05.858410+00:00",
+  "summary": "该论文标题为《Neurons Are All You Need》，来自 arXiv cs.AI，探讨以神经元为核心的计算或建模思路，可能涉及神经网络基础单元的设计与替代方案。由于缺少摘要细节，具体方法尚不明确，但标题暗示对传统架构中神经元角色的重新审视，具有潜在的理论与架构创新价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959568+00:00"
+}

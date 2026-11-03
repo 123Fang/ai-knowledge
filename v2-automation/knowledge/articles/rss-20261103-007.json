@@ -1,0 +1,22 @@
+{
+  "id": "rss-20261103-007",
+  "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00171",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858401+00:00",
+  "collected_at": "2026-11-03T11:41:05.858401+00:00",
+  "summary": "该论文对基于大语言模型（LLM）的Text-to-SQL技术进行了系统性综述，重点分析了不同的模型架构（如编码器-解码器、仅解码器）以及各类策略（如提示工程、微调、检索增强、推理增强等）。文章梳理了该领域的最新进展，对比了不同方法的优劣，并指出了未来研究方向。该综述为研究者与实践者提供了全面的技术参考，有助于理解LLM在Text-to-SQL任务中的设计选择与性能权衡。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation",
+    "rag",
+    "prompt-engineering",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959558+00:00"
+}

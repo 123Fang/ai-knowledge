@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261103-005",
+  "title": "Early Stopping in Large Reasoning Models: A Survey and Empirical Audit of Efficiency and Reliability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00166",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858388+00:00",
+  "collected_at": "2026-11-03T11:41:05.858388+00:00",
+  "summary": "本文综述并实证审计了大型推理模型中的早停机制，旨在平衡推理效率与可靠性。研究系统梳理了现有早停方法，并通过实验评估其在不同任务上的效果，揭示了效率与准确性之间的权衡关系。该工作为推理模型的高效部署提供了重要参考，并指出了未来研究方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959551+00:00"
+}

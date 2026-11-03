@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-015",
+  "title": "A generative foundation model for computational brain imaging",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00265",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858439+00:00",
+  "collected_at": "2026-11-03T11:41:05.858439+00:00",
+  "summary": "该论文提出了一种用于计算脑成像的生成式基础模型，旨在通过大规模预训练学习脑影像数据的通用表征，并支持多种下游任务如分割、分类和重建。其核心价值在于将基础模型范式引入神经影像领域，有望减少对标注数据的依赖并提升跨任务泛化能力。该工作展示了生成式模型在医学影像分析中的潜力，为脑成像研究提供了新的统一框架。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959586+00:00"
+}

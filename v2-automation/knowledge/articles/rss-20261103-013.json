@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261103-013",
+  "title": "OmniPiano: Diverse Dexterous Piano-Playing Challenges for Standard, Robust, Safe, and Multi-Agent RL",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00243",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858427+00:00",
+  "collected_at": "2026-11-03T11:41:05.858427+00:00",
+  "summary": "OmniPiano 是一个面向多样化灵巧钢琴演奏任务的强化学习基准平台，涵盖标准、鲁棒、安全及多智能体场景。该工作为评估强化学习算法在复杂连续控制与多智能体协作中的表现提供了统一测试环境，推动了灵巧操作与安全强化学习的研究。其价值在于填补了钢琴演奏领域缺乏综合性 RL 基准的空白，并促进了多智能体强化学习在真实物理任务中的应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959580+00:00"
+}

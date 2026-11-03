@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-011",
+  "title": "From Cross-Section to Cross-Omics: Conditional Cell Nucleus Image Editing in Spatial Transcriptomics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00226",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858419+00:00",
+  "collected_at": "2026-11-03T11:41:05.858419+00:00",
+  "summary": "该论文提出了一种从横截面到跨组学的条件细胞核图像编辑方法，用于空间转录组学。核心是通过条件生成模型实现细胞核图像的可控编辑，以桥接不同组学数据。该方法有望提升空间转录组数据中细胞形态与基因表达关联分析的准确性，为多组学整合提供新工具。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959574+00:00"
+}

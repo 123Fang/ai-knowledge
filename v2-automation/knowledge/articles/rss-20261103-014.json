@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261103-014",
+  "title": "Taurus: LLM-in-the-Loop CT Annotation Matches Coding Agents at Half the Cost",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00247",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858432+00:00",
+  "collected_at": "2026-11-03T11:41:05.858432+00:00",
+  "summary": "该论文提出 Taurus，一种将大语言模型置于循环中的计算树（CT）标注方法，用于自动化代码注释生成。实验表明，Taurus 在标注质量上能与基于编码智能体的方法相媲美，同时成本降低一半。其核心价值在于以更低的计算开销实现高质量的代码理解与标注，为 LLM 在软件工程任务中的高效部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959583+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261103-006",
+  "title": "PatchScout: Thematic Web Data Collection via Information Foraging",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00169",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T11:41:05.858395+00:00",
+  "collected_at": "2026-11-03T11:41:05.858395+00:00",
+  "summary": "PatchScout 提出了一种基于信息觅食理论的主题化网络数据收集方法，用于高效获取与特定主题相关的网络数据。该方法通过模拟觅食行为来指导爬虫或代理在网络上探索和收集信息，提升了数据收集的针对性和效率。该工作为网络数据采集提供了新的理论视角和实用技术，对构建领域数据集和增强 AI 系统训练数据质量具有价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T11:41:55.959554+00:00"
+}
