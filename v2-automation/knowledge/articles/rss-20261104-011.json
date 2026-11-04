@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261104-011",
+  "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03685",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T11:54:11.776873+00:00",
+  "collected_at": "2026-11-04T11:54:11.776873+00:00",
+  "summary": "该论文提出了LOLPlay基准，用于评估实时视觉智能体在《英雄联盟》这类复杂实时策略游戏中的表现。它构建了包含多模态感知、实时决策和长期规划的任务环境，并设计了相应的评估指标。该工作的价值在于填补了现有基准在实时视觉-动作闭环和复杂游戏场景中的空白，为智能体研究提供了更具挑战性的测试平台。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T11:55:05.742409+00:00"
+}

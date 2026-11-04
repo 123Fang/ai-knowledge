@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-016",
+  "title": "From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03725",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T11:54:11.776896+00:00",
+  "collected_at": "2026-11-04T11:54:11.776896+00:00",
+  "summary": "该论文提出了一种面向检索增强生成（RAG）流水线的无参考故障定位方法，能够从系统日志中自动识别导致错误的组件或阶段，而无需人工标注或标准答案。其核心价值在于提升 RAG 系统的可观测性与可维护性，帮助开发者快速定位检索、生成或融合环节中的故障，降低调试成本。该方法对构建可靠、可运维的 RAG 应用具有实际工程意义。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T11:55:05.742441+00:00"
+}

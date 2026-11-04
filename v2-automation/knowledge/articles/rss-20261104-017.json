@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261104-017",
+  "title": "Reasoning is topologically simple",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03739",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T11:54:11.776900+00:00",
+  "collected_at": "2026-11-04T11:54:11.776900+00:00",
+  "summary": "该论文探讨了大型语言模型推理能力的拓扑结构，提出推理过程在拓扑上具有简单性，即复杂的推理任务可以通过低维拓扑结构来表征。这一发现有助于理解模型推理的内在机制，并为设计更高效的推理方法提供理论依据。研究可能对提升LLM的推理性能和可解释性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T11:55:05.742444+00:00"
+}

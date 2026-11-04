@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261104-001",
+  "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arxiv.org/abs/2605.29713",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-04T11:54:11.035126+00:00",
+  "collected_at": "2026-11-04T11:54:11.035126+00:00",
+  "summary": "《The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer》是一本面向生成式AI基础知识的直观数学入门读物，旨在用通俗易懂的方式解释生成式AI背后的核心数学概念，帮助读者建立扎实的理论基础。其价值在于降低了学习门槛，适合有一定基础但希望深入理解生成式AI数学原理的读者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T11:55:05.742365+00:00"
+}

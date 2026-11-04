@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261104-008",
+  "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03651",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T11:54:11.776854+00:00",
+  "collected_at": "2026-11-04T11:54:11.776854+00:00",
+  "summary": "该论文提出CARD，一种面向相对测量图的携带证明的证书到动作接口，旨在为AI智能体提供可验证的动作执行机制。核心创新在于将证书（证明）与动作接口结合，确保智能体在相对测量图上的决策可追溯、可验证，从而提升安全性和可靠性。该工作为智能体工具使用和部署中的可信执行提供了新思路，具有较高的理论价值和潜在应用前景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T11:55:05.742400+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261104-012",
+  "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03698",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T11:54:11.776878+00:00",
+  "collected_at": "2026-11-04T11:54:11.776878+00:00",
+  "summary": "该论文提出 RSI-Dojo 框架，旨在训练 LLM 智能体自动化 LLM 的后训练流程（如数据选择、超参数调优等），从而减少人工干预并提升模型迭代效率。核心价值在于将智能体技术应用于机器学习工程本身，实现自我改进的循环，为自动化模型开发提供了新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T11:55:05.742413+00:00"
+}
