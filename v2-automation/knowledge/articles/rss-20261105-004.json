@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-004",
+  "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05393",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.045997+00:00",
+  "collected_at": "2026-11-05T11:56:49.045997+00:00",
+  "summary": "该论文提出了一种面向医疗多智能体推理的“挑战感知知识招募”框架，并引入元智能体监督机制。核心思想是根据任务挑战程度动态招募和协调不同专长的智能体，由元智能体对推理过程进行监督与整合，以提升医疗问答与诊断推理的准确性。该工作将多智能体协作与知识检索招募结合，对医疗领域复杂推理任务具有实用价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280421+00:00"
+}

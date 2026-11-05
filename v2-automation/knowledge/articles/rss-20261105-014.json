@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261105-014",
+  "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05556",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046050+00:00",
+  "collected_at": "2026-11-05T11:56:49.046050+00:00",
+  "summary": "该论文提出 AGORA 框架，利用项目反应理论（Item-Response Theory）对多个 LLM 评判者进行可靠性感知的聚合，以提升 LLM 作为评判者时的评估准确性。核心价值在于通过建模评判者的可靠性和项目难度，动态加权聚合评判结果，减少低质量评判者的影响，从而获得更稳健的评估分数。该方法适用于需要多评判者集成的 LLM 评估场景，为自动化评估提供了更可靠的技术方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280452+00:00"
+}

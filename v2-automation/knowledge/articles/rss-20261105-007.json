@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261105-007",
+  "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05459",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046018+00:00",
+  "collected_at": "2026-11-05T11:56:49.046018+00:00",
+  "summary": "该论文构建了一个包含102篇科学文献的基准测试，系统评估大语言模型在文献综述任务上的表现，包括信息提取、综合归纳与批判性分析等能力。研究通过对比模型输出与人工综述，揭示了当前LLM在科学文献评审中的优势与局限，为自动化文献综述工具的可靠性提供了量化依据。该工作对LLM在科研辅助场景的评估方法具有参考价值，并指出了未来改进方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280430+00:00"
+}

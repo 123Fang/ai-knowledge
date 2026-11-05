@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261105-018",
+  "title": "Hybrid Spark: Adaptive Speculative Decoding That Lets the Content Choose the Drafter",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05611",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046071+00:00",
+  "collected_at": "2026-11-05T11:56:49.046071+00:00",
+  "summary": "该论文提出Hybrid Spark，一种自适应投机解码方法，通过让生成内容动态选择最适合的草稿模型（drafter），以提升大语言模型推理效率。其核心价值在于根据内容特征灵活切换草稿策略，在保持生成质量的同时显著加速解码过程，为LLM高效部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280465+00:00"
+}

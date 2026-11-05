@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-011",
+  "title": "Iterated creation, grading, and revision of data science projects by language models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05548",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046037+00:00",
+  "collected_at": "2026-11-05T11:56:49.046037+00:00",
+  "summary": "该论文研究了利用语言模型迭代进行数据科学项目的创建、评分和修订，通过多轮生成与自我评估提升项目质量。核心价值在于提出了一种自动化改进数据科学工作流的框架，展示了LLM在复杂任务中的迭代优化能力，并为评估和提升模型生成内容提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280443+00:00"
+}

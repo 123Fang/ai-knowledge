@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-016",
+  "title": "Anduin: A sybil-resistant agentic marketplace reputation system",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05586",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046061+00:00",
+  "collected_at": "2026-11-05T11:56:49.046061+00:00",
+  "summary": "Anduin 提出了一种抗女巫攻击的代理市场声誉系统，旨在解决去中心化代理市场中恶意节点通过伪造身份操纵声誉的问题。该系统可能结合密码学身份验证与行为信誉评估，为代理间的可信交互提供保障。其价值在于提升多代理系统的安全性和可靠性，为代理经济的实际部署奠定信任基础。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280458+00:00"
+}

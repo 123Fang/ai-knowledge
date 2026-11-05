@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261105-010",
+  "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046033+00:00",
+  "collected_at": "2026-11-05T11:56:49.046033+00:00",
+  "summary": "该论文提出了一种面向整页排序（Whole Page Ranking）的高效单次推理（One-Pass Inference）方法，旨在解决传统排序系统需要对每个候选结果逐一推理导致的高计算开销问题。通过将整页候选结果联合建模并在一次前向传播中完成排序，该方法显著提升了推理效率，同时保持或提升了排序质量。其核心价值在于为大规模搜索与推荐场景提供了一种低延迟、可部署的整页排序方案。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280440+00:00"
+}

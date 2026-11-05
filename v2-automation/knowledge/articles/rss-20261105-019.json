@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-019",
+  "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05620",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046075+00:00",
+  "collected_at": "2026-11-05T11:56:49.046075+00:00",
+  "summary": "ViBench 2.0 是一个面向长周期软件构建任务的基准测试，旨在评估 AI 系统在复杂、多步骤软件开发场景中的能力。该基准弥补了现有评估多聚焦于短周期或单文件任务的不足，为长程规划、代码生成与工具使用等能力提供了标准化测试平台。其价值在于推动 AI 智能体在真实软件工程流程中的可靠性与可评估性研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280468+00:00"
+}

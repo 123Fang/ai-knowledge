@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261105-017",
+  "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05590",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046066+00:00",
+  "collected_at": "2026-11-05T11:56:49.046066+00:00",
+  "summary": "该论文分析了LLM驱动的经过验证的代码生成中的三种失败表面，揭示了即使代码通过形式验证，仍可能因语义空洞或规范不匹配而失效的问题。核心价值在于系统性地识别了验证代码生成中的潜在陷阱，为提升LLM代码生成的可信度提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280462+00:00"
+}

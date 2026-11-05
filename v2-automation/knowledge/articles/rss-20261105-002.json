@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-002",
+  "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05391",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.045980+00:00",
+  "collected_at": "2026-11-05T11:56:49.045980+00:00",
+  "summary": "该论文提出Agent Harness Awareness概念，旨在将经过验证的遥测数据转化为工具使用型智能体的操作控制信号。通过建立遥测验证与操作控制之间的闭环，该方法提升了智能体在复杂工具使用场景下的可靠性和可管理性。核心价值在于为工具使用型智能体的运行时监控与动态干预提供了系统化框架，有助于推动智能体在真实部署中的安全性和稳定性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280413+00:00"
+}

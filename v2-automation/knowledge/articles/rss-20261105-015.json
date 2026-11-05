@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261105-015",
+  "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05581",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046057+00:00",
+  "collected_at": "2026-11-05T11:56:49.046057+00:00",
+  "summary": "该论文提出BrainBind框架，旨在通过长时自然视频表征来桥接同步采集的脑电图（EEG）和功能磁共振成像（fMRI）数据。其核心价值在于利用多模态神经影像数据与自然刺激对齐，探索跨模态表征学习，为理解大脑在自然场景下的动态活动提供了新方法。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280455+00:00"
+}

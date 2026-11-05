@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-020",
+  "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05632",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T11:56:49.046080+00:00",
+  "collected_at": "2026-11-05T11:56:49.046080+00:00",
+  "summary": "该论文提出了一种面向自主AI代理的“保证条件化持续授权”框架，将运行时保证条件（如安全、合规约束）与动态授权机制相结合，使代理在持续运行中根据实时满足的保证条件获得或调整权限。核心价值在于为自主代理的部署提供可审计、可动态调整的安全授权范式，降低不可控风险，适用于高风险场景下的代理系统治理。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T11:57:43.280471+00:00"
+}
