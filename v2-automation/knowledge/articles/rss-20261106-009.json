@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-009",
+  "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07051",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619406+00:00",
+  "collected_at": "2026-11-06T11:53:14.619406+00:00",
+  "summary": "该论文提出了一种闭环智能体评估框架，通过分层测量与自校准机制来提升评估的可靠性和适应性。核心内容包括将评估指标按粒度分层组织，并利用智能体自身的反馈进行动态校准，从而减少人工标注依赖和评估偏差。该工作为智能体系统的迭代开发与部署提供了更稳健的评估方法论，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257520+00:00"
+}

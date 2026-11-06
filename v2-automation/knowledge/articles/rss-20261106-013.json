@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-013",
+  "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07123",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619419+00:00",
+  "collected_at": "2026-11-06T11:53:14.619419+00:00",
+  "summary": "该论文提出PromptOps框架，用于自动化迭代优化LLM-as-a-Judge系统中的提示词，以提升评估的准确性和一致性。通过将提示优化视为闭环过程，结合反馈信号进行迭代改进，减少人工调优成本。该工作为LLM评估系统的可靠部署提供了实用方法，对依赖自动评估的研发流程具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257529+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261106-011",
+  "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07073",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619413+00:00",
+  "collected_at": "2026-11-06T11:53:14.619413+00:00",
+  "summary": "该论文探讨了跨智能体LLM到Dafny形式化验证中的验证与一致性之间的区别，指出验证通过并不等同于智能体间达成语义一致。研究可能提出了多智能体协作生成形式化规范的方法，并分析了验证结果与意图对齐之间的差距。这项工作对于提升LLM生成代码的形式化验证可靠性具有重要价值，尤其涉及多智能体协作和代码生成场景。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "code-generation",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257525+00:00"
+}

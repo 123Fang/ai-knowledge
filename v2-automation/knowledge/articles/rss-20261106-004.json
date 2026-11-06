@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-004",
+  "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06984",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619383+00:00",
+  "collected_at": "2026-11-06T11:53:14.619383+00:00",
+  "summary": "该论文提出弹性专家并行（Elastic Expert Parallelism）方法，用于资源高效的强化学习后训练，通过动态调整专家并行度来适应不同计算资源，降低训练成本。核心价值在于提升大规模模型强化学习后训练的资源利用率，为LLM的RLHF等场景提供更经济的部署方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257506+00:00"
+}

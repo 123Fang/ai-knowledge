@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-017",
+  "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07464",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619432+00:00",
+  "collected_at": "2026-11-06T11:53:14.619432+00:00",
+  "summary": "FINCOSMOS 提出了一种面向金融领域智能体的开放世界评估范式，旨在解决传统静态基准无法反映真实金融环境动态性和复杂性的问题。该范式通过构建开放世界模拟环境，支持对智能体在不确定、多步决策场景下的能力进行更全面的评估。其核心价值在于为金融 AI 智能体提供更贴近实际部署条件的测试框架，推动该领域评估标准的演进。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257538+00:00"
+}

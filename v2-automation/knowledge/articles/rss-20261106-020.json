@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261106-020",
+  "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07520",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619441+00:00",
+  "collected_at": "2026-11-06T11:53:14.619441+00:00",
+  "summary": "该论文提出了一种结合图学习与基于逻辑的Benders分解方法，用于中断场景下的分布鲁棒车站内列车重调度问题。通过图神经网络学习问题结构以加速Benders分解的求解过程，提升了重调度决策的鲁棒性和计算效率。该方法为铁路运营中断管理提供了新的优化框架，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257544+00:00"
+}

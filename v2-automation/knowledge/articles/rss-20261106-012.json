@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261106-012",
+  "title": "Synthesizing symbolic models of human and machine reasoning at scale",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07088",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619416+00:00",
+  "collected_at": "2026-11-06T11:53:14.619416+00:00",
+  "summary": "该论文探讨了如何大规模合成人类与机器推理的符号模型，旨在通过符号化方法统一表示和生成推理过程。其核心价值在于为可解释AI和推理系统提供可扩展的建模框架，可能推动推理任务的形式化分析与评估。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257527+00:00"
+}

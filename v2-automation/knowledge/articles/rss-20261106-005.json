@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-005",
+  "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06989",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619392+00:00",
+  "collected_at": "2026-11-06T11:53:14.619392+00:00",
+  "summary": "该论文提出“双账本模型”（Two-Ledger Model），为跨云环境、多模型、多记录系统的多智能体 AI 系统提供交易粒度的成本核算方法。其核心价值在于将智能体调用、工具使用与跨系统交互的成本精确归集到单笔交易层面，解决多智能体部署中成本归属不清、难以优化的问题。该工作对多智能体系统的可观测性、成本治理与规模化部署具有实践指导意义。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257508+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-016",
+  "title": "EnvOpt: Automated Optimization for Agent Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07372",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619429+00:00",
+  "collected_at": "2026-11-06T11:53:14.619429+00:00",
+  "summary": "EnvOpt 提出了一种面向智能体（agent）运行环境的自动化优化方法，旨在通过自动搜索与调优环境配置来提升智能体任务表现。该工作将环境视为可优化对象，减少人工设计环境时的试错成本，对智能体训练与评测流程具有实用价值。其核心贡献在于把环境优化纳入自动化流程，为智能体系统的可复现性与性能提升提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257536+00:00"
+}

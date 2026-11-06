@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261106-007",
+  "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06996",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T11:53:14.619400+00:00",
+  "collected_at": "2026-11-06T11:53:14.619400+00:00",
+  "summary": "本文提出了一种面向智能体AI的信任响应式运行时授权机制，并对其策略行为与参数敏感性进行了实证刻画。核心贡献在于将动态授权与智能体行为信任度关联，通过实验分析策略参数对系统安全性和响应性的影响。该工作为智能体AI的安全部署提供了可操作的策略配置依据，具有较高的工程参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T11:54:07.257513+00:00"
+}
