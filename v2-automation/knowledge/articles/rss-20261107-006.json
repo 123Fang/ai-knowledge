@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261107-006",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T10:54:43.103761+00:00",
+  "collected_at": "2026-11-07T10:54:43.103761+00:00",
+  "summary": "该博客介绍了 Palette 项目，旨在通过微调小型模型来学习特定设计语言，从而自动生成演示文稿（deck）的布局和内容。核心价值在于展示了如何用少量数据让小型模型掌握设计规范，降低对大型模型的依赖，并提升设计自动化效率。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T10:55:44.720271+00:00"
+}

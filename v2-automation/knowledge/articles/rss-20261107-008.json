@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261107-008",
+  "title": "Transformers Model Integration Contracts",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/transformers-mic",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T10:54:43.103767+00:00",
+  "collected_at": "2026-11-07T10:54:43.103767+00:00",
+  "summary": "该博客介绍了 Transformers 模型集成契约（Model Integration Contracts），旨在为模型与推理框架、工具链之间的集成提供标准化接口和约定。通过明确输入输出规范、配置要求和兼容性规则，契约降低了模型部署与集成的复杂度，提升了可复现性和互操作性。其核心价值在于为开发者提供清晰的集成指南，减少适配成本，并促进生态系统的模块化协作。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T10:55:44.720275+00:00"
+}

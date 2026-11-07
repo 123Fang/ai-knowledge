@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261107-001",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/toyblocks",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T10:54:43.103712+00:00",
+  "collected_at": "2026-11-07T10:54:43.103712+00:00",
+  "summary": "ToyBlocks 是 Hugging Face 博客介绍的一个用于机器人学习与评估的受控世界环境。它提供了一个标准化、可复现的仿真平台，旨在降低机器人学习研究的门槛并促进不同算法之间的公平比较。该环境通过模块化设计和丰富的任务配置，支持从基础操作到复杂推理的多种机器人技能训练与测试。其核心价值在于为机器人学习社区提供一个可扩展、易用的基准测试工具，推动该领域的可复现研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T10:55:44.720248+00:00"
+}

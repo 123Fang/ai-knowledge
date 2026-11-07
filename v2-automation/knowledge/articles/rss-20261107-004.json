@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261107-004",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/phonon-tts",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T10:54:43.103754+00:00",
+  "collected_at": "2026-11-07T10:54:43.103754+00:00",
+  "summary": "Phonon TTS 是一种新型的端侧语音合成系统，在基准测试中表现优异，实现了高质量、低延迟的本地语音生成。该技术通过优化模型架构和推理流程，在设备端达到领先的合成质量，同时避免了对云服务的依赖。其核心价值在于为隐私敏感、离线或低延迟场景提供了可行的语音合成方案，推动了端侧 AI 语音技术的发展。",
+  "score": 8,
+  "tags": [
+    "audio",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T10:55:44.720264+00:00"
+}
