@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261108-002",
+  "title": "AI is dramatically accelerating AI research",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-08T11:05:40.068742+00:00",
+  "collected_at": "2026-11-08T11:05:40.068742+00:00",
+  "summary": "该内容探讨了 AI 系统如何加速 AI 自身的研究进程，可能涉及自动化实验设计、代码生成、文献综述等应用。核心价值在于揭示 AI 对科研效率的倍增效应，并引发对递归自我改进的讨论。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-08T11:06:35.646222+00:00"
+}
