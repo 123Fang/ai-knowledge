@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261109-014",
+  "title": "Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08756",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747198+00:00",
+  "collected_at": "2026-11-09T12:36:28.747198+00:00",
+  "summary": "该论文提出一种针对LLM事实核查能力的对抗攻击方法，利用博弈论多智能体辩论框架，通过毒化辩论过程来欺骗LLM的事实核查。核心价值在于揭示了多智能体辩论机制的安全脆弱性，为构建更鲁棒的LLM事实核查系统提供了新的攻击视角和防御启示。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888946+00:00"
+}

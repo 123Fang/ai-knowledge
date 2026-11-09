@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-006",
+  "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08647",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747159+00:00",
+  "collected_at": "2026-11-09T12:36:28.747159+00:00",
+  "summary": "IWIBench 是一个用于评估无梯度模型驱动权重内注入（Intra-weight Injection）方法的基准测试框架。该工作针对无需梯度更新的模型适配技术，系统性地评测了在权重空间内直接注入信息的有效性。其价值在于填补了无梯度模型编辑与注入方法缺乏统一评估标准的空白，为轻量化模型适配与部署提供了可复现的评测基准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888919+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261109-013",
+  "title": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08752",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747193+00:00",
+  "collected_at": "2026-11-09T12:36:28.747193+00:00",
+  "summary": "该论文提出 AttentionSwitch，一种针对大语言模型（LLM）越狱攻击的防御方法。其核心是通过联合学习稀疏的注意力头选择与缩放机制，动态调整模型内部注意力模式以阻断恶意提示的引导。该方法在保持模型正常功能的同时提升了安全性，为 LLM 部署中的安全防护提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888942+00:00"
+}

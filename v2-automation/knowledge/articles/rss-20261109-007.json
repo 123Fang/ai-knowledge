@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261109-007",
+  "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08666",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747164+00:00",
+  "collected_at": "2026-11-09T12:36:28.747164+00:00",
+  "summary": "该论文比较了传统 Python 调试接口（pdb）与基于 LLM 的调试接口在代码生成任务中的效果，并提出了 Pass@k 指标来评估调试接口的实用性。研究发现，LLM 驱动的调试接口在帮助模型修复代码错误方面显著优于 pdb，且 Pass@k 能更全面地反映接口的调试能力。这项工作为 AI 辅助编程中的调试工具设计提供了实证依据，并强调了评估方法的重要性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888923+00:00"
+}

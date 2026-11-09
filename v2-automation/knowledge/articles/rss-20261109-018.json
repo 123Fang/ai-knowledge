@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261109-018",
+  "title": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08811",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747215+00:00",
+  "collected_at": "2026-11-09T12:36:28.747215+00:00",
+  "summary": "该论文研究了针对推理型AI代理的思维注入攻击，即通过向代理的推理过程注入恶意思维来操纵其行为。作者提出了评估此类攻击的方法，并分析了推理代理在对抗性思维注入下的脆弱性。这项工作揭示了推理代理的安全风险，为设计更鲁棒的代理系统提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888958+00:00"
+}

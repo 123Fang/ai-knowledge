@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261109-020",
+  "title": "Solver-Admitted Metamorphic Testing of Learned Network Optimization Surrogates",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08837",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747224+00:00",
+  "collected_at": "2026-11-09T12:36:28.747224+00:00",
+  "summary": "该论文提出了一种针对学习型网络优化代理模型的蜕变测试方法，利用求解器自身的可接受性作为测试预言，无需真实最优解即可检测代理模型的错误。该方法通过生成满足蜕变关系的测试用例，有效评估代理模型在优化任务中的可靠性，为机器学习与组合优化的交叉领域提供了实用的验证手段。其价值在于降低了测试对标注数据的依赖，提升了代理模型部署前的可信度评估能力。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888963+00:00"
+}

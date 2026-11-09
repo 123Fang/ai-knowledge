@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-005",
+  "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08644",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747152+00:00",
+  "collected_at": "2026-11-09T12:36:28.747152+00:00",
+  "summary": "该论文提出了一种名为“决策上下文”的机制，用于AI智能体实现持久的行为学习。通过将智能体的历史决策和上下文信息进行结构化存储与检索，使智能体能够在长期交互中积累经验并优化行为策略。该方法有望提升智能体在复杂动态环境中的适应性和一致性，为构建具备持续学习能力的AI系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888916+00:00"
+}

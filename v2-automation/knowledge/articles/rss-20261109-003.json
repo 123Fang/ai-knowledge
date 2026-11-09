@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-003",
+  "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08626",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747134+00:00",
+  "collected_at": "2026-11-09T12:36:28.747134+00:00",
+  "summary": "该论文探讨了利用大语言模型（LLM）进行特征提取，以支持多准则库存分类。核心价值在于将LLM的语义理解能力引入传统库存管理问题，可能提升分类的自动化程度和准确性，为供应链管理中的智能决策提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "feature-extraction",
+    "inventory-classification"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888910+00:00"
+}

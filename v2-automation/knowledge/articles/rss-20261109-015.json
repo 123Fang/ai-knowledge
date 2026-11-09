@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-015",
+  "title": "Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08779",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747202+00:00",
+  "collected_at": "2026-11-09T12:36:28.747202+00:00",
+  "summary": "该论文提出了一种基于雅可比矩阵的因果记忆控制方法，用于语言模型系统中的持久记忆管理。通过分析记忆更新对模型输出的因果影响，该方法能够更有效地选择和保留关键信息，提升长期依赖任务的表现。其价值在于为持久记忆机制提供了理论支撑和可控性，有望改善对话系统和智能体的记忆一致性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888948+00:00"
+}

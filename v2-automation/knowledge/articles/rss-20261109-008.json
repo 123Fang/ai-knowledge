@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-008",
+  "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08669",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747169+00:00",
+  "collected_at": "2026-11-09T12:36:28.747169+00:00",
+  "summary": "ChainFlow 提出一种基于潜在流匹配的少步扩散式推测解码方法，用于加速大语言模型推理。该方法将推测解码中的草稿生成建模为连续潜在空间中的流匹配过程，通过少量步骤生成高质量候选 token，从而在保持输出质量的同时显著提升解码速度。其核心价值在于将流匹配与推测解码结合，为 LLM 高效推理提供新的技术路径。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888926+00:00"
+}

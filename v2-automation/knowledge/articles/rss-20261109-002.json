@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261109-002",
+  "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08613",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747125+00:00",
+  "collected_at": "2026-11-09T12:36:28.747125+00:00",
+  "summary": "NormGym 是一个用于评估 AI 智能体在社会互动中规范能力（normative competence）的基准测试框架。它通过模拟社会场景，测试智能体理解、遵守和适应社会规范的能力，弥补了现有评估在社交规范维度上的不足。该工作为构建更符合人类社会期望的 AI 系统提供了重要的评估工具，推动了 AI 对齐和社会智能研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888905+00:00"
+}

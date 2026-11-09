@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-010",
+  "title": "Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08684",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747179+00:00",
+  "collected_at": "2026-11-09T12:36:28.747179+00:00",
+  "summary": "该论文探讨了在过载的LLM推理引擎中，仅依靠请求取消机制不足以解决问题，因为重试请求会留下未处理的资源占用和排队延迟。研究分析了取消与重试的交互效应，揭示了重试导致的负载放大和尾部延迟问题，并提出了改进的调度与资源管理策略。这项工作对于提升LLM服务在高负载下的稳定性和效率具有实际价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888933+00:00"
+}

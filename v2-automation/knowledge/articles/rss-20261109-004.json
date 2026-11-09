@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-004",
+  "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08640",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T12:36:28.747143+00:00",
+  "collected_at": "2026-11-09T12:36:28.747143+00:00",
+  "summary": "该论文提出了一种基于方面成对锦标赛的测试时选择方法，用于在推理阶段从多个候选模型或输出中选出最佳结果。方法通过将整体质量分解为多个方面，并组织成对比较的锦标赛机制，以更细粒度的方式评估候选。这种技术有助于提升模型选择的鲁棒性和可解释性，尤其适用于缺乏可靠验证集或需要动态适配的场景。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T12:37:22.888913+00:00"
+}
