@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-017",
+  "title": "ProofDiff: Auditable Argument-Level Comparison of AI-Generated Mathematical Proofs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.535032+00:00",
+  "collected_at": "2026-11-10T12:15:47.535032+00:00",
+  "summary": "ProofDiff 提出了一种针对 AI 生成数学证明的可审计论证级比较方法，通过细粒度对齐和差异分析来评估证明质量。该工作解决了现有评估方法缺乏可解释性的问题，为数学推理领域提供了更可靠的验证工具，对提升 LLM 在形式化数学中的可信度具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253780+00:00"
+}

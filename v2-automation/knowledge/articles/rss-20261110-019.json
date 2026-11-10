@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-019",
+  "title": "CoRA-Bench: Evaluating Evidence Preservation by Context Selectors Under Token Budgets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10238",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.535046+00:00",
+  "collected_at": "2026-11-10T12:15:47.535046+00:00",
+  "summary": "CoRA-Bench 是一个用于评估上下文选择器在令牌预算下保留证据能力的基准测试。它针对 RAG 等场景中上下文窗口受限的问题，衡量选择器能否在压缩上下文时保留关键证据。该工作为优化上下文选择策略提供了标准化评估工具，有助于提升 LLM 在有限令牌下的推理与生成质量。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253785+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261110-010",
+  "title": "DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10156",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534989+00:00",
+  "collected_at": "2026-11-10T12:15:47.534989+00:00",
+  "summary": "该论文提出了 DeepResearch RewardBench，一个用于评估深度研究报告生成任务中奖励模型的基准。它针对深度研究场景（如多步信息检索与综合）设计评估指标和数据集，填补了奖励模型在复杂研究型任务上缺乏系统评测的空白。该工作有助于推动 LLM 在深度研究应用中的可靠性与对齐研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253759+00:00"
+}

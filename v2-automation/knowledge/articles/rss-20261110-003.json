@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-003",
+  "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10049",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534927+00:00",
+  "collected_at": "2026-11-10T12:15:47.534927+00:00",
+  "summary": "LoRazor 提出了一种针对多 LoRA 适配器服务的高效执行裁剪方法，通过动态识别并跳过对当前输入无贡献的适配器计算，减少冗余计算开销。该方法旨在提升多 LoRA 场景下的推理吞吐并降低延迟，同时保持模型输出质量。其核心价值在于为多租户、多任务的大模型部署提供更经济的适配器服务方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253739+00:00"
+}

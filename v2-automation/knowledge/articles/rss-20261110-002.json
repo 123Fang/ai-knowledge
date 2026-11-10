@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261110-002",
+  "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10048",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534917+00:00",
+  "collected_at": "2026-11-10T12:15:47.534917+00:00",
+  "summary": "该研究探讨了大型语言模型（LLM）在退伍军人心理健康危机严重程度标注任务中与人类专家的一致性，通过对比分析评估LLM是否比人类专家之间更一致。研究发现LLM在标注一致性上可能优于人类专家，但需注意其与专家判断的差异。该工作为LLM在心理健康领域的应用提供了评估依据，并强调了人机协作的重要性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253736+00:00"
+}

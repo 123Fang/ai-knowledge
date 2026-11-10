@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261110-009",
+  "title": "WorldMind: Test-Time Scaling for Visual Spatial Reasoning through Latent World Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10151",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534983+00:00",
+  "collected_at": "2026-11-10T12:15:47.534983+00:00",
+  "summary": "该论文提出 WorldMind，一种通过潜在世界模拟实现视觉空间推理的测试时扩展方法。核心在于利用潜在世界模型在推理阶段进行模拟，从而提升视觉空间推理能力，无需额外训练。该工作为视觉推理任务提供了新的测试时计算扩展范式，具有较高的研究价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253757+00:00"
+}

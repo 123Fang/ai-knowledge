@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261110-006",
+  "title": "The Infrastructure Divide: Analyzing Community Stance on Data Center Development via Reddit",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10109",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534963+00:00",
+  "collected_at": "2026-11-10T12:15:47.534963+00:00",
+  "summary": "该研究通过分析 Reddit 社区讨论，探讨了数据中心开发引发的社区立场分歧，揭示了基础设施分布不均带来的社会影响。研究利用自然语言处理技术对社区意见进行情感和主题分析，为理解 AI 基础设施的社会接受度提供了实证视角。其价值在于将技术基础设施问题与社会舆论结合，有助于政策制定者和开发者预见并缓解社区矛盾。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253748+00:00"
+}

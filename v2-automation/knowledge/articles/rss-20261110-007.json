@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-007",
+  "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10110",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534969+00:00",
+  "collected_at": "2026-11-10T12:15:47.534969+00:00",
+  "summary": "该论文提出了一种名为“顺势疗法学习”的反直觉方法：通过稀释有毒的微调数据，反而能增强其有害效果。研究揭示了微调数据中毒的新机制，表明低浓度的恶意样本可能比高浓度更具破坏性，对LLM安全微调与数据过滤策略提出了重要警示。该工作为理解数据投毒攻击的隐蔽性提供了新视角，并强调了防御需考虑数据稀释效应。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253751+00:00"
+}

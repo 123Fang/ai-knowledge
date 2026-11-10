@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261110-020",
+  "title": "Is Recursive Self-Improvement Safe?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10261",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.535052+00:00",
+  "collected_at": "2026-11-10T12:15:47.535052+00:00",
+  "summary": "该论文探讨递归自我改进（Recursive Self-Improvement, RSI）AI 系统的安全性问题，分析 AI 系统在反复改进自身能力过程中可能出现的失控、目标漂移与对齐失效等风险。文章从理论层面梳理 RSI 的安全边界与潜在失效模式，为 AI 安全研究和对齐实践提供参考框架。其价值在于将 RSI 这一前沿概念与安全评估结合，帮助研究者和工程人员理解高风险自主改进系统的风险来源。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253787+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261110-011",
+  "title": "AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T12:15:47.534995+00:00",
+  "collected_at": "2026-11-10T12:15:47.534995+00:00",
+  "summary": "该论文提出 AutoEMatic，一种运行时自适应的混合精度 LLM 推理方法，通过自动调整浮点数的指数与尾数位宽来优化计算精度与效率的平衡。其核心价值在于无需重新训练即可在推理阶段动态适配不同硬件与负载，提升 LLM 部署的能效和吞吐量。该方法属于 LLM 推理优化领域的实用技术创新。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T12:16:40.253766+00:00"
+}
