@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-020",
+  "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12970",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173579+00:00",
+  "collected_at": "2026-11-11T11:42:47.173579+00:00",
+  "summary": "该论文提出了TrustMod-SM，一个多维度基准，用于评估LLM在社交媒体内容审核中的可信度。它从多个信任维度（如公平性、鲁棒性、隐私等）系统评测模型表现，弥补了现有评估的单一性。该基准有助于识别模型在真实审核场景中的潜在风险，推动更可靠的内容审核系统发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392495+00:00"
+}

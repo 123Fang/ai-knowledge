@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261111-013",
+  "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12953",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173549+00:00",
+  "collected_at": "2026-11-11T11:42:47.173549+00:00",
+  "summary": "该论文针对企业级标准操作流程（SOP）场景，对多种智能体架构（如单智能体、多智能体、工具调用等）进行了受控实验评估，系统分析了不同架构在任务成功率与计算成本之间的权衡关系。研究通过统一实验框架量化了架构选择对性能与开销的影响，为企业部署AI智能体提供了可复用的评估方法和决策依据。其核心价值在于揭示了成本-成功率的帕累托前沿，帮助实践者在实际业务中根据预算与可靠性要求选择最优架构。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392477+00:00"
+}

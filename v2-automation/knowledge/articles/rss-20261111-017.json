@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-017",
+  "title": "IIT Patna at \"ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera\"",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12960",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173566+00:00",
+  "collected_at": "2026-11-11T11:42:47.173566+00:00",
+  "summary": "该论文介绍了 IIT Patna 团队参加 ICPR 2026 TVRID 竞赛的工作，聚焦于利用俯视 RGB-D 相机进行隐私保护的行人重识别（Re-ID）。核心挑战在于从俯视视角捕获的 RGB-D 数据中提取有效特征，同时确保隐私不被泄露（如不依赖人脸等生物特征）。该工作展示了在特定竞赛场景下的技术方案与实验结果，为隐私保护下的视觉重识别提供了实践参考。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392488+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261111-003",
+  "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12933",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173470+00:00",
+  "collected_at": "2026-11-11T11:42:47.173470+00:00",
+  "summary": "该论文提出了一种可审计的人类-智能体团队框架，用于自主X射线实验。核心在于设计多智能体协作系统，使人类专家与AI智能体共同规划、执行和验证实验流程，同时确保每一步决策和操作都可追溯与审计。该工作提升了自主实验的可靠性与透明度，为科学发现中的AI应用提供了可解释、可验证的协作范式。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392447+00:00"
+}

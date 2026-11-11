@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261111-004",
+  "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12934",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173505+00:00",
+  "collected_at": "2026-11-11T11:42:47.173505+00:00",
+  "summary": "EarthRecord 提出了一种基于多模态智能体的框架，用于分析长达四十年的卫星影像，实现从像素级数据到土地覆盖变化的自动解读。该方法结合视觉与语言模型，通过智能体协作完成时序影像理解、变化检测与语义推理，提升了遥感分析的自动化与可解释性。其价值在于为长期地表变化监测提供可扩展的 AI 方案，并展示了多模态智能体在科学发现中的潜力。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392450+00:00"
+}

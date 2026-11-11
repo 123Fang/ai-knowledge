@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-012",
+  "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12950",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173545+00:00",
+  "collected_at": "2026-11-11T11:42:47.173545+00:00",
+  "summary": "该论文提出 SetPrint，一种针对黑盒大语言模型（LLM）的指纹识别方法，通过分析模型对输入集合的响应变化模式（集合级对应关系）来唯一标识模型。该方法无需访问模型内部参数，仅依赖输入输出行为，为模型归属验证和知识产权保护提供了实用手段。其价值在于增强了黑盒场景下的模型溯源能力，对模型部署与安全审计具有重要意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392474+00:00"
+}

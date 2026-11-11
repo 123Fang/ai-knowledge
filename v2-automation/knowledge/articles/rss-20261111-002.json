@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-002",
+  "title": "AI usage generates a fragile codebase",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-11T11:42:46.474242+00:00",
+  "collected_at": "2026-11-11T11:42:46.474242+00:00",
+  "summary": "该文章讨论了使用AI生成代码可能导致代码库脆弱的问题，指出AI辅助编程虽然提高效率，但可能引入难以维护、依赖隐式假设的代码，增加技术债务。文章强调了在AI生成代码时需加强审查、测试和架构设计，以平衡开发速度与代码质量。其价值在于提醒开发者关注AI编码的长期维护风险。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392443+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261111-019",
+  "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12966",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173575+00:00",
+  "collected_at": "2026-11-11T11:42:47.173575+00:00",
+  "summary": "BuySideFlow 是一个针对投资研究场景中 LLM 智能体的时点（point-in-time）基准测试，旨在评估智能体在真实金融决策流程中的表现。该基准强调信息的时间一致性，避免未来数据泄露，从而更准确地衡量智能体在动态市场环境下的推理与工具使用能力。其价值在于为金融领域的 LLM 智能体提供了可复现、贴近实际的评估框架，推动可靠的投资研究自动化。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392493+00:00"
+}

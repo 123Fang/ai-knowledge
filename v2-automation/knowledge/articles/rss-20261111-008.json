@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-008",
+  "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12938",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T11:42:47.173529+00:00",
+  "collected_at": "2026-11-11T11:42:47.173529+00:00",
+  "summary": "该论文研究在知识图谱问答（KGQA）任务中，将图可视化信息嵌入提示（prompt）以提升大语言模型（LLM）的推理能力。通过将知识图谱的子图结构以可视化形式呈现给LLM，帮助模型更好地理解实体间关系，从而生成更准确的答案。实验表明，图可视化提示相比纯文本提示能有效改善KGQA性能，为结合结构化知识与LLM提供了新思路。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T11:43:41.392462+00:00"
+}
