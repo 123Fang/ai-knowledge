@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261112-002",
+  "title": "My AI agents found an unmapped Maya site?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://pietromiotti.com/latest/maya-site",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-12T12:17:03.080087+00:00",
+  "collected_at": "2026-11-12T12:17:03.080087+00:00",
+  "summary": "该内容探讨了使用AI智能体（agents）在遥感或地理空间数据中自动发现未被记录的玛雅遗址的可能性。核心价值在于展示了多智能体系统结合视觉与推理能力在考古发现中的创新应用，并引发对AI辅助科学发现的讨论。技术亮点包括智能体协作、工具调用与模式识别，但具体方法细节未在描述中展开。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "vision",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274806+00:00"
+}

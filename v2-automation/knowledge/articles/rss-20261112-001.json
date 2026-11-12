@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261112-001",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-12T12:17:03.080060+00:00",
+  "collected_at": "2026-11-12T12:17:03.080060+00:00",
+  "summary": "美联航（United Airlines）宣布禁止 AI 代理代替旅客预订机票，反映出企业在将自主 AI agent 接入关键业务流程时对安全、欺诈与责任归属的担忧。该事件凸显了 AI agent 在真实世界工具调用（tool-use）场景中面临的合规与信任挑战，也提示开发者在部署面向第三方系统的自动化代理时需要设计身份验证、权限控制与审计机制。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274789+00:00"
+}

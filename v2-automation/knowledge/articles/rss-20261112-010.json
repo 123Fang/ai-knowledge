@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261112-010",
+  "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T12:17:04.300259+00:00",
+  "collected_at": "2026-11-12T12:17:04.300259+00:00",
+  "summary": "该文章来自 Hugging Face Blog，标题暗示其讨论的是专家模型（MoE）中专家与伙伴（partners）的配对与保持问题，可能涉及混合专家模型架构中如何维持专家间的协作关系以提升模型性能。文章提出了一种名为 HOPE 的方法或思路，用于在训练或推理过程中保持专家与其伙伴的绑定，从而优化多专家系统的效率与稳定性。其价值在于为 MoE 类大模型的结构设计与训练策略提供了新的技术视角，有助于提升模型的可扩展性和推理质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274830+00:00"
+}

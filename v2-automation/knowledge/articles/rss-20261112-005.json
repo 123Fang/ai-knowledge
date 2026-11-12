@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261112-005",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/qvac/botpsy",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T12:17:04.300188+00:00",
+  "collected_at": "2026-11-12T12:17:04.300188+00:00",
+  "summary": "BotPsy 提出了一种在设备端运行的个性化助手方案，其核心是一个参数量低于十亿的智能体语言模型。该模型通过智能体架构实现工具调用与任务规划，在保证隐私和低延迟的同时，展示了小模型在端侧完成复杂助理任务的可行性。这项工作为资源受限环境下的 LLM 部署提供了有价值的参考，并强调了模型效率与智能体能力的平衡。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274814+00:00"
+}

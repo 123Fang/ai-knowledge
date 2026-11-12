@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261112-003",
+  "title": "Apple has new Mac app coming to make running local AI models easy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-12T12:17:03.080096+00:00",
+  "collected_at": "2026-11-12T12:17:03.080096+00:00",
+  "summary": "Apple 正在开发一款新的 Mac 应用程序，旨在简化本地 AI 模型的运行流程，降低用户在苹果设备上部署和推理本地大模型的门槛。该工具可能集成模型管理、硬件加速和易用界面，提升本地 AI 的可用性和隐私性。其价值在于推动本地 AI 在消费级硬件上的普及，并强化 Apple 生态对 AI 工作负载的支持。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274811+00:00"
+}

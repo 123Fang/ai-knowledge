@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261112-009",
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T12:17:04.300252+00:00",
+  "collected_at": "2026-11-12T12:17:04.300252+00:00",
+  "summary": "该内容介绍了 Nemotron-Personas-Finance-Japan 合成数据集，旨在捕捉日本的人口统计特征与金融背景。数据集可用于训练和评估金融领域的 AI 模型，提升对日本市场特定场景的适应能力。其价值在于填补了日本金融人口统计合成数据的空白，支持更本地化的金融 AI 应用开发。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274827+00:00"
+}

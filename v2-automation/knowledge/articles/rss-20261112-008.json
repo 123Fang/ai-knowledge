@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261112-008",
+  "title": "Decision Models in Hugging Face",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/decision",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T12:17:04.300246+00:00",
+  "collected_at": "2026-11-12T12:17:04.300246+00:00",
+  "summary": "该内容来自 Hugging Face 博客，标题为 'Decision Models in Hugging Face'，但描述为空，缺乏具体技术细节。推测其可能介绍在 Hugging Face 生态中集成决策模型（如基于 LLM 的决策制定或强化学习策略）的方法与工具。由于信息有限，无法深入评估其创新性，但作为 Hugging Face 官方博客，通常具有较好的技术参考价值。",
+  "score": 5,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T12:17:57.274824+00:00"
+}
