@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261113-018",
+  "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14942",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240510+00:00",
+  "collected_at": "2026-11-13T11:55:57.240510+00:00",
+  "summary": "该论文探讨了多模态训练如何使纯文本推理模型涌现出视觉形态的思维模式。研究发现，经过多模态训练后，模型在仅处理文本任务时也能利用视觉化的内部表征进行推理，从而提升复杂推理能力。这一发现揭示了多模态训练对文本推理的迁移价值，为提升纯文本模型的推理性能提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519361+00:00"
+}

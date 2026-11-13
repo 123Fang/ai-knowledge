@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261113-012",
+  "title": "Open Challenges and Opportunities in Human-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14846",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240491+00:00",
+  "collected_at": "2026-11-13T11:55:57.240491+00:00",
+  "summary": "该论文系统梳理了人机智能体系统（Human-Agent Systems）中的开放挑战与机遇，涵盖人机协作、智能体自主性、信任与可解释性、多智能体协调等关键议题。文章从交互设计、评估方法和部署实践等角度分析了当前研究的空白与未来方向，为构建更可靠、更自然的人机协作系统提供了路线图。其价值在于帮助研究者和开发者理解该领域的整体格局与优先问题，指导后续技术选型与研究投入。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519346+00:00"
+}

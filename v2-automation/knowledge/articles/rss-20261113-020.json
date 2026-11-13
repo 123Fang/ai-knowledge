@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261113-020",
+  "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14960",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240519+00:00",
+  "collected_at": "2026-11-13T11:55:57.240519+00:00",
+  "summary": "该论文研究编码智能体（coding agents）的终止行为，提出“终止滞后”（Termination Lag）现象：智能体往往在任务实际已解决后仍继续运行、迟迟不停止，造成额外开销与潜在风险。作者对这一现象进行刻画与量化分析，揭示其与任务完成判定、停止策略之间的关系。该工作对提升编码智能体的效率、可靠性与部署成本控制具有直接价值，并为智能体停止机制的设计提供改进方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519366+00:00"
+}

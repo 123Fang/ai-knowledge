@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-004",
+  "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14736",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240457+00:00",
+  "collected_at": "2026-11-13T11:55:57.240457+00:00",
+  "summary": "该论文探讨了在部分可识别的因果发现中何时引入语义先验知识的问题，分析了语义先验在不同阶段（如结构学习、方向确定）的引入时机对因果发现效果的影响。研究可能提出了理论指导或实用准则，帮助在数据不足或识别性受限时更有效地利用语义信息。其价值在于为因果发现与语义先验的结合提供了系统性的时机分析，有助于提升部分可识别场景下的因果推断准确性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519324+00:00"
+}

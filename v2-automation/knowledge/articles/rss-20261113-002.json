@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-002",
+  "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14654",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240446+00:00",
+  "collected_at": "2026-11-13T11:55:57.240446+00:00",
+  "summary": "该论文探讨了AI智能体历史记录清理的局限性：当外部世界仍保留错误信息时，仅清理智能体内部历史并不能有效纠正错误，反而可能损害性能。研究揭示了智能体记忆管理与环境状态之间的耦合关系，为智能体系统的错误恢复和记忆设计提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519317+00:00"
+}

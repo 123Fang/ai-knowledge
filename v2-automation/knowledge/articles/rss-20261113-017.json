@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-017",
+  "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14928",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240507+00:00",
+  "collected_at": "2026-11-13T11:55:57.240507+00:00",
+  "summary": "该论文针对HBT（基于层次化边界树的）合法化问题，提出了一种可在数秒内求得可证明最优解的算法。通过给出认证最优解，该方法揭示了现有启发式方法中隐藏的优化空间，为VLSI布局合法化提供了精确的基准和新的改进方向。其核心价值在于将原本难以求解的组合优化问题转化为可快速精确求解的形式，并量化了实际可提升的余量。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519359+00:00"
+}

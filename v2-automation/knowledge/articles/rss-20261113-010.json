@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-010",
+  "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14804",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240484+00:00",
+  "collected_at": "2026-11-13T11:55:57.240484+00:00",
+  "summary": "GenPFN 提出了一种基于上下文表格基础模型（Tabular Foundation Model）的方法，用于增强工程领域的小数据集。该方法利用预训练模型在上下文中进行学习，无需微调即可生成合成数据，从而提升小样本场景下的模型性能。其核心价值在于为数据稀缺的工程问题提供了一种高效的数据增强方案，并展示了基础模型在表格数据上的迁移能力。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519340+00:00"
+}

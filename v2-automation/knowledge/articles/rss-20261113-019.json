@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-019",
+  "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14949",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240516+00:00",
+  "collected_at": "2026-11-13T11:55:57.240516+00:00",
+  "summary": "该论文提出了RSI-PDEbench，一个用于评估偏微分方程（PDE）求解中自改进智能体的基准测试平台。它旨在系统性地衡量AI智能体在PDE求解任务中通过迭代自我改进提升性能的能力，填补了该领域标准化评估的空白。该基准为自改进智能体在科学计算中的应用提供了可复现的评测框架，有助于推动更鲁棒、更高效的PDE求解方法的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519364+00:00"
+}

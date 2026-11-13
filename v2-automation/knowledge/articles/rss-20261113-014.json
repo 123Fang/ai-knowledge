@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-014",
+  "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence &amp; the Limits of Self-Correction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14889",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240497+00:00",
+  "collected_at": "2026-11-13T11:55:57.240497+00:00",
+  "summary": "该论文探讨AI智能体是否可能表现出认知上的意志薄弱（epistemic akrasia），即在高阶证据表明其信念或推理有误时仍无法自我纠正。文章分析了高阶证据与自我修正的极限，揭示了当前AI智能体在元认知和自我纠错方面的理论局限。这项研究为理解AI智能体的可靠性与局限性提供了新的哲学与认知科学视角，对构建更可信的AI系统具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519351+00:00"
+}

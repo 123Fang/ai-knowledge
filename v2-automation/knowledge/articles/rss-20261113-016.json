@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261113-016",
+  "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14924",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240504+00:00",
+  "collected_at": "2026-11-13T11:55:57.240504+00:00",
+  "summary": "该论文研究面向消费级GPU的边缘原生多模态RAG系统，提出硬件感知量化与架构优化方法，以在有限显存和算力下高效部署多模态检索增强生成。核心价值在于降低多模态RAG的硬件门槛，提升边缘设备上的推理效率与实用性。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "vision",
+    "deployment",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519356+00:00"
+}

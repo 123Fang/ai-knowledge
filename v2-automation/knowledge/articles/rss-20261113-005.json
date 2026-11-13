@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-005",
+  "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14765",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240465+00:00",
+  "collected_at": "2026-11-13T11:55:57.240465+00:00",
+  "summary": "该论文提出 SynthCorp，一个用于为数据代理（Data Agents）自动生成基准测试的平台。它通过合成任务和场景，解决数据代理评估中缺乏多样化、可定制基准的问题。该平台有助于系统化地衡量数据代理在真实数据操作任务上的能力，推动代理评估方法的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519327+00:00"
+}

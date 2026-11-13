@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-007",
+  "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14769",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T11:55:57.240474+00:00",
+  "collected_at": "2026-11-13T11:55:57.240474+00:00",
+  "summary": "该论文揭示了基于偏好的模型评估（如LLM竞技场）存在排行榜操纵漏洞，攻击者可通过策略性提交或投票影响排名。研究分析了操纵机制并可能提出防御建议，对模型评估的公平性和可靠性具有重要警示价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T11:56:47.519332+00:00"
+}
