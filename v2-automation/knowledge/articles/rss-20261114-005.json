@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261114-005",
+  "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-14T11:14:59.160646+00:00",
+  "collected_at": "2026-11-14T11:14:59.160646+00:00",
+  "summary": "Edge0-145B 是一款面向个人电脑本地部署的 145B 参数前沿级大模型，主打在消费级硬件上实现接近云端的前沿 AI 能力。其核心价值在于降低大模型使用门槛，兼顾隐私与离线可用性，为本地推理与部署场景提供新选择。该内容来自 Hacker News 热门讨论，反映社区对本地化大模型的关注。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T11:15:48.657251+00:00"
+}

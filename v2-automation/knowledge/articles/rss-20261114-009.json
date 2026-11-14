@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261114-009",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-14T11:15:00.583940+00:00",
+  "collected_at": "2026-11-14T11:15:00.583940+00:00",
+  "summary": "llama.cpp 发布 v1.0.0 版本，标志着这一本地大语言模型推理引擎进入稳定成熟阶段。该版本为本地 AI 生态系统提供了更坚实的基础，预计在性能、兼容性和易用性方面有显著提升。作为广泛使用的开源推理框架，其正式版发布将推动本地部署和边缘 AI 应用的发展。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T11:15:48.657268+00:00"
+}

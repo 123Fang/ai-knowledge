@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261114-011",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-14T11:15:00.583954+00:00",
+  "collected_at": "2026-11-14T11:15:00.583954+00:00",
+  "summary": "本文是 Hugging Face 博客发布的关于 3D 生成模型微调的权威指南，系统介绍了针对 3D 生成任务（如 NeRF、扩散模型等）的微调方法、最佳实践和常见陷阱。内容涵盖数据准备、训练策略、评估指标及部署注意事项，为开发者提供了从理论到实践的完整参考。该指南有助于降低 3D 生成模型的微调门槛，推动该领域的技术应用与创新。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T11:15:48.657274+00:00"
+}

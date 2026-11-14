@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261114-003",
+  "title": "AI is destroying the trust between writers and readers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-14T11:14:59.160631+00:00",
+  "collected_at": "2026-11-14T11:14:59.160631+00:00",
+  "summary": "该文章探讨了生成式AI（尤其是大语言模型）在写作领域的广泛应用如何侵蚀作者与读者之间的信任。核心观点是：AI生成的文本模糊了人类创作与机器生成的界限，导致读者对内容真实性和作者身份产生怀疑，进而破坏传统基于信任的阅读关系。文章可能涉及AI检测工具的局限性、平台政策以及创作者面临的伦理困境，对理解AI的社会影响具有讨论价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T11:15:48.657244+00:00"
+}

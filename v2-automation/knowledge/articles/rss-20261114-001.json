@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261114-001",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-14T11:14:59.160588+00:00",
+  "collected_at": "2026-11-14T11:14:59.160588+00:00",
+  "summary": "该内容讨论了对 Nvidia 的指控：其通过投资 AI 初创公司，让这些公司用所获资金购买 Nvidia GPU，从而人为制造 GPU 供应稀缺、维持高价与市场主导地位。核心价值在于揭示 AI 算力供应链中的潜在利益循环与反竞争风险，对理解 GPU 市场格局、AI 创业融资生态及监管审查具有参考意义。内容偏商业与产业分析，而非技术实现细节。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T11:15:48.657222+00:00"
+}
