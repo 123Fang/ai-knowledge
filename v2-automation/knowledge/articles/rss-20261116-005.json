@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261116-005",
+  "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17341",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541051+00:00",
+  "collected_at": "2026-11-16T12:29:37.541051+00:00",
+  "summary": "该论文提出将表格化群体先验作为结构化检索机制，用于电子健康记录（EHR）中的药物集合预测。通过将患者群体统计信息编码为可检索的先验知识，模型能够更准确地预测患者可能需要的药物组合，从而提升临床决策支持系统的性能。这项工作展示了结构化检索与医疗领域知识结合的价值，为EHR预测任务提供了新思路。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500459+00:00"
+}

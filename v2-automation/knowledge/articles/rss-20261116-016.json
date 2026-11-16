@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-016",
+  "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17620",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541107+00:00",
+  "collected_at": "2026-11-16T12:29:37.541107+00:00",
+  "summary": "本文对预防性人格引导（preventative persona steering）的安全性副作用进行了实证审计，揭示了在LLM中通过引导人格来预防有害行为时可能引发的意外安全风险。研究通过系统实验评估了此类干预对模型安全性的影响，为安全对齐实践提供了重要警示。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500501+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-003",
+  "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17339",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541027+00:00",
+  "collected_at": "2026-11-16T12:29:37.541027+00:00",
+  "summary": "该论文针对小型量化端侧LLM上的幻觉检测器进行面向实践者的审计，检验现有检测方法在资源受限场景下的排名是否依然成立。研究揭示了量化与模型规模对检测器有效性的影响，为端侧部署中的幻觉检测选型提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500452+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261116-013",
+  "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17583",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541091+00:00",
+  "collected_at": "2026-11-16T12:29:37.541091+00:00",
+  "summary": "该论文研究在何种条件下较少的信息反而能带来更高收益，并构建了一个精确的有限图集（finite atlas）来刻画表示、收益与成本之间的关系。其核心价值在于为信息经济学与决策理论中的“少即是多”现象提供严格的数学刻画，有助于理解信息获取与利用的权衡边界。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500491+00:00"
+}

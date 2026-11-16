@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-012",
+  "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17564",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541087+00:00",
+  "collected_at": "2026-11-16T12:29:37.541087+00:00",
+  "summary": "AI-Voyager 是一个面向公众利益的系统，旨在促进人类与 AI 在公民推理中的协作，以质疑和塑造治理 AI 的规则。该系统通过结合人类判断与 AI 推理能力，支持多方参与对 AI 规则的讨论与制定。其核心价值在于推动 AI 治理的民主化和透明化，为公众提供参与 AI 规则制定的工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500488+00:00"
+}

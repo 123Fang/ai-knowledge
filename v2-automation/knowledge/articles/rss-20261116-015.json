@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261116-015",
+  "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17616",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541100+00:00",
+  "collected_at": "2026-11-16T12:29:37.541100+00:00",
+  "summary": "该论文提出了一种利用大语言模型（LLM）指导聚类生命周期管理的方法，旨在解决行为聚类中何时以及如何演化的问题。通过LLM的语义理解能力，动态决定聚类的分裂、合并或更新时机，从而提升聚类对行为模式变化的适应性。该方法为无监督学习中的聚类维护提供了新思路，具有在用户行为分析、异常检测等场景的应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500498+00:00"
+}

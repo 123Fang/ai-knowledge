@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-017",
+  "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T12:29:37.541111+00:00",
+  "collected_at": "2026-11-16T12:29:37.541111+00:00",
+  "summary": "该论文提出了AscendGYM，一个面向昇腾NPU真实工作负载的成本感知内核优化基准。它针对内核优化任务设计了成本度量（如编译时间、运行时间、能耗等），并构建了真实工作负载的评测集，以评估自动化优化方法在昇腾平台上的效果与开销。该基准填补了昇腾NPU上缺乏成本感知内核优化评测的空白，为AI编译器与内核优化研究提供了标准化平台。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T12:30:28.500504+00:00"
+}
