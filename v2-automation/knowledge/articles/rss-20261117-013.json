@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-013",
+  "title": "SpecRelay: Amortize or Avoid the Round Trip in Edge-Cloud Speculative Decoding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18963",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760327+00:00",
+  "collected_at": "2026-11-17T12:50:35.760327+00:00",
+  "summary": "SpecRelay 提出了一种面向边缘-云协同推理的投机解码优化方法，旨在减少边缘设备与云端之间因验证投机 token 而产生的往返通信开销。该方法通过摊销或避免往返通信，在保持生成质量的同时提升边缘-云场景下的推理效率。其价值在于为资源受限的边缘设备部署大语言模型提供了更实用的加速方案，平衡了通信成本与计算效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096614+00:00"
+}

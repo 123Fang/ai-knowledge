@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261117-017",
+  "title": "Policy Optimization With Multiple Verifiers via Pareto Rankings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19064",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760340+00:00",
+  "collected_at": "2026-11-17T12:50:35.760340+00:00",
+  "summary": "该论文提出了一种基于帕累托排序的多验证器策略优化方法，用于提升大语言模型在复杂任务中的对齐与生成质量。核心思路是同时利用多个验证器对候选输出进行评分，并通过帕累托排序筛选出在多个维度上均表现优异的样本，从而缓解单一奖励模型带来的偏差与奖励黑客问题。该方法为多目标偏好优化和强化学习微调提供了新的技术路径，对提升模型可靠性和评估鲁棒性具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096622+00:00"
+}

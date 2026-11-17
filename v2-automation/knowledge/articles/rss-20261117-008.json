@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-008",
+  "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18891",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760311+00:00",
+  "collected_at": "2026-11-17T12:50:35.760311+00:00",
+  "summary": "该论文针对视觉-语言-动作（VLA）模型在微调后丢失视觉-语言模型（VLM）原有能力的问题，提出通过参数合并方法恢复VLM能力。核心价值在于平衡动作执行与语言理解，提升VLA模型的综合性能，为多模态智能体提供更鲁棒的解决方案。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096601+00:00"
+}

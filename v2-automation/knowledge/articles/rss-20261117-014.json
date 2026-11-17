@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-014",
+  "title": "Three Invisible Failure Modes in Speech-Based Age Estimation for Child Safety",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18971",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760330+00:00",
+  "collected_at": "2026-11-17T12:50:35.760330+00:00",
+  "summary": "该论文针对基于语音的儿童年龄估计系统，识别出三种隐蔽的失效模式，这些模式在常规评估中难以察觉，可能对儿童安全应用造成风险。文章分析了这些失效模式的成因与表现，并提出了相应的检测与缓解策略。该工作对于提升语音年龄估计系统在真实场景中的可靠性和安全性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096616+00:00"
+}

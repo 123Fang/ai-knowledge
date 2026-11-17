@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261117-002",
+  "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760248+00:00",
+  "collected_at": "2026-11-17T12:50:35.760248+00:00",
+  "summary": "该论文探讨了多智能体系统中任务交接的核心挑战：智能体无法有效交接其尚未理解的内容。研究指出，在基于LLM的多智能体协作中，交接失败往往源于智能体对任务或知识的理解不足，而非通信机制本身。论文可能提出了评估交接质量的方法或改进智能体理解能力的框架，为多智能体系统的可靠部署提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096571+00:00"
+}

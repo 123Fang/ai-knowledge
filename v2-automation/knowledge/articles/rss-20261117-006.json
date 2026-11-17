@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-006",
+  "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18866",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760304+00:00",
+  "collected_at": "2026-11-17T12:50:35.760304+00:00",
+  "summary": "该论文提出 Découpage 方法，用于长多镜头视频生成中的导演级视听控制。它允许用户通过类似导演的指令（如镜头切换、音频同步）直接控制生成视频的叙事结构和视听元素，解决了现有方法在长视频多镜头连贯性和可控性上的不足。该工作有望推动 AI 视频生成从单镜头短片向具有专业导演控制的长篇多镜头视频发展。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "audio"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096596+00:00"
+}

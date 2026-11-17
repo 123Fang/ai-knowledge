@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-005",
+  "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18793",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760299+00:00",
+  "collected_at": "2026-11-17T12:50:35.760299+00:00",
+  "summary": "该综述系统回顾了乳腺癌诊断中多模态融合技术，涵盖传统医学影像模态（如钼靶、超声、MRI）与先进模态（如基因组学、病理组学）的融合方法。文章梳理了特征级、决策级等融合策略，并讨论了深度学习在多模态数据整合中的应用与挑战。其价值在于为乳腺癌精准诊断提供了多模态技术路线的全景视角，有助于研究者理解不同模态的互补性及融合框架的设计要点。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096594+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261117-004",
+  "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18747",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760292+00:00",
+  "collected_at": "2026-11-17T12:50:35.760292+00:00",
+  "summary": "该论文提出了一种名为“Video-as-Experience”的新方法，通过音频-视觉理解来学习计算机使用技能。它利用视频中的操作演示和声音反馈，让AI智能体从经验中学习如何操作图形界面和软件。这种方法有望提升智能体在真实环境中的工具使用和交互能力，为计算机使用自动化提供了新的学习范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "audio",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096591+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-011",
+  "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18930",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760320+00:00",
+  "collected_at": "2026-11-17T12:50:35.760320+00:00",
+  "summary": "该论文研究了AI安全基准开发者在实际使用和维护基准时面临的挑战，探讨了严谨性与现实需求之间的张力。通过访谈或调查，揭示了基准开发者的实践经验和认知，为改进AI安全评估的可靠性和可持续性提供了见解。研究有助于理解基准生命周期管理，对AI安全评估社区具有参考价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096607+00:00"
+}

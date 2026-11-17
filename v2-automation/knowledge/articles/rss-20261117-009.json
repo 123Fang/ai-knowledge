@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-009",
+  "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18905",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760314+00:00",
+  "collected_at": "2026-11-17T12:50:35.760314+00:00",
+  "summary": "该论文研究大型语言模型在交互场景下的歧义消解能力，提出一种交互式评估框架，考察模型能否在信息不完整时主动提出精确问题并做出合理假设。核心价值在于为 LLM 的主动澄清与不确定性处理提供了系统化的评测方法，有助于提升对话系统的可靠性与用户体验。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096603+00:00"
+}

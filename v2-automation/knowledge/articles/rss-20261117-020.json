@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-020",
+  "title": "Instructor-designed AI improves learning in a randomized trial across 19 universities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19099",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T12:50:35.760349+00:00",
+  "collected_at": "2026-11-17T12:50:35.760349+00:00",
+  "summary": "该研究在19所大学开展随机对照试验，评估由教师设计的AI教学工具对学生学习效果的影响。结果表明，这种定制化AI干预能显著提升学习成效，为AI在教育中的规模化应用提供了高质量实证证据。其核心价值在于验证了教师主导设计的AI系统在真实教学场景中的有效性，并强调了教育AI部署中教学设计的关键作用。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T12:51:24.096629+00:00"
+}
