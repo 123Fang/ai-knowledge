@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261118-002",
+  "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21799",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.525017+00:00",
+  "collected_at": "2026-11-18T12:43:33.525017+00:00",
+  "summary": "该论文探讨了思维链（Chain-of-Thought, CoT）的可控性与可监控性之间的权衡关系。研究发现，当模型被训练或提示以更可控的方式生成推理步骤时，其推理过程的可监控性会下降，即更难通过外部观察检测潜在的不安全或错误推理。这一发现对LLM推理安全与对齐评估具有重要意义，提示在提升推理可控性的同时需警惕监控能力的削弱。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759741+00:00"
+}

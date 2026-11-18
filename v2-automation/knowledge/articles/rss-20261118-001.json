@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-001",
+  "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.524985+00:00",
+  "collected_at": "2026-11-18T12:43:33.524985+00:00",
+  "summary": "该论文提出了NEBench R1，一个专门用于评估大型语言模型在核领域推理能力的基准测试。它针对核科学中的复杂推理任务设计，弥补了现有通用推理基准在专业领域覆盖不足的问题。该基准有助于揭示LLM在核领域的安全性和可靠性，为专业领域模型评估提供重要工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759727+00:00"
+}

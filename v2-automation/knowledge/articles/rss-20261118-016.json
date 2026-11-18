@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261118-016",
+  "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22033",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.525081+00:00",
+  "collected_at": "2026-11-18T12:43:33.525081+00:00",
+  "summary": "该研究探讨了LLM购物代理中推理努力（reasoning effort）对决策质量的影响，发现增加推理努力会提升代理的置信度，但并未提高其选择的正确性。这一发现揭示了推理过程与结果准确性之间的脱节，对LLM代理的评估和部署具有重要警示价值，提示需谨慎对待高置信度输出。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759782+00:00"
+}

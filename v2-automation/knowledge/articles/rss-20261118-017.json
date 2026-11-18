@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261118-017",
+  "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22043",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.525084+00:00",
+  "collected_at": "2026-11-18T12:43:33.525084+00:00",
+  "summary": "该论文研究集成乘客与包裹运输问题（IPPT），提出一种混合精确-启发式求解器。方法结合精确算法与启发式策略，以高效求解这一组合优化问题。其价值在于提升城市物流中客货协同运输的求解效率，为实际调度提供可行方案。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759785+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-020",
+  "title": "When Lower Harm Misleads: Auditing Concept Corrections",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22084",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.525095+00:00",
+  "collected_at": "2026-11-18T12:43:33.525095+00:00",
+  "summary": "该论文研究AI对齐中的概念修正审计问题，指出仅以降低表面危害为目标的修正可能掩盖概念层面的错误，导致误导性结果。作者提出审计框架来检测这种低危害假象，并评估其对模型安全性的影响。这项工作对提升AI安全评估的可靠性具有重要价值，尤其适用于LLM对齐与部署场景。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759792+00:00"
+}

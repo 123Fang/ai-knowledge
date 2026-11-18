@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-019",
+  "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22075",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.525091+00:00",
+  "collected_at": "2026-11-18T12:43:33.525091+00:00",
+  "summary": "该论文针对AI智能体执行动作的可逆性问题，提出了一个可逆性分类框架，将智能体动作按可撤销难度划分为不同类别。核心价值在于为智能体系统的安全设计与风险控制提供理论依据，帮助开发者评估动作后果并设计相应的回滚或防护机制，从而提升AI智能体在真实环境中的部署安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759790+00:00"
+}

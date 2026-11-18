@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-008",
+  "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21946",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T12:43:33.525052+00:00",
+  "collected_at": "2026-11-18T12:43:33.525052+00:00",
+  "summary": "该论文研究大型语言模型在推理过程中的过度思考现象，提出“保守判决、漂移承诺”的概念，即模型在最终答案上保持稳定，但中间推理步骤的承诺却发生漂移。作者通过分析这种漂移来识别有害的过度思考，并可能提出检测或缓解方法。这项工作有助于理解LLM推理的可靠性，并为改进推理效率与安全性提供新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T12:44:18.759760+00:00"
+}
