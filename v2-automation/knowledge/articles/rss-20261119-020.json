@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-020",
+  "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23639",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823710+00:00",
+  "collected_at": "2026-11-19T12:34:07.823710+00:00",
+  "summary": "该论文研究面向异构科学模态（如文本、图像、表格等）的多目标检索问题，提出在帕累托前沿上搜索检索策略的方法，以平衡多个检索目标（如相关性、多样性、覆盖率等）。其核心价值在于为科学文献检索提供了一种多目标优化框架，能够根据用户偏好或场景需求灵活调整检索结果，提升异构数据环境下的检索效果。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679038+00:00"
+}

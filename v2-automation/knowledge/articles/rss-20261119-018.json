@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-018",
+  "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23588",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823705+00:00",
+  "collected_at": "2026-11-19T12:34:07.823705+00:00",
+  "summary": "该论文提出 ARISE，一种用于企业级 AI 代理的自演化记忆机制，旨在在保持准确性的同时降低推理成本。ARISE 通过动态更新和压缩记忆内容，使代理能够从交互中持续学习并复用知识，减少对大规模上下文或重复检索的依赖。实验表明该方法在多个企业任务上实现了更高的准确率与更低的成本，为部署经济高效的企业代理提供了实用方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679034+00:00"
+}

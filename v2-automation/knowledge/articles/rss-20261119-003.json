@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-003",
+  "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23375",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823660+00:00",
+  "collected_at": "2026-11-19T12:34:07.823660+00:00",
+  "summary": "该论文从热力学和信息论视角分析智能体编码（agentic coding）中 token 的消耗与错误传播，提出以“热”“熵”“误差”为框架刻画智能体在代码生成任务中的行为。研究揭示了 token 预算分配、上下文熵增与错误累积之间的关系，为优化智能体编码流程和评估其可靠性提供了新的理论工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679000+00:00"
+}

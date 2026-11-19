@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-013",
+  "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23509",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823691+00:00",
+  "collected_at": "2026-11-19T12:34:07.823691+00:00",
+  "summary": "GRAFT 提出了一种基于执行引导的遗传重组方法，用于自动化设计 AI Agent 的结构与行为。该方法通过评估 Agent 在任务中的实际执行表现来指导遗传算法中的重组操作，从而迭代优化 Agent 设计。其核心价值在于将进化计算与执行反馈结合，减少人工设计成本，提升 Agent 在复杂任务中的适应性和性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679023+00:00"
+}

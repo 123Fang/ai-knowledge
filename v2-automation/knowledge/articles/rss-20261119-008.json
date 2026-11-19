@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-008",
+  "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23456",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823679+00:00",
+  "collected_at": "2026-11-19T12:34:07.823679+00:00",
+  "summary": "VeriMath 提出了一种人机协同（Human-in-the-Loop）的框架，用于生成和验证与课程对齐的数学评估题目。该方法结合自动化生成与人工验证，确保题目在数学正确性和课程一致性上达到要求。其价值在于提升教育评估内容的生产效率与质量，为 AI 辅助教育内容创作提供了可验证的流程。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679011+00:00"
+}

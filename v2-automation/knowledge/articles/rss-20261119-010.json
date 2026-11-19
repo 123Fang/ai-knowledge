@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-010",
+  "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823684+00:00",
+  "collected_at": "2026-11-19T12:34:07.823684+00:00",
+  "summary": "该研究评估了视觉语言模型（VLM）智能体在阅读急诊CT和MRI检查时的诊断准确性和导航行为。通过分析智能体在医学影像上的交互模式，揭示了VLM在临床决策支持中的潜力与局限。这项工作为医学影像AI的评估提供了新视角，并强调了导航行为对诊断性能的影响。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679015+00:00"
+}

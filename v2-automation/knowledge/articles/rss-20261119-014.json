@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-014",
+  "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23520",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823695+00:00",
+  "collected_at": "2026-11-19T12:34:07.823695+00:00",
+  "summary": "BeFit 提出一种面向资源受限传感场景的神经网络设计方法，通过将计算复杂度从权重转移到 Bernstein 激活函数，以降低模型存储和计算开销。该方法利用 Bernstein 多项式的可学习激活形式，在保持表达能力的同时减少对大量权重的依赖，从而更适合边缘设备部署。其价值在于为资源受限环境下的高效推理提供了新思路，平衡了模型性能与硬件约束。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679026+00:00"
+}

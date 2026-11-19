@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-017",
+  "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23572",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823703+00:00",
+  "collected_at": "2026-11-19T12:34:07.823703+00:00",
+  "summary": "该论文研究多智能体食品援助场景中的澄清问题，提出接收者条件化的澄清方法，使智能体在协作中根据接收者特征生成更有效的澄清问题。核心价值在于提升多智能体系统在信息不完整时的沟通效率与任务成功率，对多智能体协作和对话系统有参考意义。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679032+00:00"
+}

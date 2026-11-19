@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-012",
+  "title": "BOS Summary: The First Token Matters",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23508",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823689+00:00",
+  "collected_at": "2026-11-19T12:34:07.823689+00:00",
+  "summary": "该论文提出 BOS（Beginning of Sequence）摘要方法，强调序列中第一个 token 对模型行为的关键影响，通过分析 BOS token 的表示来高效总结和解释大语言模型的内部状态。其核心价值在于提供了一种轻量级的模型可解释性与行为分析工具，有助于理解模型决策机制并指导提示工程与模型评估。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679021+00:00"
+}

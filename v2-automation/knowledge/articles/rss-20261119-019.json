@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-019",
+  "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23611",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823707+00:00",
+  "collected_at": "2026-11-19T12:34:07.823707+00:00",
+  "summary": "该论文提出RefinementGuard，一种针对隐藏的智能体-工具执行场景的语义资格验证方法。其核心思想是利用反例引导的细化过程，检测并阻止智能体在调用工具时可能产生的语义偏差或恶意行为。该方法旨在提升LLM智能体在工具使用过程中的安全性和可靠性，为智能体部署提供额外的防护层。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.679036+00:00"
+}

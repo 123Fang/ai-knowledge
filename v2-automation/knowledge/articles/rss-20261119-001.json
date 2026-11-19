@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-001",
+  "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23322",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T12:34:07.823632+00:00",
+  "collected_at": "2026-11-19T12:34:07.823632+00:00",
+  "summary": "该论文探讨了人类与AI在能力不对称条件下的共生关系稳定性问题，指出当AI能力显著超过人类时，双方互惠合作可能变得不稳定。研究可能通过博弈论或动力系统模型分析了这种不对称性对协作均衡的影响，揭示了维持稳定共生所需的条件。这项工作为理解人机协作的长期可持续性提供了理论视角，对AI安全与治理具有参考价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T12:34:52.678990+00:00"
+}
