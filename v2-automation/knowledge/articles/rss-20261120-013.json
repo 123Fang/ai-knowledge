@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261120-013",
+  "title": "MKA: Evaluating Multimodal Knowledge Agents on end-to-end professional tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25228",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829565+00:00",
+  "collected_at": "2026-11-20T12:34:03.829565+00:00",
+  "summary": "该论文提出MKA基准，用于评估多模态知识代理在端到端专业任务中的表现。现有评估多聚焦于单步或简化任务，缺乏对真实专业场景中多模态信息整合与工具使用的综合考察。MKA构建了涵盖多种专业领域的任务集，要求代理结合视觉、文本等多模态输入并调用外部工具完成复杂工作流。该工作为多模态代理的系统性评估提供了标准化框架，有助于推动面向实际应用的代理研发。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "vision",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.636998+00:00"
+}

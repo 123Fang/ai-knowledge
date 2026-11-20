@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261120-006",
+  "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25111",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829541+00:00",
+  "collected_at": "2026-11-20T12:34:03.829541+00:00",
+  "summary": "DSFlow 提出了一种神经-符号数据工作流智能体，将 LLM 的灵活推理与符号化流程控制相结合，并引入统计诊断护栏来检测和纠正数据工作流中的异常。该工作旨在提升自动化数据处理的可靠性与可解释性，减少 LLM 在数据操作中的幻觉和错误传播。其核心价值在于为数据密集型任务提供一种兼顾灵活性与安全性的智能体框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.636977+00:00"
+}

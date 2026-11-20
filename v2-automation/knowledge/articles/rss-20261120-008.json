@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-008",
+  "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25146",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829549+00:00",
+  "collected_at": "2026-11-20T12:34:03.829549+00:00",
+  "summary": "EverydayBench 提出了一个新的基准，用于评估 AI 系统在真实、面向用户的数字工作任务中能否达到令人满意的完成度。该工作聚焦于“live user-facing digital work”这一贴近实际应用的场景，弥补了现有基准多偏重学术化或单一任务的不足。其价值在于为 agent 类系统在真实办公与数字工作流中的实用性提供了更贴近落地的评测维度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.636982+00:00"
+}

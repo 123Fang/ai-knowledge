@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261120-014",
+  "title": "A Neurosymbolic Multimodal Framework for 30-Day Diabetic Readmission Prediction: Integrating Structured EHR Data, Dense Clinical Embeddings, and Knowledge-Grounded Symbolic Extraction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25236",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829568+00:00",
+  "collected_at": "2026-11-20T12:34:03.829568+00:00",
+  "summary": "该论文提出一种神经符号多模态框架，用于预测糖尿病患者30天再入院风险。框架整合了结构化电子健康记录（EHR）数据、密集临床文本嵌入以及基于知识图谱的符号化提取，通过神经符号方法融合数据驱动与知识驱动推理。其价值在于提升再入院预测的准确性与可解释性，为临床决策支持提供更可靠的依据。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.637000+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-018",
+  "title": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25360",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829581+00:00",
+  "collected_at": "2026-11-20T12:34:03.829581+00:00",
+  "summary": "AppSci-Bench 是一个用于评估大语言模型（LLM）构建 AI 智能体并优化其性能的基准测试。该工作系统性地衡量了 LLM 在智能体构建与改进任务上的能力，为智能体开发提供了标准化的评测框架。其价值在于揭示了当前 LLM 在自动化智能体工程方面的优势与不足，推动了智能体评估领域的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.637011+00:00"
+}

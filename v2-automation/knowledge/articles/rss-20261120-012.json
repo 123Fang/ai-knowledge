@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-012",
+  "title": "Steering Automated Scientific Discovery via Audited Epistemic Exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25214",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829562+00:00",
+  "collected_at": "2026-11-20T12:34:03.829562+00:00",
+  "summary": "该论文提出了一种通过可审计的认识论探索（Audited Epistemic Exploration）来引导自动化科学发现的新框架。核心在于将科学发现过程建模为智能体对假设空间的探索，并引入审计机制以确保探索过程的可靠性与可解释性。该方法有望提升AI驱动科学发现的系统性和可信度，为自动化科研提供新的方法论。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.636996+00:00"
+}

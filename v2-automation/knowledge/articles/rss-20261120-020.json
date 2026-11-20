@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261120-020",
+  "title": "Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25380",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829587+00:00",
+  "collected_at": "2026-11-20T12:34:03.829587+00:00",
+  "summary": "该论文探讨了超越传统权重更新的智能体领域专业化方法，提出通过演化智能体执行框架（agent harness）而非微调模型参数来实现领域适应。核心价值在于为LLM智能体提供了一种更灵活、可解释的领域定制途径，可能降低计算成本并提升模块化程度。研究属于智能体架构与领域适应交叉方向，对构建可演化的AI系统具有参考意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.637015+00:00"
+}

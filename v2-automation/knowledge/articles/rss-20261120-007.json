@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261120-007",
+  "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25135",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829545+00:00",
+  "collected_at": "2026-11-20T12:34:03.829545+00:00",
+  "summary": "该论文提出了一种校准决策奖励方法，通过让评判模型（judge）在评估语言模型输出时同时输出其置信度，从而更可靠地训练语言模型。核心在于利用校准后的置信度来加权或调整奖励信号，减少评判模型不确定性带来的偏差。该方法有望提升基于人类反馈的强化学习（RLHF）等训练流程的稳定性和效果，尤其适用于需要精细奖励信号的场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.636980+00:00"
+}

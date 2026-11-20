@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-019",
+  "title": "Stop Going in Circles:Loop-Triggered Routing for System 1 Decision Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25363",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829584+00:00",
+  "collected_at": "2026-11-20T12:34:03.829584+00:00",
+  "summary": "该论文针对系统1决策智能体在循环中反复执行相同动作的问题，提出了一种循环触发的路由机制。通过检测智能体行为中的循环模式，动态切换决策策略或调用外部工具，从而打破无效循环并提升任务完成效率。该方法在多个决策任务上验证了有效性，为构建更鲁棒的自主智能体提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.637013+00:00"
+}

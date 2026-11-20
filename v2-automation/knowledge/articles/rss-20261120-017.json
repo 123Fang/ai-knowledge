@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-017",
+  "title": "Pro$^2$ Agent: Scientific Problem Probing for Autonomous AI R&amp;D",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25357",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829578+00:00",
+  "collected_at": "2026-11-20T12:34:03.829578+00:00",
+  "summary": "该论文提出 Pro$^2$ Agent，一种面向自主 AI 研发的科学问题探测方法，旨在让 AI 系统能够自动识别、分解并探索科学研究中的关键问题，从而支撑端到端的自动化研发流程。其核心价值在于将问题探测与自主实验/推理能力结合，为 AI 驱动的科学发现提供更系统化的框架。该工作属于 agent 与 reasoning 交叉方向，对自主科研智能体的设计具有参考意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.637008+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-004",
+  "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25088",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T12:34:03.829525+00:00",
+  "collected_at": "2026-11-20T12:34:03.829525+00:00",
+  "summary": "BuggyMLE 提出了一种通过自动注入 bug 来扩展机器学习工程任务难度的方法，旨在构建更具挑战性的基准测试，以评估 AI 智能体在真实调试场景中的能力。该工作系统性地定义了 bug 注入策略，并生成了难度可调的 MLE 任务集，为智能体代码生成与调试能力提供了更细粒度的评估手段。其核心价值在于弥补现有基准在工程实践难度上的不足，推动更鲁棒的 AI 工程助手研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T12:34:46.636971+00:00"
+}
