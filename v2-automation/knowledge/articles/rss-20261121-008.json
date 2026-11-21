@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261121-008",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-21T12:13:47.247299+00:00",
+  "collected_at": "2026-11-21T12:13:47.247299+00:00",
+  "summary": "该文章探讨了微调任务实际耗时远超理论FLOPs估算的原因，分析了计算效率、内存带宽、通信开销、数据加载等瓶颈因素。通过揭示这些隐藏开销，帮助开发者更准确地预估训练时间并优化资源配置。内容对实际工程部署具有指导价值，属于优秀的技术经验分享。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T12:14:29.902904+00:00"
+}

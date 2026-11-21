@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261121-002",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://architectlabs.com/blog/frostbite",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-21T12:13:46.409997+00:00",
+  "collected_at": "2026-11-21T12:13:46.409997+00:00",
+  "summary": "该内容介绍了一种名为 Frostbite 的新型 CPU 架构，该架构完全由 AI 设计并验证。这展示了 AI 在硬件设计领域的突破性应用，可能大幅缩短芯片设计周期并降低人力成本。其核心价值在于验证了 AI 端到端完成复杂硬件设计任务的可行性，为未来自动化芯片设计开辟了新路径。",
+  "score": 9,
+  "tags": [
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-21T12:14:29.902885+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261121-011",
+  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/rumble-2-flash",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-21T12:13:47.247313+00:00",
+  "collected_at": "2026-11-21T12:13:47.247313+00:00",
+  "summary": "Rumble-2-Flash 是一个开源的 0.5B 参数语音模型，支持 40 多种语言。其核心价值在于以极小的模型规模实现多语言语音处理能力，降低了部署门槛，适合资源受限场景下的语音识别或合成任务。该模型在 Hugging Face 博客发布，为开发者提供了轻量级的多语言语音解决方案。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T12:14:29.902913+00:00"
+}

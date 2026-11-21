@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261121-009",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-21T12:13:47.247304+00:00",
+  "collected_at": "2026-11-21T12:13:47.247304+00:00",
+  "summary": "该博客探讨了在流式数据处理架构（Streamhouse）中集成时间序列模型的新前沿方法，并展示了相关用例。文章可能介绍了如何将时间序列预测与实时数据流结合，以提升动态环境下的决策能力。其价值在于为时间序列分析提供了可扩展的实时解决方案，并启发了在流式场景下的模型部署思路。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T12:14:29.902907+00:00"
+}

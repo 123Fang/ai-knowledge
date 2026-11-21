@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261121-006",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-21T12:13:47.247286+00:00",
+  "collected_at": "2026-11-21T12:13:47.247286+00:00",
+  "summary": "Hugging Face 博客介绍了 harness adapters，一种将任意模型适配到特定评估框架（harness）的轻量级方法，旨在提升模型在基准测试中的表现并降低推理成本。该方法通过适配层弥合模型与 harness 之间的接口差异，使开发者无需修改模型本身即可优化性能与开销。其核心价值在于提供了一种灵活、低成本的模型评估与部署优化手段，尤其适合需要频繁切换模型或 harness 的场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T12:14:29.902899+00:00"
+}
