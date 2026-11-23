@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-006",
+  "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26797",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162285+00:00",
+  "collected_at": "2026-11-23T14:07:49.162285+00:00",
+  "summary": "该论文从能量模型和联想记忆的角度探讨生成模型中的记忆与泛化现象，提出统一的理论框架来解释模型如何存储训练数据并泛化到新样本。通过将生成模型视为能量模型，并利用联想记忆的动力学分析，论文揭示了记忆与泛化之间的权衡机制。这一视角有助于理解生成模型的行为，并为设计更可控的生成模型提供理论指导。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978052+00:00"
+}

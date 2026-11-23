@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261123-016",
+  "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26975",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162315+00:00",
+  "collected_at": "2026-11-23T14:07:49.162315+00:00",
+  "summary": "该论文提出一种针对本地LLM的近乎免费的安全检查方法，通过一次推理同时生成正常输出和安全检测结果，实现高效的内容安全过滤。该方法显著降低了安全审核的额外计算开销，适用于资源受限的本地部署场景，为LLM安全落地提供了实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978078+00:00"
+}

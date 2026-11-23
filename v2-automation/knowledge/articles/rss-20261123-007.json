@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-007",
+  "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26870",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162288+00:00",
+  "collected_at": "2026-11-23T14:07:49.162288+00:00",
+  "summary": "该论文针对大语言模型（LLM）在规范性判断与描述性判断之间的校准问题，提出了超越传统人口统计歧视的评估基准。核心贡献在于构建了一个新的基准测试框架，用于衡量LLM在规范性（应然）与描述性（实然）判断上的一致性，揭示了模型在道德和社会规范推理中的系统性偏差。该工作为LLM的公平性评估提供了更细粒度的视角，对提升模型对齐和可信度具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978054+00:00"
+}

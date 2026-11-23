@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-015",
+  "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26968",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162312+00:00",
+  "collected_at": "2026-11-23T14:07:49.162312+00:00",
+  "summary": "该论文研究了大型语言模型（LLM）在财务变化叙述任务中，当输入数据与预期模式不一致时，模型是否会生成超出输入范围的错误叙述。作者通过构建基准测试发现，LLM倾向于用训练中学到的常见模式（如增长趋势）来填补缺失信息，导致叙述与输入数据不符。这一发现揭示了LLM在财务分析等高风险场景中的可靠性风险，并提出了评估模型忠实性的新方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978076+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-002",
+  "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26717",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162263+00:00",
+  "collected_at": "2026-11-23T14:07:49.162263+00:00",
+  "summary": "该论文提出了一种通过构造保证一致性的方法，用于合成网络威胁情报（CTI）知识图谱，并系统分析了一致性验证的形式化极限。核心贡献在于将知识图谱构建中的一致性从后验检查转变为构造过程的内在属性，同时给出了在何种条件下一致性验证在理论上不可行或受限的形式化结论。该工作对威胁情报自动化处理与知识图谱质量保障具有参考价值，也为一致性验证的边界提供了理论认识。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978040+00:00"
+}

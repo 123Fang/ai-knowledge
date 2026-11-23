@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-019",
+  "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26998",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162323+00:00",
+  "collected_at": "2026-11-23T14:07:49.162323+00:00",
+  "summary": "该论文探讨了在对抗性强化学习中用于LLM护栏红队测试的奖励完整性问题，分析了奖励信号被操纵或失真的风险，并提出了确保奖励机制可靠性的方法。其核心价值在于提升LLM安全对齐中红队测试的有效性和鲁棒性，为构建更安全的LLM护栏提供技术保障。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978084+00:00"
+}

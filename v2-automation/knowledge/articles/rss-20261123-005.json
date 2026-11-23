@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-005",
+  "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&amp;E and mIF",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26794",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162281+00:00",
+  "collected_at": "2026-11-23T14:07:49.162281+00:00",
+  "summary": "该论文提出了一种从H&E和多重免疫荧光（mIF）图像中进行可解释的肿瘤免疫微环境（TIME）推理的方法，超越了仅输出最终答案的范式。核心价值在于增强模型推理过程的透明度和可解释性，有助于生物医学研究和临床决策。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978049+00:00"
+}

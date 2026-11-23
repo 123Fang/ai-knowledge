@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261123-004",
+  "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26782",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162273+00:00",
+  "collected_at": "2026-11-23T14:07:49.162273+00:00",
+  "summary": "ChatAtom 是一个多智能体 LLM 系统，旨在简化和自动化分子动力学模拟与可视化的工作流程。该系统通过多个 LLM 智能体协作，将自然语言指令转化为模拟任务，并生成可视化结果，降低了分子动力学模拟的使用门槛。其价值在于将复杂的科学计算任务与 LLM 的自然语言理解能力结合，提升了科研效率与可访问性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978046+00:00"
+}

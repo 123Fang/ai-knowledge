@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-010",
+  "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26910",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162298+00:00",
+  "collected_at": "2026-11-23T14:07:49.162298+00:00",
+  "summary": "AstronautBench 是一个用于评估 AI 智能体跨多个 episode 自我改进能力的新基准，从知识积累、证据利用和任务进展三个维度进行衡量。该工作填补了现有评测多聚焦单次任务表现、忽视智能体持续学习与经验迁移的空白，为构建能随交互逐步提升的智能体提供了标准化评测手段。其价值在于推动智能体从一次性任务执行向长期自主进化方向发展，并为相关研究提供可复现的对比基线。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978061+00:00"
+}

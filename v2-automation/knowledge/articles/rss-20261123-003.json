@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261123-003",
+  "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26722",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T14:07:49.162269+00:00",
+  "collected_at": "2026-11-23T14:07:49.162269+00:00",
+  "summary": "该论文介绍了 TOUMAII，一个包含 450 万对工具调用偏好的大规模数据集，以及一个与数据来源无关的生成器。该数据集旨在训练和评估 LLM 的工具调用能力，通过偏好对形式捕捉用户对工具选择与调用方式的偏好。其生成器方法不依赖特定数据源，可灵活扩展和适配不同工具生态，为工具使用型智能体的对齐与评测提供了重要资源。",
+  "score": 8,
+  "tags": [
+    "tool-use",
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T14:08:33.978044+00:00"
+}
