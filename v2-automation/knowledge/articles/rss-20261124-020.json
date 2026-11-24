@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-020",
+  "title": "CausalNTP: A World-Model Recipe for Causal Next-Token Prediction under Noisy Training-data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28369",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802299+00:00",
+  "collected_at": "2026-11-24T14:37:19.802299+00:00",
+  "summary": "CausalNTP 提出了一种在噪声训练数据下进行因果下一词预测的世界模型方法，旨在提升语言模型对因果关系的建模能力。该方法通过构建世界模型来区分真实因果信号与噪声，从而增强模型在噪声环境下的鲁棒性和预测准确性。该工作为因果推理与语言模型训练的结合提供了新思路，对提升模型在真实噪声数据下的表现具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610266+00:00"
+}

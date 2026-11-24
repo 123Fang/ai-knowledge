@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261124-014",
+  "title": "MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28324",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802269+00:00",
+  "collected_at": "2026-11-24T14:37:19.802269+00:00",
+  "summary": "该论文提出MatHarness，一个面向计算材料科学的长期开放式自动研究框架，旨在让AI系统自主完成从问题提出、实验设计到结果分析的全流程科研任务。其核心价值在于将大语言模型与工具调用、多智能体协作结合，突破传统自动化研究的短视局限，推动材料发现领域的AI驱动科研范式。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610247+00:00"
+}

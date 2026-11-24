@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-017",
+  "title": "SMAD: A Semantics-Guided Multi-Agent Framework for Unsupervised Time-Series Anomaly Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28348",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802284+00:00",
+  "collected_at": "2026-11-24T14:37:19.802284+00:00",
+  "summary": "该论文提出 SMAD，一个语义引导的多智能体框架，用于无监督时间序列异常检测。它利用多智能体协作与语义引导机制，在缺乏标注数据的情况下提升异常检测的准确性与可解释性。该工作将多智能体范式引入时间序列分析，为无监督异常检测提供了新的技术路径，具有较好的研究与应用价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610257+00:00"
+}

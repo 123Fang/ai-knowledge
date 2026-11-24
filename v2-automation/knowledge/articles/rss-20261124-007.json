@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-007",
+  "title": "A Nepali-Accented English Evaluation Dataset for Automatic Speech Recognition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28263",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802238+00:00",
+  "collected_at": "2026-11-24T14:37:19.802238+00:00",
+  "summary": "该论文构建了一个尼泊尔口音英语的评估数据集，用于自动语音识别（ASR）系统的性能测试。数据集包含带有尼泊尔口音特征的英语语音样本，旨在填补低资源口音ASR评估的空白。其核心价值在于为ASR模型在真实口音多样性场景下的鲁棒性提供标准化评测基准，推动更公平的语音技术发展。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610226+00:00"
+}

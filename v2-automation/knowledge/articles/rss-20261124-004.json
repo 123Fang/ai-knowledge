@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261124-004",
+  "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802217+00:00",
+  "collected_at": "2026-11-24T14:37:19.802217+00:00",
+  "summary": "AutoPILOT 提出了一种用于实时游戏玩法的视觉智能体框架（visual agent harness），旨在让 AI 智能体能够直接基于屏幕视觉输入进行实时决策与操作。该工作聚焦于视觉感知与动作执行的闭环，为游戏环境中的智能体部署提供了工程化方案。其价值在于推动视觉智能体在动态、实时场景中的落地应用，并为相关评测与工具使用提供参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610206+00:00"
+}

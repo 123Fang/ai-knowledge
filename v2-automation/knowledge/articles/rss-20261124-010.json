@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-010",
+  "title": "Feedback-Driven Prompt Refinement for Educational AI: Affective Trajectory Estimation and Bloom's Taxonomy Classification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28293",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802252+00:00",
+  "collected_at": "2026-11-24T14:37:19.802252+00:00",
+  "summary": "该论文提出了一种面向教育AI的反馈驱动提示精炼方法，结合情感轨迹估计与布鲁姆分类法分类，通过迭代反馈优化提示以提升教学效果。核心价值在于将情感动态与认知目标分类融入提示工程，为自适应教育AI提供更精准的个性化支持。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610236+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-013",
+  "title": "Selection Policies for Equal-Byte Mixed-Precision Quantization of Small Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28318",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802264+00:00",
+  "collected_at": "2026-11-24T14:37:19.802264+00:00",
+  "summary": "该论文研究小型语言模型（SLM）的等字节混合精度量化问题，提出选择策略以在固定字节预算下为不同层或参数分配不同位宽，从而在压缩模型的同时保持性能。核心价值在于为资源受限场景下的SLM部署提供了一种有效的量化优化方法，平衡了模型大小与精度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610245+00:00"
+}

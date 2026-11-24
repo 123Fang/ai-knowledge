@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-002",
+  "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28195",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802203+00:00",
+  "collected_at": "2026-11-24T14:37:19.802203+00:00",
+  "summary": "torchtsetlin 是一个基于 PyTorch 的 Tsetlin 机器学习库，旨在提供快速且可解释的模型实现。它结合了 Tsetlin 自动机的可解释性与 PyTorch 的深度学习生态，支持高效训练和推理。该工作降低了 Tsetlin 机器学习的使用门槛，为需要可解释性的应用场景提供了新选择。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610199+00:00"
+}

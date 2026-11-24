@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261124-018",
+  "title": "Engram: Multi-Stage Memory for Agentic Tuning of Heterogeneous Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28356",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T14:37:19.802290+00:00",
+  "collected_at": "2026-11-24T14:37:19.802290+00:00",
+  "summary": "该论文提出 Engram，一种面向异构模型智能体调优的多阶段记忆机制。它通过分层记忆结构支持不同模型在智能体任务中的协同与持续学习，提升调优效率和泛化能力。核心价值在于为异构模型集成与智能体调优提供可复用的记忆框架，对多模型协作和智能体系统设计具有参考意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T14:38:06.610260+00:00"
+}
