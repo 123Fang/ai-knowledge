@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-006",
+  "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31347",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752144+00:00",
+  "collected_at": "2026-11-25T13:58:00.752144+00:00",
+  "summary": "该论文研究了对抗性攻击中名称、令牌和攻击重写等变换对净化器的影响，发现现有净化器无法泛化到未见过的对抗性变体。通过系统分析这些变换，论文揭示了净化器在对抗性泛化方面的脆弱性，并提出了改进方向。这项工作对提升AI系统的安全性和鲁棒性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415344+00:00"
+}

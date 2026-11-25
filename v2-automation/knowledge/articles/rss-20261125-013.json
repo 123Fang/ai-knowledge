@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-013",
+  "title": "PatientFlowSynth: Evaluating FHIR Agents with Matched Patient Charts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31521",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752177+00:00",
+  "collected_at": "2026-11-25T13:58:00.752177+00:00",
+  "summary": "该论文提出 PatientFlowSynth，一种用于评估基于 FHIR 的医疗 AI 代理的方法，通过生成与真实患者病历匹配的合成数据来构建测试场景。其核心价值在于为医疗领域 LLM 代理提供可复现、隐私安全的评估基准，弥补现有评测缺乏真实病历匹配的不足。该工作有助于推动 FHIR 代理在临床工作流中的可靠性与安全性研究。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415370+00:00"
+}

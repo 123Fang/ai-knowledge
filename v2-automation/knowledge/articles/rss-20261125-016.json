@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-016",
+  "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31554",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752192+00:00",
+  "collected_at": "2026-11-25T13:58:00.752192+00:00",
+  "summary": "该论文研究了AI智能体在故障恢复过程中产生的超出重复调用之外的潜在危害，提出了一套衡量恢复机制副作用的评估框架。通过系统化分析，揭示了恢复策略可能引发的状态不一致、资源泄漏或安全漏洞等隐蔽风险。研究为设计更安全的智能体恢复机制提供了量化依据和改进方向，对提升LLM智能体系统的可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415379+00:00"
+}

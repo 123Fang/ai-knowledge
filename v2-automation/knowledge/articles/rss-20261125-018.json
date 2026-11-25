@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261125-018",
+  "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31570",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752201+00:00",
+  "collected_at": "2026-11-25T13:58:00.752201+00:00",
+  "summary": "该论文探讨了如何将现成的自主智能体（off-the-shelf autonomous agents）直接应用于游戏试玩测试（playtesting），以替代或辅助人工测试。核心价值在于降低游戏测试成本、提高测试覆盖率，并利用通用智能体在真实游戏环境中的表现来评估其能力边界。研究可能涉及智能体在游戏中的探索、行为生成与缺陷发现，为游戏开发流程的自动化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415385+00:00"
+}

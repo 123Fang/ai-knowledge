@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-010",
+  "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752163+00:00",
+  "collected_at": "2026-11-25T13:58:00.752163+00:00",
+  "summary": "SpatialCraft 提出一种从经验与技能中演化程序化智能的方法，用于提升空间推理智能体的能力。该方法让智能体通过积累交互经验并提炼可复用技能，自动生成程序化策略以应对复杂空间任务。其核心价值在于将经验学习与程序合成结合，增强了智能体在空间推理中的泛化性和适应性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415361+00:00"
+}

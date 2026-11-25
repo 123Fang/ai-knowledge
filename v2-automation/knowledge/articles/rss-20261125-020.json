@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261125-020",
+  "title": "Provably Near-Optimal PQ in the Extended Zador Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31579",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752213+00:00",
+  "collected_at": "2026-11-25T13:58:00.752213+00:00",
+  "summary": "该论文在扩展的 Zador 模型下研究乘积量化（PQ）的码本设计问题，提出了可证明接近最优的量化方案。通过理论分析给出了码本大小与失真之间的渐近最优关系，并设计了相应的高效算法。这项工作为高维向量量化提供了坚实的理论基础和实用方法，对近似最近邻搜索和向量数据库等应用具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415390+00:00"
+}

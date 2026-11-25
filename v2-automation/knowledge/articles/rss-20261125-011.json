@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-011",
+  "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752168+00:00",
+  "collected_at": "2026-11-25T13:58:00.752168+00:00",
+  "summary": "该论文在科学网关环境中评估前沿模型智能体技能，使用开放权重模型进行对比实验。研究聚焦于智能体在科学工作流中的工具使用与任务执行能力，通过系统化评测揭示开放模型与前沿模型的性能差距。其价值在于为科学网关场景下的智能体部署提供实证依据，并推动开放权重模型在复杂科学任务中的能力边界探索。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415364+00:00"
+}

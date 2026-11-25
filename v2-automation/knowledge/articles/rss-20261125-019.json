@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-019",
+  "title": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31571",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752205+00:00",
+  "collected_at": "2026-11-25T13:58:00.752205+00:00",
+  "summary": "该论文提出了一种基于蕴涵图的安全自动形式化方法，旨在确保自然语言到形式化语言的转换既充分又必要。通过构建蕴涵图来验证形式化结果与原意之间的逻辑等价性，从而提升自动形式化的可靠性和安全性。这项工作为形式化方法在安全关键场景中的应用提供了新的技术思路，具有较高的理论价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415388+00:00"
+}

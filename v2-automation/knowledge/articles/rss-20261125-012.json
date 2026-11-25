@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-012",
+  "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31498",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752172+00:00",
+  "collected_at": "2026-11-25T13:58:00.752172+00:00",
+  "summary": "该论文提出了XRL4T1D，一个用于1型糖尿病管理中强化学习的事后可解释性框架。它旨在解决RL模型在医疗决策中缺乏透明度的问题，通过提供解释来增强临床医生和患者对AI建议的信任。该框架的价值在于促进RL在安全关键型医疗场景中的实际部署，并可能推动个性化糖尿病管理的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415367+00:00"
+}

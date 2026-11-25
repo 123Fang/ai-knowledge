@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261125-015",
+  "title": "Agent Evaluation Without Ground Truth: A Null Proportion Perspective",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31539",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T13:58:00.752188+00:00",
+  "collected_at": "2026-11-25T13:58:00.752188+00:00",
+  "summary": "该论文针对AI Agent评估中缺乏真实标签（ground truth）的难题，提出了一种基于零比例（null proportion）视角的评估框架。通过将Agent行为与随机基线进行统计比较，该方法能够在无监督条件下量化Agent表现并识别其是否显著优于随机策略。这项工作为Agent评估提供了一种无需标注数据的实用方案，降低了评估成本并扩展了适用场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T13:58:43.415376+00:00"
+}
