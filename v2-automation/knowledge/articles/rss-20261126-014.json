@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261126-014",
+  "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33411",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T13:36:59.656378+00:00",
+  "collected_at": "2026-11-26T13:36:59.656378+00:00",
+  "summary": "该论文提出协作语言模型用于语义物联网数据处理，通过零样本人类活动识别进行验证。核心价值在于利用多个语言模型协同处理物联网语义数据，无需特定任务训练即可实现活动识别，展示了语言模型在物联网领域的泛化能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039370+00:00"
+}

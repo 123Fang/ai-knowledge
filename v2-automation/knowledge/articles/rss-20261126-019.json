@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-019",
+  "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33563",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T13:36:59.656399+00:00",
+  "collected_at": "2026-11-26T13:36:59.656399+00:00",
+  "summary": "该论文提出 FIG-MAC 框架，利用细粒度灵感图增强多智能体协作，以自动生成科学假设。其核心在于通过灵感图结构化地组织研究概念与关系，引导多个智能体分工协作进行假设生成。该工作有望提升科学假设生成的自动化程度与质量，为 AI 辅助科研提供新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039385+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261126-015",
+  "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33470",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T13:36:59.656382+00:00",
+  "collected_at": "2026-11-26T13:36:59.656382+00:00",
+  "summary": "该论文对下一代检测与响应中的动态推理进行了实证研究，重点评估了LLM在安全告警分诊中的表现、强化学习微调的效果以及对抗性规避攻击的鲁棒性。研究通过实验揭示了LLM分诊的准确性与局限性，并探讨了强化调优对提升模型推理能力的贡献。同时，论文分析了攻击者如何利用对抗性技术规避检测，为构建更鲁棒的安全AI系统提供了实证依据。该工作对AI安全运营和防御策略具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "reasoning",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039372+00:00"
+}

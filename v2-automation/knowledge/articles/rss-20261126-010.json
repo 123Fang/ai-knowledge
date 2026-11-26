@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-010",
+  "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33304",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T13:36:59.656358+00:00",
+  "collected_at": "2026-11-26T13:36:59.656358+00:00",
+  "summary": "该论文提出在雅可比空间中检验柏拉图表示假说，发现语言模型与视觉模型的内部表示在近似意义上仅相差一个旋转。通过分析雅可比矩阵的几何结构，作者为跨模态表示的对齐提供了理论解释，并量化了不同模型间的相似性。这一发现有助于理解多模态模型的内在统一性，并为表示对齐与迁移学习提供新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039353+00:00"
+}

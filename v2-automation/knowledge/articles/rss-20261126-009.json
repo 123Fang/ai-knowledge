@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-009",
+  "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33303",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T13:36:59.656353+00:00",
+  "collected_at": "2026-11-26T13:36:59.656353+00:00",
+  "summary": "该论文针对逻辑推理数据中的“捷径”问题，提出了一种认证证明深度的方法，确保训练数据不包含可被模型利用的浅层推理模式。通过形式化定义无捷径的证明深度，并设计相应的验证与数据筛选流程，该方法能提升模型在分布外逻辑推理任务上的泛化能力。其价值在于为构建更可靠、可解释的推理数据集提供了可操作的质量控制标准，减少对虚假相关性的依赖。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039350+00:00"
+}

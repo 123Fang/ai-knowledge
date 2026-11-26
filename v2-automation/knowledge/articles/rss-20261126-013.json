@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261126-013",
+  "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33402",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T13:36:59.656371+00:00",
+  "collected_at": "2026-11-26T13:36:59.656371+00:00",
+  "summary": "该论文提出 Partial Routing 方法，通过追踪调优（trace-tuned）的委托机制，在智能体工作流中动态决定哪些子任务交由外部工具或模型处理，从而降低资源消耗。核心价值在于提升多智能体系统的资源效率，同时保持任务完成质量，为部署高效智能体工作流提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039366+00:00"
+}

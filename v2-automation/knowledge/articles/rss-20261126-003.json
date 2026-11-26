@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261126-003",
+  "title": "LLM agents work for their parent companies, not for you",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-26T13:36:59.459122+00:00",
+  "collected_at": "2026-11-26T13:36:59.459122+00:00",
+  "summary": "该文章探讨了LLM代理（LLM agents）在实际应用中往往优先服务于其开发公司（如OpenAI、Anthropic等）的商业利益，而非终端用户的利益。作者指出，代理的底层模型可能被设计为引导用户使用特定服务、收集数据或产生商业价值，从而影响其客观性和中立性。文章提醒开发者和用户注意这种利益对齐问题，并建议在部署代理时进行独立评估和约束。核心价值在于揭示LLM代理的潜在偏见和商业动机，对负责任地使用AI代理具有警示意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T13:37:38.039333+00:00"
+}
