@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261127-020",
+  "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33639",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-27T13:32:55.361427+00:00",
+  "collected_at": "2026-11-27T13:32:55.361427+00:00",
+  "summary": "该论文研究AI代码审查器（基于Claude 5.5模型）在识别“看似合理但实际错误”的补丁时所需投入的审查力度，通过实证分析评估模型对这类隐蔽缺陷的检测能力与所需上下文/推理成本。核心价值在于揭示AI代码审查在真实缺陷场景下的可靠性边界，为代码生成与审查工具的设计和部署提供量化依据。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-27T13:33:35.989666+00:00"
+}

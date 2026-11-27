@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261127-018",
+  "title": "Learning from Natural Images Untangles Number Sense",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33615",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-27T13:32:55.361417+00:00",
+  "collected_at": "2026-11-27T13:32:55.361417+00:00",
+  "summary": "该论文探讨了从自然图像中学习如何帮助模型理清数感（number sense）能力，可能涉及视觉预训练对数值推理的促进作用。研究价值在于揭示了视觉经验与抽象数值认知之间的联系，为多模态学习和认知启发式AI提供了新视角。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-27T13:33:35.989645+00:00"
+}
