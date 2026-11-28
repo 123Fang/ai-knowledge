@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261128-008",
+  "title": "How to build and maintain an agentic evaluation",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/agentic-evals",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T12:45:52.869628+00:00",
+  "collected_at": "2026-11-28T12:45:52.869628+00:00",
+  "summary": "该文章来自 Hugging Face 博客，主题为如何构建和维护智能体（agentic）评估体系。内容围绕评估智能体系统的核心挑战展开，可能涵盖评估指标设计、测试用例构建、持续维护策略等实践方法。对于从事 LLM 智能体开发与部署的团队具有较高参考价值，有助于提升智能体系统的可靠性与迭代效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T12:46:31.144220+00:00"
+}

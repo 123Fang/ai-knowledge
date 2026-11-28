@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261128-004",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/training-swarms",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T12:45:52.869610+00:00",
+  "collected_at": "2026-11-28T12:45:52.869610+00:00",
+  "summary": "本文系统介绍了多智能体系统的构建、训练与评估方法，涵盖从群体（swarms）、集群（flocks）到帮派（gangs）等多种协作模式。文章提供了实用的技术框架和最佳实践，帮助开发者设计高效的多智能体交互与协调机制。同时，文章强调了评估多智能体系统性能的关键指标和方法，为实际部署提供了指导。该内容对于理解和应用多智能体技术具有较高的参考价值。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T12:46:31.144207+00:00"
+}
